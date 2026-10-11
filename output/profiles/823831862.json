@@ -1,0 +1,159 @@
+{
+  "organization_number": "823831862",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VAN FRISØR VAN SONNLEITNER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: VAN FRISØR VAN SONNLEITNER",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Trondheimsveien 63, 0565 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Trondheimsveien 63, 0565 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.210 Frisering og barbering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 96.210 Frisering og barbering",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Frisørsalong. Utførelser av hårklipp og salg av hårprodukter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Frisørsalong. Utførelser av hårklipp og salg av hårprodukter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823831862",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Van Sonnleitner"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "INNH (Innehaver): Van Sonnleitner",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823831862",
+      "as_of": "2019-11-16",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "RECHIVA Pham (org 963348576)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823831862/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): RECHIVA Pham (org 963348576)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823831862",
+      "as_of": "2019-11-16",
+      "first_seen": "2026-10-11T18:01:49Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "971819693",
+        "name": "IMPULSE HAIR STUDIO",
+        "address": "Trondheimsveien 63, 0565 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823831862",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 971819693 overordnetEnhet: 823831862",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823831862",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-11T18:01:49Z"
+    }
+  ],
+  "warnings": [],
+  "name": "VAN FRISØR VAN SONNLEITNER",
+  "previous_run": "2026-10-11T18:01:49Z",
+  "changes_since_previous_run": []
+}

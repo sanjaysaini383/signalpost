@@ -1,0 +1,353 @@
+{
+  "organization_number": "998552966",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RØROS DYREKLINIKK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: RØROS DYREKLINIKK AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2012-06-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "employees",
+      "value": 12,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "antallAnsatte: 12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "as_of": "2026-08-12",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Tollef Bredals vei 13, 7374 RØROS, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Tollef Bredals vei 13, 7374 RØROS, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "75.000 Veterinærtjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 75.000 Veterinærtjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Veterinærtjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Veterinærtjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Tilby klinisk veterinærpraksis og rådgivningstjenester for selskapsdyr, hest og produksjonsdyr.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Tilby klinisk veterinærpraksis og rådgivningstjenester for selskapsdyr, hest og produksjonsdyr.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998552966",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ida Mari Devle"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Ida Mari Devle",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2022-11-16",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Marit Evanger"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Marit Evanger",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2022-05-19",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Stig Schjerven Østgård"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Stig Schjerven Østgård",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2022-05-19",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Marit Ose"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Marit Ose",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2022-05-19",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Jon Frydenborg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Jon Frydenborg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2022-05-19",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "REVISORKONSULT AS (org 928942767)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): REVISORKONSULT AS (org 928942767)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2016-05-25",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ASPIA NORGE AS (org 923792457)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998552966/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): ASPIA NORGE AS (org 923792457)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998552966",
+      "as_of": "2025-12-18",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 9081191.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 9081191.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 832442.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 832442.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 644326.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 644326.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3213341.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 3213341.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1588957.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1588957.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1624384.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1624384.0 NOK (journalnr 2026487801)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998552966 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "974018810",
+        "name": "RØROS DYREKLINIKK AS",
+        "address": "Tollef Bredals vei 13, 7374 RØROS, Norge",
+        "employees": 12
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998552966",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 974018810 overordnetEnhet: 998552966",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998552966",
+      "as_of": "1995-02-23",
+      "first_seen": "2026-10-11T18:01:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "RØROS DYREKLINIKK AS",
+  "previous_run": "2026-10-11T18:01:44Z",
+  "changes_since_previous_run": []
+}

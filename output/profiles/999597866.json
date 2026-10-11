@@ -1,0 +1,303 @@
+{
+  "organization_number": "999597866",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HRN DRIFT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: HRN DRIFT AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2013-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-02-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-02-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sandbrogaten 3, 5003 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Sandbrogaten 3, 5003 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "82.100 Kontortjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 82.100 Kontortjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kontordrift.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Kontordrift.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kontordrift, og hva derved står i sammenheng.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Kontordrift, og hva derved står i sammenheng.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 40000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 40000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "as_of": "2014-07-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999597866",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Joacim Holter"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Joacim Holter",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999597866",
+      "as_of": "2013-02-02",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Johan Riisøen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Johan Riisøen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999597866",
+      "as_of": "2013-02-02",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Lars Georg Nygaard"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Lars Georg Nygaard",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999597866",
+      "as_of": "2013-02-02",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "RG REKNESKAP AS (org 915304621)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999597866/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): RG REKNESKAP AS (org 915304621)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999597866",
+      "as_of": "2024-09-06",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 627000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 627000.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -4306.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -4306.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -4469.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -4469.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 57139.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 57139.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 27441.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 27441.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 29698.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 29698.0 NOK (journalnr 2026551717)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999597866 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "999662277",
+        "name": "HRN DRIFT AS",
+        "address": "Sandbrogaten 3, 5003 BERGEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999597866",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 999662277 overordnetEnhet: 999597866",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999597866",
+      "as_of": "2013-02-07",
+      "first_seen": "2026-10-11T18:01:55Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HRN DRIFT AS",
+  "previous_run": "2026-10-11T18:01:55Z",
+  "changes_since_previous_run": []
+}

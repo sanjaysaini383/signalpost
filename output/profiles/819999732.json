@@ -1,0 +1,323 @@
+{
+  "organization_number": "819999732",
+  "generated_at": "2026-10-11T18:04:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DNB CARNEGIE BUSINESS MANAGEMENT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "navn: DNB CARNEGIE BUSINESS MANAGEMENT AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "stiftelsesdato: 2017-11-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "employees",
+      "value": 9,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "antallAnsatte: 9",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Dronning Eufemias gate 30, 0191 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "forretningsadresse: Dronning Eufemias gate 30, 0191 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1600 Sentrum, 0021 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "postadresse: Postboks 1600 Sentrum, 0021 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "69.202 Regnskapsføring og bokføring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "naeringskode1: 69.202 Regnskapsføring og bokføring",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Drive forretningsførervirksomhet og eiendomsforvaltning, herunder føring av regnskap for andre, med dertil hørende virksomhet og investeringer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "aktivitet: Drive forretningsførervirksomhet og eiendomsforvaltning, herunder føring av regnskap for andre, med dertil hørende virksomhet og investeringer.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive forretningsførervirksomhet og eiendomsforvaltning, herunder føring av regnskap for andre, med dertil hørende virksomhet og investeringer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "vedtektsfestetFormaal: Drive forretningsførervirksomhet og eiendomsforvaltning, herunder føring av regnskap for andre, med dertil hørende virksomhet og investeringer.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 300000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "kapital.belop: 300000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "as_of": "2018-06-07",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819999732",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Anja Kathrin Tandberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732/roller",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "DAGL (Daglig leder): Anja Kathrin Tandberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819999732",
+      "as_of": "2026-01-15",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Jonas Pauck Rogne"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732/roller",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "LEDE (Styrets leder): Jonas Pauck Rogne",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819999732",
+      "as_of": "2025-11-18",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Thomas Alexander Herud"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732/roller",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "MEDL (Styremedlem): Thomas Alexander Herud",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819999732",
+      "as_of": "2025-11-18",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "ERNST & YOUNG AS (org 976389387)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819999732/roller",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "REVI (Revisor): ERNST & YOUNG AS (org 976389387)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819999732",
+      "as_of": "2019-11-01",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 18041000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 18041000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 3260000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 3260000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 2527000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 2527000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 9270000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "eiendeler.sumEiendeler: 9270000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 5209000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5209000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 4061000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4061000.0 NOK (journalnr 2026638090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819999732 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:04:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "921085370",
+        "name": "DNB CARNEGIE BUSINESS MANAGEMENT AS",
+        "address": "Dronning Eufemias gate 30, 0191 OSLO, Norge",
+        "employees": 9
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819999732",
+      "retrieved_at": "2026-10-11T18:04:59Z",
+      "evidence": "underenhet 921085370 overordnetEnhet: 819999732",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819999732",
+      "as_of": "2018-07-02",
+      "first_seen": "2026-10-11T18:04:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DNB CARNEGIE BUSINESS MANAGEMENT AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

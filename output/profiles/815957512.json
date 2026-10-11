@@ -1,0 +1,303 @@
+{
+  "organization_number": "815957512",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MACON EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: MACON EIENDOM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-06-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2015-06-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-09-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-09-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Storebotn 77, 5309 KLEPPESTØ, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Storebotn 77, 5309 KLEPPESTØ, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 68.120 Utvikling og salg av byggeprosjekter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering og utvikling av eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Investering og utvikling av eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering og utvikling av eiendom, samt dertil hørende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Investering og utvikling av eiendom, samt dertil hørende virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 863000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 863000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "as_of": "2015-09-22",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815957512",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Rune Tvedt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Rune Tvedt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815957512",
+      "as_of": "2020-05-26",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Rune Tvedt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Rune Tvedt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815957512",
+      "as_of": "2022-06-14",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Svein Atle Haugen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Svein Atle Haugen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815957512",
+      "as_of": "2022-06-14",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "VALUE GROUP AS (org 915156975)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815957512/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): VALUE GROUP AS (org 915156975)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815957512",
+      "as_of": "2025-10-16",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1952811.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1952811.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1439835.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1439835.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 61540.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 61540.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 22337528.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 22337528.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 3487430.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 3487430.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 18850098.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 18850098.0 NOK (journalnr 2026700290)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815957512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "915964427",
+        "name": "MACON EIENDOM AS",
+        "address": "Storebotn 77, 5309 KLEPPESTØ, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815957512",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 915964427 overordnetEnhet: 815957512",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 815957512",
+      "as_of": "2015-09-23",
+      "first_seen": "2026-10-11T18:01:48Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MACON EIENDOM AS",
+  "previous_run": "2026-10-11T18:01:48Z",
+  "changes_since_previous_run": []
+}

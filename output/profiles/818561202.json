@@ -1,0 +1,132 @@
+{
+  "organization_number": "818561202",
+  "generated_at": "2026-10-11T18:04:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MALIN KVANDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "navn: MALIN KVANDE",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Bergljots vei 7A, 0575 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "forretningsadresse: Bergljots vei 7A, 0575 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "naeringskode1: 74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Modelloppdrag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "aktivitet: Modelloppdrag.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818561202",
+      "first_seen": "2026-10-11T18:03:02Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Malin Elisabet Stener Kvande"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818561202/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "INNH (Innehaver): Malin Elisabet Stener Kvande",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818561202",
+      "as_of": "2017-02-14",
+      "first_seen": "2026-10-11T18:03:02Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MALIN KVANDE",
+  "previous_run": "2026-10-11T18:03:02Z",
+  "changes_since_previous_run": []
+}

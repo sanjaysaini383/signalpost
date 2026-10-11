@@ -1,0 +1,132 @@
+{
+  "organization_number": "825171282",
+  "generated_at": "2026-10-11T18:05:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TNT TØSDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "navn: TNT TØSDAL",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Snippgutua 37, 2335 STANGE, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "forretningsadresse: Snippgutua 37, 2335 STANGE, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "naeringskode1: 49.410 Godstransport på vei",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Transport tjenester, videresalg av brukte deler. Reparasjon og skifte av varmere.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "aktivitet: Transport tjenester, videresalg av brukte deler. Reparasjon og skifte av varmere.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825171282",
+      "first_seen": "2026-10-11T18:05:14Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Tor Åge Tøsdal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825171282/roller",
+      "retrieved_at": "2026-10-11T18:05:14Z",
+      "evidence": "INNH (Innehaver): Tor Åge Tøsdal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825171282",
+      "as_of": "2020-06-09",
+      "first_seen": "2026-10-11T18:05:14Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TNT TØSDAL",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

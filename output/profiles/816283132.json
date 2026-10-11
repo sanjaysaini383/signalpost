@@ -1,0 +1,290 @@
+{
+  "organization_number": "816283132",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DATSJA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: DATSJA AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2015-11-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Lovegen 208, 2920 LEIRA I VALDRES, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Lovegen 208, 2920 LEIRA I VALDRES, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "85.597 Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 85.597 Annen undervisning ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Omfatter: Formidling av kunnskap gjennom kurs og foredrag. Tema om hvordan få avling av poteter og grønnsaker med minimale, lokale ressurser i trillebåravstand til hagen. Og dermed øke egenberedskapen i forhold til kriser. Driver egen blogg ang temaer i tilknytning til dette. Er opptatt av dyrking både i lavlandet og også høyt til fjells.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Omfatter: Formidling av kunnskap gjennom kurs og foredrag. Tema om hvordan få avling av poteter og grønnsaker med minimale, lokale ressurser i trillebåravstand til hagen. Og dermed øke egenberedskapen",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling av kunnskap omkring hagebruksprodukter, salg av hagebruksprodukter, undervisnings- og informasjonstjenester og alt som naturlig hører inn under slik virksomhet, herunder investering og deltakelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Utvikling av kunnskap omkring hagebruksprodukter, salg av hagebruksprodukter, undervisnings- og informasjonstjenester og alt som naturlig hører inn under slik virksomhet, herunder investering og delta",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "as_of": "2015-11-24",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816283132",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Anders Nordrum"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Anders Nordrum",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816283132",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Barbro Helga Nordrum"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Barbro Helga Nordrum",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816283132",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SPAREBANK 1 REGNSKAPSHUSET VALHALL AS (org 980289648)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816283132/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): SPAREBANK 1 REGNSKAPSHUSET VALHALL AS (org 980289648)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816283132",
+      "as_of": "2022-09-10",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1620810.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1620810.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 264753.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 264753.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 200706.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 200706.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 904694.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 904694.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 729710.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 729710.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 174984.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 174984.0 NOK (journalnr 2026497460)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816283132 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:10Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916289952",
+        "name": "BEREDSKAPSHAGEN",
+        "address": "Lovegen 208, 2920 LEIRA I VALDRES, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816283132",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 916289952 overordnetEnhet: 816283132",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816283132",
+      "as_of": "2015-11-25",
+      "first_seen": "2026-10-11T18:02:10Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DATSJA AS",
+  "previous_run": "2026-10-11T18:02:10Z",
+  "changes_since_previous_run": []
+}

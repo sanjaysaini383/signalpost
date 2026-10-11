@@ -1,0 +1,310 @@
+{
+  "organization_number": "999600921",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TAKFORNYING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: TAKFORNYING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2013-01-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-01-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-01-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "employees",
+      "value": 13,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "antallAnsatte: 13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "as_of": "2026-08-11",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vestfjordveien 54, 3142 VESTSKOGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Vestfjordveien 54, 3142 VESTSKOGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "43.350 Annen ferdiggjøring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 43.350 Annen ferdiggjøring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "phone",
+      "value": "41 72 10 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "telefon: 41 72 10 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Salg og montering av brannsikrings produkter. Fornyelse og vedlikehold av bygninger.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Salg og montering av brannsikrings produkter. Fornyelse og vedlikehold av bygninger.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Selskapets virksomhet er alt innen salg og montering av brannsikrings produkter, samt andre produkter/tjenester. I tillegg skal virksomheten drive med fornyelse og vedlikehold av bygninger, med spesialitet på tak i privat sektor, og alt som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer og eiendommer, med utleie, eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Selskapets virksomhet er alt innen salg og montering av brannsikrings produkter, samt andre produkter/tjenester. I tillegg skal virksomheten drive med fornyelse og vedlikehold av bygninger, med spesia",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 150000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 150000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "as_of": "2013-01-28",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999600921",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Vegard Wilhelmsen Furhovden"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Vegard Wilhelmsen Furhovden",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600921",
+      "as_of": "2013-01-28",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Vegard Wilhelmsen Furhovden"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Vegard Wilhelmsen Furhovden",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600921",
+      "as_of": "2019-08-19",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "CEDRA NORGE AS (org 935416779)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600921/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): CEDRA NORGE AS (org 935416779)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600921",
+      "as_of": "2026-10-05",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 23341915.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 23341915.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1293818.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1293818.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 823714.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 823714.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 5416133.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 5416133.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -527186.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -527186.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 5943319.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 5943319.0 NOK (journalnr 2026564158)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999600921 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:52Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "911626152",
+        "name": "TAKFORNYING AS",
+        "address": "Vestfjordveien 54, 3142 VESTSKOGEN, Norge",
+        "employees": 13
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999600921",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 911626152 overordnetEnhet: 999600921",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999600921",
+      "as_of": "2013-02-27",
+      "first_seen": "2026-10-11T18:01:52Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TAKFORNYING AS",
+  "previous_run": "2026-10-11T18:01:52Z",
+  "changes_since_previous_run": []
+}

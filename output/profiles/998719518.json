@@ -1,0 +1,177 @@
+{
+  "organization_number": "998719518",
+  "generated_at": "2026-10-11T18:04:05Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRKHEIM FYSIOTERAPI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "navn: BJØRKHEIM FYSIOTERAPI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-08-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-08-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Lørenveien 69B, 0585 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "forretningsadresse: Lørenveien 69B, 0585 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.950 Fysioterapi- og ergoterapitjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "naeringskode1: 86.950 Fysioterapi- og ergoterapitjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "phone",
+      "value": "907 82 599",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "telefon: 907 82 599",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "email",
+      "value": "andre.bjorkheim@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "epostadresse: andre.bjorkheim@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Fysioterapi.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "aktivitet: Fysioterapi.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998719518",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "André Bjørkheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "INNH (Innehaver): André Bjørkheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998719518",
+      "as_of": "2012-08-16",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "MIDTGAARD REGNSKAP AS (org 928555054)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998719518/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "REGN (Regnskapsfører): MIDTGAARD REGNSKAP AS (org 928555054)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998719518",
+      "as_of": "2022-05-24",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998725585",
+        "name": "BJØRKHEIM FYSIOTERAPI",
+        "address": "Lørenveien 69B, 0585 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998719518",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underenhet 998725585 overordnetEnhet: 998719518",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998719518",
+      "as_of": "2012-08-18",
+      "first_seen": "2026-10-11T18:01:37Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BJØRKHEIM FYSIOTERAPI",
+  "previous_run": "2026-10-11T18:01:37Z",
+  "changes_since_previous_run": []
+}

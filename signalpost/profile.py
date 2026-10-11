@@ -21,6 +21,7 @@ def build_profile(fetcher, org, include_website=None):
     facts = brreg.unit_facts(org, unit, retrieved_at)
     facts += brreg.role_facts(org, brreg.fetch_roles(fetcher, org), retrieved_at)
     facts += brreg.account_facts(org, brreg.fetch_accounts(fetcher, org), retrieved_at)
+    facts += brreg.subunit_facts(org, brreg.fetch_subunits(fetcher, org), retrieved_at)
     if include_website:
         facts += include_website(fetcher, org, unit, retrieved_at, profile["warnings"])
     profile["name"] = unit.get("navn")
@@ -28,10 +29,20 @@ def build_profile(fetcher, org, include_website=None):
     return profile
 
 
+_MULTI = ("website_email", "website_phone", "product_or_service", "location")
+
+
 def _key(f):
-    if f["field"].startswith("role:"):
-        return f["field"] + "|" + f["value"]["name"]
-    return f["field"]
+    """Identity of a fact across runs. Multi-valued fields are keyed by their member, so a changed
+    member shows up as removed + added, and single-valued fields as 'changed'."""
+    field = f["field"]
+    if field.startswith("role:"):
+        return field + "|" + f["value"]["name"]
+    if field == "establishment":
+        return field + "|" + str(f["value"].get("organization_number"))
+    if field in _MULTI:
+        return field + "|" + str(f["value"])
+    return field
 
 
 def _canon(v):

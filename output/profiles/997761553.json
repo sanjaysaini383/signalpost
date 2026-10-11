@@ -1,0 +1,159 @@
+{
+  "organization_number": "997761553",
+  "generated_at": "2026-10-11T18:04:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIGDIS HEIMDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "navn: VIGDIS HEIMDAL",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-01-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-01-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Stårheimsdalen 196, 6777 STÅRHEIM, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "forretningsadresse: Stårheimsdalen 196, 6777 STÅRHEIM, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.451 Sauehold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "naeringskode1: 01.451 Sauehold",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Gardsbruk med sauehald.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "aktivitet: Gardsbruk med sauehald.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997761553",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Vigdis Heimdal Reksnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "INNH (Innehaver): Vigdis Heimdal Reksnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997761553",
+      "as_of": "2012-01-04",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ASPIA NORGE AS (org 923792457)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761553/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REGN (Regnskapsfører): ASPIA NORGE AS (org 923792457)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997761553",
+      "as_of": "2025-12-19",
+      "first_seen": "2026-10-11T18:02:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "877939642",
+        "name": "VIGDIS HEIMDAL",
+        "address": "Stårheimsdalen 196, 6777 STÅRHEIM, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997761553",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underenhet 877939642 overordnetEnhet: 997761553",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997761553",
+      "as_of": "1997-06-13",
+      "first_seen": "2026-10-11T18:02:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "VIGDIS HEIMDAL",
+  "previous_run": "2026-10-11T18:02:44Z",
+  "changes_since_previous_run": []
+}

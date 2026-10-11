@@ -1,0 +1,146 @@
+{
+  "organization_number": "818570082",
+  "generated_at": "2026-10-11T18:04:54Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVEIN H. NÆSS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "navn: SVEIN H. NÆSS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vågavegen 570A, 7670 INDERØY, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "forretningsadresse: Vågavegen 570A, 7670 INDERØY, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "43.320 Snekkerarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "naeringskode1: 43.320 Snekkerarbeid",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kontroll av maling og belegg på stålkonstruksjoner. Snekring og maling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "aktivitet: Kontroll av maling og belegg på stålkonstruksjoner. Snekring og maling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818570082",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Svein Håkon Næss"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818570082/roller",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "INNH (Innehaver): Svein Håkon Næss",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818570082",
+      "as_of": "2017-02-15",
+      "first_seen": "2026-10-11T18:04:54Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919206225",
+        "name": "SVEIN H. NÆSS",
+        "address": "Vågavegen 570A, 7670 INDERØY, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818570082",
+      "retrieved_at": "2026-10-11T18:04:54Z",
+      "evidence": "underenhet 919206225 overordnetEnhet: 818570082",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818570082",
+      "as_of": "2017-06-27",
+      "first_seen": "2026-10-11T18:04:54Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SVEIN H. NÆSS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

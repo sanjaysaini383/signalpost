@@ -1,0 +1,277 @@
+{
+  "organization_number": "998515467",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CXINVESTMENT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: CXINVESTMENT AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2012-06-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kirkegårdsgata 1A, 0558 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Kirkegårdsgata 1A, 0558 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 68.110 Kjøp og salg av egen fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp og salg av egen fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Kjøp og salg av egen fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å investere i, kjøp, stifte, selge og formidle aksjeselskaper. I tillegg vil salg og markedsføring av produkter og tjenester og hva dermed står i forbindelse, samt agenturvirksomhet, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak, samt tilby tjenester eiendomsforvaltning, kjøp, salg, utleie og utvikling av eiendom og lokaler, investeringsvirksomhet og hva dermed står i forbindelse, samt gjennom lån, aksjetegning eller på annen måte delta i annen virksomhet av enhver art.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Å investere i, kjøp, stifte, selge og formidle aksjeselskaper. I tillegg vil salg og markedsføring av produkter og tjenester og hva dermed står i forbindelse, samt agenturvirksomhet, herunder å delta ",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "as_of": "2012-06-19",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998515467",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Sebastian Skogstad Templet"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Sebastian Skogstad Templet",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998515467",
+      "as_of": "2026-07-22",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Sebastian Skogstad Templet"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998515467/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Sebastian Skogstad Templet",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998515467",
+      "as_of": "2026-07-22",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 5894840.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5894840.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 591000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 591000.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 467443.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 467443.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 650000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 650000.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 526443.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 526443.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 123557.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 123557.0 NOK (journalnr 2026557946)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998515467 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:46Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "938648190",
+        "name": "CXINVESTMENT AS",
+        "address": "Kirkegårdsgata 1A, 0558 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998515467",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 938648190 overordnetEnhet: 998515467",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998515467",
+      "as_of": "2026-10-09",
+      "first_seen": "2026-10-11T18:01:46Z"
+    }
+  ],
+  "warnings": [],
+  "name": "CXINVESTMENT AS",
+  "previous_run": "2026-10-11T18:01:46Z",
+  "changes_since_previous_run": []
+}

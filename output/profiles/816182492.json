@@ -1,0 +1,668 @@
+{
+  "organization_number": "816182492",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STAMSAAS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: STAMSAAS AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "founded",
+      "value": "1953-08-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 1953-08-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 1995-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vogts vei 40, 1710 SARPSBORG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Vogts vei 40, 1710 SARPSBORG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "47.810 Detaljhandel med motorvogner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 47.810 Detaljhandel med motorvogner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website",
+      "value": "stamsaasfritid.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "hjemmeside: stamsaasfritid.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "phone",
+      "value": "69 39 89 40",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "telefon: 69 39 89 40",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "email",
+      "value": "firmapost@stamsaasfritid.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "epostadresse: firmapost@stamsaasfritid.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp og salg av nye og brukte bobiler. Samt import og videresalg av bobiler. Herunder salg av deler og verkstedtjenester og drift og utleie av eiendom og selskaper, primært innen bil, samt kjøp og salg av verdipapirer. Selskapet kan etter styrets vurdering og avgjørelse ta opp innkjøp og/eller produksjon og salg eller utleie av varer og tjenester som har naturlig tilknytning til de primæraktiviteter som er nevnt ovenfor samt ha eierinteresser i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Kjøp og salg av nye og brukte bobiler. Samt import og videresalg av bobiler. Herunder salg av deler og verkstedtjenester og drift og utleie av eiendom og selskaper, primært innen bil, samt kjøp og sal",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp og salg av nye og brukte bobiler. Samt import og videresalg av bobiler. Herunder salg av deler og verkstedtjenester og drift og utleie av eiendom og selskaper, primært innen bil, samt kjøp og salg av verdipapirer. Selskapet kan etter styrets vurdering og avgjørelse ta opp innkjøp og/eller produksjon og salg eller utleie av varer og tjenester som har naturlig tilknytning til de primæraktiviteter som er nevnt ovenfor samt ha eierinteresser i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Kjøp og salg av nye og brukte bobiler. Samt import og videresalg av bobiler. Herunder salg av deler og verkstedtjenester og drift og utleie av eiendom og selskaper, primært innen bil, samt kjøp og sal",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 2310000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 2310000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "as_of": "2025-10-03",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816182492",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Carsten Erichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Carsten Erichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2025-01-10",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Carsten Erichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Carsten Erichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2017-07-17",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Trine Lise Erichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Trine Lise Erichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2017-07-17",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Richard Erichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Richard Erichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2017-07-17",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Camilla Hole Erichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Camilla Hole Erichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2017-07-17",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SOLHØI REVISJON AS (org 952011677)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816182492/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): SOLHØI REVISJON AS (org 952011677)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816182492",
+      "as_of": "2024-12-05",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:revenue",
+      "value": {
+        "amount": 204750228.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 204750228.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:operating_profit",
+      "value": {
+        "amount": -1777497.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -1777497.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:net_profit",
+      "value": {
+        "amount": -8239378.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -8239378.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:total_assets",
+      "value": {
+        "amount": 92125916.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 92125916.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:equity",
+      "value": {
+        "amount": 28055665.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 28055665.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:konsern:total_debt",
+      "value": {
+        "amount": 64070251.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 64070251.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2899125.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2899125.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1588157.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1588157.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 774663.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 774663.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 57555216.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 57555216.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 26986603.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 26986603.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 30568613.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 30568613.0 NOK (journalnr 2026390881)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816182492 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "985520364",
+        "name": "STAMSAAS AS",
+        "address": "Vogts vei 40, 1710 SARPSBORG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816182492",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 985520364 overordnetEnhet: 816182492",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816182492",
+      "as_of": "2003-03-19",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://stamsaasfritid.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "page text contains company name 'stamsaas'",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Stamsaas Fritid er mye mer enn bare en bobilbutikk. Vi er bobilentusiaster som ønsker å inspirere og dele gleden med bobillivet til andre. Besøk oss i dag!",
+      "source_url": "https://stamsaasfritid.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "meta description: Stamsaas Fritid er mye mer enn bare en bobilbutikk. Vi er bobilentusiaster som ønsker å inspirere og dele gleden med bobillivet til andre. Besøk oss i dag!",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "camilla@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:camilla@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "carsten@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:carsten@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "cordelia@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:cordelia@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "delelager@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:delelager@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "firmapost@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:firmapost@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "garanti@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:garanti@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "hanne@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:hanne@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "hei@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/kontakt",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:hei@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "jane@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:jane@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "lars.erik@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:lars.erik@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "lasse@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:lasse@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "morten@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:morten@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "oyvind@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:oyvind@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "petter@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:petter@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "richard@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:richard@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "salg@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/kontakt",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:salg@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "svein@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:svein@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_email",
+      "value": "verksted@stamsaasfritid.no",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:verksted@stamsaasfritid.no",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4769138940",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "tel:+4769138940",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "40060716",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "tel:40060716",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "40555984",
+      "source_url": "https://stamsaasfritid.no/om-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "tel:40555984",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/stamsaasfritid",
+      "source_url": "https://stamsaasfritid.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.facebook.com/stamsaasfritid",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/stamsaasfritid",
+      "source_url": "https://stamsaasfritid.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.instagram.com/stamsaasfritid",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    },
+    {
+      "field": "social:youtube",
+      "value": "https://www.youtube.com/channel/UC4u9Rgd-FCqfd7dwkS777Pw",
+      "source_url": "https://stamsaasfritid.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.youtube.com/channel/UC4u9Rgd-FCqfd7dwkS777Pw",
+      "explanation": "Page from https://stamsaasfritid.no/, the website declared in Enhetsregisteret for organisation number 816182492; page text contains company name 'stamsaas'",
+      "first_seen": "2026-10-11T18:02:17Z"
+    }
+  ],
+  "warnings": [],
+  "name": "STAMSAAS AS",
+  "previous_run": "2026-10-11T18:02:17Z",
+  "changes_since_previous_run": []
+}

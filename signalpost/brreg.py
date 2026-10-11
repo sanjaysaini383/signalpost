@@ -173,3 +173,29 @@ def account_facts(org, records, retrieved_at):
                             f"{'.'.join(path)}: {v} {cur} (journalnr {r.get('journalnr')})", why,
                             retrieved_at, period.get("tilDato")))
     return out
+
+
+SUBUNITS_URL = BASE + "/enhetsregisteret/api/underenheter"
+
+
+def fetch_subunits(fetcher, org):
+    status, data = fetcher.get_json(SUBUNITS_URL, {"overordnetEnhet": org, "size": 20})
+    return (data or {}).get("_embedded", {}).get("underenheter", []) if status == 200 else []
+
+
+def subunit_facts(org, subs, retrieved_at):
+    """Establishments (branches) registered under the parent organisation number."""
+    src = f"{SUBUNITS_URL}?overordnetEnhet={org}"
+    out = []
+    for s in subs:
+        if s.get("overordnetEnhet") != org:
+            continue  # never attach a sub-unit that the register does not tie to this parent
+        addr = _addr(s.get("beliggenhetsadresse")) or _addr(s.get("postadresse"))
+        value = {"organization_number": s.get("organisasjonsnummer"), "name": s.get("navn"), "address": addr}
+        if "antallAnsatte" in s:
+            value["employees"] = s["antallAnsatte"]
+        out.append(fact("establishment", value, src,
+                        f"underenhet {s.get('organisasjonsnummer')} overordnetEnhet: {org}",
+                        f"Sub-unit registered in Enhetsregisteret with parent organisation number {org}", retrieved_at,
+                        s.get("registreringsdatoEnhetsregisteret")))
+    return out

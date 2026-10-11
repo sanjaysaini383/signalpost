@@ -1,0 +1,159 @@
+{
+  "organization_number": "818539592",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MIA CATRINE MIKLAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: MIA CATRINE MIKLAND",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Breisethvegen 13B, 2613 LILLEHAMMER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Breisethvegen 13B, 2613 LILLEHAMMER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.210 Allmennlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 86.210 Allmennlegetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Legevaktsarbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Legevaktsarbeid.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818539592",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Mia Catrine Mikland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "INNH (Innehaver): Mia Catrine Mikland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818539592",
+      "as_of": "2017-02-09",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AZETS INSIGHT AS (org 983338917)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818539592/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): AZETS INSIGHT AS (org 983338917)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818539592",
+      "as_of": "2023-09-30",
+      "first_seen": "2026-10-11T18:01:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "918583912",
+        "name": "MIA CATRINE MIKLAND",
+        "address": "Henrik Grønns vei 25, 7374 RØROS, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818539592",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 918583912 overordnetEnhet: 818539592",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818539592",
+      "as_of": "2017-02-18",
+      "first_seen": "2026-10-11T18:01:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MIA CATRINE MIKLAND",
+  "previous_run": "2026-10-11T18:01:44Z",
+  "changes_since_previous_run": []
+}

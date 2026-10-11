@@ -1,0 +1,290 @@
+{
+  "organization_number": "820024842",
+  "generated_at": "2026-10-11T18:04:12Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WISER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "navn: WISER AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "stiftelsesdato: 2017-11-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-12-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-12-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fjordveien 65A, 1363 HØVIK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "forretningsadresse: Fjordveien 65A, 1363 HØVIK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "naeringskode1: 00.000 Uoppgitt",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulenttjenester, investeringer og annet som naturlig faller sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "aktivitet: Konsulenttjenester, investeringer og annet som naturlig faller sammen med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Konsulenttjenester, investeringer og annet som naturlig faller sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "vedtektsfestetFormaal: Konsulenttjenester, investeringer og annet som naturlig faller sammen med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "as_of": "2017-12-05",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 820024842",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Ann Kathrin Wårheim Seim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842/roller",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "LEDE (Styrets leder): Ann Kathrin Wårheim Seim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 820024842",
+      "as_of": "2017-12-05",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Tommy Wårheim Seim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842/roller",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "MEDL (Styremedlem): Tommy Wårheim Seim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 820024842",
+      "as_of": "2017-12-05",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SPAREBANK 1 REGNSKAPSHUSET NORD-NORGE AS (org 851987142)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820024842/roller",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "REGN (Regnskapsfører): SPAREBANK 1 REGNSKAPSHUSET NORD-NORGE AS (org 851987142)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 820024842",
+      "as_of": "2019-04-10",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 993050.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 993050.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 343492.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 343492.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 263814.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 263814.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 1036307.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "eiendeler.sumEiendeler: 1036307.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 305267.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 305267.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 731040.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 731040.0 NOK (journalnr 2026631198)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 820024842 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:25Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "921096011",
+        "name": "WISER AS",
+        "address": "Fjordveien 65A, 1363 HØVIK, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=820024842",
+      "retrieved_at": "2026-10-11T18:04:12Z",
+      "evidence": "underenhet 921096011 overordnetEnhet: 820024842",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 820024842",
+      "as_of": "2018-07-04",
+      "first_seen": "2026-10-11T18:02:25Z"
+    }
+  ],
+  "warnings": [],
+  "name": "WISER AS",
+  "previous_run": "2026-10-11T18:02:25Z",
+  "changes_since_previous_run": []
+}

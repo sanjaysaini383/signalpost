@@ -1,0 +1,159 @@
+{
+  "organization_number": "823883692",
+  "generated_at": "2026-10-11T18:04:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JARL KOSBERG CONSULTANCY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "navn: JARL KOSBERG CONSULTANCY",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Middelthuns gate 17G, 0368 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "forretningsadresse: Middelthuns gate 17G, 0368 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulent - og rådgivningsvirksomhet innenfor energi, bygg- og anlegg og prosjektutvikling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "aktivitet: Konsulent - og rådgivningsvirksomhet innenfor energi, bygg- og anlegg og prosjektutvikling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Jarl Arve Kosberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "INNH (Innehaver): Jarl Arve Kosberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823883692",
+      "as_of": "2019-11-25",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Jarl Arve Kosberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "DAGL (Daglig leder): Jarl Arve Kosberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823883692",
+      "as_of": "2019-11-25",
+      "first_seen": "2026-10-11T18:03:06Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924045701",
+        "name": "JARL KOSBERG CONSULTANCY",
+        "address": "Middelthuns gate 17G, 0368 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823883692",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 924045701 overordnetEnhet: 823883692",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823883692",
+      "as_of": "2019-12-09",
+      "first_seen": "2026-10-11T18:03:06Z"
+    }
+  ],
+  "warnings": [],
+  "name": "JARL KOSBERG CONSULTANCY",
+  "previous_run": "2026-10-11T18:03:06Z",
+  "changes_since_previous_run": []
+}

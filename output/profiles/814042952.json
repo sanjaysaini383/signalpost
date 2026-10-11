@@ -1,0 +1,334 @@
+{
+  "organization_number": "814042952",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JTR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: JTR AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-05-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2014-05-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-08-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-08-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "antallAnsatte: 5",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Olaf Isaachsens gate 8, 4514 MANDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Olaf Isaachsens gate 8, 4514 MANDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "81.100 Kombinerte tjenester tilknyttet eiendomsdrift",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 81.100 Kombinerte tjenester tilknyttet eiendomsdrift",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "website",
+      "value": "www.jtr.as",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "hjemmeside: www.jtr.as",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "email",
+      "value": "t-robert@online.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "epostadresse: t-robert@online.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Vaktmestertjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Vaktmestertjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å yte vaktmestertjenester, salg og utleie av hageutstyr samt salg av sportsutstyr.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Å yte vaktmestertjenester, salg og utleie av hageutstyr samt salg av sportsutstyr.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 250000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 250000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "as_of": "2014-08-21",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 814042952",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Jan Tore Robertsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Jan Tore Robertsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 814042952",
+      "as_of": "2014-08-21",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Hilde Robertsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Hilde Robertsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 814042952",
+      "as_of": "2017-10-26",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Jan Tore Robertsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Jan Tore Robertsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 814042952",
+      "as_of": "2017-10-26",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "OPK AS (org 920387470)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814042952/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): OPK AS (org 920387470)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 814042952",
+      "as_of": "2019-01-07",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 298992.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 298992.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -77901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -77901.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -79609.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -79609.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 53952.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 53952.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 54369.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 54369.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": -417.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: -417.0 NOK (journalnr 2026352584)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 814042952 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:48Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "914053838",
+        "name": "JTR AS",
+        "address": "Olaf Isaachsens gate 8, 4514 MANDAL, Norge",
+        "employees": 5
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=814042952",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 914053838 overordnetEnhet: 814042952",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 814042952",
+      "as_of": "2014-08-25",
+      "first_seen": "2026-10-11T18:01:48Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.jtr.as/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "JTR AS",
+  "previous_run": "2026-10-11T18:01:48Z",
+  "changes_since_previous_run": []
+}

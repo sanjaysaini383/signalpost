@@ -1,0 +1,405 @@
+{
+  "organization_number": "816201802",
+  "generated_at": "2026-10-11T18:04:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WIMP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "navn: WIMP AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-10-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "stiftelsesdato: 2015-10-31",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "employees",
+      "value": 73,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "antallAnsatte: 73",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fredbovegen 9, 3919 PORSGRUNN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "forretningsadresse: Fredbovegen 9, 3919 PORSGRUNN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Luramyrveien 65, 4313 SANDNES, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "postadresse: Luramyrveien 65, 4313 SANDNES, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "naeringskode1: 56.110 Drift av restauranter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "email",
+      "value": "post@popcornfactory.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "epostadresse: post@popcornfactory.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Produksjon/salg av pizza og relaterte produkter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "aktivitet: Produksjon/salg av pizza og relaterte produkter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Produksjon, handel- & serveringsvirksomhet med hovedvekt på pizzaprodukter samt hva hermed står i forbindelse, herunder å delta i selskaper med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "vedtektsfestetFormaal: Produksjon, handel- & serveringsvirksomhet med hovedvekt på pizzaprodukter samt hva hermed står i forbindelse, herunder å delta i selskaper med lignende virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "as_of": "2019-05-27",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816201802",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Marte Hestmo"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "DAGL (Daglig leder): Marte Hestmo",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816201802",
+      "as_of": "2023-02-16",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Henrik Andre Jelsa"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "LEDE (Styrets leder): Henrik Andre Jelsa",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816201802",
+      "as_of": "2025-08-25",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Sven Kloster Olsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "VARA (Varamedlem): Sven Kloster Olsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816201802",
+      "as_of": "2025-08-25",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "LIIT AS (org 931900420)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "REVI (Revisor): LIIT AS (org 931900420)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816201802",
+      "as_of": "2023-11-09",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "LIGO REGNSKAP AS (org 892122652)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816201802/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "REGN (Regnskapsfører): LIGO REGNSKAP AS (org 892122652)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816201802",
+      "as_of": "2017-01-17",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 38973627.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 38973627.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1615558.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1615558.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1187745.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1187745.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 8411846.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "eiendeler.sumEiendeler: 8411846.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 100000.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 8311846.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 8311846.0 NOK (journalnr 2026571419)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816201802 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "911833808",
+        "name": "PIZZABAKEREN HERØYA",
+        "address": "Fjordgata 14, 3936 PORSGRUNN, Norge",
+        "employees": 15
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 911833808 overordnetEnhet: 816201802",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816201802",
+      "as_of": "2013-04-17",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998210542",
+        "name": "PIZZABAKEREN LIE",
+        "address": "Herman Baggers gate 1, 3717 SKIEN, Norge",
+        "employees": 18
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 998210542 overordnetEnhet: 816201802",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816201802",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "988110736",
+        "name": "PIZZABAKEREN TELEMARKSVEIEN",
+        "address": "Infanterivegen 18, 3734 SKIEN, Norge",
+        "employees": 17
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 988110736 overordnetEnhet: 816201802",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816201802",
+      "as_of": "2005-04-14",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998210615",
+        "name": "PIZZABAKEREN VALLEMYRENE",
+        "address": "Kjølnes ring 2, 3918 PORSGRUNN, Norge",
+        "employees": 12
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 998210615 overordnetEnhet: 816201802",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816201802",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-11T18:03:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "823138032",
+        "name": "PIZZABAKEREN VESSIA",
+        "address": "Linaaesgate 3, 3919 PORSGRUNN, Norge",
+        "employees": 11
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816201802",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 823138032 overordnetEnhet: 816201802",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816201802",
+      "as_of": "2019-07-29",
+      "first_seen": "2026-10-11T18:03:01Z"
+    }
+  ],
+  "warnings": [],
+  "name": "WIMP AS",
+  "previous_run": "2026-10-11T18:03:01Z",
+  "changes_since_previous_run": []
+}

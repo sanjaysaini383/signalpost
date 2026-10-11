@@ -1,0 +1,146 @@
+{
+  "organization_number": "823875002",
+  "generated_at": "2026-10-11T18:04:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KAHRSNESET INGARD KÅRE KAHRS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "navn: KAHRSNESET INGARD KÅRE KAHRS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vidnappsvegen 1, 5947 FEDJE, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "forretningsadresse: Vidnappsvegen 1, 5947 FEDJE, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.451 Sauehold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "naeringskode1: 01.451 Sauehold",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Landbruk med sauehold.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "aktivitet: Landbruk med sauehold.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823875002",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Ingard Kåre Kahrs"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823875002/roller",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "INNH (Innehaver): Ingard Kåre Kahrs",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823875002",
+      "as_of": "2019-11-26",
+      "first_seen": "2026-10-11T18:03:11Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "923946780",
+        "name": "KAHRSNESET INGARD KÅRE KAHRS",
+        "address": "Vidnappsvegen 1, 5947 FEDJE, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823875002",
+      "retrieved_at": "2026-10-11T18:04:17Z",
+      "evidence": "underenhet 923946780 overordnetEnhet: 823875002",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823875002",
+      "as_of": "2019-11-27",
+      "first_seen": "2026-10-11T18:03:11Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KAHRSNESET INGARD KÅRE KAHRS",
+  "previous_run": "2026-10-11T18:03:11Z",
+  "changes_since_previous_run": []
+}

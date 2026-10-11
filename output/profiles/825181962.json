@@ -1,0 +1,146 @@
+{
+  "organization_number": "825181962",
+  "generated_at": "2026-10-11T18:05:08Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABROUD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "navn: ABROUD",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Keysers gate 4A, 0165 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "forretningsadresse: Keysers gate 4A, 0165 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "naeringskode1: 73.110 Reklamebyråvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulenttjenester innen markedsføring og kommunikasjon. Modell og styling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "aktivitet: Konsulenttjenester innen markedsføring og kommunikasjon. Modell og styling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825181962",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Olfa Bent Matri Abroud"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825181962/roller",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "INNH (Innehaver): Olfa Bent Matri Abroud",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825181962",
+      "as_of": "2020-06-11",
+      "first_seen": "2026-10-11T18:05:08Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "936807836",
+        "name": "ABROUD",
+        "address": "Keysers gate 4A, 0165 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825181962",
+      "retrieved_at": "2026-10-11T18:05:08Z",
+      "evidence": "underenhet 936807836 overordnetEnhet: 825181962",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825181962",
+      "as_of": "2025-12-19",
+      "first_seen": "2026-10-11T18:05:08Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ABROUD",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

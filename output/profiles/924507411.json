@@ -1,0 +1,159 @@
+{
+  "organization_number": "924507411",
+  "generated_at": "2026-10-11T18:04:13Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VISIONINVEST TEAM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "navn: VISIONINVEST TEAM",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Norskregistrert utenlandsk foretak (NUF)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "organisasjonsform: NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-02-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-02-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Tule TN 5-19, Saue City, EE-76505 HARJUMAA, Estland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "forretningsadresse: Tule TN 5-19, Saue City, EE-76505 HARJUMAA, Estland",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Byggevirksomhet herunder nybygg, tilbygg, renovering, innvendig oppussing, installering av møbler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "aktivitet: Byggevirksomhet herunder nybygg, tilbygg, renovering, innvendig oppussing, installering av møbler.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924507411",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "role:KONT",
+      "value": {
+        "role": "Kontaktperson",
+        "name": "Maikko Soar"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411/roller",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "KONT (Kontaktperson): Maikko Soar",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924507411",
+      "as_of": "2020-02-08",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "role:HFOR",
+      "value": {
+        "role": "Oppl om foretaket i hjemlandet",
+        "name": "VISIONINVEST TEAM OÜ (org 924561718)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507411/roller",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "HFOR (Oppl om foretaket i hjemlandet): VISIONINVEST TEAM OÜ (org 924561718)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924507411",
+      "as_of": "2020-02-08",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "824569592",
+        "name": "VISIONINVEST TEAM",
+        "address": "Tule TN 5-19, Saue City, EE-76505 HARJUMAA, Estland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924507411",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underenhet 824569592 overordnetEnhet: 924507411",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924507411",
+      "as_of": "2020-02-08",
+      "first_seen": "2026-10-11T18:02:39Z"
+    }
+  ],
+  "warnings": [],
+  "name": "VISIONINVEST TEAM",
+  "previous_run": "2026-10-11T18:02:39Z",
+  "changes_since_previous_run": []
+}

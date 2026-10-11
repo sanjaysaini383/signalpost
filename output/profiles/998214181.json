@@ -1,0 +1,469 @@
+{
+  "organization_number": "998214181",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOH EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: BOH EIENDOM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2012-03-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Silurveien 9, 4636 KRISTIANSAND S, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Silurveien 9, 4636 KRISTIANSAND S, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 68.120 Utvikling og salg av byggeprosjekter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website",
+      "value": "www.boh.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "hjemmeside: www.boh.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp, salg og utbygging av eiendom og tomter. Tømreroppdrag. Delta som aksjonær eller andelseiere i andre selskap. Eie og leie ut egen fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Kjøp, salg og utbygging av eiendom og tomter. Tømreroppdrag. Delta som aksjonær eller andelseiere i andre selskap. Eie og leie ut egen fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg og utbygging av eiendom og tomter. Påta seg tømreroppdrag for andre, samt at selskapet kan delta som aksjonær eller andelseiere i andre selskap. Eie og leie ut egen fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Kjøp, salg og utbygging av eiendom og tomter. Påta seg tømreroppdrag for andre, samt at selskapet kan delta som aksjonær eller andelseiere i andre selskap. Eie og leie ut egen fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 210000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 210000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "as_of": "2018-09-28",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214181",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Oddleif Henriksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Oddleif Henriksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214181",
+      "as_of": "2018-09-28",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Oddleif Henriksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Oddleif Henriksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214181",
+      "as_of": "2024-05-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Øivind Reinhardsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Øivind Reinhardsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214181",
+      "as_of": "2024-05-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "REVISJON SØR AS (org 943708428)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): REVISJON SØR AS (org 943708428)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214181",
+      "as_of": "2025-11-03",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "IT REGNSKAP AS (org 996041727)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214181/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): IT REGNSKAP AS (org 996041727)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214181",
+      "as_of": "2026-09-04",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 103588723.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 103588723.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 5497036.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 5497036.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 2399275.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 2399275.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 92065743.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 92065743.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 15478290.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 15478290.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 76587453.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 76587453.0 NOK (journalnr 2026458325)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214181 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998248752",
+        "name": "BOH EIENDOM AS",
+        "address": "Silurveien 9, 4636 KRISTIANSAND S, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998214181",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 998248752 overordnetEnhet: 998214181",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998214181",
+      "as_of": "2012-04-16",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.boh.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "page text contains company name 'boh eiendom'",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Vi utfører alt fra små oppdrag til større jobber og tar også på oss rollen som totalentreprenør. Vårt hovedkontor er i Kristiansand, men vi tar oss jobber i hele Norge, samt utlandet.",
+      "source_url": "https://www.boh.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "meta description: Vi utfører alt fra små oppdrag til større jobber og tar også på oss rollen som totalentreprenør. Vårt hovedkontor er i Kristiansand, men vi tar oss jobber i hele Norge, samt utlandet.",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "chris@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:chris@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "daniel@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:daniel@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "hammen@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:hammen@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "janni@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:janni@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "maria@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:maria@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "oddleif@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:oddleif@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "ove@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:ove@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:post@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "stine@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:stine@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "terje@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:terje@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "website_email",
+      "value": "trond@boh.no",
+      "source_url": "https://www.boh.no/kontakt-oss",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:trond@boh.no",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/byggmesteroh",
+      "source_url": "https://www.boh.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.facebook.com/byggmesteroh",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/bohbyggas",
+      "source_url": "https://www.boh.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.instagram.com/bohbyggas",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    },
+    {
+      "field": "social:linkedin",
+      "value": "https://www.linkedin.com/company/boh-bygg-as",
+      "source_url": "https://www.boh.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.linkedin.com/company/boh-bygg-as",
+      "explanation": "Page from https://www.boh.no/, the website declared in Enhetsregisteret for organisation number 998214181; page text contains company name 'boh eiendom'",
+      "first_seen": "2026-10-11T18:02:13Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BOH EIENDOM AS",
+  "previous_run": "2026-10-11T18:02:13Z",
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,362 @@
+{
+  "organization_number": "810733772",
+  "generated_at": "2026-10-11T18:04:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BORGE EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "navn: BORGE EIENDOM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "founded",
+      "value": "1965-01-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "stiftelsesdato: 1965-01-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-02-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 1995-02-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "antallAnsatte: 5",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "as_of": "2025-08-12",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kilengaten 15, 3117 TØNSBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "forretningsadresse: Kilengaten 15, 3117 TØNSBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "phone",
+      "value": "33313028",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "telefon: 33313028",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Ervervelse og drift av fast eiendom. Dessuten ved aksjekjøp eller på annen måte å delta i næringsvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "aktivitet: Ervervelse og drift av fast eiendom. Dessuten ved aksjekjøp eller på annen måte å delta i næringsvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Ervervelse og drift av fast eiendom. Dessuten ved aksjekjøp eller på annen måte å delta i næringsvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "vedtektsfestetFormaal: Ervervelse og drift av fast eiendom. Dessuten ved aksjekjøp eller på annen måte å delta i næringsvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 3000000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "kapital.belop: 3000000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "as_of": "2003-08-30",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810733772",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Stein Egil Jenssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "DAGL (Daglig leder): Stein Egil Jenssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2003-08-30",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Lisbeth Borge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "LEDE (Styrets leder): Lisbeth Borge",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2012-09-15",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Stein Egil Jenssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "MEDL (Styremedlem): Stein Egil Jenssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2012-09-15",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Tina Borge Bergh"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "MEDL (Styremedlem): Tina Borge Bergh",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2012-09-15",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Thomas Borge Jenssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "MEDL (Styremedlem): Thomas Borge Jenssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2012-09-15",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "REVISJONSFIRMAET TOM CHRISTOFFERSEN AS (org 880292862)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REVI (Revisor): REVISJONSFIRMAET TOM CHRISTOFFERSEN AS (org 880292862)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2002-09-18",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SAGA REGNSKAP OG RÅDGIVNING AS (org 939725709)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810733772/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REGN (Regnskapsfører): SAGA REGNSKAP OG RÅDGIVNING AS (org 939725709)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810733772",
+      "as_of": "2023-12-30",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 12432689.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 12432689.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 5737728.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 5737728.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 3782252.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 3782252.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 76873078.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "eiendeler.sumEiendeler: 76873078.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 32511829.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 32511829.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 44361249.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 44361249.0 NOK (journalnr 2026543500)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810733772 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:51Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "975874435",
+        "name": "BORGE EIENDOM AS",
+        "address": "Kilengaten 15, 3117 TØNSBERG, Norge",
+        "employees": 5
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=810733772",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underenhet 975874435 overordnetEnhet: 810733772",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 810733772",
+      "as_of": "1995-11-14",
+      "first_seen": "2026-10-11T18:02:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BORGE EIENDOM AS",
+  "previous_run": "2026-10-11T18:02:51Z",
+  "changes_since_previous_run": []
+}

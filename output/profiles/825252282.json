@@ -1,0 +1,146 @@
+{
+  "organization_number": "825252282",
+  "generated_at": "2026-10-11T18:04:20Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NEVROLOG LINE BROCH",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "navn: NEVROLOG LINE BROCH",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "forretningsadresse: Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "naeringskode1: 86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Legevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "aktivitet: Legevirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Line Broch"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282/roller",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "INNH (Innehaver): Line Broch",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825252282",
+      "as_of": "2020-06-25",
+      "first_seen": "2026-10-11T18:03:25Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "925348864",
+        "name": "NEVROLOG LINE BROCH",
+        "address": "Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825252282",
+      "retrieved_at": "2026-10-11T18:04:20Z",
+      "evidence": "underenhet 925348864 overordnetEnhet: 825252282",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825252282",
+      "as_of": "2020-07-15",
+      "first_seen": "2026-10-11T18:03:25Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NEVROLOG LINE BROCH",
+  "previous_run": "2026-10-11T18:03:25Z",
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,312 @@
+{
+  "organization_number": "999340393",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GUSTAVSEN BYGG OG PROSJEKTLEDELSE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: GUSTAVSEN BYGG OG PROSJEKTLEDELSE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2013-01-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-01-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-01-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vinterbroveien 21, 1407 VINTERBRO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Vinterbroveien 21, 1407 VINTERBRO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "phone",
+      "value": "907 74 700",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "telefon: 907 74 700",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Håndverk og konsulenttjenester innen bygg- og anleggsbransjen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Håndverk og konsulenttjenester innen bygg- og anleggsbransjen.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Håndverk og alt hva hermed står i forbindelse. Selskapet skal også drive med prosjektledelse og annen konsulentvirksomhet knyttet til bygg og anleggsvirksomhet. Selskapet skal i tillegg investere i fast eiendom i inn- og utland.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Håndverk og alt hva hermed står i forbindelse. Selskapet skal også drive med prosjektledelse og annen konsulentvirksomhet knyttet til bygg og anleggsvirksomhet. Selskapet skal i tillegg investere i fa",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999340393",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Kjell Roar Gustavsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Kjell Roar Gustavsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999340393",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Kjell Roar Gustavsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Kjell Roar Gustavsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999340393",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Qing Tollefsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "VARA (Varamedlem): Qing Tollefsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999340393",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SALDO REGNSKAP AS (org 970918523)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999340393/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): SALDO REGNSKAP AS (org 970918523)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999340393",
+      "as_of": "2018-09-03",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 913495.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 913495.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 286305.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 286305.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 266390.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 266390.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 10423.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 10423.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -238966.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -238966.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 249389.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 249389.0 NOK (journalnr 2026463405)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999340393 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:03Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "988700304",
+        "name": "GUSTAVSEN BYGG OG PROSJEKTLEDELSE AS",
+        "address": "Vinterbroveien 21, 1407 VINTERBRO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999340393",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 988700304 overordnetEnhet: 999340393",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999340393",
+      "as_of": "2005-09-27",
+      "first_seen": "2026-10-11T18:02:03Z"
+    }
+  ],
+  "warnings": [],
+  "name": "GUSTAVSEN BYGG OG PROSJEKTLEDELSE AS",
+  "previous_run": "2026-10-11T18:02:03Z",
+  "changes_since_previous_run": []
+}

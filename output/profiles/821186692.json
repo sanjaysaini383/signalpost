@@ -1,0 +1,276 @@
+{
+  "organization_number": "821186692",
+  "generated_at": "2026-10-11T18:04:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "Æ ELSKE PIZZA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "navn: Æ ELSKE PIZZA AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2018-06-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "stiftelsesdato: 2018-06-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2018-07-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kaiveien 2, 8310 KABELVÅG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "forretningsadresse: Kaiveien 2, 8310 KABELVÅG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "naeringskode1: 56.110 Drift av restauranter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Drift av restaurant samt annet som naturlig hører til.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "aktivitet: Drift av restaurant samt annet som naturlig hører til.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Drift av restaurant samt annet som naturlig hører til.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "vedtektsfestetFormaal: Drift av restaurant samt annet som naturlig hører til.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "as_of": "2018-07-24",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821186692",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Alessio Barreto"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "DAGL (Daglig leder): Alessio Barreto",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821186692",
+      "as_of": "2020-07-11",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Alessio Barreto"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "LEDE (Styrets leder): Alessio Barreto",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821186692",
+      "as_of": "2020-07-11",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "CR1.NO AS (org 915574858)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821186692/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REGN (Regnskapsfører): CR1.NO AS (org 915574858)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821186692",
+      "as_of": "2020-12-11",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 4000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4000.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -7498.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -7498.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -7585.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -7585.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 66053.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "eiendeler.sumEiendeler: 66053.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -530819.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -530819.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 596872.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821186692",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 596872.0 NOK (journalnr 2026413199)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821186692 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "Æ ELSKE PIZZA AS",
+  "previous_run": "2026-10-11T18:02:59Z",
+  "changes_since_previous_run": []
+}

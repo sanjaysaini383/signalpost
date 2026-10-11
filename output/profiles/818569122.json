@@ -1,0 +1,145 @@
+{
+  "organization_number": "818569122",
+  "generated_at": "2026-10-11T18:04:18Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STEPHAN SOLHAUG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "navn: STEPHAN SOLHAUG",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "business_address",
+      "value": "c/o Stephan Solhaug, Thea Eriksens vei 3, 9912 HESSENG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "forretningsadresse: c/o Stephan Solhaug, Thea Eriksens vei 3, 9912 HESSENG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "03.110 Fiske og fangst i sjø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "naeringskode1: 03.110 Fiske og fangst i sjø",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Drift av fiskebåten \"May\" LM8776. Fiske etter torsk med juksa.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "aktivitet: Drift av fiskebåten \"May\" LM8776. Fiske etter torsk med juksa.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818569122",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Stephan Solhaug"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122/roller",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "INNH (Innehaver): Stephan Solhaug",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818569122",
+      "as_of": "2017-02-15",
+      "first_seen": "2026-10-11T18:03:16Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "DIOFANT AS (org 927439336)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818569122/roller",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "REGN (Regnskapsfører): DIOFANT AS (org 927439336)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818569122",
+      "as_of": "2021-09-21",
+      "first_seen": "2026-10-11T18:03:16Z"
+    }
+  ],
+  "warnings": [],
+  "name": "STEPHAN SOLHAUG",
+  "previous_run": "2026-10-11T18:03:16Z",
+  "changes_since_previous_run": []
+}

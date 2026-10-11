@@ -1,0 +1,378 @@
+{
+  "organization_number": "998208300",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FISH ME FISKETORGET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: FISH ME FISKETORGET AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2012-03-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "employees",
+      "value": 76,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "antallAnsatte: 76",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fisketorget, 5014 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Fisketorget, 5014 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Måseskjæret 8, Leilighet 304, 5035 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "postadresse: Måseskjæret 8, Leilighet 304, 5035 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 56.110 Drift av restauranter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "website",
+      "value": "www.fishme.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "hjemmeside: www.fishme.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "phone",
+      "value": "900 90 448",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "telefon: 900 90 448",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "email",
+      "value": "arnfinn@fishme.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "epostadresse: arnfinn@fishme.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Servering og omsetning av sjømat og andre produkter. Skjenking av alkoholholdige drikker og annen drikke. Andre produkter med lokal forankring og identitet. Ambulerende salg og restaurantdrift på veteranbåt.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Servering og omsetning av sjømat og andre produkter. Skjenking av alkoholholdige drikker og annen drikke. Andre produkter med lokal forankring og identitet. Ambulerende salg og restaurantdrift på vete",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg og servering av sjømatprodukter og andre beslektede produkter, samt annet som naturlig hører til slik drift.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Kjøp, salg og servering av sjømatprodukter og andre beslektede produkter, samt annet som naturlig hører til slik drift.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 1100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 1100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "as_of": "2023-09-01",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998208300",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Arnfinn Djukastein"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Arnfinn Djukastein",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2021-03-19",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Dag Jarle Aksnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Dag Jarle Aksnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2024-11-28",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Arnfinn Djukastein"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Arnfinn Djukastein",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2024-11-28",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Hilde Berentsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Hilde Berentsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2024-11-28",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SKUDAL REVISJON & RÅDGIVNING AS (org 897050692)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): SKUDAL REVISJON & RÅDGIVNING AS (org 897050692)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2023-02-01",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ØKONOMIHUSET AS (org 984540671)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998208300/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): ØKONOMIHUSET AS (org 984540671)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998208300",
+      "as_of": "2019-03-18",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 69668647.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 69668647.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 3695560.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 3695560.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 3018607.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 3018607.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 16734125.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 16734125.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 5457232.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5457232.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 11276894.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 11276894.0 NOK (journalnr 2026726985)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998208300 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:04Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919395125",
+        "name": "FISH ME FISKETORGET AS",
+        "address": "Fisketorget, 5014 BERGEN, Norge",
+        "employees": 76
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998208300",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 919395125 overordnetEnhet: 998208300",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998208300",
+      "as_of": "2017-08-10",
+      "first_seen": "2026-10-11T18:02:04Z"
+    }
+  ],
+  "warnings": [
+    "website https://www.fishme.no/ discarded: page does not mention org number or company name"
+  ],
+  "name": "FISH ME FISKETORGET AS",
+  "previous_run": "2026-10-11T18:02:04Z",
+  "changes_since_previous_run": []
+}

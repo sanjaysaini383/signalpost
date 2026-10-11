@@ -1,6 +1,7 @@
 """Shared HTTP client with a hard outbound-request budget, retries and a disk cache."""
 import hashlib
 import json
+import threading
 import time
 from pathlib import Path
 
@@ -17,11 +18,25 @@ class Fetcher:
     def __init__(self, max_requests=DEFAULT_MAX_REQUESTS, cache_dir=None, deadline=None, user_agent="signalpost/0.1"):
         self.max_requests = max_requests
         self.requests_made = 0
+        self._lock = threading.Lock()
+        self.llm_input_tokens = 0
+        self.llm_output_tokens = 0
         self.deadline = deadline  # absolute time.monotonic() value
         self.cache_dir = Path(cache_dir) if cache_dir else None
         if self.cache_dir:
             self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.client = httpx.Client(timeout=20, follow_redirects=True, headers={"User-Agent": user_agent})
+
+    def count_external(self):
+        with self._lock:
+            if self.requests_made >= self.max_requests:
+                raise BudgetExceeded(f"request budget {self.max_requests} exhausted")
+            self.requests_made += 1
+
+    def add_llm_usage(self, usage):
+        with self._lock:
+            self.llm_input_tokens += usage.get("input_tokens", 0)
+            self.llm_output_tokens += usage.get("output_tokens", 0)
 
     def _cache_path(self, url, params):
         key = hashlib.sha1(f"{url}|{sorted((params or {}).items())}".encode()).hexdigest()
@@ -37,9 +52,7 @@ class Fetcher:
             raise BudgetExceeded("time budget exhausted")
         last = None
         for attempt in range(3):
-            if self.requests_made >= self.max_requests:
-                raise BudgetExceeded(f"request budget {self.max_requests} exhausted")
-            self.requests_made += 1
+            self.count_external()
             try:
                 r = self.client.get(url, params=params, headers={"Accept": accept})
             except httpx.HTTPError as e:

@@ -1,0 +1,371 @@
+{
+  "organization_number": "816269172",
+  "generated_at": "2026-10-11T18:04:05Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NATURECO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "navn: NATURECO AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "stiftelsesdato: 2015-11-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "antallAnsatte: 7",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "as_of": "2026-06-11",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Hillevågsveien 101, 4016 STAVANGER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "forretningsadresse: Hillevågsveien 101, 4016 STAVANGER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "phone",
+      "value": "91 35 18 15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "telefon: 91 35 18 15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "email",
+      "value": "anncarls@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "epostadresse: anncarls@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulentvirksomhet vedrørende natur, økologi og kartlegging, og alt som hører naturlig til dette. Fagområdene inkluderer blant annet kartlegging av natur, bekjemping av fremmede arter og informasjonsformidling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "aktivitet: Konsulentvirksomhet vedrørende natur, økologi og kartlegging, og alt som hører naturlig til dette. Fagområdene inkluderer blant annet kartlegging av natur, bekjemping av fremmede arter og informasjons",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Konsulentvirksomhet vedrørende natur, økologi og kartlegging, og alt som hører naturlig til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "vedtektsfestetFormaal: Konsulentvirksomhet vedrørende natur, økologi og kartlegging, og alt som hører naturlig til dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "as_of": "2015-11-20",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816269172",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Anne Elisabeth Carlsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "DAGL (Daglig leder): Anne Elisabeth Carlsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2015-11-20",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Anne Elisabeth Carlsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "LEDE (Styrets leder): Anne Elisabeth Carlsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2026-05-27",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Amalie Louise Pedersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "MEDL (Styremedlem): Amalie Louise Pedersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2026-05-27",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Kåre Inge Hansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "MEDL (Styremedlem): Kåre Inge Hansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2026-05-27",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Elisabeth Tønnessen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "MEDL (Styremedlem): Elisabeth Tønnessen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2026-05-27",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Ida Regine Sørås"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "MEDL (Styremedlem): Ida Regine Sørås",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2026-05-27",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AIDER AS (org 922633452)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816269172/roller",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "REGN (Regnskapsfører): AIDER AS (org 922633452)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816269172",
+      "as_of": "2024-09-06",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 4168953.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4168953.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 481528.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 481528.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 419169.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 419169.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2560264.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "eiendeler.sumEiendeler: 2560264.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 943745.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 943745.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1616519.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1616519.0 NOK (journalnr 2026516734)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816269172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:37Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "913981448",
+        "name": "NATURECO AS",
+        "address": "Hillevågsveien 101, 4016 STAVANGER, Norge",
+        "employees": 7
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816269172",
+      "retrieved_at": "2026-10-11T18:04:05Z",
+      "evidence": "underenhet 913981448 overordnetEnhet: 816269172",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816269172",
+      "as_of": "2014-08-07",
+      "first_seen": "2026-10-11T18:01:37Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NATURECO AS",
+  "previous_run": "2026-10-11T18:01:37Z",
+  "changes_since_previous_run": []
+}

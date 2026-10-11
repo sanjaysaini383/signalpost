@@ -1,0 +1,132 @@
+{
+  "organization_number": "825166092",
+  "generated_at": "2026-10-11T18:04:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HINRICHSEN FLOWGRID",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "navn: HINRICHSEN FLOWGRID",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sverdrups gate 3, 4007 STAVANGER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "forretningsadresse: Sverdrups gate 3, 4007 STAVANGER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.990 Andre personlige tjenester ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "naeringskode1: 96.990 Andre personlige tjenester ikke nevnt annet sted",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Behandling av salg hos allerede eksisterende butikker, herunder å sette opp eksempelvis betalingstjenester i nettbutikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "aktivitet: Behandling av salg hos allerede eksisterende butikker, herunder å sette opp eksempelvis betalingstjenester i nettbutikk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825166092",
+      "first_seen": "2026-10-11T18:02:53Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Christian Hinrichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825166092/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "INNH (Innehaver): Christian Hinrichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825166092",
+      "as_of": "2020-06-12",
+      "first_seen": "2026-10-11T18:02:53Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HINRICHSEN FLOWGRID",
+  "previous_run": "2026-10-11T18:02:53Z",
+  "changes_since_previous_run": []
+}

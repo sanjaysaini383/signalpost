@@ -1,0 +1,453 @@
+{
+  "organization_number": "915167837",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SPAREBANKSTIFTELSEN SPYDEBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: SPAREBANKSTIFTELSEN SPYDEBERG",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Stiftelse (STI)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: STI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-03-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "stiftelsesdato: 2015-03-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-04-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-04-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Stasjonsgata 29, 1820 SPYDEBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Stasjonsgata 29, 1820 SPYDEBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 114, 1804 SPYDEBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "postadresse: Postboks 114, 1804 SPYDEBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "64.321 Finansstiftelser",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 64.321 Finansstiftelser",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "website",
+      "value": "www.sparebankstiftelsenspydeberg.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "hjemmeside: www.sparebankstiftelsenspydeberg.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "email",
+      "value": "post@sparebankstiftelsenspydeberg.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "epostadresse: post@sparebankstiftelsenspydeberg.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie og forvalte egenkapitalbevis sparebankstiftelsen ble tilført ved opprettelsen, og utøve et langsiktig og stabilt eierskap i Askim og Spydeberg Sparebank, samt gi bidrag til allmennyttige formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Eie og forvalte egenkapitalbevis sparebankstiftelsen ble tilført ved opprettelsen, og utøve et langsiktig og stabilt eierskap i Askim og Spydeberg Sparebank, samt gi bidrag til allmennyttige formål.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Forvalte egenkapitalbevis sparebankstiftelsen ble tilført ved opprettelsen, og utøve et langsiktig og stabilt eierskap i Askim og Spydeberg Sparebank. Stiftelsen kan for øvrig plasssere midlene på en hensiktsmessig og betryggende måte ut fra hensynet til sikkerhet, risikospredning, likviditet og avkastning, og med sikte på å oppnå en markedsmessig avkastning på egenkapitalen.   Stiftelsen kan disponere overskudd og utdele utbyttemidler til allmennyttige formål. Stiftelsen skal i sin utdeling av utbytemidler fortrinnsvis ta hensyn til det distriktet som har bygget opp kapitalen i Spydeberg Sparebank.   Ved sin virksomhet skal stiftelsen gjennom sitt eierskap i Askim og Spydeberg Sparebank og videreføring av sparebanktradisjoner sikre et godt regionalt forankret sparebanktilbud. For øvrig kan stiftelsen utøve annen virksomhet som er forenlig med angitte formål og de rammer som til enhver tid følger av regelverket for sparebankstiftelser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "vedtektsfestetFormaal: Forvalte egenkapitalbevis sparebankstiftelsen ble tilført ved opprettelsen, og utøve et langsiktig og stabilt eierskap i Askim og Spydeberg Sparebank. Stiftelsen kan for øvrig plasssere midlene på en ",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 114888000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "kapital.belop: 114888000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "as_of": "2015-04-01",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 915167837",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Hege Unnerud Bergersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "DAGL (Daglig leder): Hege Unnerud Bergersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2023-05-11",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Ulf Nygaard"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "LEDE (Styrets leder): Ulf Nygaard",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Hege Unnerud Bergersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Hege Unnerud Bergersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Valborg Lippestad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Valborg Lippestad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Torgeir Ruud"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Torgeir Ruud",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Knut Hagen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "MEDL (Styremedlem): Knut Hagen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Adele Nettelhorst Jacobsson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "VARA (Varamedlem): Adele Nettelhorst Jacobsson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Geir Gjønnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "VARA (Varamedlem): Geir Gjønnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2026-08-18",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "AS REVISION (org 991096957)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REVI (Revisor): AS REVISION (org 991096957)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2025-11-27",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "BRÆNDS ØKONOMI AS (org 987660376)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915167837/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "REGN (Regnskapsfører): BRÆNDS ØKONOMI AS (org 987660376)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 915167837",
+      "as_of": "2015-12-21",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -3833394.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -3833394.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 15712193.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 15712193.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 271091728.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "eiendeler.sumEiendeler: 271091728.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 269324706.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 269324706.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1767022.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1767022.0 NOK (journalnr 2026570156)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 915167837 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "921849923",
+        "name": "SPAREBANKSTIFTELSEN SPYDEBERG",
+        "address": "Stasjonsgata 29, 1820 SPYDEBERG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=915167837",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underenhet 921849923 overordnetEnhet: 915167837",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 915167837",
+      "as_of": "2018-12-08",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.sparebankstiftelsenspydeberg.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "page text contains company name 'sparebankstiftelsen spydeberg'",
+      "explanation": "Page from https://www.sparebankstiftelsenspydeberg.no/, the website declared in Enhetsregisteret for organisation number 915167837; page text contains company name 'sparebankstiftelsen spydeberg'",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Sparebankstiftelsen Spydeberg. \nVi mottar hvert år deler av overskuddet fra Askim & Spydeberg Sparebank, som vi deler ut til gode lokale formål.",
+      "source_url": "https://www.sparebankstiftelsenspydeberg.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "meta description: Sparebankstiftelsen Spydeberg. \nVi mottar hvert år deler av overskuddet fra Askim & Spydeberg Sparebank, som vi deler ut til gode lokale formål.",
+      "explanation": "Page from https://www.sparebankstiftelsenspydeberg.no/, the website declared in Enhetsregisteret for organisation number 915167837; page text contains company name 'sparebankstiftelsen spydeberg'",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@sparebankstiftelsenspydeberg.no",
+      "source_url": "https://www.sparebankstiftelsenspydeberg.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "mailto:post@sparebankstiftelsenspydeberg.no",
+      "explanation": "Page from https://www.sparebankstiftelsenspydeberg.no/, the website declared in Enhetsregisteret for organisation number 915167837; page text contains company name 'sparebankstiftelsen spydeberg'",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/asbanken",
+      "source_url": "https://www.sparebankstiftelsenspydeberg.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.facebook.com/asbanken",
+      "explanation": "Page from https://www.sparebankstiftelsenspydeberg.no/, the website declared in Enhetsregisteret for organisation number 915167837; page text contains company name 'sparebankstiftelsen spydeberg'",
+      "first_seen": "2026-10-11T18:01:51Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/as_banken",
+      "source_url": "https://www.sparebankstiftelsenspydeberg.no/",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "link on page: https://www.instagram.com/as_banken",
+      "explanation": "Page from https://www.sparebankstiftelsenspydeberg.no/, the website declared in Enhetsregisteret for organisation number 915167837; page text contains company name 'sparebankstiftelsen spydeberg'",
+      "first_seen": "2026-10-11T18:01:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SPAREBANKSTIFTELSEN SPYDEBERG",
+  "previous_run": "2026-10-11T18:01:51Z",
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,146 @@
+{
+  "organization_number": "818508042",
+  "generated_at": "2026-10-11T18:04:13Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOBEK PRO-BYGG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "navn: SOBEK PRO-BYGG",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kvitemyrvegen 5, 4056 TANANGER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "forretningsadresse: Kvitemyrvegen 5, 4056 TANANGER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Oppføring av bygninger.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "aktivitet: Oppføring av bygninger.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818508042",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Pawel Krzysztof Sobek"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818508042/roller",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "INNH (Innehaver): Pawel Krzysztof Sobek",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818508042",
+      "as_of": "2017-02-04",
+      "first_seen": "2026-10-11T18:02:39Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "918557954",
+        "name": "SOBEK PRO-BYGG",
+        "address": "Kvitemyrvegen 5, 4056 TANANGER, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818508042",
+      "retrieved_at": "2026-10-11T18:04:13Z",
+      "evidence": "underenhet 918557954 overordnetEnhet: 818508042",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818508042",
+      "as_of": "2017-02-13",
+      "first_seen": "2026-10-11T18:02:39Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SOBEK PRO-BYGG",
+  "previous_run": "2026-10-11T18:02:39Z",
+  "changes_since_previous_run": []
+}

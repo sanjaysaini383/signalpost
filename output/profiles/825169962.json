@@ -1,0 +1,132 @@
+{
+  "organization_number": "825169962",
+  "generated_at": "2026-10-11T18:04:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DANIEL SZAROLKIEWICZ CHEF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "navn: DANIEL SZAROLKIEWICZ CHEF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Bolignummer 303, Elisabeth Grannemans vei 26, 1461 LØRENSKOG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "forretningsadresse: Bolignummer 303, Elisabeth Grannemans vei 26, 1461 LØRENSKOG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.990 Andre personlige tjenester ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "naeringskode1: 96.990 Andre personlige tjenester ikke nevnt annet sted",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Privat chef. Leie meg selv på aragementer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "aktivitet: Privat chef. Leie meg selv på aragementer.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825169962",
+      "first_seen": "2026-10-11T18:01:55Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Daniel Szarolkiewicz"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825169962/roller",
+      "retrieved_at": "2026-10-11T18:04:06Z",
+      "evidence": "INNH (Innehaver): Daniel Szarolkiewicz",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825169962",
+      "as_of": "2020-06-09",
+      "first_seen": "2026-10-11T18:01:55Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DANIEL SZAROLKIEWICZ CHEF",
+  "previous_run": "2026-10-11T18:01:55Z",
+  "changes_since_previous_run": []
+}

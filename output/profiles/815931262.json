@@ -1,0 +1,317 @@
+{
+  "organization_number": "815931262",
+  "generated_at": "2026-10-11T18:04:18Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "INSJ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "navn: INSJ AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-09-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "stiftelsesdato: 2015-09-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-09-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-09-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Frydenbergveien 2A, 1415 OPPEGÅRD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "forretningsadresse: Frydenbergveien 2A, 1415 OPPEGÅRD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "63.100 Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "naeringskode1: 63.100 Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "website",
+      "value": "insj.as",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "hjemmeside: insj.as",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Lage digitale produkter som nettsider, applikasjoner og andre teknologiløsninger, inklusive relevant forskning og konsulentvirksomhet, samt agenturvirksomhet, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak, samt tilby tjenester innen rådgivning, bedriftsrådgivning, agentformidling, eventvirksomhet og alt annet som assosieres innen samme område og annet som naturlig hører innunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "aktivitet: Lage digitale produkter som nettsider, applikasjoner og andre teknologiløsninger, inklusive relevant forskning og konsulentvirksomhet, samt agenturvirksomhet, herunder å delta i andre selskap med lign",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Lage digitale produkter som nettsider, applikasjoner og andre teknologiløsninger, inklusive relevant forskning og konsulentvirksomhet, samt agenturvirksomhet, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak, samt tilby tjenester innen rådgivning, bedriftsrådgivning, agentformidling, eventvirksomhet og alt annet som assosieres innen samme område og annet som naturlig hører innunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "vedtektsfestetFormaal: Lage digitale produkter som nettsider, applikasjoner og andre teknologiløsninger, inklusive relevant forskning og konsulentvirksomhet, samt agenturvirksomhet, herunder å delta i andre selskap med lign",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "as_of": "2015-09-21",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Eirik Stien"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262/roller",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "DAGL (Daglig leder): Eirik Stien",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815931262",
+      "as_of": "2015-09-21",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Eirik Stien"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262/roller",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "LEDE (Styrets leder): Eirik Stien",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815931262",
+      "as_of": "2015-09-21",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Tor Martin Berle Bjerkerud"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815931262/roller",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "MEDL (Styremedlem): Tor Martin Berle Bjerkerud",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815931262",
+      "as_of": "2015-09-21",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 33900.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 33900.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -13188.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -13188.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1538559.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1538559.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3525029.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "eiendeler.sumEiendeler: 3525029.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 3451526.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 3451526.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 73503.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 73503.0 NOK (journalnr 2026552435)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815931262 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "915965032",
+        "name": "INSJ AS",
+        "address": "Frydenbergveien 2A, 1415 OPPEGÅRD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815931262",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "underenhet 915965032 overordnetEnhet: 815931262",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 815931262",
+      "as_of": "2015-09-23",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://insj.as/",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "page text contains organisation number 815931262",
+      "explanation": "Page from https://insj.as/, the website declared in Enhetsregisteret for organisation number 815931262; page text contains organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    },
+    {
+      "field": "website_email",
+      "value": "insj@insj.as",
+      "source_url": "https://insj.as/",
+      "retrieved_at": "2026-10-11T18:04:18Z",
+      "evidence": "mailto:insj@insj.as",
+      "explanation": "Page from https://insj.as/, the website declared in Enhetsregisteret for organisation number 815931262; page text contains organisation number 815931262",
+      "first_seen": "2026-10-11T18:03:20Z"
+    }
+  ],
+  "warnings": [],
+  "name": "INSJ AS",
+  "previous_run": "2026-10-11T18:03:20Z",
+  "changes_since_previous_run": []
+}

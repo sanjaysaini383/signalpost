@@ -3,7 +3,7 @@ name = "signalpost"
 version = "0.1.0"
 description = "Agent that builds sourced profiles for Norwegian companies from an organisation number"
 requires-python = ">=3.10"
-dependencies = ["httpx>=0.27"]
+dependencies = ["httpx>=0.27", "anthropic>=1.0"]
 
 [project.optional-dependencies]
 dev = ["pytest"]

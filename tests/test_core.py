@@ -52,3 +52,45 @@ def test_diff_detects_change():
     assert diff_profiles(prof(5), prof(5)) == []
     new = apply_history(prof(7), prof(5))
     assert new["changes_since_previous_run"][0]["new"] == 7
+
+
+from signalpost.website import normalize_url, parse_page, ties_to_company, verify_llm_items, website_facts
+
+
+def test_normalize_url():
+    assert normalize_url("www.equinor.com") == "https://www.equinor.com/"
+    assert normalize_url("http://a.no/x") == "http://a.no/x"
+    assert normalize_url("post@a.no") is None
+    assert normalize_url("") is None
+
+
+def test_ties_to_company():
+    assert ties_to_company("923609016", "EQUINOR ASA", ["Org.nr 923 609 016"])
+    assert ties_to_company("923609016", "EQUINOR ASA", ["Welcome to Equinor"])
+    assert ties_to_company("923609016", "KJØITA NÆRING AS", ["a page about cats"]) is None
+
+
+def test_parse_page_extracts_meta_and_links():
+    p = parse_page('<title>X</title><meta name="description" content="hello"><a href="mailto:a@b.no">m</a><script>no</script>hi')
+    assert p.title == "X" and p.meta["description"] == "hello" and p.links == ["mailto:a@b.no"] and p.text == "m hi"
+
+
+def test_llm_items_dropped_when_quote_not_on_page():
+    data = {"business_summary": {"value": "Sells fish", "quote": "We sell fresh fish daily"},
+            "products_services": [{"value": "Cars", "quote": "We build luxury cars worldwide"}]}
+    kept = verify_llm_items(data, [("u", "Hello. We sell   fresh fish daily to everyone.")])
+    assert [k[0] for k in kept] == ["business_summary"]
+
+
+class _F:  # fetcher stub: website without any tie to the company
+    class client:
+        headers = {}
+
+    def get(self, url, params=None, accept=None):
+        return (404, "") if url.endswith("robots.txt") else (200, "<title>Cats</title>cats everywhere")
+
+
+def test_wrong_site_is_discarded():
+    w = []
+    out = website_facts(_F(), "923609016", {"hjemmeside": "cats.example", "navn": "EQUINOR ASA"}, "t", w)
+    assert out == [] and "discarded" in w[0]

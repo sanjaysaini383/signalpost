@@ -1,0 +1,413 @@
+{
+  "organization_number": "819854602",
+  "generated_at": "2026-10-11T18:04:14Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKATFIRMAET TORGERSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "navn: ADVOKATFIRMAET TORGERSEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-10-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "stiftelsesdato: 2017-10-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "antallAnsatte: 7",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Olav Brunborgs vei 6, 1396 BILLINGSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "forretningsadresse: Olav Brunborgs vei 6, 1396 BILLINGSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "naeringskode1: 69.100 Juridisk tjenesteyting",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website",
+      "value": "www.advokattorgersen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "hjemmeside: www.advokattorgersen.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "phone",
+      "value": "986 72 929",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "telefon: 986 72 929",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "email",
+      "value": "post@advokattorgersen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "epostadresse: post@advokattorgersen.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Advokatvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "aktivitet: Advokatvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Advokatvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "vedtektsfestetFormaal: Advokatvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "as_of": "2017-11-06",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819854602",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Anette Western Torgersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "DAGL (Daglig leder): Anette Western Torgersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819854602",
+      "as_of": "2017-11-06",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Anette Western Torgersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "LEDE (Styrets leder): Anette Western Torgersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819854602",
+      "as_of": "2017-11-06",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SANT REVISJON AS (org 996123057)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REVI (Revisor): SANT REVISJON AS (org 996123057)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819854602",
+      "as_of": "2018-01-11",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SKYA REGNSKAP AS (org 918097902)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819854602/roller",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "REGN (Regnskapsfører): SKYA REGNSKAP AS (org 918097902)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819854602",
+      "as_of": "2024-01-02",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 16631516.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 16631516.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 8820771.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 8820771.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 6987153.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 6987153.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 11723529.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "eiendeler.sumEiendeler: 11723529.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 2818314.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2818314.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 8905216.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 8905216.0 NOK (journalnr 2026408146)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819854602 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919913428",
+        "name": "ADVOKATFIRMAET TORGERSEN AS",
+        "address": "Olav Brunborgs vei 6, 1396 BILLINGSTAD, Norge",
+        "employees": 7
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819854602",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "underenhet 919913428 overordnetEnhet: 819854602",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819854602",
+      "as_of": "2017-11-15",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "page text contains company name 'advokatfirmaet torgersen'",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Advokat Torgersen har spesialisert seg innen personskadeerstatning, voldsoffererstatning og trygderett, og har en internasjonal mastergrad med spesialisering innen forhandling og mekling.",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "meta description: Advokat Torgersen har spesialisert seg innen personskadeerstatning, voldsoffererstatning og trygderett, og har en internasjonal mastergrad med spesialisering innen forhandling og mekling.",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "at@advokattorgersen.no",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "mailto:at@advokattorgersen.no",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@advokattorgersen.no",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "mailto:post@advokattorgersen.no",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4798672929",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "tel:+4798672929",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "004798672929",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "tel:004798672929",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/advokattorgersen",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "link on page: https://www.facebook.com/advokattorgersen",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    },
+    {
+      "field": "social:linkedin",
+      "value": "https://www.linkedin.com/company/advokatfirmaet-torgersen",
+      "source_url": "https://www.advokattorgersen.no/",
+      "retrieved_at": "2026-10-11T18:04:14Z",
+      "evidence": "link on page: https://www.linkedin.com/company/advokatfirmaet-torgersen",
+      "explanation": "Page from https://www.advokattorgersen.no/, the website declared in Enhetsregisteret for organisation number 819854602; page text contains company name 'advokatfirmaet torgersen'",
+      "first_seen": "2026-10-11T18:02:52Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ADVOKATFIRMAET TORGERSEN AS",
+  "previous_run": "2026-10-11T18:02:52Z",
+  "changes_since_previous_run": []
+}
