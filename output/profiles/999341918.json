@@ -1,0 +1,276 @@
+{
+  "organization_number": "999341918",
+  "generated_at": "2026-10-11T18:06:46Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BFT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "navn: BFT AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "stiftelsesdato: 2013-01-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-01-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-01-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Industriveien 22, 3300 HOKKSUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "forretningsadresse: Industriveien 22, 3300 HOKKSUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie, kjøp og salg av aksjer og fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "aktivitet: Eie, kjøp og salg av aksjer og fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie, kjøp og salg av aksjer og fast eiendom og det som naturlig hører inn under dette, samt deltagelse i andre virksomheter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "vedtektsfestetFormaal: Eie, kjøp og salg av aksjer og fast eiendom og det som naturlig hører inn under dette, samt deltagelse i andre virksomheter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 500000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "kapital.belop: 500000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999341918",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Remy Eek Bjelde"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918/roller",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "LEDE (Styrets leder): Remy Eek Bjelde",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999341918",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Sigurd Flaget"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918/roller",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "MEDL (Styremedlem): Sigurd Flaget",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999341918",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Torger Martin Kopland Terum"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999341918/roller",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "MEDL (Styremedlem): Torger Martin Kopland Terum",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999341918",
+      "as_of": "2013-01-08",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -208553.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -208553.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -517772.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -517772.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 19490385.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "eiendeler.sumEiendeler: 19490385.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 10906750.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 10906750.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 8583635.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999341918",
+      "retrieved_at": "2026-10-11T18:06:46Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 8583635.0 NOK (journalnr 2026610989)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999341918 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:46Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BFT AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

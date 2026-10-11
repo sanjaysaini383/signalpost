@@ -1,0 +1,354 @@
+{
+  "organization_number": "998553083",
+  "generated_at": "2026-10-11T18:05:43Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRAM INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "navn: FRAM INVEST AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "stiftelsesdato: 2012-06-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Framvegen 2, 2264 GRINDER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "forretningsadresse: Framvegen 2, 2264 GRINDER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering i aksjer, fast eiendom og andre objekter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "aktivitet: Investering i aksjer, fast eiendom og andre objekter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering i aksjer, fast eiendom og andre objekter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "vedtektsfestetFormaal: Investering i aksjer, fast eiendom og andre objekter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 150000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "kapital.belop: 150000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "as_of": "2012-12-19",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "erIKonsern: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553083",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Leif Robert Kvesetberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083/roller",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "LEDE (Styrets leder): Leif Robert Kvesetberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553083",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Tom Arne Kvesetberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083/roller",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "MEDL (Styremedlem): Tom Arne Kvesetberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553083",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Evy Westfjeld"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083/roller",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "VARA (Varamedlem): Evy Westfjeld",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553083",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "FRAM REVISJON AS (org 957668933)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553083/roller",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "REVI (Revisor): FRAM REVISJON AS (org 957668933)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553083",
+      "as_of": "2025-09-18",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:revenue",
+      "value": {
+        "amount": 663168469.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 663168469.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:operating_profit",
+      "value": {
+        "amount": 5732533.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 5732533.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:net_profit",
+      "value": {
+        "amount": -4509062.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -4509062.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:total_assets",
+      "value": {
+        "amount": 278418526.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "eiendeler.sumEiendeler: 278418526.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:equity",
+      "value": {
+        "amount": 49587311.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 49587311.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:konsern:total_debt",
+      "value": {
+        "amount": 228831215.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 228831215.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (konsern) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -133624.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -133624.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 2120417.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 2120417.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 41187573.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "eiendeler.sumEiendeler: 41187573.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 26582901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 26582901.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 14604672.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553083",
+      "retrieved_at": "2026-10-11T18:05:43Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 14604672.0 NOK (journalnr 2026387998)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553083 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:43Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FRAM INVEST AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

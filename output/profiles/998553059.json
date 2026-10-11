@@ -1,0 +1,303 @@
+{
+  "organization_number": "998553059",
+  "generated_at": "2026-10-11T18:06:27Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRISØR RONNY PETTERSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "navn: FRISØR RONNY PETTERSEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "stiftelsesdato: 2012-06-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Nygaardsgata 21, 1606 FREDRIKSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "forretningsadresse: Nygaardsgata 21, 1606 FREDRIKSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.210 Frisering og barbering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "naeringskode1: 96.210 Frisering og barbering",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Frisørvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "aktivitet: Frisørvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å yte tjenester og levere varer knyttet til virksomheten som frisør samt delta i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "vedtektsfestetFormaal: Å yte tjenester og levere varer knyttet til virksomheten som frisør samt delta i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998553059",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ronny Pettersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059/roller",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "DAGL (Daglig leder): Ronny Pettersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553059",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Ronny Pettersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059/roller",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "LEDE (Styrets leder): Ronny Pettersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553059",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Hege Synøve Pettersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059/roller",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "VARA (Varamedlem): Hege Synøve Pettersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553059",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "WICAN REGNSKAP AS (org 987430478)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998553059/roller",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "REGN (Regnskapsfører): WICAN REGNSKAP AS (org 987430478)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998553059",
+      "as_of": "2016-06-10",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2367548.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2367548.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 420068.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 420068.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 387567.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 387567.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 982284.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "eiendeler.sumEiendeler: 982284.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 462007.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 462007.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 520278.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 520278.0 NOK (journalnr 2026446723)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998553059 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:27Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "872793992",
+        "name": "FRISØR RONNY PETTERSEN AS",
+        "address": "Nygaardsgata 21, 1606 FREDRIKSTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998553059",
+      "retrieved_at": "2026-10-11T18:06:27Z",
+      "evidence": "underenhet 872793992 overordnetEnhet: 998553059",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998553059",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-11T18:06:27Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FRISØR RONNY PETTERSEN AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

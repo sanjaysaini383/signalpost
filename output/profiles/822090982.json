@@ -1,0 +1,250 @@
+{
+  "organization_number": "822090982",
+  "generated_at": "2026-10-11T18:05:37Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AMBOLTEN HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "navn: AMBOLTEN HOLDING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-01-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "stiftelsesdato: 2019-01-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-01-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-01-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Amboltveien 48, 4311 HOMMERSÅK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "forretningsadresse: Amboltveien 48, 4311 HOMMERSÅK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Passiv part som starter og/eller eier andre aksjeselskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "aktivitet: Passiv part som starter og/eller eier andre aksjeselskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å investere i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "vedtektsfestetFormaal: Å investere i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 40000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "kapital.belop: 40000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "as_of": "2019-01-21",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822090982",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Jan Roger Johansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982/roller",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "DAGL (Daglig leder): Jan Roger Johansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822090982",
+      "as_of": "2019-01-21",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Jan Roger Johansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822090982/roller",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "LEDE (Styrets leder): Jan Roger Johansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822090982",
+      "as_of": "2019-01-21",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -12927.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -12927.0 NOK (journalnr 2026730538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822090982 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 253730.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 253730.0 NOK (journalnr 2026730538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822090982 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3204347.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "eiendeler.sumEiendeler: 3204347.0 NOK (journalnr 2026730538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822090982 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 329321.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 329321.0 NOK (journalnr 2026730538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822090982 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:37Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2875026.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822090982",
+      "retrieved_at": "2026-10-11T18:05:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2875026.0 NOK (journalnr 2026730538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822090982 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:37Z"
+    }
+  ],
+  "warnings": [],
+  "name": "AMBOLTEN HOLDING AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

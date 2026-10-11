@@ -1,0 +1,353 @@
+{
+  "organization_number": "821153042",
+  "generated_at": "2026-10-11T18:05:34Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KIRKENS BYMISJON MILJØ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "navn: KIRKENS BYMISJON MILJØ AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "founded",
+      "value": "2018-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "stiftelsesdato: 2018-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2018-07-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "employees",
+      "value": 31,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "antallAnsatte: 31",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Støperigata 7, 3040 DRAMMEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "forretningsadresse: Støperigata 7, 3040 DRAMMEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "38.210 Materialgjenvinning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "naeringskode1: 38.210 Materialgjenvinning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Skape inntekter til Kirkens Bymisjons arbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "aktivitet: Skape inntekter til Kirkens Bymisjons arbeid.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Skape inntekter til Kirkens Bymisjons arbeid gjennom å bidra til et bedre miljø gjennom blant annet gjenbruk og gjenvinning, og samtidig være arbeidstreningsarena for mennesker med nedsatt arbeidsevne. Selskapets virksomhet er å drive tekstilinnsamling og tilliggende virksomhet innenfor Kirkens Bymisjons arbeidsområde i tråd med de verdier og de satsningsområder Kirkens Bymisjon til enhver tid fastsetter. Et eventuelt overskudd fra selskapets skal enten benyttes til å styrke selskapets virksomhet ved videreutvikling av virksomheten, eller utbetales som utbytte til eierne som alle er ideelle stiftelser. Eierne skal anvende utbyttet i tråd med sine ideelle formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "vedtektsfestetFormaal: Skape inntekter til Kirkens Bymisjons arbeid gjennom å bidra til et bedre miljø gjennom blant annet gjenbruk og gjenvinning, og samtidig være arbeidstreningsarena for mennesker med nedsatt arbeidsevne",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 3000000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "kapital.belop: 3000000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "as_of": "2019-06-06",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821153042",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Hege Stenmarck"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "DAGL (Daglig leder): Hege Stenmarck",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2019-08-20",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Ragnhild Larsen-Nyhus Haaning"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "LEDE (Styrets leder): Ragnhild Larsen-Nyhus Haaning",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2026-06-01",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Marit Elisabet Gunnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "MEDL (Styremedlem): Marit Elisabet Gunnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2026-06-01",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Jan Harald Bråthen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "MEDL (Styremedlem): Jan Harald Bråthen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2026-06-01",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Gunhild Røsten Solberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "MEDL (Styremedlem): Gunhild Røsten Solberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2026-06-01",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Morten Persen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "MEDL (Styremedlem): Morten Persen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2026-06-01",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "PRICEWATERHOUSECOOPERS AS (org 987009713)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821153042/roller",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "REVI (Revisor): PRICEWATERHOUSECOOPERS AS (org 987009713)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821153042",
+      "as_of": "2019-01-29",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 25234032.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 25234032.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -7896216.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -7896216.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -8059116.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -8059116.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 4455912.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "eiendeler.sumEiendeler: 4455912.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -10389749.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -10389749.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 14845661.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 14845661.0 NOK (journalnr 2026704189)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821153042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:34Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "922138435",
+        "name": "KIRKENS BYMISJON MILJØ AS",
+        "address": "Støperigata 7, 3040 DRAMMEN, Norge",
+        "employees": 31
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821153042",
+      "retrieved_at": "2026-10-11T18:05:34Z",
+      "evidence": "underenhet 922138435 overordnetEnhet: 821153042",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 821153042",
+      "as_of": "2019-01-30",
+      "first_seen": "2026-10-11T18:05:34Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KIRKENS BYMISJON MILJØ AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

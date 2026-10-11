@@ -1,0 +1,159 @@
+{
+  "organization_number": "823830262",
+  "generated_at": "2026-10-11T18:05:38Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HILDE KVESTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "navn: HILDE KVESTAD",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Reisetevegen 71, 5776 NÅ, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "forretningsadresse: Reisetevegen 71, 5776 NÅ, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.240 Dyrking av kjernefrukter og steinfrukter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "naeringskode1: 01.240 Dyrking av kjernefrukter og steinfrukter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Fruktproduksjon. Utleie av lokaler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "aktivitet: Fruktproduksjon. Utleie av lokaler.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823830262",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Hilde Kvestad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262/roller",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "INNH (Innehaver): Hilde Kvestad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823830262",
+      "as_of": "2019-11-16",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "FONNA ØKONOMI AS (org 922866384)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823830262/roller",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "REGN (Regnskapsfører): FONNA ØKONOMI AS (org 922866384)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823830262",
+      "as_of": "2019-11-16",
+      "first_seen": "2026-10-11T18:05:38Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "920567452",
+        "name": "HILDE KVESTAD",
+        "address": "Reisetevegen 71, 5776 NÅ, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823830262",
+      "retrieved_at": "2026-10-11T18:05:38Z",
+      "evidence": "underenhet 920567452 overordnetEnhet: 823830262",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823830262",
+      "as_of": "2018-03-08",
+      "first_seen": "2026-10-11T18:05:38Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HILDE KVESTAD",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

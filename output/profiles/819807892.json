@@ -1,0 +1,342 @@
+{
+  "organization_number": "819807892",
+  "generated_at": "2026-10-11T18:06:38Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MEDIVATUS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "navn: MEDIVATUS AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "founded",
+      "value": "1970-11-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "stiftelsesdato: 1970-11-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 1995-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "employees",
+      "value": 38,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "antallAnsatte: 38",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Orkidehøgda 3, 3050 MJØNDALEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "forretningsadresse: Orkidehøgda 3, 3050 MJØNDALEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 113, 3051 MJØNDALEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "postadresse: Postboks 113, 3051 MJØNDALEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.380 Engroshandel med andre næringsmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "naeringskode1: 46.380 Engroshandel med andre næringsmidler",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "website",
+      "value": "www.validusengros.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "hjemmeside: www.validusengros.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "phone",
+      "value": "32 23 11 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "telefon: 32 23 11 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "email",
+      "value": "ordrekontor@validusengros.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "epostadresse: ordrekontor@validusengros.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Forretningsvirksomhet med import og omsetning av helseprodukter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "aktivitet: Forretningsvirksomhet med import og omsetning av helseprodukter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Forretningsvirksomhet med import og omsetning av helseprodukter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "vedtektsfestetFormaal: Forretningsvirksomhet med import og omsetning av helseprodukter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 770000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "kapital.belop: 770000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "as_of": "2024-12-09",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "erIKonsern: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Audun Holt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892/roller",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "LEDE (Styrets leder): Audun Holt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819807892",
+      "as_of": "2026-06-29",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "MOA REVISJON AS (org 991456147)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819807892/roller",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "REVI (Revisor): MOA REVISJON AS (org 991456147)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819807892",
+      "as_of": "2025-11-15",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 643701462.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 643701462.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 2144915.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 2144915.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 450597.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 450597.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 211461138.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "eiendeler.sumEiendeler: 211461138.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 6366090.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 6366090.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 205095048.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 205095048.0 NOK (journalnr 2026536515)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819807892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "973259016",
+        "name": "MEDIVATUS AS",
+        "address": "Orkidehøgda 3, 3050 MJØNDALEN, Norge",
+        "employees": 38
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819807892",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "underenhet 973259016 overordnetEnhet: 819807892",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819807892",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.validusengros.no/",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "page text contains organisation number 819807892",
+      "explanation": "Page from https://www.validusengros.no/, the website declared in Enhetsregisteret for organisation number 819807892; page text contains organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    },
+    {
+      "field": "social:linkedin",
+      "value": "https://www.linkedin.com/company/31250753",
+      "source_url": "https://www.validusengros.no/",
+      "retrieved_at": "2026-10-11T18:06:38Z",
+      "evidence": "link on page: https://www.linkedin.com/company/31250753",
+      "explanation": "Page from https://www.validusengros.no/, the website declared in Enhetsregisteret for organisation number 819807892; page text contains organisation number 819807892",
+      "first_seen": "2026-10-11T18:06:38Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MEDIVATUS AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

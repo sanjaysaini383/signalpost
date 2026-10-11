@@ -1,0 +1,403 @@
+{
+  "organization_number": "998297702",
+  "generated_at": "2026-10-11T18:06:44Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "AGIL KOMPETANSE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "navn: AGIL KOMPETANSE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-01-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "stiftelsesdato: 2012-01-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-05-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "antallAnsatte: 8",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "as_of": "2025-10-15",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kopstadveien 19B, 3180 NYKIRKE, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "forretningsadresse: Kopstadveien 19B, 3180 NYKIRKE, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "69.202 Regnskapsføring og bokføring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "naeringskode1: 69.202 Regnskapsføring og bokføring",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "website",
+      "value": "www.agilkompetanse.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "hjemmeside: www.agilkompetanse.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "phone",
+      "value": "33 07 19 80",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "telefon: 33 07 19 80",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "email",
+      "value": "post@agilkompetanse.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "epostadresse: post@agilkompetanse.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Regnskap og rådgivning. Agenturhandel med programvare.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "aktivitet: Regnskap og rådgivning. Agenturhandel med programvare.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av programvare, kursvirksomhet, regnskapsføring for andre, rådgivningstjenester og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskap med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "vedtektsfestetFormaal: Salg av programvare, kursvirksomhet, regnskapsføring for andre, rådgivningstjenester og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskap med lignende virksomhet, ",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 450000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "kapital.belop: 450000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "as_of": "2012-05-12",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998297702",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Harald Kjær Moskvil"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "DAGL (Daglig leder): Harald Kjær Moskvil",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2012-05-12",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Harald Kjær Moskvil"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "LEDE (Styrets leder): Harald Kjær Moskvil",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2026-06-24",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Linda Trondsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Linda Trondsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2026-06-24",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Inge Kvalsund"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Inge Kvalsund",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2026-06-24",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Alexander Hansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "VARA (Varamedlem): Alexander Hansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2026-06-24",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "BDT VIKEN AS (org 980995151)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998297702/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "REVI (Revisor): BDT VIKEN AS (org 980995151)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998297702",
+      "as_of": "2012-05-12",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 8060039.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 8060039.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1365154.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1365154.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1108694.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1108694.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 4183502.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "eiendeler.sumEiendeler: 4183502.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1730823.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1730823.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2452678.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2452678.0 NOK (journalnr 2026455743)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998297702 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "972238732",
+        "name": "AGIL KOMPETANSE AS",
+        "address": "Kopstadveien 19B, 3180 NYKIRKE, Norge",
+        "employees": 8
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998297702",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underenhet 972238732 overordnetEnhet: 998297702",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998297702",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.agilkompetanse.no/",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "page text contains company name 'agil kompetanse'",
+      "explanation": "Page from https://www.agilkompetanse.no/, the website declared in Enhetsregisteret for organisation number 998297702; page text contains company name 'agil kompetanse'",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "website_description",
+      "value": "KOMPETANSE SOM HOLDER DEG oppdatert. Agil Kompetanse AS samler tre spesialiserte avdelinger under ett tak –Agil Regnskap, Skifteplan og Eierskifte. Vi kombinerer fagkunnskap og programvare som forenkler hverdagen for kundene våre. VÅRE AVDELINGER TRE MILJØER, ETT FELLESSKAP Hver avdeling har sin egen nettside, sitt eget team og sine egne kunder. Klikk deg videre for detaljer, … Forside Les mer »",
+      "source_url": "https://www.agilkompetanse.no/",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "meta description: KOMPETANSE SOM HOLDER DEG oppdatert. Agil Kompetanse AS samler tre spesialiserte avdelinger under ett tak –Agil Regnskap, Skifteplan og Eierskifte. Vi kombinerer fagkunnskap og programvare som forenkl",
+      "explanation": "Page from https://www.agilkompetanse.no/, the website declared in Enhetsregisteret for organisation number 998297702; page text contains company name 'agil kompetanse'",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@agilkompetanse.no",
+      "source_url": "https://www.agilkompetanse.no/",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "mailto:post@agilkompetanse.no",
+      "explanation": "Page from https://www.agilkompetanse.no/, the website declared in Enhetsregisteret for organisation number 998297702; page text contains company name 'agil kompetanse'",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/Agilregnskap",
+      "source_url": "https://www.agilkompetanse.no/",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "link on page: https://www.facebook.com/Agilregnskap",
+      "explanation": "Page from https://www.agilkompetanse.no/, the website declared in Enhetsregisteret for organisation number 998297702; page text contains company name 'agil kompetanse'",
+      "first_seen": "2026-10-11T18:06:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "AGIL KOMPETANSE AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

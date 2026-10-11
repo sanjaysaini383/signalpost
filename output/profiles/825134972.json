@@ -1,0 +1,145 @@
+{
+  "organization_number": "825134972",
+  "generated_at": "2026-10-11T18:06:10Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "EEG - SECURITY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "navn: EEG - SECURITY",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-05-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-05-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Ullernkammen 18, 0380 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "forretningsadresse: Ullernkammen 18, 0380 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.993 Andre helsetjenester ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Vaktmester og vedlikeholdstjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "aktivitet: Vaktmester og vedlikeholdstjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825134972",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "John Alexander Eeg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972/roller",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "INNH (Innehaver): John Alexander Eeg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825134972",
+      "as_of": "2020-05-29",
+      "first_seen": "2026-10-11T18:06:10Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "John Alexander Eeg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825134972/roller",
+      "retrieved_at": "2026-10-11T18:06:10Z",
+      "evidence": "DAGL (Daglig leder): John Alexander Eeg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825134972",
+      "as_of": "2022-05-18",
+      "first_seen": "2026-10-11T18:06:10Z"
+    }
+  ],
+  "warnings": [],
+  "name": "EEG - SECURITY",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

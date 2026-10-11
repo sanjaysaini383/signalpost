@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 
 from . import brreg, orgno
+from .budget import BudgetExceeded
 
 
 def build_profile(fetcher, org, include_website=None):
@@ -19,9 +20,17 @@ def build_profile(fetcher, org, include_website=None):
         return profile
     profile["status"] = "active"
     facts = brreg.unit_facts(org, unit, retrieved_at)
-    facts += brreg.role_facts(org, brreg.fetch_roles(fetcher, org), retrieved_at)
-    facts += brreg.account_facts(org, brreg.fetch_accounts(fetcher, org), retrieved_at)
-    facts += brreg.subunit_facts(org, brreg.fetch_subunits(fetcher, org), retrieved_at)
+    # Secondary sources may fail (e.g. HTTP 500). Skip them with a warning; never guess the missing facts.
+    for label, fetch, convert in (
+            ("roles", brreg.fetch_roles, brreg.role_facts),
+            ("accounts", brreg.fetch_accounts, brreg.account_facts),
+            ("sub-units", brreg.fetch_subunits, brreg.subunit_facts)):
+        try:
+            facts += convert(org, fetch(fetcher, org), retrieved_at)
+        except BudgetExceeded:
+            raise
+        except Exception as e:
+            profile["warnings"].append(f"{label} unavailable: {e}")
     if include_website:
         facts += include_website(fetcher, org, unit, retrieved_at, profile["warnings"])
     profile["name"] = unit.get("navn")

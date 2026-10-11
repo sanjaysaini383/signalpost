@@ -1,0 +1,276 @@
+{
+  "organization_number": "998305632",
+  "generated_at": "2026-10-11T18:05:30Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BINARY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "navn: BINARY AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-04-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "stiftelsesdato: 2012-04-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-05-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Stubben 12, 1512 MOSS, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "forretningsadresse: Stubben 12, 1512 MOSS, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "62.200 Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "naeringskode1: 62.200 Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulentvirksomhet, eiendomsutvikling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "aktivitet: Konsulentvirksomhet, eiendomsutvikling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "purpose",
+      "value": "IKT konsulentvirksomhet, kjøp, salg, utvikling og utleie av fast eiendom samt tilhørende tjenester, medvirke i andre selskaper som hører naturlig til dette og selskaper hvis virksomhet bedriver kjøp, salg av aksjer, konsulenttjenester, energi, IKT eller som på annen måte gjøre seg interessant av styret.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "vedtektsfestetFormaal: IKT konsulentvirksomhet, kjøp, salg, utvikling og utleie av fast eiendom samt tilhørende tjenester, medvirke i andre selskaper som hører naturlig til dette og selskaper hvis virksomhet bedriver kjøp, ",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "as_of": "2012-05-02",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998305632",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Andre Brynildsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632/roller",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "DAGL (Daglig leder): Andre Brynildsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998305632",
+      "as_of": "2012-05-02",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Andre Brynildsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632/roller",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "LEDE (Styrets leder): Andre Brynildsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998305632",
+      "as_of": "2012-05-02",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Marita Vinje Rygg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632/roller",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "VARA (Varamedlem): Marita Vinje Rygg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998305632",
+      "as_of": "2012-05-02",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "UNDERVERK REGNSKAP AS (org 927415488)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998305632/roller",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "REGN (Regnskapsfører): UNDERVERK REGNSKAP AS (org 927415488)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998305632",
+      "as_of": "2022-01-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -7602.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -7602.0 NOK (journalnr 2026603083)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998305632 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 20181992.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 20181992.0 NOK (journalnr 2026603083)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998305632 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 20571846.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "eiendeler.sumEiendeler: 20571846.0 NOK (journalnr 2026603083)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998305632 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 15953996.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 15953996.0 NOK (journalnr 2026603083)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998305632 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 4617850.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998305632",
+      "retrieved_at": "2026-10-11T18:05:30Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4617850.0 NOK (journalnr 2026603083)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998305632 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:30Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BINARY AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

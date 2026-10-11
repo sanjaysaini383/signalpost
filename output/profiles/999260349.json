@@ -1,0 +1,316 @@
+{
+  "organization_number": "999260349",
+  "generated_at": "2026-10-11T18:05:15Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HYMEK EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "navn: HYMEK EIENDOM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-11-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "stiftelsesdato: 2012-11-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-12-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-12-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Varbergveien 51, 4371 EGERSUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "forretningsadresse: Varbergveien 51, 4371 EGERSUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp / salg eiendom, samt utleie av næringseiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "aktivitet: Kjøp / salg eiendom, samt utleie av næringseiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive bygg og hva som hermed naturlig står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "vedtektsfestetFormaal: Eie og drive bygg og hva som hermed naturlig står i forbindelse.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 2025000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "kapital.belop: 2025000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "as_of": "2015-07-10",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999260349",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "George Tait"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349/roller",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "LEDE (Styrets leder): George Tait",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999260349",
+      "as_of": "2019-12-18",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Alexander West"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349/roller",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "MEDL (Styremedlem): Alexander West",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999260349",
+      "as_of": "2019-12-18",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Michael Tait"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349/roller",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "MEDL (Styremedlem): Michael Tait",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999260349",
+      "as_of": "2019-12-18",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Alexander West"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349/roller",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "MEDL (Styremedlem): Alexander West",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999260349",
+      "as_of": "2019-12-18",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "VALUE GROUP AS (org 915156975)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999260349/roller",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "REGN (Regnskapsfører): VALUE GROUP AS (org 915156975)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999260349",
+      "as_of": "2025-04-26",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2418000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2418000.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -47554.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -47554.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -19293.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -19293.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 18248496.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "eiendeler.sumEiendeler: 18248496.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 9383096.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9383096.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 8865400.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 8865400.0 NOK (journalnr 2026732504)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999260349 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:15Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "899269152",
+        "name": "HYMEK EIENDOM AS",
+        "address": "Varbergveien 51, 4371 EGERSUND, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999260349",
+      "retrieved_at": "2026-10-11T18:05:15Z",
+      "evidence": "underenhet 899269152 overordnetEnhet: 999260349",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999260349",
+      "as_of": "2012-12-13",
+      "first_seen": "2026-10-11T18:05:15Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HYMEK EIENDOM AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

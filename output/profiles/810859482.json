@@ -1,0 +1,423 @@
+{
+  "organization_number": "810859482",
+  "generated_at": "2026-10-11T18:06:44Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRUNSTAD AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "navn: BRUNSTAD AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "1961-05-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "stiftelsesdato: 1961-05-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 1995-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "employees",
+      "value": 42,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "antallAnsatte: 42",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sykkylvsvegen 415, 6230 SYKKYLVEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "forretningsadresse: Sykkylvsvegen 415, 6230 SYKKYLVEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "31.000 Produksjon av møbler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "naeringskode1: 31.000 Produksjon av møbler",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "phone",
+      "value": "70 24 60 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "telefon: 70 24 60 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "email",
+      "value": "marked@brunstad.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "epostadresse: marked@brunstad.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Fabrikasjon av møbler og hva hermed står i for- bindelse. Videre vil selskapet kunne interessere seg i andre selskaper og foretakender - herunder rederivirksomhet- gjennom kapitalinnskudd og/eller ervervelse av aksjer og andeler (parter) fast eiendom m.v.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "aktivitet: Fabrikasjon av møbler og hva hermed står i for- bindelse. Videre vil selskapet kunne interessere seg i andre selskaper og foretakender - herunder rederivirksomhet- gjennom kapitalinnskudd og/eller erv",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikle, produsere, markedsføre og selge møbler og tilhørende produkter, herunder også ved deltakelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "vedtektsfestetFormaal: Utvikle, produsere, markedsføre og selge møbler og tilhørende produkter, herunder også ved deltakelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 7890000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "kapital.belop: 7890000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "as_of": "2026-04-13",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "erIKonsern: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 810859482",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Karl Blakstad Ekornes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "DAGL (Daglig leder): Karl Blakstad Ekornes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-01-23",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Olaug Gunvor Strand Brunstad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "LEDE (Styrets leder): Olaug Gunvor Strand Brunstad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Eivind Nygård"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Eivind Nygård",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Kari Susanne Kjellstad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Kari Susanne Kjellstad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Rune Ivar Grøvdal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Rune Ivar Grøvdal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Karl Blakstad Ekornes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "MEDL (Styremedlem): Karl Blakstad Ekornes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Monica Kalvatn"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "VARA (Varamedlem): Monica Kalvatn",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Bjørn Rune Sjåstad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "VARA (Varamedlem): Bjørn Rune Sjåstad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Cecilie Kleiven Steinnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "VARA (Varamedlem): Cecilie Kleiven Steinnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Haakon Thor Brunstad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "VARA (Varamedlem): Haakon Thor Brunstad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2025-10-11",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "CEDRA NORGE AS (org 935416779)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/810859482/roller",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "REVI (Revisor): CEDRA NORGE AS (org 935416779)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 810859482",
+      "as_of": "2026-05-02",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 107850076.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 107850076.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -9486425.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -9486425.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -8389430.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -8389430.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 51588633.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "eiendeler.sumEiendeler: 51588633.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 5131182.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5131182.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 46457452.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 46457452.0 NOK (journalnr 2026714508)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 810859482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "974075253",
+        "name": "BRUNSTAD AS",
+        "address": "Sykkylvsvegen 415, 6230 SYKKYLVEN, Norge",
+        "employees": 42
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=810859482",
+      "retrieved_at": "2026-10-11T18:06:44Z",
+      "evidence": "underenhet 974075253 overordnetEnhet: 810859482",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 810859482",
+      "as_of": "1995-02-23",
+      "first_seen": "2026-10-11T18:06:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BRUNSTAD AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

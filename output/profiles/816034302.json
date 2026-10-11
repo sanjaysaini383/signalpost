@@ -1,0 +1,317 @@
+{
+  "organization_number": "816034302",
+  "generated_at": "2026-10-11T18:06:21Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NILSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "navn: NILSEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "stiftelsesdato: 2015-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-10-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-10-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Seiersten Sentrum 3, 1443 DRØBAK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "forretningsadresse: Seiersten Sentrum 3, 1443 DRØBAK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 257, 1440 DRØBAK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "postadresse: Postboks 257, 1440 DRØBAK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "82.100 Kontortjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "naeringskode1: 82.100 Kontortjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "phone",
+      "value": "920 25 348",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "telefon: 920 25 348",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "email",
+      "value": "post@nilsensvakttjenester.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "epostadresse: post@nilsensvakttjenester.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering i aksjer i andre selskaper samt konsulentvirksomhet innen kontortjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "aktivitet: Investering i aksjer i andre selskaper samt konsulentvirksomhet innen kontortjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering i aksjer i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "vedtektsfestetFormaal: Investering i aksjer i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "as_of": "2015-10-07",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2024",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816034302",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Knut-Erik Nilsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302/roller",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "LEDE (Styrets leder): Knut-Erik Nilsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816034302",
+      "as_of": "2022-05-05",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "KOMPLETT REVISJON AS (org 922606099)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302/roller",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "REVI (Revisor): KOMPLETT REVISJON AS (org 922606099)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816034302",
+      "as_of": "2025-05-14",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "DITT DIGITALE REGNSKAPSKONTOR AS (org 925174149)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816034302/roller",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "REGN (Regnskapsfører): DITT DIGITALE REGNSKAPSKONTOR AS (org 925174149)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816034302",
+      "as_of": "2025-04-11",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 40000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 40000.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 11997.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 11997.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -207233.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -207233.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 26287.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "eiendeler.sumEiendeler: 26287.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -256958.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -256958.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 283246.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 283246.0 NOK (journalnr 2026302112)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816034302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-11T18:06:21Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919245131",
+        "name": "NILSEN AS",
+        "address": "Seiersten Sentrum 3, 1443 DRØBAK, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816034302",
+      "retrieved_at": "2026-10-11T18:06:21Z",
+      "evidence": "underenhet 919245131 overordnetEnhet: 816034302",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816034302",
+      "as_of": "2017-07-06",
+      "first_seen": "2026-10-11T18:06:21Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NILSEN AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

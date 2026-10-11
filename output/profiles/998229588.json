@@ -1,0 +1,276 @@
+{
+  "organization_number": "998229588",
+  "generated_at": "2026-10-11T18:06:31Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BEFRO HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "navn: BEFRO HOLDING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "stiftelsesdato: 2012-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Danseberget 33, 1792 TISTEDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "forretningsadresse: Danseberget 33, 1792 TISTEDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Å investere i aksjer og verdipapirer, fast eiendom samt delta i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "aktivitet: Å investere i aksjer og verdipapirer, fast eiendom samt delta i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å investere i aksjer og verdipapirer, fast eiendom samt delta i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "vedtektsfestetFormaal: Å investere i aksjer og verdipapirer, fast eiendom samt delta i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "as_of": "2012-04-30",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229588",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Bent Frode Kjellin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588/roller",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "DAGL (Daglig leder): Bent Frode Kjellin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229588",
+      "as_of": "2012-04-30",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Bent Frode Kjellin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588/roller",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "LEDE (Styrets leder): Bent Frode Kjellin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229588",
+      "as_of": "2021-02-22",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "REGNSKAPSTEAM ØSTFOLD AS (org 913013573)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229588/roller",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "REGN (Regnskapsfører): REGNSKAPSTEAM ØSTFOLD AS (org 913013573)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229588",
+      "as_of": "2022-12-20",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -17581.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -17581.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 3168730.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 3168730.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 10857175.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "eiendeler.sumEiendeler: 10857175.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 10609855.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 10609855.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 247320.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229588",
+      "retrieved_at": "2026-10-11T18:06:31Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 247320.0 NOK (journalnr 2026331294)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229588 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:31Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BEFRO HOLDING AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

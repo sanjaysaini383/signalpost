@@ -1,0 +1,132 @@
+{
+  "organization_number": "818600232",
+  "generated_at": "2026-10-11T18:06:22Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HEGE S HOV OG HEST HEGE ØSTEBØMYR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "navn: HEGE S HOV OG HEST HEGE ØSTEBØMYR",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Dalsveien 97, 4634 KRISTIANSAND S, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "forretningsadresse: Dalsveien 97, 4634 KRISTIANSAND S, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.620 Tjenester tilknyttet husdyrhold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "naeringskode1: 01.620 Tjenester tilknyttet husdyrhold",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Hovslager.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "aktivitet: Hovslager.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818600232",
+      "first_seen": "2026-10-11T18:06:22Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Hege Østebømyr"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818600232/roller",
+      "retrieved_at": "2026-10-11T18:06:22Z",
+      "evidence": "INNH (Innehaver): Hege Østebømyr",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818600232",
+      "as_of": "2017-02-21",
+      "first_seen": "2026-10-11T18:06:22Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HEGE S HOV OG HEST HEGE ØSTEBØMYR",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

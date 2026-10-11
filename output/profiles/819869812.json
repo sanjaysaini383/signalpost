@@ -1,0 +1,277 @@
+{
+  "organization_number": "819869812",
+  "generated_at": "2026-10-11T18:06:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAKTOR K AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "navn: HAKTOR K AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-10-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "stiftelsesdato: 2017-10-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vikanesvegen 114, 5410 SAGVÅG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "forretningsadresse: Vikanesvegen 114, 5410 SAGVÅG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering, utvikling og drift av fast eiendom, samt hva som naturlig hører til.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "aktivitet: Investering, utvikling og drift av fast eiendom, samt hva som naturlig hører til.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering, utvikling og drift av fast eiendom, samt hva som naturlig hører til.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "vedtektsfestetFormaal: Investering, utvikling og drift av fast eiendom, samt hva som naturlig hører til.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 500000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "kapital.belop: 500000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "as_of": "2018-01-23",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819869812",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Lars Saue"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "LEDE (Styrets leder): Lars Saue",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819869812",
+      "as_of": "2017-11-08",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "KONTADO AS (org 996247406)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819869812/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "REGN (Regnskapsfører): KONTADO AS (org 996247406)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819869812",
+      "as_of": "2017-11-08",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 403333.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 403333.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 296086.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 296086.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 204303.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 204303.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2794648.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "eiendeler.sumEiendeler: 2794648.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 354875.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 354875.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2439773.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2439773.0 NOK (journalnr 2026316476)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819869812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919986433",
+        "name": "HAKTOR K AS",
+        "address": "Vikanesvegen 114, 5410 SAGVÅG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819869812",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underenhet 919986433 overordnetEnhet: 819869812",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819869812",
+      "as_of": "2017-11-28",
+      "first_seen": "2026-10-11T18:06:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HAKTOR K AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

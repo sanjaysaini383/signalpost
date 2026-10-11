@@ -1,0 +1,350 @@
+{
+  "organization_number": "813907682",
+  "generated_at": "2026-10-11T18:06:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASK SAFETY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "navn: ASK SAFETY AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-06-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "stiftelsesdato: 2014-06-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-07-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-07-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "employees",
+      "value": 36,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "antallAnsatte: 36",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Trippevegen 1, 6009 ÅLESUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "forretningsadresse: Trippevegen 1, 6009 ÅLESUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 5107, Larsgården, 6021 ÅLESUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "postadresse: Postboks 5107, Larsgården, 6021 ÅLESUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "85.597 Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "naeringskode1: 85.597 Annen undervisning ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Sikkerhetsopplæringssenter for maritim og landbasert virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "aktivitet: Sikkerhetsopplæringssenter for maritim og landbasert virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Sikkerhets- og kompetanseopplæringsvirksomhet og hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "vedtektsfestetFormaal: Sikkerhets- og kompetanseopplæringsvirksomhet og hva hermed står i forbindelse.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 500000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "kapital.belop: 500000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "as_of": "2015-12-17",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813907682",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Staale Arvid Brungot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "DAGL (Daglig leder): Staale Arvid Brungot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813907682",
+      "as_of": "2014-07-18",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Staale Arvid Brungot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "LEDE (Styrets leder): Staale Arvid Brungot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813907682",
+      "as_of": "2026-02-24",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Ole Anders Dyb"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "MEDL (Styremedlem): Ole Anders Dyb",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813907682",
+      "as_of": "2026-02-24",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Astrid Vik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "MEDL (Styremedlem): Astrid Vik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813907682",
+      "as_of": "2026-02-24",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "BDO AS (org 993606650)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813907682/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "REVI (Revisor): BDO AS (org 993606650)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813907682",
+      "as_of": "2014-07-18",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 49100283.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 49100283.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 17354884.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 17354884.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 12588813.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 12588813.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 52917101.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "eiendeler.sumEiendeler: 52917101.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 36320028.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 36320028.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 16597073.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 16597073.0 NOK (journalnr 2026650378)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813907682 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "918967052",
+        "name": "ASK SAFETY AS AVD FRØYA",
+        "address": "Siholmen, 7260 SISTRANDA, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underenhet 918967052 overordnetEnhet: 813907682",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813907682",
+      "as_of": "2017-05-09",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "913937694",
+        "name": "ASK SAFETY AS AVD ÅLESUND",
+        "address": "Trippevegen 1, 6009 ÅLESUND, Norge",
+        "employees": 36
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813907682",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underenhet 913937694 overordnetEnhet: 813907682",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813907682",
+      "as_of": "2014-07-28",
+      "first_seen": "2026-10-11T18:06:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ASK SAFETY AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,132 @@
+{
+  "organization_number": "825164952",
+  "generated_at": "2026-10-11T18:07:20Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HOLMEN TJENESTER ENK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "navn: HOLMEN TJENESTER ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Klokkervegen 7, 7505 STJØRDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "forretningsadresse: Klokkervegen 7, 7505 STJØRDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "naeringskode1: 49.410 Godstransport på vei",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Varetransport/frakt på vei og bemanningstjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "aktivitet: Varetransport/frakt på vei og bemanningstjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825164952",
+      "first_seen": "2026-10-11T18:07:20Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Marius Sagen Holmen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825164952/roller",
+      "retrieved_at": "2026-10-11T18:07:20Z",
+      "evidence": "INNH (Innehaver): Marius Sagen Holmen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825164952",
+      "as_of": "2020-06-08",
+      "first_seen": "2026-10-11T18:07:20Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HOLMEN TJENESTER ENK",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

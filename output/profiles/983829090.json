@@ -1,0 +1,349 @@
+{
+  "organization_number": "983829090",
+  "generated_at": "2026-10-11T18:05:24Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SOLGÅRDEN LEGESENTER DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "navn: SOLGÅRDEN LEGESENTER DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-10-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "stiftelsesdato: 2001-10-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-11-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-11-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "antallAnsatte: 8",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kolbotnveien 23, 1410 KOLBOTN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "forretningsadresse: Kolbotnveien 23, 1410 KOLBOTN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.210 Allmennlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "naeringskode1: 86.210 Allmennlegetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "phone",
+      "value": "66 80 06 46",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "telefon: 66 80 06 46",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Legesenter - legevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "aktivitet: Legesenter - legevirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Legesentervirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "vedtektsfestetFormaal: Legesentervirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983829090",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Christian Barstad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DAGL (Daglig leder): Christian Barstad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2013-07-10",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Abdullah Rasulzada"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Abdullah Rasulzada",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2024-06-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Marina Ferri De Barros Solheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Marina Ferri De Barros Solheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2024-06-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Stian Veka"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Stian Veka",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2024-06-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Martine Stabæk"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Martine Stabæk",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2024-06-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "CB HELSE AS (org 995694336)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): CB HELSE AS (org 995694336)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2024-06-14",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SPAREBANK 1 FORRETNINGSPARTNER ØSTLANDET AS (org 967661643)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983829090/roller",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "REGN (Regnskapsfører): SPAREBANK 1 FORRETNINGSPARTNER ØSTLANDET AS (org 967661643)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983829090",
+      "as_of": "2026-01-12",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 4744746.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4744746.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 56856.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 56856.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 57079.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 57079.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 587153.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "eiendeler.sumEiendeler: 587153.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 29565.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 29565.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 557589.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 557589.0 NOK (journalnr 2026717045)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983829090 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:24Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "973851446",
+        "name": "SOLGÅRDEN LEGESENTER DA",
+        "address": "Kolbotnveien 23, 1410 KOLBOTN, Norge",
+        "employees": 8
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983829090",
+      "retrieved_at": "2026-10-11T18:05:24Z",
+      "evidence": "underenhet 973851446 overordnetEnhet: 983829090",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 983829090",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-11T18:05:24Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SOLGÅRDEN LEGESENTER DA",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

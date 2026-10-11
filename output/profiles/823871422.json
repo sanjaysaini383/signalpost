@@ -1,0 +1,132 @@
+{
+  "organization_number": "823871422",
+  "generated_at": "2026-10-11T18:06:09Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CECILIE BERGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "navn: CECILIE BERGER",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Trondheimsveien 178, 0570 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "forretningsadresse: Trondheimsveien 178, 0570 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "naeringskode1: 73.110 Reklamebyråvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulenttjenester innen markedsføring og reklame, samt utvikling av strategier og produksjon av enkelt innhold til digitale kanaler, særlig sosiale medier.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "aktivitet: Konsulenttjenester innen markedsføring og reklame, samt utvikling av strategier og produksjon av enkelt innhold til digitale kanaler, særlig sosiale medier.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823871422",
+      "first_seen": "2026-10-11T18:06:09Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Cecilie Reinert Arneberg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823871422/roller",
+      "retrieved_at": "2026-10-11T18:06:09Z",
+      "evidence": "INNH (Innehaver): Cecilie Reinert Arneberg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823871422",
+      "as_of": "2019-11-22",
+      "first_seen": "2026-10-11T18:06:09Z"
+    }
+  ],
+  "warnings": [],
+  "name": "CECILIE BERGER",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

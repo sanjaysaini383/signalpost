@@ -1,0 +1,159 @@
+{
+  "organization_number": "825268472",
+  "generated_at": "2026-10-11T18:05:47Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "YUSUF CONSULTING GROUP",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "navn: YUSUF CONSULTING GROUP",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Martin Johansens veg 60, 2070 RÅHOLT, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "forretningsadresse: Martin Johansens veg 60, 2070 RÅHOLT, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "naeringskode1: 69.100 Juridisk tjenesteyting",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Juridisk rådgivning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "aktivitet: Juridisk rådgivning.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268472",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Ilyas Yusuf"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472/roller",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "INNH (Innehaver): Ilyas Yusuf",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825268472",
+      "as_of": "2020-06-29",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ilyas Yusuf"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268472/roller",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "DAGL (Daglig leder): Ilyas Yusuf",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825268472",
+      "as_of": "2020-06-29",
+      "first_seen": "2026-10-11T18:05:47Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "936953506",
+        "name": "YUSUF CONSULTING GROUP",
+        "address": "Martin Johansens veg 60, 2070 RÅHOLT, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825268472",
+      "retrieved_at": "2026-10-11T18:05:47Z",
+      "evidence": "underenhet 936953506 overordnetEnhet: 825268472",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825268472",
+      "as_of": "2026-01-13",
+      "first_seen": "2026-10-11T18:05:47Z"
+    }
+  ],
+  "warnings": [],
+  "name": "YUSUF CONSULTING GROUP",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

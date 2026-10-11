@@ -1,0 +1,338 @@
+{
+  "organization_number": "822140912",
+  "generated_at": "2026-10-11T18:05:44Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HGB HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "navn: HGB HOLDING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-01-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "stiftelsesdato: 2019-01-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-01-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-01-31",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kilgata 20, 3217 SANDEFJORD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "forretningsadresse: Kilgata 20, 3217 SANDEFJORD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1582, 3206 SANDEFJORD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "postadresse: Postboks 1582, 3206 SANDEFJORD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "95.310 Reparasjon og vedlikehold av motorvogner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "naeringskode1: 95.310 Reparasjon og vedlikehold av motorvogner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Holding/investeringsselskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "aktivitet: Holding/investeringsselskap.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering i aksjer og andeler, deltakelse i andre selskaper og alt hva som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "vedtektsfestetFormaal: Investering i aksjer og andeler, deltakelse i andre selskaper og alt hva som står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 1530000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "kapital.belop: 1530000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "as_of": "2019-07-15",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822140912",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Babak Bobby Namvar"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "DAGL (Daglig leder): Babak Bobby Namvar",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2019-01-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Hans Almedal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "LEDE (Styrets leder): Hans Almedal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2019-01-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Babak Bobby Namvar"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "MEDL (Styremedlem): Babak Bobby Namvar",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2019-01-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Geir Brix Christensen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "MEDL (Styremedlem): Geir Brix Christensen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2019-01-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "REVISORHUSET AS (org 987610859)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "REVI (Revisor): REVISORHUSET AS (org 987610859)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2026-06-25",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AZETS INSIGHT AS (org 983338917)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822140912/roller",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "REGN (Regnskapsfører): AZETS INSIGHT AS (org 983338917)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822140912",
+      "as_of": "2019-05-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 550000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 550000.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -567297.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -567297.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -513825.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -513825.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 6755813.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "eiendeler.sumEiendeler: 6755813.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 2032538.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2032538.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 4723275.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4723275.0 NOK (journalnr 2026332313)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822140912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "934677625",
+        "name": "HGB HOLDING AS",
+        "address": "Kilgata 20, 3217 SANDEFJORD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=822140912",
+      "retrieved_at": "2026-10-11T18:05:44Z",
+      "evidence": "underenhet 934677625 overordnetEnhet: 822140912",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 822140912",
+      "as_of": "2024-12-20",
+      "first_seen": "2026-10-11T18:05:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HGB HOLDING AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

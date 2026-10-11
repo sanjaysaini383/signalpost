@@ -1,0 +1,422 @@
+{
+  "organization_number": "998120845",
+  "generated_at": "2026-10-11T18:05:54Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SKIGEILO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "navn: SKIGEILO AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "stiftelsesdato: 2012-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "employees",
+      "value": 96,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "antallAnsatte: 96",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vesleslåttvegen 11, 3580 GEILO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "forretningsadresse: Vesleslåttvegen 11, 3580 GEILO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "93.110 Drift av idrettsanlegg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "naeringskode1: 93.110 Drift av idrettsanlegg",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "industry_code_2",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "naeringskode2: 68.120 Utvikling og salg av byggeprosjekter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website",
+      "value": "www.skigeilo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "hjemmeside: www.skigeilo.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "email",
+      "value": "post@skigeilo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "epostadresse: post@skigeilo.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Turismevirksomhet, herunder eie, forvalte og utvikle fast eiendom, drift av skianlegg og overnattingssteder og virksomhet som heri er forbundet, samt deltakelse i andre selskaper og virksomheter av enhver art.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "aktivitet: Turismevirksomhet, herunder eie, forvalte og utvikle fast eiendom, drift av skianlegg og overnattingssteder og virksomhet som heri er forbundet, samt deltakelse i andre selskaper og virksomheter av en",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Turismevirksomhet, herunder eie, forvalte og utvikle fast eiendom, drift av skianlegg og overnattingssteder og virksomhet som heri er forbundet, samt deltakelse i andre selskaper og virksomheter av enhver art.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "vedtektsfestetFormaal: Turismevirksomhet, herunder eie, forvalte og utvikle fast eiendom, drift av skianlegg og overnattingssteder og virksomhet som heri er forbundet, samt deltakelse i andre selskaper og virksomheter av en",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 4440000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "kapital.belop: 4440000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "as_of": "2022-09-26",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998120845",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Robert Brunvoll"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845/roller",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "DAGL (Daglig leder): Robert Brunvoll",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998120845",
+      "as_of": "2025-12-12",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Arne Pålgardhaugen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845/roller",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "LEDE (Styrets leder): Arne Pålgardhaugen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998120845",
+      "as_of": "2024-07-11",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Håkon Semb-Arnstorp"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845/roller",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "MEDL (Styremedlem): Håkon Semb-Arnstorp",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998120845",
+      "as_of": "2024-07-11",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "ERNST & YOUNG AS (org 976389387)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845/roller",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "REVI (Revisor): ERNST & YOUNG AS (org 976389387)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998120845",
+      "as_of": "2018-01-08",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SPAREBANK 1 REGNSKAPSHUSET VALHALL AS (org 980289648)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998120845/roller",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "REGN (Regnskapsfører): SPAREBANK 1 REGNSKAPSHUSET VALHALL AS (org 980289648)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998120845",
+      "as_of": "2017-12-19",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 148664031.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 148664031.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 23114959.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 23114959.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 8001425.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 8001425.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 293891254.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "eiendeler.sumEiendeler: 293891254.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 79033406.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 79033406.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 214857848.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 214857848.0 NOK (journalnr 2026502248)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998120845 in Regnskapsregisteret, period 2024-09-01 to 2025-08-31",
+      "as_of": "2025-08-31",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "891388152",
+        "name": "KIKUTHEISEN",
+        "address": "Vesleslåttvegen 11, 3580 GEILO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "underenhet 891388152 overordnetEnhet: 998120845",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998120845",
+      "as_of": "2007-06-19",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "814346242",
+        "name": "SKIGEILO",
+        "address": "Vesleslåttvegen 11, 3580 GEILO, Norge",
+        "employees": 96
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998120845",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "underenhet 814346242 overordnetEnhet: 998120845",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998120845",
+      "as_of": "2014-10-23",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.skigeilo.no/",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "page text contains company name 'skigeilo'",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Et av Norges største skisenter, og vinner av Norways Best Ski Resort 7 år på rad. Bestill din skiferie på Geilo i dag!",
+      "source_url": "https://www.skigeilo.no/",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "meta description: Et av Norges største skisenter, og vinner av Norways Best Ski Resort 7 år på rad. Bestill din skiferie på Geilo i dag!",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "004740213865",
+      "source_url": "https://www.skigeilo.no/om-skigeilo",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "tel:004740213865",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "004790292098",
+      "source_url": "https://www.skigeilo.no/om-skigeilo",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "tel:004790292098",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "004790516873",
+      "source_url": "https://www.skigeilo.no/om-skigeilo",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "tel:004790516873",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/skigeilo",
+      "source_url": "https://www.skigeilo.no/",
+      "retrieved_at": "2026-10-11T18:05:54Z",
+      "evidence": "link on page: https://www.instagram.com/skigeilo",
+      "explanation": "Page from https://www.skigeilo.no/, the website declared in Enhetsregisteret for organisation number 998120845; page text contains company name 'skigeilo'",
+      "first_seen": "2026-10-11T18:05:54Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SKIGEILO AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

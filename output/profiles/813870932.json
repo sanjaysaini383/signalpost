@@ -1,0 +1,366 @@
+{
+  "organization_number": "813870932",
+  "generated_at": "2026-10-11T18:05:32Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "WP HOSTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "navn: WP HOSTING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-06-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "stiftelsesdato: 2014-06-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-07-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-07-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "antallAnsatte: 7",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "as_of": "2024-10-14",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Universitetsgata 2, 0164 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "forretningsadresse: Universitetsgata 2, 0164 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "63.100 Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "naeringskode1: 63.100 Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Hosting, drift og utvikling av nettsider. Utvikling av web- og mobilapper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "aktivitet: Hosting, drift og utvikling av nettsider. Utvikling av web- og mobilapper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Levere IT-tjenester, programvare og relatert rådgivning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "vedtektsfestetFormaal: Levere IT-tjenester, programvare og relatert rådgivning.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "as_of": "2014-07-09",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813870932",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Pål Martin Bakken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "DAGL (Daglig leder): Pål Martin Bakken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2014-07-09",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Sven Anders Bolander"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "LEDE (Styrets leder): Sven Anders Bolander",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2018-12-07",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Pål Martin Bakken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "MEDL (Styremedlem): Pål Martin Bakken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2018-12-07",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Helge Langvatn"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "MEDL (Styremedlem): Helge Langvatn",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2018-12-07",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Iver Odin Kvello"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "VARA (Varamedlem): Iver Odin Kvello",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2018-12-07",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Anders Ljungqvist"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "VARA (Varamedlem): Anders Ljungqvist",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2018-12-07",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "KOMPLETT REVISJON AS (org 922606099)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "REVI (Revisor): KOMPLETT REVISJON AS (org 922606099)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2024-09-05",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ELVEBYEN REGNSKAP AS (org 930353221)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813870932/roller",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "REGN (Regnskapsfører): ELVEBYEN REGNSKAP AS (org 930353221)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813870932",
+      "as_of": "2023-01-23",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 7664911.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 7664911.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -953763.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -953763.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -920003.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -920003.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2780582.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "eiendeler.sumEiendeler: 2780582.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 172759.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 172759.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2607824.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2607824.0 NOK (journalnr 2026501669)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813870932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:32Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "913876334",
+        "name": "WP HOSTING AS",
+        "address": "Universitetsgata 2, 0164 OSLO, Norge",
+        "employees": 7
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813870932",
+      "retrieved_at": "2026-10-11T18:05:32Z",
+      "evidence": "underenhet 913876334 overordnetEnhet: 813870932",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813870932",
+      "as_of": "2014-07-10",
+      "first_seen": "2026-10-11T18:05:32Z"
+    }
+  ],
+  "warnings": [],
+  "name": "WP HOSTING AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

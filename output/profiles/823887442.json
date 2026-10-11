@@ -1,0 +1,132 @@
+{
+  "organization_number": "823887442",
+  "generated_at": "2026-10-11T18:06:00Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HANNA WORUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "navn: HANNA WORUM",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-12-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-12-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "business_address",
+      "value": "c/o TIAGO LEMOS SOARES, Seilduksgata 20A, 0553 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "forretningsadresse: c/o TIAGO LEMOS SOARES, Seilduksgata 20A, 0553 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "naeringskode1: 70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulenttjenester for startups. Innovasjon og entreprenørskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "aktivitet: Konsulenttjenester for startups. Innovasjon og entreprenørskap.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-11T18:06:00Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Hanna Antonie Worum"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442/roller",
+      "retrieved_at": "2026-10-11T18:06:00Z",
+      "evidence": "INNH (Innehaver): Hanna Antonie Worum",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823887442",
+      "as_of": "2019-12-03",
+      "first_seen": "2026-10-11T18:06:00Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HANNA WORUM",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

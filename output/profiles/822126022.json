@@ -1,0 +1,277 @@
+{
+  "organization_number": "822126022",
+  "generated_at": "2026-10-11T18:06:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RENHOLD++ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "navn: RENHOLD++ AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "stiftelsesdato: 2019-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-02-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-02-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Rambergsvegen 81, 5282 LONEVÅG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "forretningsadresse: Rambergsvegen 81, 5282 LONEVÅG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "81.210 Rengjøring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "naeringskode1: 81.210 Rengjøring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Renhold, vasking av leiligheter og kontor.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "aktivitet: Renhold, vasking av leiligheter og kontor.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Renhold, vasking av leiligheter og kontor.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "vedtektsfestetFormaal: Renhold, vasking av leiligheter og kontor.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "as_of": "2019-02-07",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822126022",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Dovile Zarkonyte"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "DAGL (Daglig leder): Dovile Zarkonyte",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822126022",
+      "as_of": "2019-02-07",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Dovile Zarkonyte"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822126022/roller",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "LEDE (Styrets leder): Dovile Zarkonyte",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822126022",
+      "as_of": "2019-02-07",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 316045.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 316045.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 44801.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 44801.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 44625.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 44625.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 64895.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "eiendeler.sumEiendeler: 64895.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 12126.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 12126.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 52769.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 52769.0 NOK (journalnr 2026567825)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822126022 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "820580222",
+        "name": "RENHOLD++ AS",
+        "address": "Rambergsvegen 81, 5282 LONEVÅG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=822126022",
+      "retrieved_at": "2026-10-11T18:06:59Z",
+      "evidence": "underenhet 820580222 overordnetEnhet: 822126022",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 822126022",
+      "as_of": "2018-03-13",
+      "first_seen": "2026-10-11T18:06:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "RENHOLD++ AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,329 @@
+{
+  "organization_number": "823366442",
+  "generated_at": "2026-10-11T18:05:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DROM ENGINEERING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "navn: DROM ENGINEERING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-08-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "stiftelsesdato: 2019-08-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-09-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Storskaret 57, 6006 ÅLESUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "forretningsadresse: Storskaret 57, 6006 ÅLESUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "74.110 Industri-, produkt- og motedesignvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "naeringskode1: 74.110 Industri-, produkt- og motedesignvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Utførelse av design, engineering og teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "aktivitet: Utførelse av design, engineering og teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Utførelse av design, engineering og teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "vedtektsfestetFormaal: Utførelse av design, engineering og teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 1000000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "kapital.belop: 1000000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "as_of": "2019-09-20",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823366442",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Virgil Mutu"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "DAGL (Daglig leder): Virgil Mutu",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2022-12-19",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Arve Drønnen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "LEDE (Styrets leder): Arve Drønnen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2025-06-24",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Laurentiu Oanca"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "MEDL (Styremedlem): Laurentiu Oanca",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2025-06-24",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Virgil Mutu"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "MEDL (Styremedlem): Virgil Mutu",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2025-06-24",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "REVISOR NORDSTRAND AS (org 923207783)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "REVI (Revisor): REVISOR NORDSTRAND AS (org 923207783)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2025-06-24",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "HASUND AS (org 880381962)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823366442/roller",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "REGN (Regnskapsfører): HASUND AS (org 880381962)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823366442",
+      "as_of": "2019-09-20",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 11268202.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 11268202.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 2119822.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 2119822.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1640079.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1640079.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 6225630.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "eiendeler.sumEiendeler: 6225630.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 4018185.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4018185.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2207445.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2207445.0 NOK (journalnr 2026577810)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823366442 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "923448144",
+        "name": "DROM ENGINEERING AS",
+        "address": "Storskaret 57, 6006 ÅLESUND, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823366442",
+      "retrieved_at": "2026-10-11T18:05:59Z",
+      "evidence": "underenhet 923448144 overordnetEnhet: 823366442",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823366442",
+      "as_of": "2019-09-24",
+      "first_seen": "2026-10-11T18:05:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DROM ENGINEERING AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

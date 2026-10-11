@@ -1,0 +1,250 @@
+{
+  "organization_number": "819888922",
+  "generated_at": "2026-10-11T18:06:51Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SIVILINGENIØR HÅKON SELJÅSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "navn: SIVILINGENIØR HÅKON SELJÅSEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-10-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "stiftelsesdato: 2017-10-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Bråstadlina 124, 4848 ARENDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "forretningsadresse: Bråstadlina 124, 4848 ARENDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Teknisk konsulentvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "aktivitet: Teknisk konsulentvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Teknisk konsulentvirksomhet samt investering i andre selskapet gjennom aksjekjøp.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "vedtektsfestetFormaal: Teknisk konsulentvirksomhet samt investering i andre selskapet gjennom aksjekjøp.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 300000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "kapital.belop: 300000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "as_of": "2017-11-14",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819888922",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Håkon Seljåsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922/roller",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "DAGL (Daglig leder): Håkon Seljåsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819888922",
+      "as_of": "2017-11-14",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Håkon Seljåsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819888922/roller",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "LEDE (Styrets leder): Håkon Seljåsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819888922",
+      "as_of": "2017-11-14",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -748.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -748.0 NOK (journalnr 2026675712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819888922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 21833.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 21833.0 NOK (journalnr 2026675712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819888922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 373928.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "eiendeler.sumEiendeler: 373928.0 NOK (journalnr 2026675712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819888922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 212666.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 212666.0 NOK (journalnr 2026675712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819888922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:51Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 161262.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819888922",
+      "retrieved_at": "2026-10-11T18:06:51Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 161262.0 NOK (journalnr 2026675712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819888922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SIVILINGENIØR HÅKON SELJÅSEN AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

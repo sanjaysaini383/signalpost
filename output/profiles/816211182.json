@@ -1,0 +1,277 @@
+{
+  "organization_number": "816211182",
+  "generated_at": "2026-10-11T18:06:12Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CSS 928 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "navn: CSS 928 AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-10-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "stiftelsesdato: 2015-10-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fagerheimgata 11B, 0567 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "forretningsadresse: Fagerheimgata 11B, 0567 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.230 Aktiviteter i dagspa, badstue og dampbad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "naeringskode1: 96.230 Aktiviteter i dagspa, badstue og dampbad",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Yte massasje, kroppspleie samt liknende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "aktivitet: Yte massasje, kroppspleie samt liknende virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Yte massasje, kroppspleie samt liknende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "vedtektsfestetFormaal: Yte massasje, kroppspleie samt liknende virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "as_of": "2015-11-10",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816211182",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Chanakan Samnakhon"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182/roller",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "LEDE (Styrets leder): Chanakan Samnakhon",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816211182",
+      "as_of": "2015-11-10",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AKTIV ØKONOMI CONSULT AS (org 982597560)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816211182/roller",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "REGN (Regnskapsfører): AKTIV ØKONOMI CONSULT AS (org 982597560)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816211182",
+      "as_of": "2017-06-01",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 351688.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 351688.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -27722.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -27722.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -28210.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -28210.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 8151.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "eiendeler.sumEiendeler: 8151.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -305571.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -305571.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 313721.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 313721.0 NOK (journalnr 2026657895)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816211182 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:12Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916220553",
+        "name": "CSS 928 AS",
+        "address": "Fagerheimgata 11B, 0567 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816211182",
+      "retrieved_at": "2026-10-11T18:06:12Z",
+      "evidence": "underenhet 916220553 overordnetEnhet: 816211182",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816211182",
+      "as_of": "2015-11-11",
+      "first_seen": "2026-10-11T18:06:12Z"
+    }
+  ],
+  "warnings": [],
+  "name": "CSS 928 AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

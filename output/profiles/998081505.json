@@ -1,0 +1,132 @@
+{
+  "organization_number": "998081505",
+  "generated_at": "2026-10-11T18:07:12Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SIV HAGELAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "navn: SIV HAGELAND",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fjellsveien 5, 4516 MANDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "forretningsadresse: Fjellsveien 5, 4516 MANDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "02.200 Avvirkning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "naeringskode1: 02.200 Avvirkning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Skogbruksvirksomhet i egen skog.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "aktivitet: Skogbruksvirksomhet i egen skog.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998081505",
+      "first_seen": "2026-10-11T18:07:12Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Siv Beathe Kige Hageland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998081505/roller",
+      "retrieved_at": "2026-10-11T18:07:12Z",
+      "evidence": "INNH (Innehaver): Siv Beathe Kige Hageland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998081505",
+      "as_of": "2012-03-12",
+      "first_seen": "2026-10-11T18:07:12Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SIV HAGELAND",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

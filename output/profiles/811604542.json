@@ -1,0 +1,316 @@
+{
+  "organization_number": "811604542",
+  "generated_at": "2026-10-11T18:06:50Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALF AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "navn: ALF AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "stiftelsesdato: 2013-01-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-02-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-02-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Skrubbmoen 12, 3619 SKOLLENBORG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "forretningsadresse: Skrubbmoen 12, 3619 SKOLLENBORG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering og utleie av eiendom, maskiner, verktøy og biler, samt andre produkter og tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "aktivitet: Investering og utleie av eiendom, maskiner, verktøy og biler, samt andre produkter og tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp o",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering og utleie av eiendom, maskiner, verktøy og biler, samt andre produkter og tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "vedtektsfestetFormaal: Investering og utleie av eiendom, maskiner, verktøy og biler, samt andre produkter og tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp o",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "as_of": "2013-02-23",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811604542",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Hans Jørgen Andersson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542/roller",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "DAGL (Daglig leder): Hans Jørgen Andersson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811604542",
+      "as_of": "2013-02-23",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Hans Jørgen Andersson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542/roller",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "LEDE (Styrets leder): Hans Jørgen Andersson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811604542",
+      "as_of": "2013-02-23",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Henrik Julius Frisak"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542/roller",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "MEDL (Styremedlem): Henrik Julius Frisak",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811604542",
+      "as_of": "2013-02-23",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Jan-Erik Loland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542/roller",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "MEDL (Styremedlem): Jan-Erik Loland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811604542",
+      "as_of": "2013-02-23",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "DMC REGNSKAP AS (org 877557642)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811604542/roller",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "REGN (Regnskapsfører): DMC REGNSKAP AS (org 877557642)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811604542",
+      "as_of": "2021-09-22",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 5898736.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5898736.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 4341692.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 4341692.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 3209825.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 3209825.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 18201524.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "eiendeler.sumEiendeler: 18201524.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 7968705.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 7968705.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 10232819.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 10232819.0 NOK (journalnr 2026489358)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811604542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:06:50Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "911609614",
+        "name": "ALF AS",
+        "address": "Skrubbmoen 12, 3619 SKOLLENBORG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811604542",
+      "retrieved_at": "2026-10-11T18:06:50Z",
+      "evidence": "underenhet 911609614 overordnetEnhet: 811604542",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 811604542",
+      "as_of": "2013-02-25",
+      "first_seen": "2026-10-11T18:06:50Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ALF AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

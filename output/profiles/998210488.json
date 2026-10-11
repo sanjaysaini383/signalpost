@@ -1,0 +1,303 @@
+{
+  "organization_number": "998210488",
+  "generated_at": "2026-10-11T18:05:19Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SPEKTER INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "navn: SPEKTER INVEST AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "stiftelsesdato: 2012-03-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Ramnesveien 163, 3171 SEM, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "forretningsadresse: Ramnesveien 163, 3171 SEM, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering, oppføring og utleie av eiendom, bygninger og boliger.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "aktivitet: Investering, oppføring og utleie av eiendom, bygninger og boliger.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering, oppføring og utleie av eiendom, bygninger og boliger, samt annen virksomhet som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "vedtektsfestetFormaal: Investering, oppføring og utleie av eiendom, bygninger og boliger, samt annen virksomhet som står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 500000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "kapital.belop: 500000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "as_of": "2017-12-27",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210488",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Virginijus Lapen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488/roller",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "DAGL (Daglig leder): Virginijus Lapen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210488",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Roy André Skjevelnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488/roller",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "LEDE (Styrets leder): Roy André Skjevelnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210488",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Virginijus Lapen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488/roller",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "VARA (Varamedlem): Virginijus Lapen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210488",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "DIREKTE REGNSKAP AS (org 998628083)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210488/roller",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "REGN (Regnskapsfører): DIREKTE REGNSKAP AS (org 998628083)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210488",
+      "as_of": "2013-12-05",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 222000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 222000.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 143908.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 143908.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 60716.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 60716.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2594366.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "eiendeler.sumEiendeler: 2594366.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 363917.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 363917.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2230449.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2230449.0 NOK (journalnr 2026461552)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210488 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-11T18:05:19Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "898227642",
+        "name": "SPEKTER INVEST AS",
+        "address": "Ramnesveien 163, 3171 SEM, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998210488",
+      "retrieved_at": "2026-10-11T18:05:19Z",
+      "evidence": "underenhet 898227642 overordnetEnhet: 998210488",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998210488",
+      "as_of": "2012-04-11",
+      "first_seen": "2026-10-11T18:05:19Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SPEKTER INVEST AS",
+  "previous_run": null,
+  "changes_since_previous_run": []
+}
