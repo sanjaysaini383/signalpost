@@ -1,0 +1,229 @@
+{
+  "schema_version": 2,
+  "organization_number": "818574002",
+  "generated_at": "2026-10-12T11:05:54Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LIVSVALG- DIN HELSE CATHRINE STRØMME LILLEBERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "navn: LIVSVALG- DIN HELSE CATHRINE STRØMME LILLEBERGEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Agronomveien 27B, 1187 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "forretningsadresse: Agronomveien 27B, 1187 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.992 Forebyggende helsearbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "naeringskode1: 86.992 Forebyggende helsearbeid",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Tilbyr tjenester innen personlig trening, yogaundervisning, mentaltrening, meditasjon og livsstils veiledning. Jeg arbeider helhetlig med fysisk trening, stressmestring, kosthold og personlig utvikling for enkeltpersoner og grupper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "aktivitet: Tilbyr tjenester innen personlig trening, yogaundervisning, mentaltrening, meditasjon og livsstils veiledning. Jeg arbeider helhetlig med fysisk trening, stressmestring, kosthold og personlig utviklin",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "HUSHOLDEREN CATHRINE STRØMME LILLEBERGEN",
+          "from": "2017-02-16",
+          "to": "2018-04-11"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'HUSHOLDEREN CATHRINE STRØMME LILLEBERGEN'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Cathrine Strømme Lillebergen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818574002/roller",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "INNH (Innehaver): Cathrine Strømme Lillebergen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818574002",
+      "as_of": "2017-02-16",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "935672279",
+        "name": "LIVSVALG- DIN HELSE CATHRINE STRØMME LILLEBERGEN",
+        "address": "Agronomveien 27B, 1187 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "underenhet 935672279 overordnetEnhet: 818574002",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818574002",
+      "as_of": "2025-06-14",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818574002",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 818574002",
+      "first_seen": "2026-10-12T11:05:54Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.88309240827189,
+        "lon": 10.824472287275192,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Agronomveien+27B&postnummer=1187&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:54Z",
+      "evidence": "address 'Agronomveien 27B', 1187 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818574002, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:54Z"
+    }
+  ],
+  "warnings": [],
+  "name": "LIVSVALG- DIN HELSE CATHRINE STRØMME LILLEBERGEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "LIVSVALG- DIN HELSE CATHRINE STRØMME LILLEBERGEN is an Enkeltpersonforetak (ENK) registered in 2017, based in Oslo. Main industry: 86.992 Forebyggende helsearbeid. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818574002.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

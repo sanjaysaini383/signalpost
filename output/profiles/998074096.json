@@ -1,0 +1,222 @@
+{
+  "schema_version": 2,
+  "organization_number": "998074096",
+  "generated_at": "2026-10-12T11:06:27Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABAS NUTTI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "navn: ABAS NUTTI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Gálaniitoluodda 958, 9527 KAUTOKEINO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "forretningsadresse: Gálaniitoluodda 958, 9527 KAUTOKEINO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "municipality",
+      "value": "KAUTOKEINO (5612)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "kommune: KAUTOKEINO, kommunenummer: 5612",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.993 Andre helsetjenester ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "mobile",
+      "value": "41261938",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "mobil: 41261938",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "email",
+      "value": "bmnutti@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "epostadresse: bmnutti@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Alternativ behandling innen helse og velferd. Medicinsk massageterapi, zoneterapi, spaterapi.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "aktivitet: Alternativ behandling innen helse og velferd. Medicinsk massageterapi, zoneterapi, spaterapi.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "BRIITA-MARJA NUTTI",
+          "from": "2012-03-19",
+          "to": "2012-07-19"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'BRIITA-MARJA NUTTI'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998074096",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Briita-Marja Garoliinna Nutti"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998074096/roller",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "INNH (Innehaver): Briita-Marja Garoliinna Nutti",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998074096",
+      "as_of": "2012-03-19",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 68.94634195961251,
+        "lon": 22.931483871383072,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=G%C3%A1laniitoluodda+958&postnummer=9527&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "address 'Gálaniitoluodda 958', 9527 KAUTOKEINO, municipality 5612 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998074096, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:27Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ABAS NUTTI",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ABAS NUTTI is an Enkeltpersonforetak (ENK) registered in 2012, based in Kautokeino. Main industry: 86.993 Andre helsetjenester ellers.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998074096.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

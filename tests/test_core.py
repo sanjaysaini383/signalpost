@@ -92,7 +92,7 @@ class _F:  # fetcher stub: website without any tie to the company
     class client:
         headers = {}
 
-    def get(self, url, params=None, accept=None):
+    def get(self, url, params=None, accept=None, **kw):
         return (404, "") if url.endswith("robots.txt") else (200, "<title>Cats</title>cats everywhere")
 
 

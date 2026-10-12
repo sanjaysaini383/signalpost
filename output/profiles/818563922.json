@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "organization_number": "818563922",
+  "generated_at": "2026-10-12T11:06:19Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CIDFRAGMA PAULINA TAMARA CID",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "navn: CIDFRAGMA PAULINA TAMARA CID",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-02-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-02-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-11-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kringlebotn 254, 5225 NESTTUN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "forretningsadresse: Kringlebotn 254, 5225 NESTTUN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "74.200 Fotografvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "naeringskode1: 74.200 Fotografvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "website",
+      "value": "www.paulinacidphotography.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "hjemmeside: www.paulinacidphotography.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "mobile",
+      "value": "452 56 648",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "mobil: 452 56 648",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "email",
+      "value": "paulinacidfoto@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "epostadresse: paulinacidfoto@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Fotografi, Film & Kunst.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "aktivitet: Fotografi, Film & Kunst.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Paulina Tamara Cid"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818563922/roller",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "INNH (Innehaver): Paulina Tamara Cid",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 818563922",
+      "as_of": "2017-02-14",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "928475131",
+        "name": "CIDFRAGMA PAULINA TAMARA CID",
+        "address": "Kringlebotn 254, 5225 NESTTUN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underenhet 928475131 overordnetEnhet: 818563922",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818563922",
+      "as_of": "2022-01-05",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818563922",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 818563922",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.32946797491868,
+        "lon": 5.371812847858796,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Kringlebotn+254&postnummer=5225&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "address 'Kringlebotn 254', 5225 NESTTUN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818563922, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:19Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.paulinacidphotography.com/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "CIDFRAGMA PAULINA TAMARA CID",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "CIDFRAGMA PAULINA TAMARA CID is an Enkeltpersonforetak (ENK) registered in 2017, based in Bergen. Main industry: 74.200 Fotografvirksomhet. It operates 1 registered establishment(s). Website: www.paulinacidphotography.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818563922.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

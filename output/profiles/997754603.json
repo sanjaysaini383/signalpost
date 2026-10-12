@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "organization_number": "997754603",
+  "generated_at": "2026-10-12T11:05:57Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DEILET EIENDOM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "navn: DEILET EIENDOM",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-12-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2011-12-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2011-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2011-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Kløverlundveien 5, 9040 NORDKJOSBOTN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "forretningsadresse: Kløverlundveien 5, 9040 NORDKJOSBOTN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BALSFJORD (5532)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "kommune: BALSFJORD, kommunenummer: 5532",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "mobile",
+      "value": "901 16 251",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "mobil: 901 16 251",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Utleie av næringslokaler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "aktivitet: Utleie av næringslokaler.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Øystein Deilet"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603/roller",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "INNH (Innehaver): Øystein Deilet",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997754603",
+      "as_of": "2011-12-22",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "NORHEIM REGNSKAP AS (org 992932767)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997754603/roller",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "REGN (Regnskapsfører): NORHEIM REGNSKAP AS (org 992932767)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997754603",
+      "as_of": "2011-12-22",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "997769171",
+        "name": "DEILET EIENDOM",
+        "address": "Kløverlundveien 5, 9040 NORDKJOSBOTN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "underenhet 997769171 overordnetEnhet: 997754603",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997754603",
+      "as_of": "2011-12-28",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997754603",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997754603",
+      "first_seen": "2026-10-12T11:05:57Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 69.21499278315711,
+        "lon": 19.572237546685745,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Kl%C3%B8verlundveien+5&postnummer=9040&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:57Z",
+      "evidence": "address 'Kløverlundveien 5', 9040 NORDKJOSBOTN, municipality 5532 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997754603, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:57Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DEILET EIENDOM",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "DEILET EIENDOM is an Enkeltpersonforetak (ENK) registered in 2011, based in Balsfjord. Main industry: 68.200 Utleie av egen eller leid fast eiendom. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997754603.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

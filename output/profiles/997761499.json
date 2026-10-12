@@ -1,170 +1,170 @@
 {
   "schema_version": 2,
   "organization_number": "997761499",
-  "generated_at": "2026-10-12T09:55:53Z",
+  "generated_at": "2026-10-12T11:03:43Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ALF MARTIN NESVÅG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "navn: ALF MARTIN NESVÅG",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "registered_date",
       "value": "2012-01-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-01-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2012-01-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "business_address",
       "value": "Nesvåg 132, 4380 HAUGE I DALANE, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "forretningsadresse: Nesvåg 132, 4380 HAUGE I DALANE, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "municipality",
       "value": "SOKNDAL (1111)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "kommune: SOKNDAL, kommunenummer: 1111",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "industry_code",
       "value": "01.451 Sauehold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "naeringskode1: 01.451 Sauehold",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "mobile",
       "value": "915 60 430",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "mobil: 915 60 430",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "email",
       "value": "alf_m_@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "epostadresse: alf_m_@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "activity_description",
       "value": "Jordbruk - sauehold og oppdrett av storfe og hunderasen dexter.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "aktivitet: Jordbruk - sauehold og oppdrett av storfe og hunderasen dexter.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "role:INNH",
@@ -173,11 +173,11 @@
         "name": "Alf Martin Nesvåg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499/roller",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "INNH (Innehaver): Alf Martin Nesvåg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997761499",
       "as_of": "2012-01-16",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "role:REGN",
@@ -186,11 +186,11 @@
         "name": "AZETS INSIGHT AS (org 983338917)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997761499/roller",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "REGN (Regnskapsfører): AZETS INSIGHT AS (org 983338917)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997761499",
       "as_of": "2025-04-28",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "establishment",
@@ -200,20 +200,20 @@
         "address": "Nesvåg 132, 4380 HAUGE I DALANE, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "underenhet 977944139 overordnetEnhet: 997761499",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997761499",
       "as_of": "1997-06-13",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997761499",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 997761499",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     },
     {
       "field": "geo_location",
@@ -223,10 +223,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nesv%C3%A5g+132&postnummer=4380&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:55:53Z",
+      "retrieved_at": "2026-10-12T11:03:43Z",
       "evidence": "address 'Nesvåg 132', 4380 HAUGE I DALANE, municipality 1111 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 997761499, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:55:53Z"
+      "first_seen": "2026-10-12T11:03:43Z"
     }
   ],
   "warnings": [],

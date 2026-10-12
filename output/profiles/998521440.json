@@ -1,0 +1,589 @@
+{
+  "schema_version": 2,
+  "organization_number": "998521440",
+  "generated_at": "2026-10-12T11:06:51Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SVEKJOL AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "navn: SVEKJOL AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "stiftelsesdato: 2012-06-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-06-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-06-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "vedtektsdato: 2012-06-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Langmyrgrenda 57B, 0861 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "forretningsadresse: Langmyrgrenda 57B, 0861 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering i aksjer og fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "aktivitet: Investering i aksjer og fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering i aksjer og fast eiendom samt hva hermed står i forbindelse, herunder deltagelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "vedtektsfestetFormaal: Investering i aksjer og fast eiendom samt hva hermed står i forbindelse, herunder deltagelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "as_of": "2012-06-20",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Sven Gudbrand Kjølseth"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440/roller",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "DAGL (Daglig leder): Sven Gudbrand Kjølseth",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998521440",
+      "as_of": "2012-06-20",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Sven Gudbrand Kjølseth"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440/roller",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "LEDE (Styrets leder): Sven Gudbrand Kjølseth",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998521440",
+      "as_of": "2012-06-20",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Tove Kjersti Kjølseth"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440/roller",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "VARA (Varamedlem): Tove Kjersti Kjølseth",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998521440",
+      "as_of": "2012-06-20",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "VIEW GROUP AS (org 987260335)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998521440/roller",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "REGN (Regnskapsfører): VIEW GROUP AS (org 987260335)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998521440",
+      "as_of": "2025-11-01",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "journalnr 2026587652, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 186800.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 186800.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 119557.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 119557.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 67243.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 67243.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 991575.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 991575.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 822156.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 822156.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 13578312.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.sumEiendeler: 13578312.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 8380797.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 8380797.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 5197515.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 5197515.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 51580.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 51580.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 13387951.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 13387951.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 190361.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 190361.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 190361.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 190361.0 NOK (journalnr 2026587652)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 163900.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 163900.0 NOK (journalnr 2025467509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 7379891.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 7379891.0 NOK (journalnr 2025467509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 16049102.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.sumEiendeler: 16049102.0 NOK (journalnr 2025467509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 15665795.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 15665795.0 NOK (journalnr 2025467509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 154850.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 154850.0 NOK (journalnr 2024463407)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 5406323.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 5406323.0 NOK (journalnr 2024463407)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 14199622.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "eiendeler.sumEiendeler: 14199622.0 NOK (journalnr 2024463407)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 13885904.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 13885904.0 NOK (journalnr 2024463407)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998521440 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "928405389",
+        "name": "SVEKJOL AS",
+        "address": "Langmyrgrenda 57B, 0861 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "underenhet 928405389 overordnetEnhet: 998521440",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998521440",
+      "as_of": "2021-12-21",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998521440",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998521440",
+      "first_seen": "2026-10-12T11:06:51Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.96796457260021,
+        "lon": 10.74570535285576,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Langmyrgrenda+57B&postnummer=0861&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:51Z",
+      "evidence": "address 'Langmyrgrenda 57B', 0861 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998521440, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SVEKJOL AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SVEKJOL AS is an Aksjeselskap (AS) registered in 2012, based in Oslo. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 186.8 thousand NOK, net profit 822.2 thousand NOK. Key people: Sven Gudbrand Kjølseth (daglig leder), Sven Gudbrand Kjølseth (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998521440.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

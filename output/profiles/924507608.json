@@ -1,125 +1,125 @@
 {
   "schema_version": 2,
   "organization_number": "924507608",
-  "generated_at": "2026-10-12T09:55:51Z",
+  "generated_at": "2026-10-12T11:03:40Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MAVAB AKTIEBOLAG NUF",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "navn: MAVAB AKTIEBOLAG NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "business_register_registered_date",
       "value": "2020-12-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "registreringsdatoForetaksregisteret: 2020-12-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2020-09-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-09-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "business_address",
       "value": "Skogsborgsvägen 1, SE-647 21 MARIEFRED, Sverige",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "forretningsadresse: Skogsborgsvägen 1, SE-647 21 MARIEFRED, Sverige",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "industry_code",
       "value": "71.129 Annen teknisk konsulentvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "institutional_sector",
       "value": "2100 Private aksjeselskaper mv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "activity_description",
       "value": "Montering av tekniske lebygg på stedet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "aktivitet: Montering av tekniske lebygg på stedet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "former_names",
@@ -136,37 +136,37 @@
         }
       ],
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "historiskeNavn: 2 earlier name(s), latest 'MAVAB NUF'",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "role:DAGL",
@@ -175,11 +175,11 @@
         "name": "Christoffer Anders Jacob Spetz"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608/roller",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "DAGL (Daglig leder): Christoffer Anders Jacob Spetz",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924507608",
       "as_of": "2025-05-22",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "role:REGN",
@@ -188,11 +188,11 @@
         "name": "EKONOMERNAS HUS I SVERIGE AB NUF (org 997835670)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608/roller",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "REGN (Regnskapsfører): EKONOMERNAS HUS I SVERIGE AB NUF (org 997835670)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924507608",
       "as_of": "2020-11-24",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "role:HFOR",
@@ -201,11 +201,11 @@
         "name": "MAVAB AKTIEBOLAG (org 924616938)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924507608/roller",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): MAVAB AKTIEBOLAG (org 924616938)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924507608",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "establishment",
@@ -215,20 +215,20 @@
         "address": "Skogsborgsvägen 1, SE-647 21 MARIEFRED, Sverige"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "underenhet 924618094 overordnetEnhet: 924507608",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924507608",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924507608",
-      "retrieved_at": "2026-10-12T09:55:51Z",
+      "retrieved_at": "2026-10-12T11:03:40Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 924507608",
-      "first_seen": "2026-10-12T09:55:51Z"
+      "first_seen": "2026-10-12T11:03:40Z"
     }
   ],
   "warnings": [],

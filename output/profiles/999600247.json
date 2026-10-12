@@ -1,180 +1,180 @@
 {
   "schema_version": 2,
   "organization_number": "999600247",
-  "generated_at": "2026-10-12T09:57:03Z",
+  "generated_at": "2026-10-12T11:04:37Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BJØRN STÅLE VIKE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "navn: BJØRN STÅLE VIKE AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "founded",
       "value": "2013-01-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "stiftelsesdato: 2013-01-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "registered_date",
       "value": "2013-02-09",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2013-02-09",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "business_register_registered_date",
       "value": "2013-02-09",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "registreringsdatoForetaksregisteret: 2013-02-09",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2013-01-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "articles_date",
       "value": "2013-01-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "vedtektsdato: 2013-01-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "employees",
       "value": 9,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "antallAnsatte: 9",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
       "as_of": "2026-08-12",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "business_address",
       "value": "Tokvamsvegen 12, 5745 AURLAND, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "forretningsadresse: Tokvamsvegen 12, 5745 AURLAND, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "municipality",
       "value": "AURLAND (4641)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "kommune: AURLAND, kommunenummer: 4641",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "industry_code",
       "value": "41.000 Oppføring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "institutional_sector",
       "value": "2100 Private aksjeselskaper mv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "mobile",
       "value": "48095468",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "mobil: 48095468",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "activity_description",
       "value": "Entreprenørverksemd med oppføring og reparasjon av hus og hytter, samt anna tenesteyting som naturleg hører saman.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "aktivitet: Entreprenørverksemd med oppføring og reparasjon av hus og hytter, samt anna tenesteyting som naturleg hører saman.",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "purpose",
       "value": "Entreprenørverksemd med oppføring og reparasjon av hus og hytter, samt anna tenesteyting som naturleg hører saman.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "vedtektsfestetFormaal: Entreprenørverksemd med oppføring og reparasjon av hus og hytter, samt anna tenesteyting som naturleg hører saman.",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "share_capital",
@@ -183,47 +183,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "kapital.belop: 100000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
       "as_of": "2013-02-09",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "role:DAGL",
@@ -232,11 +232,11 @@
         "name": "Bjørn Ståle Vike"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247/roller",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "DAGL (Daglig leder): Bjørn Ståle Vike",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600247",
       "as_of": "2013-02-09",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "role:LEDE",
@@ -245,11 +245,11 @@
         "name": "Bjørn Ståle Vike"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247/roller",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "LEDE (Styrets leder): Bjørn Ståle Vike",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600247",
       "as_of": "2013-02-09",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "role:VARA",
@@ -258,11 +258,11 @@
         "name": "Tone Rønning Vike"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247/roller",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "VARA (Varamedlem): Tone Rønning Vike",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600247",
       "as_of": "2013-02-09",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "role:REGN",
@@ -271,11 +271,11 @@
         "name": "ØKONOMISENTERET VOSS AS (org 984058993)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999600247/roller",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "REGN (Regnskapsfører): ØKONOMISENTERET VOSS AS (org 984058993)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999600247",
       "as_of": "2025-01-07",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "accounts_info:selskap",
@@ -290,11 +290,11 @@
         "liquidation_accounts": false
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "journalnr 2026311811, regnskapsperiode 2025-01-01..2025-12-31",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -303,11 +303,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 6457601.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:operating_costs",
@@ -316,11 +316,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 6039078.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -329,11 +329,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 418522.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:profit_before_tax",
@@ -342,11 +342,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 414113.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -355,11 +355,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 414113.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -368,11 +368,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "eiendeler.sumEiendeler: 2902089.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:current_assets",
@@ -381,11 +381,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 2902089.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:cash",
@@ -394,11 +394,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "eiendeler.sumBankinnskuddOgKontanter: 2061904.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -407,11 +407,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2164306.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -420,11 +420,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 737783.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials:selskap:current_debt",
@@ -433,11 +433,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 737783.0 NOK (journalnr 2026311811)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:revenue:2024",
@@ -446,11 +446,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5506871.0 NOK (journalnr 2025320920)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2024",
@@ -459,11 +459,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.aarsresultat: -40406.0 NOK (journalnr 2025320920)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2024",
@@ -472,11 +472,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "eiendeler.sumEiendeler: 3066330.0 NOK (journalnr 2025320920)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:equity:2024",
@@ -485,11 +485,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2450193.0 NOK (journalnr 2025320920)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:revenue:2023",
@@ -498,11 +498,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 9075304.0 NOK (journalnr 2024315959)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2023",
@@ -511,11 +511,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "resultatregnskapResultat.aarsresultat: -5671.0 NOK (journalnr 2024315959)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2023",
@@ -524,11 +524,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "eiendeler.sumEiendeler: 4301012.0 NOK (journalnr 2024315959)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "financials_history:selskap:equity:2023",
@@ -537,11 +537,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 3090599.0 NOK (journalnr 2024315959)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999600247 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "establishment",
@@ -552,20 +552,20 @@
         "employees": 9
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "underenhet 972060704 overordnetEnhet: 999600247",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999600247",
       "as_of": "1995-02-23",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999600247",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 999600247",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     },
     {
       "field": "geo_location",
@@ -575,10 +575,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Tokvamsvegen+12&postnummer=5745&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:03Z",
+      "retrieved_at": "2026-10-12T11:04:37Z",
       "evidence": "address 'Tokvamsvegen 12', 5745 AURLAND, municipality 4641 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 999600247, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:03Z"
+      "first_seen": "2026-10-12T11:04:37Z"
     }
   ],
   "warnings": [],

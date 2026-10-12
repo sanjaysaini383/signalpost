@@ -1,0 +1,667 @@
+{
+  "schema_version": 2,
+  "organization_number": "998214106",
+  "generated_at": "2026-10-12T11:05:39Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HÅ MASKIN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "navn: HÅ MASKIN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "stiftelsesdato: 2012-03-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2022-06-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "vedtektsdato: 2022-06-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Flatinvegen 93, 3801 BØ I TELEMARK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "forretningsadresse: Flatinvegen 93, 3801 BØ I TELEMARK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MIDT-TELEMARK (4020)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "kommune: MIDT-TELEMARK, kommunenummer: 4020",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "43.120 Grunnarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "naeringskode1: 43.120 Grunnarbeid",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "mobile",
+      "value": "416 65 344",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "mobil: 416 65 344",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "email",
+      "value": "inge.hegna@c2i.net",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "epostadresse: inge.hegna@c2i.net",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Vegvedlikehold som brøyting, strøing, soping, kantslått, høvling, grusing og grøfting. Vegbygging. Grunnarbeid til tomter, vatn og kloakk. Transport og graveoppdrag. Kalking for jordbruk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "aktivitet: Vegvedlikehold som brøyting, strøing, soping, kantslått, høvling, grusing og grøfting. Vegbygging. Grunnarbeid til tomter, vatn og kloakk. Transport og graveoppdrag. Kalking for jordbruk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Vegvedlikehold som brøyting, strøing, soping, kantslått, høvling, grusing og grøfting og andre produkter/tjenester som naturlig hører sammen med dette. Slik som vegbygging, grunnarbeid til tomter, vatn og kloakk. Transport og graveoppdrag. Kalking for jordbruk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "vedtektsfestetFormaal: Vegvedlikehold som brøyting, strøing, soping, kantslått, høvling, grusing og grøfting og andre produkter/tjenester som naturlig hører sammen med dette. Slik som vegbygging, grunnarbeid til tomter, vat",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 50000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "kapital.belop: 50000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "as_of": "2012-04-11",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ole Halvor Årmot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "DAGL (Daglig leder): Ole Halvor Årmot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2012-04-11",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Knut Tore Årmot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "LEDE (Styrets leder): Knut Tore Årmot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2024-04-24",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Inge Hegna"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "MEDL (Styremedlem): Inge Hegna",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2024-04-24",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Ole Halvor Årmot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "MEDL (Styremedlem): Ole Halvor Årmot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2024-04-24",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Anne Kristin Årmot"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "VARA (Varamedlem): Anne Kristin Årmot",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2024-04-24",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "AVANTI REVISJON AS (org 921197233)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "REVI (Revisor): AVANTI REVISJON AS (org 921197233)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2026-07-13",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "BØ ØKONOMI OG REGNSKAP AS (org 920037615)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998214106/roller",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "REGN (Regnskapsfører): BØ ØKONOMI OG REGNSKAP AS (org 920037615)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998214106",
+      "as_of": "2018-01-08",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "journalnr 2026475870, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 7268114.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 7268114.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 6337471.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 6337471.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 930643.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 930643.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 547773.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 547773.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 427263.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 427263.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 7585169.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.sumEiendeler: 7585169.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1493533.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1493533.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 6091636.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 6091636.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 26834.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 26834.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1258857.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1258857.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 6326313.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 6326313.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 674201.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 674201.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 5652111.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 5652111.0 NOK (journalnr 2026475870)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 5353378.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5353378.0 NOK (journalnr 2025449712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 10217.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 10217.0 NOK (journalnr 2025449712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 6482271.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.sumEiendeler: 6482271.0 NOK (journalnr 2025449712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 831593.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 831593.0 NOK (journalnr 2025449712)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 4565231.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4565231.0 NOK (journalnr 2024362385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -129501.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -129501.0 NOK (journalnr 2024362385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 4595255.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "eiendeler.sumEiendeler: 4595255.0 NOK (journalnr 2024362385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 821376.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 821376.0 NOK (journalnr 2024362385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998214106 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998286522",
+        "name": "HÅ MASKIN AS",
+        "address": "Flatinvegen 93, 3801 BØ I TELEMARK, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "underenhet 998286522 overordnetEnhet: 998214106",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998214106",
+      "as_of": "2012-04-23",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998214106",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998214106",
+      "first_seen": "2026-10-12T11:05:39Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.40559675694241,
+        "lon": 9.119911565150625,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Flatinvegen+93&postnummer=3801&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:39Z",
+      "evidence": "address 'Flatinvegen 93', 3801 BØ I TELEMARK, municipality 4020 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998214106, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:39Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HÅ MASKIN AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "HÅ MASKIN AS is an Aksjeselskap (AS) registered in 2012, based in Midt-Telemark. Main industry: 43.120 Grunnarbeid. Latest selskap accounts (period ending 2025-12-31): revenue 7.3 million NOK, net profit 427.3 thousand NOK. Key people: Ole Halvor Årmot (daglig leder), Knut Tore Årmot (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998214106.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

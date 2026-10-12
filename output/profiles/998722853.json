@@ -1,0 +1,248 @@
+{
+  "schema_version": 2,
+  "organization_number": "998722853",
+  "generated_at": "2026-10-12T11:06:19Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FADNES, LARS T",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "navn: FADNES, LARS T",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-08-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-08-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Mindeveien 77, 5073 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "forretningsadresse: Mindeveien 77, 5073 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.210 Allmennlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "naeringskode1: 86.210 Allmennlegetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "website",
+      "value": "fjellsiden-legesenter.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "hjemmeside: fjellsiden-legesenter.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "phone",
+      "value": "55 59 25 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "telefon: 55 59 25 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Legevaktsarbeid.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "aktivitet: Legevaktsarbeid.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "LARS THORE FADNES",
+          "from": "2012-08-18",
+          "to": "2012-08-21"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'LARS THORE FADNES'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Lars Thore Fadnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998722853/roller",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "INNH (Innehaver): Lars Thore Fadnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998722853",
+      "as_of": "2012-08-18",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998731003",
+        "name": "FADNES, LARS T",
+        "address": "Mindeveien 77, 5073 BERGEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "underenhet 998731003 overordnetEnhet: 998722853",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998722853",
+      "as_of": "2012-08-20",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998722853",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998722853",
+      "first_seen": "2026-10-12T11:06:19Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.36386960814232,
+        "lon": 5.339560804478199,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Mindeveien+77&postnummer=5073&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:19Z",
+      "evidence": "address 'Mindeveien 77', 5073 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998722853, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:19Z"
+    }
+  ],
+  "warnings": [
+    "website https://fjellsiden-legesenter.no/ discarded: page does not tie to organisation number 998722853"
+  ],
+  "name": "FADNES, LARS T",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FADNES, LARS T is an Enkeltpersonforetak (ENK) registered in 2012, based in Bergen. Main industry: 86.210 Allmennlegetjenester. It operates 1 registered establishment(s). Website: fjellsiden-legesenter.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998722853.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

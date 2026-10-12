@@ -1,198 +1,198 @@
 {
   "schema_version": 2,
   "organization_number": "998210585",
-  "generated_at": "2026-10-12T09:57:39Z",
+  "generated_at": "2026-10-12T11:05:07Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MODULSERVICE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "navn: MODULSERVICE AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "founded",
       "value": "2012-03-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "stiftelsesdato: 2012-03-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "registered_date",
       "value": "2012-04-26",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-04-26",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "business_register_registered_date",
       "value": "2012-04-26",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "registreringsdatoForetaksregisteret: 2012-04-26",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2013-01-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "articles_date",
       "value": "2024-06-07",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "vedtektsdato: 2024-06-07",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "employees",
       "value": 25,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "antallAnsatte: 25",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
       "as_of": "2026-09-14",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "business_address",
       "value": "Alexander Kiellands gate 35, 3716 SKIEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "forretningsadresse: Alexander Kiellands gate 35, 3716 SKIEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "municipality",
       "value": "SKIEN (4003)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "kommune: SKIEN, kommunenummer: 4003",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "industry_code",
       "value": "41.000 Oppføring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "institutional_sector",
       "value": "2100 Private aksjeselskaper mv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website",
       "value": "www.modulservice.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "hjemmeside: www.modulservice.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "mobile",
       "value": "415 75 979",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "mobil: 415 75 979",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "email",
       "value": "info@modulservice.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "epostadresse: info@modulservice.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "activity_description",
       "value": "Bygg og anlegg - håndverkstjenester, i hovedsak tømrer og møbelsnekkertjenester. Utleie og leasing av sports- og fritidsutstyr.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "aktivitet: Bygg og anlegg - håndverkstjenester, i hovedsak tømrer og møbelsnekkertjenester. Utleie og leasing av sports- og fritidsutstyr.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "purpose",
       "value": "Håndverkertjenester og alt som faller inn under dette, samt å delta i andre selskaper og lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "vedtektsfestetFormaal: Håndverkertjenester og alt som faller inn under dette, samt å delta i andre selskaper og lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "share_capital",
@@ -201,11 +201,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "kapital.belop: 35000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
       "as_of": "2024-08-26",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "former_names",
@@ -217,46 +217,46 @@
         }
       ],
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "historiskeNavn: 1 earlier name(s), latest 'SHARE AS'",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:DAGL",
@@ -265,11 +265,11 @@
         "name": "Thomas Myrvold"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "DAGL (Daglig leder): Thomas Myrvold",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2012-04-26",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:LEDE",
@@ -278,11 +278,11 @@
         "name": "Thomas Myrvold"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "LEDE (Styrets leder): Thomas Myrvold",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2021-03-23",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:MEDL",
@@ -291,11 +291,11 @@
         "name": "Hans Edvard Askjer"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "MEDL (Styremedlem): Hans Edvard Askjer",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2021-03-23",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:MEDL",
@@ -304,11 +304,11 @@
         "name": "Kjetil Spilde"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "MEDL (Styremedlem): Kjetil Spilde",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2021-03-23",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:REVI",
@@ -317,11 +317,11 @@
         "name": "AVANTI REVISJON AS (org 921197233)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "REVI (Revisor): AVANTI REVISJON AS (org 921197233)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2024-12-03",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "role:REGN",
@@ -330,11 +330,11 @@
         "name": "AICONO AS (org 823820232)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210585/roller",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "REGN (Regnskapsfører): AICONO AS (org 823820232)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210585",
       "as_of": "2023-05-24",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "accounts_info:selskap",
@@ -349,11 +349,11 @@
         "liquidation_accounts": false
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "journalnr 2026627853, regnskapsperiode 2025-01-01..2025-12-31",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -362,11 +362,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 21998946.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:operating_costs",
@@ -375,11 +375,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 21541902.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -388,11 +388,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 457045.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:profit_before_tax",
@@ -401,11 +401,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 373921.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -414,11 +414,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 274308.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -427,11 +427,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.sumEiendeler: 6424258.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:current_assets",
@@ -440,11 +440,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 5535885.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:fixed_assets",
@@ -453,11 +453,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 888373.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:cash",
@@ -466,11 +466,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.sumBankinnskuddOgKontanter: 855102.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -479,11 +479,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1081074.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -492,11 +492,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 5343184.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials:selskap:current_debt",
@@ -505,11 +505,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 4758813.0 NOK (journalnr 2026627853)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:revenue:2024",
@@ -518,11 +518,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 16050573.0 NOK (journalnr 2025464193)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2024",
@@ -531,11 +531,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 279435.0 NOK (journalnr 2025464193)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2024",
@@ -544,11 +544,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.sumEiendeler: 5016750.0 NOK (journalnr 2025464193)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:equity:2024",
@@ -557,11 +557,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 806766.0 NOK (journalnr 2025464193)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:revenue:2023",
@@ -570,11 +570,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 13549223.0 NOK (journalnr 2024591389)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2023",
@@ -583,11 +583,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "resultatregnskapResultat.aarsresultat: -402590.0 NOK (journalnr 2024591389)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2023",
@@ -596,11 +596,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "eiendeler.sumEiendeler: 4074003.0 NOK (journalnr 2024591389)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "financials_history:selskap:equity:2023",
@@ -609,11 +609,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 360665.0 NOK (journalnr 2024591389)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998210585 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "establishment",
@@ -624,20 +624,20 @@
         "employees": 25
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "underenhet 998318866 overordnetEnhet: 998210585",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998210585",
       "as_of": "2012-04-30",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998210585",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "geo_location",
@@ -647,109 +647,109 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Alexander+Kiellands+gate+35&postnummer=3716&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "address 'Alexander Kiellands gate 35', 3716 SKIEN, municipality 4003 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 998210585, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_verified",
       "value": true,
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "page text contains organisation number 998210585",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_description",
       "value": "Byggfirmaet Modulservice holder til i Skien i Telemark. Vi tilbyr rigging og service av brakkemoduler i hele regionen, inkludert Vestfold, Buskerud og Agder-fylkene.",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "meta description: Byggfirmaet Modulservice holder til i Skien i Telemark. Vi tilbyr rigging og service av brakkemoduler i hele regionen, inkludert Vestfold, Buskerud og Agder-fylkene.",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_email",
       "value": "info@modulservice.no",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "mailto:info@modulservice.no",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_email",
       "value": "pnt@modulservice.no",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "mailto:pnt@modulservice.no",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_email",
       "value": "thomas@modulservice.no",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "mailto:thomas@modulservice.no",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_phone",
       "value": "+4741575979",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "tel:+47 41575979",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_phone",
       "value": "+4745863389",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "tel:+47 45863389",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_phone",
       "value": "41575979",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "tel:41575979",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "social:facebook",
       "value": "https://www.facebook.com/modulservice.as",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "link on page: https://www.facebook.com/modulservice.as",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_phone",
       "value": "45863389",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "JSON-LD LocalBusiness: telephone 458 63 389",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     },
     {
       "field": "website_address",
       "value": "Alexander Kiellands Gate 35, 3716 SKIEN",
       "source_url": "https://www.modulservice.no/",
-      "retrieved_at": "2026-10-12T09:57:39Z",
+      "retrieved_at": "2026-10-12T11:05:07Z",
       "evidence": "JSON-LD LocalBusiness: address Alexander Kiellands Gate 35, 3716 SKIEN (postal code equals the register's)",
       "explanation": "Page from https://www.modulservice.no/, the website declared in Enhetsregisteret for organisation number 998210585; page text contains organisation number 998210585",
-      "first_seen": "2026-10-12T09:57:39Z"
+      "first_seen": "2026-10-12T11:05:07Z"
     }
   ],
   "warnings": [],

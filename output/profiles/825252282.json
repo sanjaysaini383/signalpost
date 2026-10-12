@@ -1,0 +1,223 @@
+{
+  "schema_version": 2,
+  "organization_number": "825252282",
+  "generated_at": "2026-10-12T11:05:51Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NEVROLOG LINE BROCH",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "navn: NEVROLOG LINE BROCH",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2020-06-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2020-06-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "forretningsadresse: Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "naeringskode1: 86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Legevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "aktivitet: Legevirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Line Broch"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825252282/roller",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "INNH (Innehaver): Line Broch",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825252282",
+      "as_of": "2020-06-25",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "925348864",
+        "name": "NEVROLOG LINE BROCH",
+        "address": "Hoffsjef Løvenskiolds vei 75C, 0382 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "underenhet 925348864 overordnetEnhet: 825252282",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825252282",
+      "as_of": "2020-07-15",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825252282",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 825252282",
+      "first_seen": "2026-10-12T11:05:51Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.93599592074556,
+        "lon": 10.65115362384032,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Hoffsjef+L%C3%B8venskiolds+vei+75C&postnummer=0382&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:51Z",
+      "evidence": "address 'Hoffsjef Løvenskiolds vei 75C', 0382 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825252282, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NEVROLOG LINE BROCH",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "NEVROLOG LINE BROCH is an Enkeltpersonforetak (ENK) registered in 2020, based in Oslo. Main industry: 86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825252282.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

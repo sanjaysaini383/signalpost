@@ -1,0 +1,617 @@
+{
+  "schema_version": 2,
+  "organization_number": "823393962",
+  "generated_at": "2026-10-12T11:06:29Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MALELU HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "navn: MALELU HOLDING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "stiftelsesdato: 2019-09-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-09-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2019-09-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2019-09-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-10-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "vedtektsdato: 2019-10-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Nordstrandveien 59A, 1163 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "forretningsadresse: Nordstrandveien 59A, 1163 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "naeringskode1: 78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie og forvalte aksjer samt kjøp og salg av fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "aktivitet: Eie og forvalte aksjer samt kjøp og salg av fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og forvalte aksjer samt kjøp og salg av fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "vedtektsfestetFormaal: Eie og forvalte aksjer samt kjøp og salg av fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 130000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "kapital.belop: 130000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "as_of": "2020-01-15",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ALFANOR 19199 AS",
+          "from": "2019-09-13",
+          "to": "2019-11-01"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'ALFANOR 19199 AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Lena Maria Owrum Vonka"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962/roller",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "DAGL (Daglig leder): Lena Maria Owrum Vonka",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823393962",
+      "as_of": "2019-11-01",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Erik Walle Normann"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962/roller",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "LEDE (Styrets leder): Erik Walle Normann",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823393962",
+      "as_of": "2022-08-23",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Lena Maria Owrum Vonka"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962/roller",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "MEDL (Styremedlem): Lena Maria Owrum Vonka",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823393962",
+      "as_of": "2022-08-23",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SMAALENENE REVISJON AS (org 989664379)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962/roller",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "REVI (Revisor): SMAALENENE REVISJON AS (org 989664379)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823393962",
+      "as_of": "2019-11-13",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ABACUS ØKONOMITJENESTER AS (org 982741076)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823393962/roller",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "REGN (Regnskapsfører): ABACUS ØKONOMITJENESTER AS (org 982741076)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823393962",
+      "as_of": "2024-01-05",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "journalnr 2026596119, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1779428.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1779428.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -1779428.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -1779428.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -339971.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -339971.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -339971.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -339971.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 9853068.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.sumEiendeler: 9853068.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 8126068.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 8126068.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1727000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1727000.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 135026.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 135026.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 9257304.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9257304.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 595763.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 595763.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 595763.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 595763.0 NOK (journalnr 2026596119)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2025531674)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 625020.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 625020.0 NOK (journalnr 2025531674)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 12061859.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.sumEiendeler: 12061859.0 NOK (journalnr 2025531674)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 9597276.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9597276.0 NOK (journalnr 2025531674)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2024597704)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 34223.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 34223.0 NOK (journalnr 2024597704)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 11511078.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "eiendeler.sumEiendeler: 11511078.0 NOK (journalnr 2024597704)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 11172256.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 11172256.0 NOK (journalnr 2024597704)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823393962 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "923746765",
+        "name": "MALELU HOLDING AS",
+        "address": "Nordstrandveien 59A, 1163 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "underenhet 923746765 overordnetEnhet: 823393962",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823393962",
+      "as_of": "2019-11-04",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823393962",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 823393962",
+      "first_seen": "2026-10-12T11:06:29Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.86023348908757,
+        "lon": 10.808164493296267,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nordstrandveien+59A&postnummer=1163&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:29Z",
+      "evidence": "address 'Nordstrandveien 59A', 1163 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 823393962, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:29Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MALELU HOLDING AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "MALELU HOLDING AS is an Aksjeselskap (AS) registered in 2019, based in Oslo. Main industry: 78.200 Utleie av arbeidskraft og andre personaladministrative tjenester. Latest selskap accounts (period ending 2025-12-31): revenue 0 NOK, net profit -340.0 thousand NOK. Key people: Lena Maria Owrum Vonka (daglig leder), Erik Walle Normann (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 823393962.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

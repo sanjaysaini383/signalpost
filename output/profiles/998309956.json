@@ -1,0 +1,651 @@
+{
+  "schema_version": 2,
+  "organization_number": "998309956",
+  "generated_at": "2026-10-12T11:06:42Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "MARKANE TAKSERING OG HYTTER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "navn: MARKANE TAKSERING OG HYTTER AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "stiftelsesdato: 2012-03-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "vedtektsdato: 2015-10-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Markane, 6783 STRYN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "forretningsadresse: Markane, 6783 STRYN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Jostein Vonheim, Markane, 6783 STRYN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "postadresse: v/ Jostein Vonheim, Markane, 6783 STRYN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STRYN (4651)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "kommune: STRYN, kommunenummer: 4651",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "mobile",
+      "value": "900 24 850",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "mobil: 900 24 850",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "email",
+      "value": "sfbstryn@online.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "epostadresse: sfbstryn@online.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Drift av utleigehytter, kjøp og sal av hyttetomter og ferdig oppførte hytter. Naturbasert opplevingsturisme. Taksering av fast eigedom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "aktivitet: Drift av utleigehytter, kjøp og sal av hyttetomter og ferdig oppførte hytter. Naturbasert opplevingsturisme. Taksering av fast eigedom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Taksering av fast eigedom, naturbasert opplevingsturisme, byggje og leige ut feriehytter, kjøp og sal av fast eigedom, eigedomsutvikling samt sal av dertil høyrande varer og tenester. Selskapet kan og delta i andre selskap med liknande verksemd.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "vedtektsfestetFormaal: Taksering av fast eigedom, naturbasert opplevingsturisme, byggje og leige ut feriehytter, kjøp og sal av fast eigedom, eigedomsutvikling samt sal av dertil høyrande varer og tenester. Selskapet kan og",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 50000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "kapital.belop: 50000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "as_of": "2012-04-28",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "MARKANE FERIEHYTTER AS",
+          "from": "2012-04-28",
+          "to": "2015-10-19"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'MARKANE FERIEHYTTER AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Jostein Ivar Vonheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956/roller",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "DAGL (Daglig leder): Jostein Ivar Vonheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998309956",
+      "as_of": "2012-04-28",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Jostein Ivar Vonheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956/roller",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "LEDE (Styrets leder): Jostein Ivar Vonheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998309956",
+      "as_of": "2018-08-30",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Endre Hollsten Vonheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956/roller",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "MEDL (Styremedlem): Endre Hollsten Vonheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998309956",
+      "as_of": "2018-08-30",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Oddvin Vonheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956/roller",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "VARA (Varamedlem): Oddvin Vonheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998309956",
+      "as_of": "2018-08-30",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ØKORÅD FJORD AS (org 920679919)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998309956/roller",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "REGN (Regnskapsfører): ØKORÅD FJORD AS (org 920679919)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998309956",
+      "as_of": "2019-10-26",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "journalnr 2026546937, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2352456.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2352456.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 641037.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 641037.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1711419.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1711419.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1721751.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1721751.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1532617.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1532617.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 1130453.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.sumEiendeler: 1130453.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 115038.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 115038.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1015415.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1015415.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 41165.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 41165.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 764529.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 764529.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 365924.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 365924.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 176790.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 176790.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 189134.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 189134.0 NOK (journalnr 2026546937)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 662731.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 662731.0 NOK (journalnr 2025668315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 207606.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 207606.0 NOK (journalnr 2025668315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3788513.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.sumEiendeler: 3788513.0 NOK (journalnr 2025668315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -768089.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -768089.0 NOK (journalnr 2025668315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 115427.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 115427.0 NOK (journalnr 2024698262)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -346276.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -346276.0 NOK (journalnr 2024698262)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3778487.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "eiendeler.sumEiendeler: 3778487.0 NOK (journalnr 2024698262)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -975694.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -975694.0 NOK (journalnr 2024698262)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998309956 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998315654",
+        "name": "MARKANE TAKSERING OG HYTTER AS",
+        "address": "Markane, 6783 STRYN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "underenhet 998315654 overordnetEnhet: 998309956",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998309956",
+      "as_of": "2012-04-30",
+      "first_seen": "2026-10-12T11:06:42Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998309956",
+      "retrieved_at": "2026-10-12T11:06:42Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998309956",
+      "first_seen": "2026-10-12T11:06:42Z"
+    }
+  ],
+  "warnings": [],
+  "name": "MARKANE TAKSERING OG HYTTER AS",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "MARKANE TAKSERING OG HYTTER AS is an Aksjeselskap (AS) registered in 2012, based in Stryn. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 2.4 million NOK, net profit 1.5 million NOK. Key people: Jostein Ivar Vonheim (daglig leder), Jostein Ivar Vonheim (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998309956.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

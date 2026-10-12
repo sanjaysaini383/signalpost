@@ -1,188 +1,188 @@
 {
   "schema_version": 2,
   "organization_number": "821200172",
-  "generated_at": "2026-10-12T09:57:29Z",
+  "generated_at": "2026-10-12T11:04:57Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "TOPPTURING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "navn: TOPPTURING AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "founded",
       "value": "2018-06-24",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "stiftelsesdato: 2018-06-24",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "registered_date",
       "value": "2018-07-27",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2018-07-27",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "business_register_registered_date",
       "value": "2018-07-27",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "registreringsdatoForetaksregisteret: 2018-07-27",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2018-07-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2018-07-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "articles_date",
       "value": "2021-10-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "vedtektsdato: 2021-10-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "business_address",
       "value": "Giskegata 25, 6005 ÅLESUND, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "forretningsadresse: Giskegata 25, 6005 ÅLESUND, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "municipality",
       "value": "ÅLESUND (1508)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "kommune: ÅLESUND, kommunenummer: 1508",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "industry_code",
       "value": "79.902 Guide- og reiseledervirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "naeringskode1: 79.902 Guide- og reiseledervirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "institutional_sector",
       "value": "2100 Private aksjeselskaper mv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "website",
       "value": "www.toppturing.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "hjemmeside: www.toppturing.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "mobile",
       "value": "930 40 014",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "mobil: 930 40 014",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "email",
       "value": "kontakt@toppturing.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "epostadresse: kontakt@toppturing.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "activity_description",
       "value": "Guider og reiseledere. Annen arrangørvirksomhet og tilknyttede tjenester, forretningsmessig tjenesteyting.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "aktivitet: Guider og reiseledere. Annen arrangørvirksomhet og tilknyttede tjenester, forretningsmessig tjenesteyting.",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "purpose",
       "value": "Toppturing AS skal skreddersy guidet turopplevelser og tilhørende aktiviteter til fjells og i naturen primært i kjerneområdene Sunnmøre, Romsdalen, Nordfjord og i Jotunheimen, men også ellers i Norge. Målgruppen vil være hele spekteret fra standard turforespørsler om dagsturer til omfattende og eksklusive highend forespørsler. Videre skal Toppturing sørge for at egne aktiviteter benytter seg av andre lokale aktører innen reiseliv, overnatting og restaurant bransjen, og dermed være en lokal bidragsyter og pådriver for økt aktivitet og etterspørsel av tilhørende lokale tjenester. Toppturing skal på sikt fungere som en guidehub og videreformidle guideoppdrag nasjonalt og internasjonalt via et veletablert og kvalifisert nettverk av samarbeidspartnere og enkeltpersoner i samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "vedtektsfestetFormaal: Toppturing AS skal skreddersy guidet turopplevelser og tilhørende aktiviteter til fjells og i naturen primært i kjerneområdene Sunnmøre, Romsdalen, Nordfjord og i Jotunheimen, men også ellers i Norge.",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "share_capital",
@@ -191,11 +191,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
       "as_of": "2018-07-27",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "former_names",
@@ -207,46 +207,46 @@
         }
       ],
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "historiskeNavn: 1 earlier name(s), latest 'DEFINOR AS'",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "role:LEDE",
@@ -255,11 +255,11 @@
         "name": "Per Eivind Vågnes"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172/roller",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "LEDE (Styrets leder): Per Eivind Vågnes",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 821200172",
       "as_of": "2018-09-20",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "role:MEDL",
@@ -268,11 +268,11 @@
         "name": "Ingrid Onsum Berg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172/roller",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "MEDL (Styremedlem): Ingrid Onsum Berg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 821200172",
       "as_of": "2018-09-20",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "role:MEDL",
@@ -281,11 +281,11 @@
         "name": "Andreas Bjerkvik Lorentzen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172/roller",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "MEDL (Styremedlem): Andreas Bjerkvik Lorentzen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 821200172",
       "as_of": "2018-09-20",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "role:REGN",
@@ -294,11 +294,11 @@
         "name": "AIDER AS (org 922633452)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821200172/roller",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "REGN (Regnskapsfører): AIDER AS (org 922633452)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 821200172",
       "as_of": "2024-11-28",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "accounts_info:selskap",
@@ -313,11 +313,11 @@
         "liquidation_accounts": false
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "journalnr 2026371895, regnskapsperiode 2025-01-01..2025-12-31",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -326,11 +326,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 30233.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:operating_costs",
@@ -339,11 +339,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 22283.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -352,11 +352,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 7950.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:profit_before_tax",
@@ -365,11 +365,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 10608.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -378,11 +378,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 6801.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -391,11 +391,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.sumEiendeler: 196033.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:current_assets",
@@ -404,11 +404,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 196033.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:fixed_assets",
@@ -417,11 +417,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:cash",
@@ -430,11 +430,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.sumBankinnskuddOgKontanter: 114779.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -443,11 +443,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 192226.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -456,11 +456,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 3807.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials:selskap:current_debt",
@@ -469,11 +469,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 3807.0 NOK (journalnr 2026371895)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:revenue:2024",
@@ -482,11 +482,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 170983.0 NOK (journalnr 2025531687)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2024",
@@ -495,11 +495,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 1412.0 NOK (journalnr 2025531687)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2024",
@@ -508,11 +508,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.sumEiendeler: 185620.0 NOK (journalnr 2025531687)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:equity:2024",
@@ -521,11 +521,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 185425.0 NOK (journalnr 2025531687)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:revenue:2023",
@@ -534,11 +534,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 252974.0 NOK (journalnr 2024568052)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2023",
@@ -547,11 +547,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 6387.0 NOK (journalnr 2024568052)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2023",
@@ -560,11 +560,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "eiendeler.sumEiendeler: 309882.0 NOK (journalnr 2024568052)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "financials_history:selskap:equity:2023",
@@ -573,11 +573,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 184014.0 NOK (journalnr 2024568052)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821200172 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "establishment",
@@ -587,20 +587,20 @@
         "address": "Giskegata 25, 6005 ÅLESUND, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "underenhet 932620731 overordnetEnhet: 821200172",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 821200172",
       "as_of": "2023-12-19",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821200172",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "geo_location",
@@ -610,64 +610,64 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Giskegata+25&postnummer=6005&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "address 'Giskegata 25', 6005 ÅLESUND, municipality 1508 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 821200172, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "website_verified",
       "value": true,
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "page text contains organisation number 821200172",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "website_description",
       "value": "Vi gleder oss til å bistå med å skape helt unike og uforglemmelige opplevelser! Meld deg på en av våre camper, kurs eller ta kontakt om du ønsker et skreddersydd opplegg for deg eller din bedrift!",
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "meta description: Vi gleder oss til å bistå med å skape helt unike og uforglemmelige opplevelser! Meld deg på en av våre camper, kurs eller ta kontakt om du ønsker et skreddersydd opplegg for deg eller din bedrift!",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "website_email",
       "value": "kontakt@toppturing.no",
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "mailto:kontakt@toppturing.no",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "social:facebook",
       "value": "https://www.facebook.com/toppturing",
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "link on page: https://www.facebook.com/toppturing",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "social:instagram",
       "value": "https://www.instagram.com/toppturing",
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "link on page: https://www.instagram.com/toppturing",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     },
     {
       "field": "social:youtube",
       "value": "https://www.youtube.com/channel/UCrQRpVy3jmf19HchU8ssnsg",
       "source_url": "https://www.toppturing.no/",
-      "retrieved_at": "2026-10-12T09:57:29Z",
+      "retrieved_at": "2026-10-12T11:04:57Z",
       "evidence": "link on page: https://www.youtube.com/channel/UCrQRpVy3jmf19HchU8ssnsg",
       "explanation": "Page from https://www.toppturing.no/, the website declared in Enhetsregisteret for organisation number 821200172; page text contains organisation number 821200172",
-      "first_seen": "2026-10-12T09:57:29Z"
+      "first_seen": "2026-10-12T11:04:57Z"
     }
   ],
   "warnings": [],

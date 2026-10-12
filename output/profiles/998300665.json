@@ -1,0 +1,896 @@
+{
+  "schema_version": 2,
+  "organization_number": "998300665",
+  "generated_at": "2026-10-12T11:05:52Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OBRON GRUPPEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "navn: OBRON GRUPPEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "stiftelsesdato: 2012-03-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2025-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "vedtektsdato: 2025-06-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Tungasletta 8, 7047 TRONDHEIM, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "forretningsadresse: Tungasletta 8, 7047 TRONDHEIM, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "kommune: TRONDHEIM, kommunenummer: 5001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.121 Byggeteknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "naeringskode1: 71.121 Byggeteknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website",
+      "value": "www.obron.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "hjemmeside: www.obron.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "mobile",
+      "value": "958 90 008",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mobil: 958 90 008",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "email",
+      "value": "oflobak@online.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "epostadresse: oflobak@online.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Bygg og anlegg: On-/offshore konstruksjoner og bygg. Prosjektering, kontroll og taksering, samt investeringer i andre selskaper og fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "aktivitet: Bygg og anlegg: On-/offshore konstruksjoner og bygg. Prosjektering, kontroll og taksering, samt investeringer i andre selskaper og fast eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Prosjektering, kontroll og taksering av on- og offshore konstruksjoner og bygg. Medvirke i andre selskaper innen samme virksomhet, samt alt som hører naturlig til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "vedtektsfestetFormaal: Prosjektering, kontroll og taksering av on- og offshore konstruksjoner og bygg. Medvirke i andre selskaper innen samme virksomhet, samt alt som hører naturlig til dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 40000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "kapital.belop: 40000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "as_of": "2012-04-25",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "OBRON AS",
+          "from": "2012-04-25",
+          "to": "2013-01-05"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'OBRON AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Espen Welin-Larsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "LEDE (Styrets leder): Espen Welin-Larsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2026-06-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Jostein Engh"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "MEDL (Styremedlem): Jostein Engh",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2026-06-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Trond Vegard Sagen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "MEDL (Styremedlem): Trond Vegard Sagen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2026-06-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Odd Gerhard Flobakk"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "MEDL (Styremedlem): Odd Gerhard Flobakk",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2026-06-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "E.K. REVISJON AS (org 990455376)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "REVI (Revisor): E.K. REVISJON AS (org 990455376)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2026-06-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "PROGRESSUM AS (org 889380802)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998300665/roller",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "REGN (Regnskapsfører): PROGRESSUM AS (org 889380802)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998300665",
+      "as_of": "2025-12-22",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "journalnr 2026766782, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2790088.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2790088.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 3758414.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 3758414.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -968326.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -968326.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -922852.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -922852.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -696117.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -696117.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 4818123.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.sumEiendeler: 4818123.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 681176.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 681176.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 4136946.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 4136946.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 84164.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 84164.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 159998.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 159998.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 4658125.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4658125.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 2246085.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 2246085.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 2412040.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 2412040.0 NOK (journalnr 2026766782)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 4181010.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4181010.0 NOK (journalnr 2025754592)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -34455.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -34455.0 NOK (journalnr 2025754592)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 4749718.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.sumEiendeler: 4749718.0 NOK (journalnr 2025754592)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 1058757.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1058757.0 NOK (journalnr 2025754592)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 1261718.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1261718.0 NOK (journalnr 2024684315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -84091.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -84091.0 NOK (journalnr 2024684315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3185803.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "eiendeler.sumEiendeler: 3185803.0 NOK (journalnr 2024684315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1108337.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1108337.0 NOK (journalnr 2024684315)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998300665 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "898306542",
+        "name": "OBRON GRUPPEN AS",
+        "address": "Tungasletta 8, 7047 TRONDHEIM, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "underenhet 898306542 overordnetEnhet: 998300665",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998300665",
+      "as_of": "2012-04-28",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998300665",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.422106945873914,
+        "lon": 10.465245700551312,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Tungasletta+8&postnummer=7047&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "address 'Tungasletta 8', 7047 TRONDHEIM, municipality 5001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998300665, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "page text contains organisation number 998300665",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_description",
+      "value": "OBRON tilbyr trygg og grundig taksering av bolig og næringseiendom. Få tilstandsrapport, verditakst eller rådgivning fra erfarne og sertifiserte takstmenn.",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "meta description: OBRON tilbyr trygg og grundig taksering av bolig og næringseiendom. Få tilstandsrapport, verditakst eller rådgivning fra erfarne og sertifiserte takstmenn.",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "endre.kvistad@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:endre.kvistad@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "erik.bergsnev@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:erik.bergsnev@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "espen.welin-larsen@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:espen.welin-larsen@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "jostein.engh@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:jostein.engh@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "kent.volden@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:kent.volden@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "lars.kvalvik@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:lars.kvalvik@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "lisbeth.flobakk@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:lisbeth.flobakk@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "mail@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:mail@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "midt@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:midt@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "morten.lillejordet@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:morten.lillejordet@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "morten.ronningen@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:morten.ronningen@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "odd.flobakk@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:odd.flobakk@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:post@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "rolf.eidsvold@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:rolf.eidsvold@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "rolf.knetter@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:rolf.knetter@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "ronny.enaasen@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:ronny.enaasen@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "sorost@obron.no",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:sorost@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "trond.sagen@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:trond.sagen@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_email",
+      "value": "vegard.garvik@obron.no",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "mailto:vegard.garvik@obron.no",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+472041302816",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "tel:(+47)%2041302816",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+472090969380",
+      "source_url": "https://www.obron.no/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "tel:(+47)%2090969380",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+472095890008",
+      "source_url": "https://obron.no/om-oss/",
+      "retrieved_at": "2026-10-12T11:05:52Z",
+      "evidence": "tel:(+47)%2095890008",
+      "explanation": "Page from https://www.obron.no/, the website declared in Enhetsregisteret for organisation number 998300665; page text contains organisation number 998300665",
+      "first_seen": "2026-10-12T11:05:52Z"
+    }
+  ],
+  "warnings": [],
+  "name": "OBRON GRUPPEN AS",
+  "sources_used": [
+    "data.brreg.no",
+    "obron.no",
+    "ws.geonorge.no",
+    "www.obron.no"
+  ],
+  "summary": "OBRON GRUPPEN AS is an Aksjeselskap (AS) registered in 2012, based in Trondheim. Main industry: 71.121 Byggeteknisk konsulentvirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 2.8 million NOK, net profit -696.1 thousand NOK. Key people: Espen Welin-Larsen (styrets leder). It operates 1 registered establishment(s). Website: www.obron.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998300665.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains organisation number 998300665.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

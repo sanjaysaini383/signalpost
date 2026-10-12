@@ -1,0 +1,700 @@
+{
+  "schema_version": 2,
+  "organization_number": "819994412",
+  "generated_at": "2026-10-12T11:06:57Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GODDOSEN PANORAMA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "navn: GODDOSEN PANORAMA AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-09-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "stiftelsesdato: 2017-09-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2017-11-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2017-11-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2017-09-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "vedtektsdato: 2017-09-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Raunevegen 30, 5430 BREMNES, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "forretningsadresse: Raunevegen 30, 5430 BREMNES, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 88, 5445 BREMNES, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "postadresse: Postboks 88, 5445 BREMNES, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BØMLO (4613)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "kommune: BØMLO, kommunenummer: 4613",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "naeringskode1: 00.000 Uoppgitt",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "website",
+      "value": "goddosen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "hjemmeside: goddosen.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "phone",
+      "value": "91 80 44 35",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "telefon: 91 80 44 35",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "email",
+      "value": "post@goddosen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "epostadresse: post@goddosen.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Å eie, kjøpe, selge og leie ut eiendom, bygninger og kjøp og salg av varer og tjenester som er knytt til eiendomsutvikling og rehabilitering, samt det som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "aktivitet: Å eie, kjøpe, selge og leie ut eiendom, bygninger og kjøp og salg av varer og tjenester som er knytt til eiendomsutvikling og rehabilitering, samt det som naturlig står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eie, kjøpe, selge og leie ut eiendom, bygninger og kjøp og salg av varer og tjenester som er knytt til eiendomsutvikling og rehabilitering, samt det som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "vedtektsfestetFormaal: Å eie, kjøpe, selge og leie ut eiendom, bygninger og kjøp og salg av varer og tjenester som er knytt til eiendomsutvikling og rehabilitering, samt det som naturlig står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 251000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "kapital.belop: 251000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "as_of": "2017-11-29",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Svein Tore Økland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "LEDE (Styrets leder): Svein Tore Økland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2025-07-24",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Willy Økland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "MEDL (Styremedlem): Willy Økland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2025-07-24",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Linda Moss"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "MEDL (Styremedlem): Linda Moss",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2025-07-24",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Morten Økland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "MEDL (Styremedlem): Morten Økland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2025-07-24",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Linn Jeanett Økland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "MEDL (Styremedlem): Linn Jeanett Økland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2025-07-24",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ME-TO REGNSKAPSKONTOR AS (org 895021032)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819994412/roller",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "REGN (Regnskapsfører): ME-TO REGNSKAPSKONTOR AS (org 895021032)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819994412",
+      "as_of": "2018-01-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "journalnr 2026641444, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1555.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1555.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 57156.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 57156.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -55601.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -55601.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -165364.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -165364.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -165364.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -165364.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3116365.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.sumEiendeler: 3116365.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 180863.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 180863.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 2935502.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 2935502.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 180863.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 180863.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 532464.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 532464.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2583901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2583901.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 9452.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 9452.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 2574449.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 2574449.0 NOK (journalnr 2026641444)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 532483.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 532483.0 NOK (journalnr 2025570417)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 186143.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 186143.0 NOK (journalnr 2025570417)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3324309.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.sumEiendeler: 3324309.0 NOK (journalnr 2025570417)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 697829.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 697829.0 NOK (journalnr 2025570417)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 583074.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 583074.0 NOK (journalnr 2024628715)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 141707.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 141707.0 NOK (journalnr 2024628715)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 6326561.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "eiendeler.sumEiendeler: 6326561.0 NOK (journalnr 2024628715)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 511686.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 511686.0 NOK (journalnr 2024628715)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819994412 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "926880810",
+        "name": "GODDOSEN PANORAMA AS",
+        "address": "Raunevegen 30, 5430 BREMNES, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "underenhet 926880810 overordnetEnhet: 819994412",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819994412",
+      "as_of": "2021-03-29",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819994412",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 819994412",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.79727592027903,
+        "lon": 5.193564898488747,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Raunevegen+30&postnummer=5430&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "address 'Raunevegen 30', 5430 BREMNES, municipality 4613 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 819994412, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://goddosen.no/",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "page text contains company name 'goddosen panorama' and the registered postal code 5430",
+      "explanation": "Page from https://goddosen.no/, the website declared in Enhetsregisteret for organisation number 819994412; page text contains company name 'goddosen panorama' and the registered postal code 5430",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Frå hytta ved Goddosen har du tilgong til ei verd av opplevingar. So tett på naturen at du kan nyta detaljane som trim, rekreasjon, fiske og fuglekikking!",
+      "source_url": "https://goddosen.no/",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "meta description: Frå hytta ved Goddosen har du tilgong til ei verd av opplevingar. So tett på naturen at du kan nyta detaljane som trim, rekreasjon, fiske og fuglekikking!",
+      "explanation": "Page from https://goddosen.no/, the website declared in Enhetsregisteret for organisation number 819994412; page text contains company name 'goddosen panorama' and the registered postal code 5430",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@goddosen.no",
+      "source_url": "https://goddosen.no/",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "mailto:post@goddosen.no",
+      "explanation": "Page from https://goddosen.no/, the website declared in Enhetsregisteret for organisation number 819994412; page text contains company name 'goddosen panorama' and the registered postal code 5430",
+      "first_seen": "2026-10-12T11:06:57Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "91804435",
+      "source_url": "https://goddosen.no/",
+      "retrieved_at": "2026-10-12T11:06:57Z",
+      "evidence": "tel:91804435",
+      "explanation": "Page from https://goddosen.no/, the website declared in Enhetsregisteret for organisation number 819994412; page text contains company name 'goddosen panorama' and the registered postal code 5430",
+      "first_seen": "2026-10-12T11:06:57Z"
+    }
+  ],
+  "warnings": [],
+  "name": "GODDOSEN PANORAMA AS",
+  "sources_used": [
+    "data.brreg.no",
+    "goddosen.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "GODDOSEN PANORAMA AS is an Aksjeselskap (AS) registered in 2017, based in Bømlo. Main industry: 00.000 Uoppgitt. Latest selskap accounts (period ending 2025-12-31): revenue 1.6 thousand NOK, net profit -165.4 thousand NOK. Key people: Svein Tore Økland (styrets leder). It operates 1 registered establishment(s). Website: goddosen.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 819994412.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'goddosen panorama' and the registered postal code 5430.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

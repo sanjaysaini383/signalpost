@@ -1,143 +1,143 @@
 {
   "schema_version": 2,
   "organization_number": "924531789",
-  "generated_at": "2026-10-12T09:55:25Z",
+  "generated_at": "2026-10-12T11:03:12Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "EKSTRALYSKONGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "navn: EKSTRALYSKONGEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-11",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-11",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2020-07-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-07-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "business_address",
       "value": "Industrigatan 10, SE-774 35 AVESTA, Sverige",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "forretningsadresse: Industrigatan 10, SE-774 35 AVESTA, Sverige",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "postal_address",
       "value": "c/o Athene VAT Services AS, Postboks 4691 Nydalen, 0405 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "postadresse: c/o Athene VAT Services AS, Postboks 4691 Nydalen, 0405 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "industry_code",
       "value": "47.820 Detaljhandel med deler og utstyr til motorvogner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "naeringskode1: 47.820 Detaljhandel med deler og utstyr til motorvogner",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "activity_description",
       "value": "E-handel med kjøretøybelysning og bildeler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "aktivitet: E-handel med kjøretøybelysning og bildeler.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "role:REPR",
@@ -146,11 +146,11 @@
         "name": "ATHENE TAX AS (org 897863022)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789/roller",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "REPR (Norsk repr. for utenl. enhet): ATHENE TAX AS (org 897863022)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924531789",
       "as_of": "2020-02-11",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "role:KONT",
@@ -159,11 +159,11 @@
         "name": "Arild Haavik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789/roller",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "KONT (Kontaktperson): Arild Haavik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924531789",
       "as_of": "2020-02-11",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "role:HFOR",
@@ -172,11 +172,11 @@
         "name": "EIJES SMÅMASKINSERVICE AB (org 924581476)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924531789/roller",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): EIJES SMÅMASKINSERVICE AB (org 924581476)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924531789",
       "as_of": "2020-02-11",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "establishment",
@@ -186,20 +186,20 @@
         "address": "Industrigatan 10, SE-774 35 AVESTA, Sverige"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "underenhet 924586427 overordnetEnhet: 924531789",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924531789",
       "as_of": "2020-02-11",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924531789",
-      "retrieved_at": "2026-10-12T09:55:25Z",
+      "retrieved_at": "2026-10-12T11:03:12Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 924531789",
-      "first_seen": "2026-10-12T09:55:25Z"
+      "first_seen": "2026-10-12T11:03:12Z"
     }
   ],
   "warnings": [],

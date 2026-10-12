@@ -1,0 +1,422 @@
+{
+  "schema_version": 2,
+  "organization_number": "916762380",
+  "generated_at": "2026-10-12T11:05:32Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FALLAND ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "navn: FALLAND ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "founded",
+      "value": "2016-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "stiftelsesdato: 2016-02-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-02-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2016-02-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-02-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-02-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2016-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "vedtektsdato: 2016-02-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sørhågåvegen 37, 2864 FALL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "forretningsadresse: Sørhågåvegen 37, 2864 FALL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SØNDRE LAND (3447)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "kommune: SØNDRE LAND, kommunenummer: 3447",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "90.111 Skapende kunstnerisk virksomhet innenfor litteratur",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "naeringskode1: 90.111 Skapende kunstnerisk virksomhet innenfor litteratur",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kunstnerisk virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "aktivitet: Kunstnerisk virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Arrangere workshops og seminarer, med fokus på kunst og natur. Tilby et permanent kunstnerresidensprogram. Drive Falland Forlag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "vedtektsfestetFormaal: Arrangere workshops og seminarer, med fokus på kunst og natur. Tilby et permanent kunstnerresidensprogram. Drive Falland Forlag.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2023",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916762380",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Caroline Ho-Bich-Tuyen Dang"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380/roller",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Caroline Ho-Bich-Tuyen Dang",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916762380",
+      "as_of": "2016-02-18",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Kjell Samkopf"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916762380/roller",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Kjell Samkopf",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916762380",
+      "as_of": "2016-02-18",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "journalnr 2024721602, regnskapsperiode 2023-01-01..2023-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2465.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2465.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 19699.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 19699.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -17234.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -17234.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -17234.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -17234.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -17234.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -17234.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 11550.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "eiendeler.sumEiendeler: 11550.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 11550.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 11550.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -4351.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -4351.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 15901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 15901.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 15901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 15901.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916762380",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 0.0 NOK (journalnr 2024721602)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916762380 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:32Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.68274842335084,
+        "lon": 10.36702045163322,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=S%C3%B8rh%C3%A5g%C3%A5vegen+37&postnummer=2864&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:32Z",
+      "evidence": "address 'Sørhågåvegen 37', 2864 FALL, municipality 3447 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916762380, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:32Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FALLAND ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FALLAND ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2016, based in Søndre Land. Main industry: 90.111 Skapende kunstnerisk virksomhet innenfor litteratur. Latest selskap accounts (period ending 2023-12-31): revenue 2.5 thousand NOK, net profit -17.2 thousand NOK.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916762380.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

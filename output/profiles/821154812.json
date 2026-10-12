@@ -1,0 +1,621 @@
+{
+  "schema_version": 2,
+  "organization_number": "821154812",
+  "generated_at": "2026-10-12T11:06:23Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RODEGÅRD INTERIØR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "navn: RODEGÅRD INTERIØR AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "founded",
+      "value": "2018-06-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "stiftelsesdato: 2018-06-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2018-07-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2018-07-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2018-07-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2018-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2018-07-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2018-09-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "vedtektsdato: 2018-09-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "antallAnsatte: 5",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "as_of": "2025-12-11",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Svingelie 71, 3539 FLÅ, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "forretningsadresse: Svingelie 71, 3539 FLÅ, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FLÅ (3320)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "kommune: FLÅ, kommunenummer: 3320",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "43.320 Snekkerarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "naeringskode1: 43.320 Snekkerarbeid",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Yte håndverkertjenester innen snekker og interiørfaget, samt annen virksomhet knyttet til dette, herunder deltakelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "aktivitet: Yte håndverkertjenester innen snekker og interiørfaget, samt annen virksomhet knyttet til dette, herunder deltakelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Yte håndverkertjenester innen snekker og interiørfaget, samt annen virksomhet knyttet til dette, herunder deltakelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "vedtektsfestetFormaal: Yte håndverkertjenester innen snekker og interiørfaget, samt annen virksomhet knyttet til dette, herunder deltakelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "as_of": "2018-07-12",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Jonas Rodegård"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812/roller",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "DAGL (Daglig leder): Jonas Rodegård",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821154812",
+      "as_of": "2018-07-12",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Jonas Rodegård"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812/roller",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "LEDE (Styrets leder): Jonas Rodegård",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821154812",
+      "as_of": "2018-07-12",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Karina Rodegård"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812/roller",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "VARA (Varamedlem): Karina Rodegård",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821154812",
+      "as_of": "2018-07-12",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "ØSTLANDSKE REVISORER AS (org 982743966)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812/roller",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "REVI (Revisor): ØSTLANDSKE REVISORER AS (org 982743966)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821154812",
+      "as_of": "2023-08-14",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "FRODIG ØKONOMI AS (org 913631676)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821154812/roller",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "REGN (Regnskapsfører): FRODIG ØKONOMI AS (org 913631676)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821154812",
+      "as_of": "2018-07-12",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "journalnr 2026638096, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 12382461.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 12382461.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 12316451.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 12316451.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 66011.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 66011.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -83621.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -83621.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -65355.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -65355.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3651200.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.sumEiendeler: 3651200.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 2512652.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 2512652.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1138548.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1138548.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 40561.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 40561.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 249552.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 249552.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 3401648.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 3401648.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 2180066.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 2180066.0 NOK (journalnr 2026638096)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 8272633.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 8272633.0 NOK (journalnr 2025616037)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -238370.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -238370.0 NOK (journalnr 2025616037)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3044982.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.sumEiendeler: 3044982.0 NOK (journalnr 2025616037)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 314907.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 314907.0 NOK (journalnr 2025616037)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 8167895.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 8167895.0 NOK (journalnr 2024643430)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 15304.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 15304.0 NOK (journalnr 2024643430)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 2917014.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "eiendeler.sumEiendeler: 2917014.0 NOK (journalnr 2024643430)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 553277.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 553277.0 NOK (journalnr 2024643430)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821154812 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "915709796",
+        "name": "RODEGÅRD INTERIØR AS",
+        "address": "Svingelie 71, 3539 FLÅ, Norge",
+        "employees": 5
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "underenhet 915709796 overordnetEnhet: 821154812",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 821154812",
+      "as_of": "2015-07-27",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821154812",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 821154812",
+      "first_seen": "2026-10-12T11:06:23Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.42633818532871,
+        "lon": 9.453011831275003,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Svingelie+71&postnummer=3539&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:23Z",
+      "evidence": "address 'Svingelie 71', 3539 FLÅ, municipality 3320 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 821154812, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:23Z"
+    }
+  ],
+  "warnings": [],
+  "name": "RODEGÅRD INTERIØR AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "RODEGÅRD INTERIØR AS is an Aksjeselskap (AS) registered in 2018, based in Flå. Main industry: 43.320 Snekkerarbeid. It has 5 registered employees. Latest selskap accounts (period ending 2025-12-31): revenue 12.4 million NOK, net profit -65.4 thousand NOK. Key people: Jonas Rodegård (daglig leder), Jonas Rodegård (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 821154812.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

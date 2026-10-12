@@ -1,0 +1,637 @@
+{
+  "schema_version": 2,
+  "organization_number": "999199615",
+  "generated_at": "2026-10-12T11:06:35Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FOSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "navn: FOSEN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-10-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "stiftelsesdato: 2012-10-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-12-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-12-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-12-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-12-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-11-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "vedtektsdato: 2019-11-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Setergårdsveien 110, 7125 VANVIKAN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "forretningsadresse: Setergårdsveien 110, 7125 VANVIKAN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "municipality",
+      "value": "INDRE FOSEN (5054)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "kommune: INDRE FOSEN, kommunenummer: 5054",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.810 Engroshandel med drivstoff, brensel og beslektede produkter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "naeringskode1: 46.810 Engroshandel med drivstoff, brensel og beslektede produkter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "phone",
+      "value": "93 01 25 84",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "telefon: 93 01 25 84",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "mobile",
+      "value": "911 10 525",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "mobil: 911 10 525",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "email",
+      "value": "o.sather@vanvikan.net",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "epostadresse: o.sather@vanvikan.net",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Detaljist- og engrossalg av olje/smøremidler og produkter tilknyttet dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "aktivitet: Detaljist- og engrossalg av olje/smøremidler og produkter tilknyttet dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Detaljist- og engrossalg av olje/smøremidler og produkter tilknyttet dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "vedtektsfestetFormaal: Detaljist- og engrossalg av olje/smøremidler og produkter tilknyttet dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "as_of": "2012-12-06",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Øystein Hindrum Sæther"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615/roller",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "DAGL (Daglig leder): Øystein Hindrum Sæther",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999199615",
+      "as_of": "2012-12-06",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Frank Are Hovde Hansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615/roller",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "LEDE (Styrets leder): Frank Are Hovde Hansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999199615",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Øystein Hindrum Sæther"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615/roller",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "MEDL (Styremedlem): Øystein Hindrum Sæther",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999199615",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Idar Roald Hansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615/roller",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "VARA (Varamedlem): Idar Roald Hansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999199615",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SYSTEMREVISJON FOSEN AS (org 980545717)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999199615/roller",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "REVI (Revisor): SYSTEMREVISJON FOSEN AS (org 980545717)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999199615",
+      "as_of": "2021-08-12",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "journalnr 2026494263, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 16369775.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 16369775.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 16346523.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 16346523.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 23252.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 23252.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 125245.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 125245.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 112769.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 112769.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3894842.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.sumEiendeler: 3894842.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 3892642.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 3892642.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 2200.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 2200.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1664117.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1664117.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 2269298.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2269298.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1625544.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1625544.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 1625544.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 1625544.0 NOK (journalnr 2026494263)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 14035841.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 14035841.0 NOK (journalnr 2025598454)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 332474.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 332474.0 NOK (journalnr 2025598454)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3426829.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.sumEiendeler: 3426829.0 NOK (journalnr 2025598454)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 2156529.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2156529.0 NOK (journalnr 2025598454)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 13445310.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 13445310.0 NOK (journalnr 2024420090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 227787.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 227787.0 NOK (journalnr 2024420090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3195118.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "eiendeler.sumEiendeler: 3195118.0 NOK (journalnr 2024420090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1824055.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1824055.0 NOK (journalnr 2024420090)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999199615 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "999243894",
+        "name": "FOSEN AS",
+        "address": "Setergårdsveien 110, 7125 VANVIKAN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "underenhet 999243894 overordnetEnhet: 999199615",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999199615",
+      "as_of": "2012-12-08",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999199615",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 999199615",
+      "first_seen": "2026-10-12T11:06:35Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.57226808001782,
+        "lon": 10.405645948044844,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Seterg%C3%A5rdsveien+110&postnummer=7125&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:35Z",
+      "evidence": "address 'Setergårdsveien 110', 7125 VANVIKAN, municipality 5054 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 999199615, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:35Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FOSEN AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FOSEN AS is an Aksjeselskap (AS) registered in 2012, based in Indre Fosen. Main industry: 46.810 Engroshandel med drivstoff, brensel og beslektede produkter. Latest selskap accounts (period ending 2025-12-31): revenue 16.4 million NOK, net profit 112.8 thousand NOK. Key people: Øystein Hindrum Sæther (daglig leder), Frank Are Hovde Hansen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 999199615.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

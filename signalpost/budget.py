@@ -8,6 +8,8 @@ from pathlib import Path
 import httpx
 
 DEFAULT_MAX_REQUESTS = 1800  # competition limit is 2,000; keep headroom
+MAX_BODY_BYTES = 2_000_000
+MAX_REQUEST_SECONDS = 20
 DEFAULT_CACHE_TTL = 3600     # seconds. Short on purpose: a profile must never be built from yesterday's data
 
 
@@ -55,6 +57,19 @@ class Fetcher:
             pass
         return None
 
+    def _fetch(self, url, params, accept, timeout):
+        """One GET with a hard cap on body size and total time, so one slow or huge site cannot stall a run."""
+        started = time.monotonic()
+        with self.client.stream("GET", url, params=params, headers={"Accept": accept},
+                                **({"timeout": timeout} if timeout else {})) as r:
+            chunks, size = [], 0
+            for chunk in r.iter_bytes():
+                chunks.append(chunk)
+                size += len(chunk)
+                if size > MAX_BODY_BYTES or time.monotonic() - started > MAX_REQUEST_SECONDS:
+                    break
+            return r.status_code, b"".join(chunks).decode(r.encoding or "utf-8", errors="replace")
+
     def get(self, url, params=None, accept="application/json", use_cache=True, retries=3, timeout=None):
         """Return (status_code, text). 404 is returned, not raised. Every real request is counted."""
         path = self._cache_path(url, params) if self.cache_dir and use_cache else None
@@ -68,24 +83,23 @@ class Fetcher:
         for attempt in range(retries):
             self.count_external()
             try:
-                r = self.client.get(url, params=params, headers={"Accept": accept},
-                                    **({"timeout": timeout} if timeout else {}))
+                status_code, body = self._fetch(url, params, accept, timeout)
             except httpx.HTTPError as e:
                 last = e
                 if retries > 1:
                     time.sleep(1 + attempt)
                 continue
-            if r.status_code in (429, 500, 502, 503, 504):
-                last = RuntimeError(f"HTTP {r.status_code}")
+            if status_code in (429, 500, 502, 503, 504):
+                last = RuntimeError(f"HTTP {status_code}")
                 if attempt < retries - 1:
                     time.sleep(1 + attempt * 2)
                 continue
-            if path and r.status_code in (200, 404, 410):
+            if path and status_code in (200, 404, 410):
                 try:
-                    path.write_text(json.dumps({"status": r.status_code, "text": r.text}), "utf-8")
+                    path.write_text(json.dumps({"status": status_code, "text": body}), "utf-8")
                 except OSError:
                     pass
-            return r.status_code, r.text
+            return status_code, body
         raise RuntimeError(f"GET {url} failed: {last}")
 
     def get_json(self, url, params=None, **kw):

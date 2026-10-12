@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "organization_number": "998184533",
+  "generated_at": "2026-10-12T11:06:02Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "navn: FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-01-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-01-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Martin Lillebys vei 14, 1639 GAMLE FREDRIKSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "forretningsadresse: Martin Lillebys vei 14, 1639 GAMLE FREDRIKSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FREDRIKSTAD (3107)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "kommune: FREDRIKSTAD, kommunenummer: 3107",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "85.510 Undervisning innenfor idrett og rekreasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "naeringskode1: 85.510 Undervisning innenfor idrett og rekreasjon",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "mobile",
+      "value": "988 57 357",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "mobil: 988 57 357",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "email",
+      "value": "synlok@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "epostadresse: synlok@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Undervisning i idrett og rekreasjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "aktivitet: Undervisning i idrett og rekreasjon.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "SYNNØVES HEALINGMASSASJE SYNNØVE NURIA GRØTVEDT LØKEN",
+          "from": "2012-03-29",
+          "to": "2016-01-08"
+        },
+        {
+          "name": "FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN",
+          "from": "2016-01-08",
+          "to": "2016-01-14"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Synnøve Nuria Grøtvedt Løken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184533/roller",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "INNH (Innehaver): Synnøve Nuria Grøtvedt Løken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998184533",
+      "as_of": "2012-03-29",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998193508",
+        "name": "FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN",
+        "address": "Martin Lillebys vei 14, 1639 GAMLE FREDRIKSTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "underenhet 998193508 overordnetEnhet: 998184533",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998184533",
+      "as_of": "2012-03-31",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184533",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998184533",
+      "first_seen": "2026-10-12T11:06:02Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.208098663806794,
+        "lon": 10.992430875006614,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Martin+Lillebys+vei+14&postnummer=1639&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:02Z",
+      "evidence": "address 'Martin Lillebys vei 14', 1639 GAMLE FREDRIKSTAD, municipality 3107 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998184533, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:02Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FREDRIKSTAD MEDISINSKE YOGASENTER LØKEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Fredrikstad. Main industry: 85.510 Undervisning innenfor idrett og rekreasjon. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998184533.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

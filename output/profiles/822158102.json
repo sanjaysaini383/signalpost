@@ -1,0 +1,619 @@
+{
+  "schema_version": 2,
+  "organization_number": "822158102",
+  "generated_at": "2026-10-12T11:06:09Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SUNNMØRE UTLEIE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "navn: SUNNMØRE UTLEIE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-01-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "stiftelsesdato: 2019-01-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-02-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-02-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2019-02-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2019-02-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-01-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "vedtektsdato: 2019-01-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Klipevegen 21, 6230 SYKKYLVEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "forretningsadresse: Klipevegen 21, 6230 SYKKYLVEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 48, 6239 SYKKYLVEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "postadresse: Postboks 48, 6239 SYKKYLVEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SYKKYLVEN (1528)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "kommune: SYKKYLVEN, kommunenummer: 1528",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "email",
+      "value": "post@sunnmoreutleie.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "epostadresse: post@sunnmoreutleie.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp og utleie av eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "aktivitet: Kjøp og utleie av eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp og utleie av eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "vedtektsfestetFormaal: Kjøp og utleie av eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "as_of": "2019-02-12",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Asbjørn Vatnehol"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102/roller",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "DAGL (Daglig leder): Asbjørn Vatnehol",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822158102",
+      "as_of": "2019-02-12",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Asbjørn Vatnehol"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102/roller",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "LEDE (Styrets leder): Asbjørn Vatnehol",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822158102",
+      "as_of": "2019-02-12",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Magnus Vik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102/roller",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "MEDL (Styremedlem): Magnus Vik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822158102",
+      "as_of": "2019-02-12",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Stein Ove Raftevold"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822158102/roller",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "MEDL (Styremedlem): Stein Ove Raftevold",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 822158102",
+      "as_of": "2019-02-12",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "journalnr 2026703538, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 162252.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 162252.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 104270.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 104270.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 57982.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 57982.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -48432.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -48432.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -48432.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -48432.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2095767.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.sumEiendeler: 2095767.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 83267.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 83267.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 2012500.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 2012500.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 33856.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 33856.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -2912.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -2912.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2098679.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2098679.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 7962.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 7962.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 2090717.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 2090717.0 NOK (journalnr 2026703538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 199464.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 199464.0 NOK (journalnr 2025493918)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 17649.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 17649.0 NOK (journalnr 2025493918)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 2191272.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.sumEiendeler: 2191272.0 NOK (journalnr 2025493918)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 44037.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 44037.0 NOK (journalnr 2025493918)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 195600.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 195600.0 NOK (journalnr 2024425690)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 15201.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 15201.0 NOK (journalnr 2024425690)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 2200063.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "eiendeler.sumEiendeler: 2200063.0 NOK (journalnr 2024425690)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 26388.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 26388.0 NOK (journalnr 2024425690)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 822158102 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "922240736",
+        "name": "SUNNMØRE UTLEIE AS",
+        "address": "Klipevegen 21, 6230 SYKKYLVEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "underenhet 922240736 overordnetEnhet: 822158102",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 822158102",
+      "as_of": "2019-02-18",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=822158102",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 822158102",
+      "first_seen": "2026-10-12T11:06:09Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 62.40337447189397,
+        "lon": 6.59769651467326,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Klipevegen+21&postnummer=6230&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:09Z",
+      "evidence": "address 'Klipevegen 21', 6230 SYKKYLVEN, municipality 1528 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 822158102, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:09Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SUNNMØRE UTLEIE AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SUNNMØRE UTLEIE AS is an Aksjeselskap (AS) registered in 2019, based in Sykkylven. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 162.3 thousand NOK, net profit -48.4 thousand NOK. Key people: Asbjørn Vatnehol (daglig leder), Asbjørn Vatnehol (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 822158102.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

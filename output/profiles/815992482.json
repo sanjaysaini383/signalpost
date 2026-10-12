@@ -1,0 +1,679 @@
+{
+  "schema_version": 2,
+  "organization_number": "815992482",
+  "generated_at": "2026-10-12T11:05:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "APPIVATE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "navn: APPIVATE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-08-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "stiftelsesdato: 2015-08-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-09-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-09-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-09-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-09-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2016-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2016-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-08-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "vedtektsdato: 2015-08-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Solheimsgaten 37, 5054 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "forretningsadresse: Solheimsgaten 37, 5054 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "naeringskode1: 62.100 Dataprogrammeringstjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "website",
+      "value": "www.appivate.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "hjemmeside: www.appivate.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "email",
+      "value": "post@appivate.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "epostadresse: post@appivate.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Programmeringstjenester: Utvikling av mobil- og webapplikasjoner.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "aktivitet: Programmeringstjenester: Utvikling av mobil- og webapplikasjoner.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling og salg av programvare samt hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "vedtektsfestetFormaal: Utvikling og salg av programvare samt hva hermed står i forbindelse.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "as_of": "2015-09-28",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Didrik Fanuelsen Tranvåg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482/roller",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "DAGL (Daglig leder): Didrik Fanuelsen Tranvåg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815992482",
+      "as_of": "2015-09-28",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Stian Gudvangen Gjerløw"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482/roller",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "LEDE (Styrets leder): Stian Gudvangen Gjerløw",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815992482",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Didrik Fanuelsen Tranvåg"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815992482/roller",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "MEDL (Styremedlem): Didrik Fanuelsen Tranvåg",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 815992482",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "journalnr 2026590944, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1396899.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1396899.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1365502.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1365502.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 31396.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 31396.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 29646.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 29646.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 158187.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 158187.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 588177.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.sumEiendeler: 588177.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 179136.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 179136.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 409041.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 409041.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 99589.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 99589.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 59998.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 59998.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 528180.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 528180.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 267560.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 267560.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 260620.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 260620.0 NOK (journalnr 2026590944)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 362400.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 362400.0 NOK (journalnr 2025359621)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 63615.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 63615.0 NOK (journalnr 2025359621)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 198575.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.sumEiendeler: 198575.0 NOK (journalnr 2025359621)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -98189.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -98189.0 NOK (journalnr 2025359621)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 1066920.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1066920.0 NOK (journalnr 2024348122)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -122856.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -122856.0 NOK (journalnr 2024348122)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 314830.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "eiendeler.sumEiendeler: 314830.0 NOK (journalnr 2024348122)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -161804.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -161804.0 NOK (journalnr 2024348122)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815992482 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "915998577",
+        "name": "APPIVATE AS",
+        "address": "Solheimsgaten 37, 5054 BERGEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "underenhet 915998577 overordnetEnhet: 815992482",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 815992482",
+      "as_of": "2015-09-29",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815992482",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 815992482",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.37486416292329,
+        "lon": 5.338623730598173,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Solheimsgaten+37&postnummer=5054&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "address 'Solheimsgaten 37', 5054 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 815992482, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Appivate er to utviklere i Bergen som designer og bygger mobilapper, webapplikasjoner og nettsider. Fra idé og prototype til lansering og videreutvikling.",
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "meta description: Appivate er to utviklere i Bergen som designer og bygger mobilapper, webapplikasjoner og nettsider. Fra idé og prototype til lansering og videreutvikling.",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "website_email",
+      "value": "hei@appivate.com",
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "mailto:hei@appivate.com",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4791867025",
+      "source_url": "https://www.appivate.com/kontakt",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "tel:+4791867025",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/appivate",
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "link on page: https://www.facebook.com/appivate",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/appivate",
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "link on page: https://www.instagram.com/appivate",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    },
+    {
+      "field": "social:linkedin",
+      "value": "https://www.linkedin.com/company/appivate",
+      "source_url": "https://www.appivate.com/",
+      "retrieved_at": "2026-10-12T11:05:59Z",
+      "evidence": "link on page: https://www.linkedin.com/company/appivate",
+      "explanation": "Page from https://www.appivate.com/, the website declared in Enhetsregisteret for organisation number 815992482; the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name",
+      "first_seen": "2026-10-12T11:05:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "APPIVATE AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.appivate.com"
+  ],
+  "summary": "APPIVATE AS is an Aksjeselskap (AS) registered in 2015, based in Bergen. Main industry: 62.100 Dataprogrammeringstjenester. Latest selskap accounts (period ending 2025-12-31): revenue 1.4 million NOK, net profit 158.2 thousand NOK. Key people: Didrik Fanuelsen Tranvåg (daglig leder), Stian Gudvangen Gjerløw (styrets leder). It operates 1 registered establishment(s). Website: www.appivate.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 815992482.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: the registered website domain 'www.appivate.com' matches the company name 'appivate' and the page shows the name.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,152 +1,152 @@
 {
   "schema_version": 2,
   "organization_number": "818645112",
-  "generated_at": "2026-10-12T09:57:25Z",
+  "generated_at": "2026-10-12T11:04:51Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SARAH SCHIPSCHACK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "navn: SARAH SCHIPSCHACK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "registered_date",
       "value": "2017-03-02",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-03-02",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2018-07-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2018-07-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "business_address",
       "value": "Luleåvegen 9D, 9011 TROMSØ, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "forretningsadresse: Luleåvegen 9D, 9011 TROMSØ, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "municipality",
       "value": "TROMSØ (5501)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "kommune: TROMSØ, kommunenummer: 5501",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "industry_code",
       "value": "90.209 Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "naeringskode1: 90.209 Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "activity_description",
       "value": "Kurator - inneholder kunstnerisk arbeid, kuratere filmprogram og utstilling, formidling av kunst, administrative arbeid, skrive, residency opphold, research / forskning, delta på eller holde kurs & foredrag & verksted, reise, PR, konsultasjon, utvikle konsepter, dokumentasjon, deltå på konferanse og festivaler, osv.,",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "aktivitet: Kurator - inneholder kunstnerisk arbeid, kuratere filmprogram og utstilling, formidling av kunst, administrative arbeid, skrive, residency opphold, research / forskning, delta på eller holde kurs & fo",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "role:INNH",
@@ -155,11 +155,11 @@
         "name": "Sarah Mirjam Schipschack"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818645112/roller",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "INNH (Innehaver): Sarah Mirjam Schipschack",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818645112",
       "as_of": "2017-04-04",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "establishment",
@@ -169,20 +169,20 @@
         "address": "Luleåvegen 9D, 9011 TROMSØ, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "underenhet 918759204 overordnetEnhet: 818645112",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818645112",
       "as_of": "2017-03-25",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818645112",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 818645112",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     },
     {
       "field": "geo_location",
@@ -192,10 +192,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Lule%C3%A5vegen+9D&postnummer=9011&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:25Z",
+      "retrieved_at": "2026-10-12T11:04:51Z",
       "evidence": "address 'Luleåvegen 9D', 9011 TROMSØ, municipality 5501 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 818645112, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:25Z"
+      "first_seen": "2026-10-12T11:04:51Z"
     }
   ],
   "warnings": [],

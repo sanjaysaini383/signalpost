@@ -70,6 +70,7 @@ def cmd_run(a):
         i, org = item
         if stats["stopped"]:
             return
+        t0 = time.monotonic()
         try:
             prev = load_previous(a.out, org)
             profile = apply_history(build_profile(fetcher, org, include_website=site_fn), prev)
@@ -77,7 +78,8 @@ def cmd_run(a):
             stats["done"] += 1
             stats["changed"] += bool(profile["changes_since_previous_run"])
             print(f"[{i}/{len(orgs)}] {org} {profile['status']} facts={len(profile['facts'])} "
-                  f"changes={len(profile['changes_since_previous_run'])} requests={fetcher.requests_made}", flush=True)
+                  f"changes={len(profile['changes_since_previous_run'])} requests={fetcher.requests_made} "
+                  f"t={time.monotonic() - t0:.1f}s", flush=True)
         except BudgetExceeded as e:
             stats["stopped"] = True
             print(f"STOPPED: {e}", file=sys.stderr, flush=True)

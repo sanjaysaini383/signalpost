@@ -1,161 +1,161 @@
 {
   "schema_version": 2,
   "organization_number": "997632478",
-  "generated_at": "2026-10-12T09:55:04Z",
+  "generated_at": "2026-10-12T11:02:53Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ÅSMUND LAVIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "navn: ÅSMUND LAVIK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "registered_date",
       "value": "2011-11-22",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2011-11-22",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "business_address",
       "value": "St. Jørgens gate 2, 5018 BERGEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "forretningsadresse: St. Jørgens gate 2, 5018 BERGEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "municipality",
       "value": "BERGEN (4601)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "kommune: BERGEN, kommunenummer: 4601",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "industry_code",
       "value": "85.699 Andre tjenester tilknyttet undervisning ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "naeringskode1: 85.699 Andre tjenester tilknyttet undervisning ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "mobile",
       "value": "480 75 327",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "mobil: 480 75 327",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "email",
       "value": "aa-lavik@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "epostadresse: aa-lavik@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "activity_description",
       "value": "Kursvirksomhet, førstehjelpskurs, DHLR- kurs for barnehager, industri m.m.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "aktivitet: Kursvirksomhet, førstehjelpskurs, DHLR- kurs for barnehager, industri m.m.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "language_form",
       "value": "Nynorsk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "maalform: Nynorsk",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997632478",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "role:INNH",
@@ -164,11 +164,11 @@
         "name": "Åsmund Lavik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997632478/roller",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "INNH (Innehaver): Åsmund Lavik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997632478",
       "as_of": "2011-11-22",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     },
     {
       "field": "geo_location",
@@ -178,10 +178,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=St.+J%C3%B8rgens+gate+2&postnummer=5018&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:55:04Z",
+      "retrieved_at": "2026-10-12T11:02:53Z",
       "evidence": "address 'St. Jørgens gate 2', 5018 BERGEN, municipality 4601 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 997632478, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:55:04Z"
+      "first_seen": "2026-10-12T11:02:53Z"
     }
   ],
   "warnings": [],

@@ -1,0 +1,271 @@
+{
+  "schema_version": 2,
+  "organization_number": "916466544",
+  "generated_at": "2026-10-12T11:05:45Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SESSERUD SKOG ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "navn: SESSERUD SKOG ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "stiftelsesdato: 2015-11-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-12-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-12-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-12-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-12-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-11-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "vedtektsdato: 2015-11-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "business_address",
+      "value": "v/Kjersti F Tufteland, Nålestien 9, 4623 KRISTIANSAND S, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "forretningsadresse: v/Kjersti F Tufteland, Nålestien 9, 4623 KRISTIANSAND S, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "municipality",
+      "value": "KRISTIANSAND (4204)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "kommune: KRISTIANSAND, kommunenummer: 4204",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "02.200 Avvirkning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "naeringskode1: 02.200 Avvirkning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Skogbruk, produksjon og salg av tømmer, samt utleie av jakt og hytte.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "aktivitet: Skogbruk, produksjon og salg av tømmer, samt utleie av jakt og hytte.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Forvaltning og drift av skogeiendom, herunder salg av tømmer og utleie av jakt og hytter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "vedtektsfestetFormaal: Forvaltning og drift av skogeiendom, herunder salg av tømmer og utleie av jakt og hytter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Astrid Forberg Ryan"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544/roller",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Astrid Forberg Ryan",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916466544",
+      "as_of": "2015-12-22",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Kjersti Forberg Tufteland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544/roller",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Kjersti Forberg Tufteland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916466544",
+      "as_of": "2015-12-22",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "LIER REGNSKAP AS (org 975363791)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916466544/roller",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "REGN (Regnskapsfører): LIER REGNSKAP AS (org 975363791)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916466544",
+      "as_of": "2024-06-18",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "978299172",
+        "name": "SESSERUD SKOG ANS",
+        "address": "Brandalen, 3517 HØNEFOSS, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underenhet 978299172 overordnetEnhet: 916466544",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 916466544",
+      "as_of": "1997-06-27",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916466544",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 916466544",
+      "first_seen": "2026-10-12T11:05:45Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SESSERUD SKOG ANS",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "SESSERUD SKOG ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2015, based in Kristiansand. Main industry: 02.200 Avvirkning. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916466544.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

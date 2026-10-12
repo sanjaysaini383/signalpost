@@ -1,0 +1,517 @@
+{
+  "schema_version": 2,
+  "organization_number": "998304628",
+  "generated_at": "2026-10-12T11:06:16Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DIDRIK INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "navn: DIDRIK INVEST AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-04-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "stiftelsesdato: 2012-04-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-04-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "vedtektsdato: 2012-04-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Himmelberget 7B, 1621 GRESSVIK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "forretningsadresse: Himmelberget 7B, 1621 GRESSVIK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FREDRIKSTAD (3107)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "kommune: FREDRIKSTAD, kommunenummer: 3107",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "64.323 Andre egeninvesteringsselskaper",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "naeringskode1: 64.323 Andre egeninvesteringsselskaper",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "4900 Øvrige finansielle foretak unntatt forsikring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "institusjonellSektorkode: 4900 Øvrige finansielle foretak unntatt forsikring",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "mobile",
+      "value": "480 48 862",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "mobil: 480 48 862",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "email",
+      "value": "mortendidrichsen12@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "epostadresse: mortendidrichsen12@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investering i aksjer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "aktivitet: Investering i aksjer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering i aksjer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "vedtektsfestetFormaal: Investering i aksjer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "as_of": "2012-04-26",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998304628",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Morten Didrichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "LEDE (Styrets leder): Morten Didrichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998304628",
+      "as_of": "2026-09-29",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Birgitte Elisabeth Didrichsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "MEDL (Styremedlem): Birgitte Elisabeth Didrichsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998304628",
+      "as_of": "2026-09-29",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "BORG REVISJON AS (org 931776207)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998304628/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "REGN (Regnskapsfører): BORG REVISJON AS (org 931776207)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998304628",
+      "as_of": "2023-10-16",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "journalnr 2026455310, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 12453.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 12453.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -12453.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -12453.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 360820.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 360820.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 356307.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 356307.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 5765046.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 5765046.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 5765046.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 5765046.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 4627.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 4627.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 5621680.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5621680.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 143367.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 143367.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 143367.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 143367.0 NOK (journalnr 2026455310)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 481584.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 481584.0 NOK (journalnr 2025477266)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 5397253.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 5397253.0 NOK (journalnr 2025477266)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 5265373.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5265373.0 NOK (journalnr 2025477266)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 415184.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 415184.0 NOK (journalnr 2024477238)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 4896079.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 4896079.0 NOK (journalnr 2024477238)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 4783788.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998304628",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4783788.0 NOK (journalnr 2024477238)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998304628 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.22185960057517,
+        "lon": 10.907881768019205,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Himmelberget+7B&postnummer=1621&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "address 'Himmelberget 7B', 1621 GRESSVIK, municipality 3107 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998304628, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:16Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DIDRIK INVEST AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "DIDRIK INVEST AS is an Aksjeselskap (AS) registered in 2012, based in Fredrikstad. Main industry: 64.323 Andre egeninvesteringsselskaper. Latest selskap accounts (period ending 2025-12-31): net profit 356.3 thousand NOK. Key people: Morten Didrichsen (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998304628.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

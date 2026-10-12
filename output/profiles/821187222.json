@@ -1,0 +1,585 @@
+{
+  "schema_version": 2,
+  "organization_number": "821187222",
+  "generated_at": "2026-10-12T11:06:06Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ROYAL TUR REISER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "navn: ROYAL TUR REISER AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "founded",
+      "value": "2018-07-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "stiftelsesdato: 2018-07-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2018-07-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2018-07-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2018-07-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2018-07-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2019-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2019-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2018-07-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "vedtektsdato: 2018-07-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Øvre Tuevegen 8, 6010 ÅLESUND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "forretningsadresse: Øvre Tuevegen 8, 6010 ÅLESUND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ÅLESUND (1508)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "kommune: ÅLESUND, kommunenummer: 1508",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.320 Passasjertransport utenom rutetabell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "naeringskode1: 49.320 Passasjertransport utenom rutetabell",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Turbusskjøring og salg av enkle varer og tjenester i denne forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "aktivitet: Turbusskjøring og salg av enkle varer og tjenester i denne forbindelse.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Turbusskjøring, transport av personer og salg av enkle varer og tjenester og andre produkter/tjenester som naturlig hører til dette. Herunder kommer å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "vedtektsfestetFormaal: Turbusskjøring, transport av personer og salg av enkle varer og tjenester og andre produkter/tjenester som naturlig hører til dette. Herunder kommer å delta i andre selskap med lignende virksomhet, og",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "as_of": "2018-07-23",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Rolf Rotset"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222/roller",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "DAGL (Daglig leder): Rolf Rotset",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821187222",
+      "as_of": "2018-07-23",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Rolf Rotset"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222/roller",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "LEDE (Styrets leder): Rolf Rotset",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821187222",
+      "as_of": "2018-07-23",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AIDER AS (org 922633452)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821187222/roller",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "REGN (Regnskapsfører): AIDER AS (org 922633452)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 821187222",
+      "as_of": "2024-11-28",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "journalnr 2026706127, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 888869.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 888869.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 387807.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 387807.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 501062.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 501062.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 500702.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 500702.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 390472.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 390472.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 738878.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.sumEiendeler: 738878.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 472808.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 472808.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 266070.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 266070.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 93502.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 93502.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 522858.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 522858.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 216020.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 216020.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 214976.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 214976.0 NOK (journalnr 2026706127)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 921071.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 921071.0 NOK (journalnr 2025413931)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 527517.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 527517.0 NOK (journalnr 2025413931)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 441945.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.sumEiendeler: 441945.0 NOK (journalnr 2025413931)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 132386.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 132386.0 NOK (journalnr 2025413931)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 356345.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 356345.0 NOK (journalnr 2024396170)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 26076.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 26076.0 NOK (journalnr 2024396170)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 508571.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "eiendeler.sumEiendeler: 508571.0 NOK (journalnr 2024396170)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -395131.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -395131.0 NOK (journalnr 2024396170)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821187222 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "921202261",
+        "name": "ROYAL TUR REISER AS",
+        "address": "Øvre Tuevegen 8, 6010 ÅLESUND, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "underenhet 921202261 overordnetEnhet: 821187222",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 821187222",
+      "as_of": "2018-07-28",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=821187222",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 821187222",
+      "first_seen": "2026-10-12T11:06:06Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 62.459702384165475,
+        "lon": 6.364708832581197,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=%C3%98vre+Tuevegen+8&postnummer=6010&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:06Z",
+      "evidence": "address 'Øvre Tuevegen 8', 6010 ÅLESUND, municipality 1508 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 821187222, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:06Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ROYAL TUR REISER AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ROYAL TUR REISER AS is an Aksjeselskap (AS) registered in 2018, based in Ålesund. Main industry: 49.320 Passasjertransport utenom rutetabell. Latest selskap accounts (period ending 2025-12-31): revenue 888.9 thousand NOK, net profit 390.5 thousand NOK. Key people: Rolf Rotset (daglig leder), Rolf Rotset (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 821187222.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

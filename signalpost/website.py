@@ -3,6 +3,7 @@ AND the page itself ties back to the company (org number, or the company name on
 import json
 import os
 import re
+import time
 import urllib.robotparser
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse
@@ -11,6 +12,8 @@ from .brreg import fact
 from .budget import BudgetExceeded
 
 MAX_PAGE_CHARS = 400_000
+SITE_SECONDS = 30  # wall-clock allowance for everything we do on one company's website
+SITE_TIMEOUT = 10  # per request
 CONTACT_HINTS = re.compile(r"kontakt|contact|om-oss|om_oss|omoss|about|om-|tjenest|service|produkt|product", re.I)
 SOCIAL = {
     "linkedin": re.compile(r"https?://(?:[a-z]{2,3}\.)?linkedin\.com/company/[\w\-%.]+", re.I),
@@ -153,11 +156,13 @@ def candidate_domains(name, limit=3):
     return list(dict.fromkeys(out))[:limit]
 
 
-def discover_site(fetcher, org, unit):
+def discover_site(fetcher, org, unit, until=None):
     """Try name-derived domains; accept one only if its home page shows this organisation number."""
     if (unit.get("organisasjonsform") or {}).get("kode") not in DISCOVERY_FORMS:
         return None
     for host in candidate_domains(unit.get("navn", "")):
+        if until and time.monotonic() > until:
+            break
         url = f"https://{host}/"
         try:
             status, html = fetcher.get(url, accept="text/html", retries=1, timeout=8)
@@ -198,7 +203,8 @@ _ORG_TYPES = re.compile(r"organi[sz]ation|business|corporation|company|store|res
 
 def _allowed(fetcher, base, url):
     host = urlparse(base)
-    status, text = fetcher.get(f"{host.scheme}://{host.netloc}/robots.txt", accept="text/plain")
+    status, text = fetcher.get(f"{host.scheme}://{host.netloc}/robots.txt", accept="text/plain",
+                               retries=1, timeout=SITE_TIMEOUT)
     if status != 200:
         return True
     rp = urllib.robotparser.RobotFileParser()
@@ -213,11 +219,11 @@ def _snippet(text, needle, width=80):
     return text[max(0, i - width): i + len(needle) + width].replace("\n", " ").strip()
 
 
-def collect_pages(fetcher, site, max_pages=4):
+def collect_pages(fetcher, site, max_pages=4, until=None):
     """Fetch the home page plus up to two contact/about pages. Returns [(url, html)]."""
     if not _allowed(fetcher, site, site):
         return []
-    status, html = fetcher.get(site, accept="text/html")
+    status, html = fetcher.get(site, accept="text/html", retries=1, timeout=SITE_TIMEOUT)
     if status != 200 or "<" not in html:
         return []
     pages = [(site, html)]
@@ -225,7 +231,7 @@ def collect_pages(fetcher, site, max_pages=4):
     seen = {site.rstrip("/")}
     host = urlparse(site).netloc.removeprefix("www.")
     for href in home.links:
-        if len(pages) >= max_pages:
+        if len(pages) >= max_pages or (until and time.monotonic() > until):
             break
         full = urljoin(site, href).split("#")[0]
         u = urlparse(full)
@@ -236,7 +242,7 @@ def collect_pages(fetcher, site, max_pages=4):
         seen.add(full.rstrip("/"))
         if not _allowed(fetcher, site, full):
             continue
-        st, h = fetcher.get(full, accept="text/html")
+        st, h = fetcher.get(full, accept="text/html", retries=1, timeout=SITE_TIMEOUT)
         if st == 200 and "<" in h:
             pages.append((full, h))
     return pages
@@ -245,12 +251,13 @@ def collect_pages(fetcher, site, max_pages=4):
 def website_facts(fetcher, org, unit, retrieved_at, warnings):
     site = normalize_url(unit.get("hjemmeside"))
     declared = bool(site)
+    until = time.monotonic() + SITE_SECONDS
     try:
         if not site:
-            site = discover_site(fetcher, org, unit)
+            site = discover_site(fetcher, org, unit, until)
         if not site:
             return []
-        pages = collect_pages(fetcher, site)
+        pages = collect_pages(fetcher, site, until=until)
     except BudgetExceeded:
         raise
     except Exception as e:

@@ -1,161 +1,161 @@
 {
   "schema_version": 2,
   "organization_number": "998937256",
-  "generated_at": "2026-10-12T09:55:07Z",
+  "generated_at": "2026-10-12T11:02:57Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MARTIN TRONDSEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "navn: MARTIN TRONDSEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "registered_date",
       "value": "2012-11-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-11-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "business_address",
       "value": "Gløttevollen 27, 3031 DRAMMEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "forretningsadresse: Gløttevollen 27, 3031 DRAMMEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "municipality",
       "value": "DRAMMEN (3301)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "kommune: DRAMMEN, kommunenummer: 3301",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "industry_code",
       "value": "90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "naeringskode1: 90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "mobile",
       "value": "48272905",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "mobil: 48272905",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "email",
       "value": "martintrondsen@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "epostadresse: martintrondsen@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "activity_description",
       "value": "Kunstnerisk virksomhet: Teater og seminarvirksomhet samt oppdarag innen TV, film og reklame.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "aktivitet: Kunstnerisk virksomhet: Teater og seminarvirksomhet samt oppdarag innen TV, film og reklame.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998937256",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "role:INNH",
@@ -164,11 +164,11 @@
         "name": "Martin Fjæstad Trondsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998937256/roller",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "INNH (Innehaver): Martin Fjæstad Trondsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998937256",
       "as_of": "2012-11-01",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     },
     {
       "field": "geo_location",
@@ -178,10 +178,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Gl%C3%B8ttevollen+27&postnummer=3031&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:55:07Z",
+      "retrieved_at": "2026-10-12T11:02:57Z",
       "evidence": "address 'Gløttevollen 27', 3031 DRAMMEN, municipality 3301 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 998937256, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:55:07Z"
+      "first_seen": "2026-10-12T11:02:57Z"
     }
   ],
   "warnings": [],

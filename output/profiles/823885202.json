@@ -1,0 +1,223 @@
+{
+  "schema_version": 2,
+  "organization_number": "823885202",
+  "generated_at": "2026-10-12T11:06:11Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KOSMETISK DERMATOLOGISK SYKEPLEIER ANN KRISTIN LARSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "navn: KOSMETISK DERMATOLOGISK SYKEPLEIER ANN KRISTIN LARSEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-11-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Mikkelsbærveien 12, 1615 FREDRIKSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "forretningsadresse: Mikkelsbærveien 12, 1615 FREDRIKSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FREDRIKSTAD (3107)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "kommune: FREDRIKSTAD, kommunenummer: 3107",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.993 Andre helsetjenester ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Aestetiske behandlinger. Kjemiske peelinger. Injeksjonsbehandlinger. Mesotherapy. Dermal needling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "aktivitet: Aestetiske behandlinger. Kjemiske peelinger. Injeksjonsbehandlinger. Mesotherapy. Dermal needling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Ann Kristin Larsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823885202/roller",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "INNH (Innehaver): Ann Kristin Larsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823885202",
+      "as_of": "2019-11-25",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924046937",
+        "name": "KOSMETISK DERMATOLOGISK SYKEPLEIER ANN KRISTIN LARSEN",
+        "address": "Mikkelsbærveien 12, 1615 FREDRIKSTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "underenhet 924046937 overordnetEnhet: 823885202",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823885202",
+      "as_of": "2019-12-09",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823885202",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 823885202",
+      "first_seen": "2026-10-12T11:06:11Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.23990982662928,
+        "lon": 10.91460890192286,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Mikkelsb%C3%A6rveien+12&postnummer=1615&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:11Z",
+      "evidence": "address 'Mikkelsbærveien 12', 1615 FREDRIKSTAD, municipality 3107 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 823885202, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:11Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KOSMETISK DERMATOLOGISK SYKEPLEIER ANN KRISTIN LARSEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KOSMETISK DERMATOLOGISK SYKEPLEIER ANN KRISTIN LARSEN is an Enkeltpersonforetak (ENK) registered in 2019, based in Fredrikstad. Main industry: 86.993 Andre helsetjenester ellers. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 823885202.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,579 @@
+{
+  "schema_version": 2,
+  "organization_number": "816249252",
+  "generated_at": "2026-10-12T11:04:54Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASPEN EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "navn: ASPEN EIENDOM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "stiftelsesdato: 2015-11-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-11-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-11-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2020-06-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "vedtektsdato: 2020-06-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Meisevegen 14, 4360 VARHAUG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "forretningsadresse: Meisevegen 14, 4360 VARHAUG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HÅ (1119)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "kommune: HÅ, kommunenummer: 1119",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "naeringskode1: 68.120 Utvikling og salg av byggeprosjekter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "website",
+      "value": "mobilmat.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "hjemmeside: mobilmat.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "mobile",
+      "value": "996 44 011",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "mobil: 996 44 011",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "email",
+      "value": "morten_aspen@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "epostadresse: morten_aspen@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøp av eiendom for oppussing og videre utleie. Kan også forekomme salg og tomteutvikling.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "aktivitet: Kjøp av eiendom for oppussing og videre utleie. Kan også forekomme salg og tomteutvikling.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp og utvikling av eiendom for utleie.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "vedtektsfestetFormaal: Kjøp og utvikling av eiendom for utleie.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "as_of": "2015-11-17",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "MOBILMAT AS",
+          "from": "2015-11-17",
+          "to": "2020-06-23"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'MOBILMAT AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Morten Aspen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816249252/roller",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "LEDE (Styrets leder): Morten Aspen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816249252",
+      "as_of": "2017-09-08",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "journalnr 2026347259, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 0.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 421744.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 421744.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -421744.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -421744.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -468901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -468901.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -468901.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -468901.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 1140639.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.sumEiendeler: 1140639.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 7305.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 7305.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1133334.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1133334.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 284.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 284.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -478347.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -478347.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1618986.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1618986.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 359040.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 359040.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 1259946.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 1259946.0 NOK (journalnr 2026347259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -20571.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -20571.0 NOK (journalnr 2025482725)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 1247382.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.sumEiendeler: 1247382.0 NOK (journalnr 2025482725)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -9444.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -9444.0 NOK (journalnr 2025482725)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 0.0 NOK (journalnr 2024453320)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 11127.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "eiendeler.sumEiendeler: 11127.0 NOK (journalnr 2024453320)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 11127.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 11127.0 NOK (journalnr 2024453320)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816249252 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "834799332",
+        "name": "ASPEN EIENDOM AS",
+        "address": "Meisevegen 14, 4360 VARHAUG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "underenhet 834799332 overordnetEnhet: 816249252",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816249252",
+      "as_of": "2025-01-07",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816249252",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 816249252",
+      "first_seen": "2026-10-12T11:04:54Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.621127021758056,
+        "lon": 5.658883161447584,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Meisevegen+14&postnummer=4360&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:04:54Z",
+      "evidence": "address 'Meisevegen 14', 4360 VARHAUG, municipality 1119 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 816249252, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:04:54Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://mobilmat.no/robots.txt failed: timed out"
+  ],
+  "name": "ASPEN EIENDOM AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ASPEN EIENDOM AS is an Aksjeselskap (AS) registered in 2015, based in Hå. Main industry: 68.120 Utvikling og salg av byggeprosjekter. Latest selskap accounts (period ending 2025-12-31): revenue 0 NOK, net profit -468.9 thousand NOK. Key people: Morten Aspen (styrets leder). It operates 1 registered establishment(s). Website: mobilmat.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 816249252.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

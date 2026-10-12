@@ -1,161 +1,161 @@
 {
   "schema_version": 2,
   "organization_number": "997750489",
-  "generated_at": "2026-10-12T09:57:37Z",
+  "generated_at": "2026-10-12T11:05:05Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "LOE, SIMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "navn: LOE, SIMEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "registered_date",
       "value": "2012-01-05",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-01-05",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "business_address",
       "value": "Hellevegen 2, 2319 HAMAR, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "forretningsadresse: Hellevegen 2, 2319 HAMAR, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "municipality",
       "value": "HAMAR (3403)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "kommune: HAMAR, kommunenummer: 3403",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "industry_code",
       "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "naeringskode1: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "mobile",
       "value": "90627803",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "mobil: 90627803",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "email",
       "value": "simenloe@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "epostadresse: simenloe@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "activity_description",
       "value": "Sang og musikk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "aktivitet: Sang og musikk.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997750489",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "role:INNH",
@@ -164,11 +164,11 @@
         "name": "Simen Loe"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997750489/roller",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "INNH (Innehaver): Simen Loe",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997750489",
       "as_of": "2012-01-05",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     },
     {
       "field": "geo_location",
@@ -178,10 +178,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Hellevegen+2&postnummer=2319&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:37Z",
+      "retrieved_at": "2026-10-12T11:05:05Z",
       "evidence": "address 'Hellevegen 2', 2319 HAMAR, municipality 3403 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 997750489, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:37Z"
+      "first_seen": "2026-10-12T11:05:05Z"
     }
   ],
   "warnings": [],

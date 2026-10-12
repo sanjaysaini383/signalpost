@@ -1,152 +1,152 @@
 {
   "schema_version": 2,
   "organization_number": "819923892",
-  "generated_at": "2026-10-12T09:55:12Z",
+  "generated_at": "2026-10-12T11:03:00Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "GLADSTONE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "navn: GLADSTONE AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "founded",
       "value": "2017-10-19",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "stiftelsesdato: 2017-10-19",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "registered_date",
       "value": "2017-11-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-11-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "business_register_registered_date",
       "value": "2017-11-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "registreringsdatoForetaksregisteret: 2017-11-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "articles_date",
       "value": "2020-02-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "vedtektsdato: 2020-02-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "business_address",
       "value": "Lilløyveien 2A, 1366 LYSAKER, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "forretningsadresse: Lilløyveien 2A, 1366 LYSAKER, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "municipality",
       "value": "BÆRUM (3201)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "kommune: BÆRUM, kommunenummer: 3201",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "industry_code",
       "value": "47.730 Detaljhandel med apotekvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "naeringskode1: 47.730 Detaljhandel med apotekvarer",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "institutional_sector",
       "value": "2100 Private aksjeselskaper mv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "activity_description",
       "value": "Investering i andre selskaper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "aktivitet: Investering i andre selskaper.",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "purpose",
       "value": "Investeringer i andre selskaper, samt det som naturlig står i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "vedtektsfestetFormaal: Investeringer i andre selskaper, samt det som naturlig står i forbindelse med dette.",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "share_capital",
@@ -155,11 +155,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
       "as_of": "2017-11-17",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "former_names",
@@ -171,46 +171,46 @@
         }
       ],
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "historiskeNavn: 1 earlier name(s), latest 'FETTER ANTON AS'",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 819923892",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "role:DAGL",
@@ -219,11 +219,11 @@
         "name": "Fredrik Giil Liisberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892/roller",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "DAGL (Daglig leder): Fredrik Giil Liisberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 819923892",
       "as_of": "2017-11-17",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "role:LEDE",
@@ -232,11 +232,11 @@
         "name": "Alexander Berntsen Rajkovic"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892/roller",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "LEDE (Styrets leder): Alexander Berntsen Rajkovic",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 819923892",
       "as_of": "2017-11-17",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "role:MEDL",
@@ -245,11 +245,11 @@
         "name": "Fredrik Giil Liisberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892/roller",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "MEDL (Styremedlem): Fredrik Giil Liisberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 819923892",
       "as_of": "2017-11-17",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "role:REGN",
@@ -258,11 +258,11 @@
         "name": "KALA AS (org 980172619)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819923892/roller",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "REGN (Regnskapsfører): KALA AS (org 980172619)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 819923892",
       "as_of": "2017-11-17",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "accounts_info:selskap",
@@ -277,11 +277,11 @@
         "liquidation_accounts": false
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "journalnr 2026356643, regnskapsperiode 2025-01-01..2025-12-31",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:operating_costs",
@@ -290,11 +290,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 140891.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -303,11 +303,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -140891.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:profit_before_tax",
@@ -316,11 +316,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1778282.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -329,11 +329,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 1529026.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -342,11 +342,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.sumEiendeler: 17628884.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:current_assets",
@@ -355,11 +355,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 13887904.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:fixed_assets",
@@ -368,11 +368,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 3740980.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:cash",
@@ -381,11 +381,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.sumBankinnskuddOgKontanter: 25150.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -394,11 +394,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1270493.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -407,11 +407,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 16358391.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials:selskap:current_debt",
@@ -420,11 +420,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 16358391.0 NOK (journalnr 2026356643)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2024",
@@ -433,11 +433,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.aarsresultat: -365146.0 NOK (journalnr 2025590323)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2024",
@@ -446,11 +446,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.sumEiendeler: 16386453.0 NOK (journalnr 2025590323)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:equity:2024",
@@ -459,11 +459,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2746468.0 NOK (journalnr 2025590323)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:net_profit:2023",
@@ -472,11 +472,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 805152.0 NOK (journalnr 2024624363)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:total_assets:2023",
@@ -485,11 +485,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "eiendeler.sumEiendeler: 16221677.0 NOK (journalnr 2024624363)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "financials_history:selskap:equity:2023",
@@ -498,11 +498,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819923892",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 3111614.0 NOK (journalnr 2024624363)",
       "explanation": "Annual accounts (selskap) filed under organisation number 819923892 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
       "as_of": "2023-12-31",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     },
     {
       "field": "geo_location",
@@ -512,10 +512,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Lill%C3%B8yveien+2A&postnummer=1366&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:55:12Z",
+      "retrieved_at": "2026-10-12T11:03:00Z",
       "evidence": "address 'Lilløyveien 2A', 1366 LYSAKER, municipality 3201 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 819923892, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:55:12Z"
+      "first_seen": "2026-10-12T11:03:00Z"
     }
   ],
   "warnings": [],

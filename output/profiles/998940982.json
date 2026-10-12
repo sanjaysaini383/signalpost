@@ -1,0 +1,284 @@
+{
+  "schema_version": 2,
+  "organization_number": "998940982",
+  "generated_at": "2026-10-12T11:06:01Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STUDIO BRENNERIET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "navn: STUDIO BRENNERIET",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Forening/lag/innretning (FLI)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "organisasjonsform: FLI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-10-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "stiftelsesdato: 2012-10-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-10-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Maridalsveien 3, 0178 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "forretningsadresse: Maridalsveien 3, 0178 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Anette Jakobsen, Formerveien 3A, 0684 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "postadresse: c/o Anette Jakobsen, Formerveien 3A, 0684 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "naeringskode1: 94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "mobile",
+      "value": "938 27 027",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "mobil: 938 27 027",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "email",
+      "value": "mail@victoriagunzler.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "epostadresse: mail@victoriagunzler.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Styre fellesatelier for kunstnere og organisere leie og utgifter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "aktivitet: Styre fellesatelier for kunstnere og organisere leie og utgifter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ATELIER 22B",
+          "from": "2012-10-09",
+          "to": "2015-03-26"
+        },
+        {
+          "name": "STUDIO BRENNERIET",
+          "from": "2015-03-26",
+          "to": "2024-10-26"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'STUDIO BRENNERIET'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998940982",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Victoria Norberg Günzler"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982/roller",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "LEDE (Styrets leder): Victoria Norberg Günzler",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998940982",
+      "as_of": "2026-01-26",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Lillian Marie Tørlen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982/roller",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "MEDL (Styremedlem): Lillian Marie Tørlen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998940982",
+      "as_of": "2026-01-26",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Ann Kristin Einarsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982/roller",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "MEDL (Styremedlem): Ann Kristin Einarsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998940982",
+      "as_of": "2026-01-26",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Anette Krogstad Jakobsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998940982/roller",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "MEDL (Styremedlem): Anette Krogstad Jakobsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998940982",
+      "as_of": "2026-01-26",
+      "first_seen": "2026-10-12T11:06:01Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.92065765555904,
+        "lon": 10.751597362221323,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Maridalsveien+3&postnummer=0178&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:01Z",
+      "evidence": "address 'Maridalsveien 3', 0178 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998940982, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:01Z"
+    }
+  ],
+  "warnings": [],
+  "name": "STUDIO BRENNERIET",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STUDIO BRENNERIET is a Forening/lag/innretning (FLI) registered in 2012, based in Oslo. Main industry: 94.992 Aktiviteter i andre medlemsorganisasjoner ellers. Key people: Victoria Norberg Günzler (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998940982.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

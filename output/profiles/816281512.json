@@ -1,0 +1,622 @@
+{
+  "schema_version": 2,
+  "organization_number": "816281512",
+  "generated_at": "2026-10-12T11:06:47Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "K. DANIELSEN HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "navn: K. DANIELSEN HOLDING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "stiftelsesdato: 2015-11-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-11-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-11-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2018-05-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "vedtektsdato: 2018-05-31",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Soliveien 82C, 1667 ROLVSØY, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "forretningsadresse: Soliveien 82C, 1667 ROLVSØY, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FREDRIKSTAD (3107)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "kommune: FREDRIKSTAD, kommunenummer: 3107",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "naeringskode1: 86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Tilby legearbeid som privatpraktiserende spesialist, og andre produkter/tjenester som naturlig hører sammen med dette. I tilegg vil man også drive med utvikling av og drift av websider og annet som hører til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "aktivitet: Tilby legearbeid som privatpraktiserende spesialist, og andre produkter/tjenester som naturlig hører sammen med dette. I tilegg vil man også drive med utvikling av og drift av websider og annet som hø",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Tilby helsetjenester og andre produkter/tjenester som naturlig hører sammen med dette. Samt også å investere i andre selskaper, samt i fast eiendom og andre ting som naturlig faller inn under dette. I tillegg drive utvikling og drift av websider, herunder E-handel, applikasjoner og konsulenttjenester innen helse og IT.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "vedtektsfestetFormaal: Tilby helsetjenester og andre produkter/tjenester som naturlig hører sammen med dette. Samt også å investere i andre selskaper, samt i fast eiendom og andre ting som naturlig faller inn under dette. I",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "as_of": "2015-11-23",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "KK DANIELSEN HOLDING AS",
+          "from": "2015-11-23",
+          "to": "2016-10-13"
+        },
+        {
+          "name": "ØRE NESE HALS AS",
+          "from": "2016-10-13",
+          "to": "2018-06-21"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'ØRE NESE HALS AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Kjell Arild Danielsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512/roller",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "DAGL (Daglig leder): Kjell Arild Danielsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816281512",
+      "as_of": "2015-11-23",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Kristin Danielsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512/roller",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "LEDE (Styrets leder): Kristin Danielsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816281512",
+      "as_of": "2015-11-23",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Kjell Arild Danielsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512/roller",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "MEDL (Styremedlem): Kjell Arild Danielsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816281512",
+      "as_of": "2015-11-23",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "RE-VISJON AS (org 913998081)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512/roller",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "REVI (Revisor): RE-VISJON AS (org 913998081)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816281512",
+      "as_of": "2024-08-20",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "OVERBLIKK REGNSKAP AS (org 922551162)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816281512/roller",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "REGN (Regnskapsfører): OVERBLIKK REGNSKAP AS (org 922551162)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816281512",
+      "as_of": "2025-04-14",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "journalnr 2026683385, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 9507806.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 9507806.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 8478824.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 8478824.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1028982.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1028982.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1083032.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1083032.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 791756.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 791756.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 2970384.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.sumEiendeler: 2970384.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1692970.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1692970.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1277414.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1277414.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 191908.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 191908.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1304758.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1304758.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1665625.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1665625.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 1032079.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 1032079.0 NOK (journalnr 2026683385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 9219826.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 9219826.0 NOK (journalnr 2025635150)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 399305.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 399305.0 NOK (journalnr 2025635150)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 2236740.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.sumEiendeler: 2236740.0 NOK (journalnr 2025635150)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 513003.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 513003.0 NOK (journalnr 2025635150)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 8256107.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 8256107.0 NOK (journalnr 2024621448)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 131010.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 131010.0 NOK (journalnr 2024621448)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 2998513.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "eiendeler.sumEiendeler: 2998513.0 NOK (journalnr 2024621448)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 113698.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 113698.0 NOK (journalnr 2024621448)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816281512 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "817879012",
+        "name": "K. DANIELSEN HOLDING AS",
+        "address": "Soliveien 82C, 1667 ROLVSØY, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "underenhet 817879012 overordnetEnhet: 816281512",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816281512",
+      "as_of": "2016-10-14",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816281512",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 816281512",
+      "first_seen": "2026-10-12T11:06:47Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.27847980105578,
+        "lon": 11.010758914662892,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Soliveien+82C&postnummer=1667&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:47Z",
+      "evidence": "address 'Soliveien 82C', 1667 ROLVSØY, municipality 3107 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 816281512, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:47Z"
+    }
+  ],
+  "warnings": [],
+  "name": "K. DANIELSEN HOLDING AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "K. DANIELSEN HOLDING AS is an Aksjeselskap (AS) registered in 2015, based in Fredrikstad. Main industry: 86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester. Latest selskap accounts (period ending 2025-12-31): revenue 9.5 million NOK, net profit 791.8 thousand NOK. Key people: Kjell Arild Danielsen (daglig leder), Kristin Danielsen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 816281512.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

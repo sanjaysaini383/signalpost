@@ -1,0 +1,606 @@
+{
+  "schema_version": 2,
+  "organization_number": "811576972",
+  "generated_at": "2026-10-12T11:06:16Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KOMÉT TRAFIKKSKOLE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "navn: KOMÉT TRAFIKKSKOLE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "founded",
+      "value": "2013-02-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "stiftelsesdato: 2013-02-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-04-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-04-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2013-04-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2013-04-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2014-06-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "vedtektsdato: 2014-06-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Stillverksveien 16, 2004 LILLESTRØM, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "forretningsadresse: Stillverksveien 16, 2004 LILLESTRØM, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "municipality",
+      "value": "LILLESTRØM (3205)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "kommune: LILLESTRØM, kommunenummer: 3205",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "85.531 Undervisning ved godkjente trafikkskoler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "naeringskode1: 85.531 Undervisning ved godkjente trafikkskoler",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "mobile",
+      "value": "91 37 04 83",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "mobil: 91 37 04 83",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "email",
+      "value": "rune_andre87@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "epostadresse: rune_andre87@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kjøreopplæring.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "aktivitet: Kjøreopplæring.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Utøve konsulentvirksomhet og trafikkskoleundervisning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "vedtektsfestetFormaal: Utøve konsulentvirksomhet og trafikkskoleundervisning.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "as_of": "2013-04-02",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Rune Andre Haangmann"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "DAGL (Daglig leder): Rune Andre Haangmann",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811576972",
+      "as_of": "2013-04-02",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Kenneth Braathen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "LEDE (Styrets leder): Kenneth Braathen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811576972",
+      "as_of": "2021-08-24",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Rune Andre Haangmann"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "MEDL (Styremedlem): Rune Andre Haangmann",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811576972",
+      "as_of": "2021-08-24",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "A TIL Å REGNSKAP AS (org 887726612)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811576972/roller",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "REGN (Regnskapsfører): A TIL Å REGNSKAP AS (org 887726612)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811576972",
+      "as_of": "2013-04-02",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "journalnr 2026639542, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 5517489.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5517489.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 4744999.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 4744999.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 772490.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 772490.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 663847.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 663847.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 518749.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 518749.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 3271932.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 3271932.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1529337.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1529337.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1742595.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1742595.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1171305.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1171305.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1217452.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1217452.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2054480.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2054480.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 930764.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 930764.0 NOK (journalnr 2026639542)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 6412918.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 6412918.0 NOK (journalnr 2025455516)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 188286.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 188286.0 NOK (journalnr 2025455516)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3909025.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 3909025.0 NOK (journalnr 2025455516)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 698703.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 698703.0 NOK (journalnr 2025455516)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 5381695.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5381695.0 NOK (journalnr 2024527553)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 166252.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 166252.0 NOK (journalnr 2024527553)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3564670.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "eiendeler.sumEiendeler: 3564670.0 NOK (journalnr 2024527553)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 510417.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 510417.0 NOK (journalnr 2024527553)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811576972 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "911834782",
+        "name": "KOMÉT TRAFIKKSKOLE AS",
+        "address": "Stillverksveien 16, 2004 LILLESTRØM, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "underenhet 911834782 overordnetEnhet: 811576972",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 811576972",
+      "as_of": "2013-04-17",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811576972",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 811576972",
+      "first_seen": "2026-10-12T11:06:16Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.95299909540532,
+        "lon": 11.04877818118045,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Stillverksveien+16&postnummer=2004&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:16Z",
+      "evidence": "address 'Stillverksveien 16', 2004 LILLESTRØM, municipality 3205 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 811576972, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:16Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KOMÉT TRAFIKKSKOLE AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KOMÉT TRAFIKKSKOLE AS is an Aksjeselskap (AS) registered in 2013, based in Lillestrøm. Main industry: 85.531 Undervisning ved godkjente trafikkskoler. Latest selskap accounts (period ending 2025-12-31): revenue 5.5 million NOK, net profit 518.7 thousand NOK. Key people: Rune Andre Haangmann (daglig leder), Kenneth Braathen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 811576972.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

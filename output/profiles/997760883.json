@@ -1,0 +1,280 @@
+{
+  "schema_version": 2,
+  "organization_number": "997760883",
+  "generated_at": "2026-10-12T11:05:45Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORDSETH WESTBYE DESIGN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "navn: NORDSETH WESTBYE DESIGN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-02-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2023-06-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2023-06-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Parkveien 4, 3120 NØTTERØY, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "forretningsadresse: Parkveien 4, 3120 NØTTERØY, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FÆRDER (3911)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "kommune: FÆRDER, kommunenummer: 3911",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "naeringskode1: 62.100 Dataprogrammeringstjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "website",
+      "value": "www.nordsethdesign.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "hjemmeside: www.nordsethdesign.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "email",
+      "value": "oyvind@nordsethdesign.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "epostadresse: oyvind@nordsethdesign.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Leverer hjemmesider og blogger spesielt for småbedrifter og privatpersoner.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "aktivitet: Leverer hjemmesider og blogger spesielt for småbedrifter og privatpersoner.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "NORDSETH CONSULTING PETTERSEN",
+          "from": "2012-02-01",
+          "to": "2013-04-20"
+        },
+        {
+          "name": "NORDSETH DESIGN PETTERSEN",
+          "from": "2013-04-20",
+          "to": "2013-04-23"
+        },
+        {
+          "name": "NORDSETH PETTERSEN DESIGN",
+          "from": "2013-04-23",
+          "to": "2013-06-13"
+        },
+        {
+          "name": "NORDSETH WESTBYE DESIGN",
+          "from": "2013-06-13",
+          "to": "2023-06-21"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "historiskeNavn: 4 earlier name(s), latest 'NORDSETH WESTBYE DESIGN'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Øyvind Nordseth Westbye"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997760883/roller",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "INNH (Innehaver): Øyvind Nordseth Westbye",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997760883",
+      "as_of": "2012-02-01",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "997929888",
+        "name": "NORDSETH WESTBYE DESIGN",
+        "address": "Parkveien 4, 3120 NØTTERØY, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "underenhet 997929888 overordnetEnhet: 997760883",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997760883",
+      "as_of": "2012-02-04",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997760883",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997760883",
+      "first_seen": "2026-10-12T11:05:45Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.24936238656553,
+        "lon": 10.423495165689369,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Parkveien+4&postnummer=3120&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:05:45Z",
+      "evidence": "address 'Parkveien 4', 3120 NØTTERØY, municipality 3911 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997760883, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:05:45Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.nordsethdesign.no/robots.txt failed: timed out"
+  ],
+  "name": "NORDSETH WESTBYE DESIGN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "NORDSETH WESTBYE DESIGN is an Enkeltpersonforetak (ENK) registered in 2012, based in Færder. Main industry: 62.100 Dataprogrammeringstjenester. It operates 1 registered establishment(s). Website: www.nordsethdesign.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997760883.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

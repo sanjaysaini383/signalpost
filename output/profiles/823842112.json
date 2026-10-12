@@ -1,152 +1,152 @@
 {
   "schema_version": 2,
   "organization_number": "823842112",
-  "generated_at": "2026-10-12T09:55:09Z",
+  "generated_at": "2026-10-12T11:02:59Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SOLAAS RÅDGIVNING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "navn: SOLAAS RÅDGIVNING",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "registered_date",
       "value": "2019-11-19",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2019-11-19",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2020-03-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-03-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "business_address",
       "value": "c/o Kristian Solaas, Torsbergåsen 6, 3803 BØ I TELEMARK, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "forretningsadresse: c/o Kristian Solaas, Torsbergåsen 6, 3803 BØ I TELEMARK, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "municipality",
       "value": "MIDT-TELEMARK (4020)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "kommune: MIDT-TELEMARK, kommunenummer: 4020",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "industry_code",
       "value": "72.200 Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "naeringskode1: 72.200 Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "activity_description",
       "value": "Konsulenttjenester tilknyttet forskning og utviklingsarbeid i samfunnsvitenskapelige og humanistiske fag.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "aktivitet: Konsulenttjenester tilknyttet forskning og utviklingsarbeid i samfunnsvitenskapelige og humanistiske fag.",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "role:INNH",
@@ -155,11 +155,11 @@
         "name": "Kristian Solaas"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112/roller",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "INNH (Innehaver): Kristian Solaas",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 823842112",
       "as_of": "2019-11-19",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "role:DAGL",
@@ -168,11 +168,11 @@
         "name": "Kristian Solaas"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823842112/roller",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "DAGL (Daglig leder): Kristian Solaas",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 823842112",
       "as_of": "2019-11-19",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "establishment",
@@ -182,20 +182,20 @@
         "address": "c/o Kristian Solaas, Torsbergåsen 6, 3803 BØ I TELEMARK, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "underenhet 924014520 overordnetEnhet: 823842112",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823842112",
       "as_of": "2019-12-04",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823842112",
-      "retrieved_at": "2026-10-12T09:55:09Z",
+      "retrieved_at": "2026-10-12T11:02:59Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 823842112",
-      "first_seen": "2026-10-12T09:55:09Z"
+      "first_seen": "2026-10-12T11:02:59Z"
     }
   ],
   "warnings": [],

@@ -1,0 +1,589 @@
+{
+  "schema_version": 2,
+  "organization_number": "999331742",
+  "generated_at": "2026-10-12T11:06:15Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ATNO CONSULTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "navn: ATNO CONSULTING AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-11-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "stiftelsesdato: 2012-11-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-02-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-02-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2013-02-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2013-02-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-11-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "vedtektsdato: 2012-11-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Austfjordvegen 2576, 5981 MASFJORDNES, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "forretningsadresse: Austfjordvegen 2576, 5981 MASFJORDNES, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MASFJORDEN (4634)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "kommune: MASFJORDEN, kommunenummer: 4634",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "naeringskode1: 09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "phone",
+      "value": "53 50 79 85",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "telefon: 53 50 79 85",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "mobile",
+      "value": "90026582",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "mobil: 90026582",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "email",
+      "value": "atle.nordland@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "epostadresse: atle.nordland@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulentvirksomhet rettet mot oljeindustrien. Kjøp/salg av aksjer og eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "aktivitet: Konsulentvirksomhet rettet mot oljeindustrien. Kjøp/salg av aksjer og eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Konsulentvirksomhet rettet mot oljeindustrien og andre produkter/tjenester som naturlig hører sammen med dette, herunder å delta i andre selskaper med lignende virksomhet og kjøp/salg av aksjer eller på annen måte gjøre seg interessert i andre foretak, samt investering i eiendom og alt som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "vedtektsfestetFormaal: Konsulentvirksomhet rettet mot oljeindustrien og andre produkter/tjenester som naturlig hører sammen med dette, herunder å delta i andre selskaper med lignende virksomhet og kjøp/salg av aksjer eller ",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "as_of": "2013-02-09",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Atle Nordland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742/roller",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "DAGL (Daglig leder): Atle Nordland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999331742",
+      "as_of": "2013-02-09",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Atle Nordland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742/roller",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "LEDE (Styrets leder): Atle Nordland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999331742",
+      "as_of": "2013-02-09",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Britt Elisabeth Nordland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742/roller",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "VARA (Varamedlem): Britt Elisabeth Nordland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999331742",
+      "as_of": "2013-02-09",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "STATSAUTORISERT REVISOR TOM OVE OLSEN AS (org 988918695)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999331742/roller",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "REGN (Regnskapsfører): STATSAUTORISERT REVISOR TOM OVE OLSEN AS (org 988918695)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999331742",
+      "as_of": "2020-03-23",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "journalnr 2026539904, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 60226.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 60226.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -60226.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -60226.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1338629.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1338629.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1320716.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1320716.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 9719205.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.sumEiendeler: 9719205.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 9699205.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 9699205.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 20000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 20000.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 2156800.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 2156800.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 9701060.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9701060.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 18146.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 18146.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 18146.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 18146.0 NOK (journalnr 2026539904)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 1085534.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1085534.0 NOK (journalnr 2025611392)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 8537524.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.sumEiendeler: 8537524.0 NOK (journalnr 2025611392)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 8380344.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 8380344.0 NOK (journalnr 2025611392)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 1666398.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1666398.0 NOK (journalnr 2024346201)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 968905.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 968905.0 NOK (journalnr 2024346201)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 7604936.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "eiendeler.sumEiendeler: 7604936.0 NOK (journalnr 2024346201)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 7294809.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 7294809.0 NOK (journalnr 2024346201)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999331742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "911570165",
+        "name": "ATNO CONSULTING AS",
+        "address": "Austfjordvegen 2576, 5981 MASFJORDNES, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "underenhet 911570165 overordnetEnhet: 999331742",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999331742",
+      "as_of": "2013-02-14",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999331742",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 999331742",
+      "first_seen": "2026-10-12T11:06:15Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.78883121380403,
+        "lon": 5.289856524121306,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Austfjordvegen+2576&postnummer=5981&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:15Z",
+      "evidence": "address 'Austfjordvegen 2576', 5981 MASFJORDNES, municipality 4634 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 999331742, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:15Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ATNO CONSULTING AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ATNO CONSULTING AS is an Aksjeselskap (AS) registered in 2013, based in Masfjorden. Main industry: 09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass. Latest selskap accounts (period ending 2025-12-31): net profit 1.3 million NOK. Key people: Atle Nordland (daglig leder), Atle Nordland (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 999331742.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

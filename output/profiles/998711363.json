@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "organization_number": "998711363",
+  "generated_at": "2026-10-12T11:06:27Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BÅRD LEITE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "navn: BÅRD LEITE",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-08-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-08-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-08-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-08-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Osvegen 362, 5229 KALANDSEIDET, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "forretningsadresse: Osvegen 362, 5229 KALANDSEIDET, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "naeringskode1: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "website",
+      "value": "baardleite.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "hjemmeside: baardleite.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "mobile",
+      "value": "971 97 489",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "mobil: 971 97 489",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "email",
+      "value": "leite.baard@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "epostadresse: leite.baard@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Utføre musikalske spilleoppdrag i Norge.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "aktivitet: Utføre musikalske spilleoppdrag i Norge.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998711363",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Bård Leite"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998711363/roller",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "INNH (Innehaver): Bård Leite",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998711363",
+      "as_of": "2012-08-14",
+      "first_seen": "2026-10-12T11:06:27Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.27941071948649,
+        "lon": 5.410034259931321,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Osvegen+362&postnummer=5229&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:27Z",
+      "evidence": "address 'Osvegen 362', 5229 KALANDSEIDET, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998711363, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:27Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://baardleite.no/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "BÅRD LEITE",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BÅRD LEITE is an Enkeltpersonforetak (ENK) registered in 2012, based in Bergen. Main industry: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk. Website: baardleite.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998711363.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,152 +1,152 @@
 {
   "schema_version": 2,
   "organization_number": "823883692",
-  "generated_at": "2026-10-12T09:57:58Z",
+  "generated_at": "2026-10-12T11:05:22Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "JARL KOSBERG CONSULTANCY",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "navn: JARL KOSBERG CONSULTANCY",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "registered_date",
       "value": "2019-11-25",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2019-11-25",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "vat_registered_date",
       "value": "2022-04-05",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2022-04-05",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "business_address",
       "value": "Middelthuns gate 17G, 0368 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "forretningsadresse: Middelthuns gate 17G, 0368 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "municipality",
       "value": "OSLO (0301)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "kommune: OSLO, kommunenummer: 0301",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "industry_code",
       "value": "71.129 Annen teknisk konsulentvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "institutional_sector",
       "value": "8200 Personlig næringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "activity_description",
       "value": "Konsulent - og rådgivningsvirksomhet innenfor energi, bygg- og anlegg og prosjektutvikling.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "aktivitet: Konsulent - og rådgivningsvirksomhet innenfor energi, bygg- og anlegg og prosjektutvikling.",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "language_form",
       "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "maalform: Bokmål",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "role:INNH",
@@ -155,11 +155,11 @@
         "name": "Jarl Arve Kosberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692/roller",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "INNH (Innehaver): Jarl Arve Kosberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 823883692",
       "as_of": "2019-11-25",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "role:DAGL",
@@ -168,11 +168,11 @@
         "name": "Jarl Arve Kosberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883692/roller",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "DAGL (Daglig leder): Jarl Arve Kosberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 823883692",
       "as_of": "2019-11-25",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "establishment",
@@ -182,20 +182,20 @@
         "address": "Middelthuns gate 17G, 0368 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "underenhet 924045701 overordnetEnhet: 823883692",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823883692",
       "as_of": "2019-12-09",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "establishment_count",
       "value": 1,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823883692",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "page.totalElements: 1",
       "explanation": "Number of sub-units the register lists under organisation number 823883692",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     },
     {
       "field": "geo_location",
@@ -205,10 +205,10 @@
         "crs": "EPSG:4258"
       },
       "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Middelthuns+gate+17G&postnummer=0368&treffPerSide=5&utkoordsys=4258",
-      "retrieved_at": "2026-10-12T09:57:58Z",
+      "retrieved_at": "2026-10-12T11:05:22Z",
       "evidence": "address 'Middelthuns gate 17G', 0368 OSLO, municipality 0301 matches the register address",
       "explanation": "Coordinates of the business address registered for organisation number 823883692, accepted because street, postal code and municipality number equal the register values",
-      "first_seen": "2026-10-12T09:57:58Z"
+      "first_seen": "2026-10-12T11:05:22Z"
     }
   ],
   "warnings": [],

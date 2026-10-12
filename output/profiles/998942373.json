@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "organization_number": "998942373",
+  "generated_at": "2026-10-12T11:06:05Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FURRE FORETAK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "navn: FURRE FORETAK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-10-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Nordlysbråtet 9D, 4016 STAVANGER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "forretningsadresse: Nordlysbråtet 9D, 4016 STAVANGER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STAVANGER (1103)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "kommune: STAVANGER, kommunenummer: 1103",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "59.110 Produksjon av film, video og fjernsynsprogrammer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "naeringskode1: 59.110 Produksjon av film, video og fjernsynsprogrammer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Tilbyr tjenester innen media og filmproduksjon. Utøvende scenekunstner og illustratør.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "aktivitet: Tilbyr tjenester innen media og filmproduksjon. Utøvende scenekunstner og illustratør.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "FURREY MEDIA ASBJØRN FURRE",
+          "from": "2012-10-09",
+          "to": "2017-06-06"
+        },
+        {
+          "name": "FURRE MEDIA ASBJØRN FURRE",
+          "from": "2017-06-06",
+          "to": "2022-08-17"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'FURRE MEDIA ASBJØRN FURRE'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Asbjørn Furre"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373/roller",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "INNH (Innehaver): Asbjørn Furre",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998942373",
+      "as_of": "2012-10-09",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Asbjørn Furre"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998942373/roller",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "DAGL (Daglig leder): Asbjørn Furre",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998942373",
+      "as_of": "2012-10-09",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998998107",
+        "name": "FURRE FORETAK",
+        "address": "Nordlysbråtet 9D, 4016 STAVANGER, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "underenhet 998998107 overordnetEnhet: 998942373",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998942373",
+      "as_of": "2012-10-11",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998942373",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998942373",
+      "first_seen": "2026-10-12T11:06:05Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.94712383989716,
+        "lon": 5.732421381449876,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nordlysbr%C3%A5tet+9D&postnummer=4016&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:06:05Z",
+      "evidence": "address 'Nordlysbråtet 9D', 4016 STAVANGER, municipality 1103 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998942373, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:06:05Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FURRE FORETAK",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FURRE FORETAK is an Enkeltpersonforetak (ENK) registered in 2012, based in Stavanger. Main industry: 59.110 Produksjon av film, video og fjernsynsprogrammer. Key people: Asbjørn Furre (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998942373.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}
