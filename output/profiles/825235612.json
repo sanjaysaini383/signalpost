@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "organization_number": "825235612",
+  "generated_at": "2026-10-12T11:08:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NERD BREW BY ANDERSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "navn: NERD BREW BY ANDERSEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-06-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-06-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Byvegen 932, 5212 SØFTELAND, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "forretningsadresse: Byvegen 932, 5212 SØFTELAND, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BJØRNAFJORDEN (4624)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "kommune: BJØRNAFJORDEN, kommunenummer: 4624",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "11.050 Produksjon av øl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "naeringskode1: 11.050 Produksjon av øl",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Produksjon og salg av øl.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "aktivitet: Produksjon og salg av øl.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825235612",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Ronny Andersen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825235612/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "INNH (Innehaver): Ronny Andersen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825235612",
+      "as_of": "2020-06-23",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.25408910414447,
+        "lon": 5.436857557509436,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Byvegen+932&postnummer=5212&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "address 'Byvegen 932', 5212 SØFTELAND, municipality 4624 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825235612, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:17Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NERD BREW BY ANDERSEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "NERD BREW BY ANDERSEN is an Enkeltpersonforetak (ENK) registered in 2020, based in Bjørnafjorden. Main industry: 11.050 Produksjon av øl.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825235612.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

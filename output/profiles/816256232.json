@@ -1,0 +1,705 @@
+{
+  "schema_version": 2,
+  "organization_number": "816256232",
+  "generated_at": "2026-10-12T11:10:09Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ELIFE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "navn: ELIFE AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-11-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "stiftelsesdato: 2015-11-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2016-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2016-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-11-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "vedtektsdato: 2015-11-04",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sannergata 2, 0557 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "forretningsadresse: Sannergata 2, 0557 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Øivinds vei 4, 0590 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "postadresse: Øivinds vei 4, 0590 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.900 Uspesifisert engroshandel",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "naeringskode1: 46.900 Uspesifisert engroshandel",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "website",
+      "value": "www.elife.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "hjemmeside: www.elife.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "phone",
+      "value": "97 13 27 55",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "telefon: 97 13 27 55",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "email",
+      "value": "mail@elife.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "epostadresse: mail@elife.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Import og salg av elektriske sykler og tilleggsutstyr som låser, alarmsystem for sykler og ekstrautstyr til elektriske sykler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "aktivitet: Import og salg av elektriske sykler og tilleggsutstyr som låser, alarmsystem for sykler og ekstrautstyr til elektriske sykler.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Selskapets virksomhet vil konsentrere seg om import og salg av elektriske sykler og annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "vedtektsfestetFormaal: Selskapets virksomhet vil konsentrere seg om import og salg av elektriske sykler og annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "as_of": "2015-11-24",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Shiwen Eivindsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "DAGL (Daglig leder): Shiwen Eivindsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2015-11-24",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Sindre Eivindsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "LEDE (Styrets leder): Sindre Eivindsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2026-02-21",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Hongxia Luo"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "MEDL (Styremedlem): Hongxia Luo",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2026-02-21",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Kjell Åge Eivindsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "MEDL (Styremedlem): Kjell Åge Eivindsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2026-02-21",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Shiwen Eivindsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "MEDL (Styremedlem): Shiwen Eivindsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2026-02-21",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "CONNECT ACCOUNTING SERVICES AS (org 925375160)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816256232/roller",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "REGN (Regnskapsfører): CONNECT ACCOUNTING SERVICES AS (org 925375160)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816256232",
+      "as_of": "2026-09-28",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "journalnr 2026749010, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 3601656.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3601656.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 3188270.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 3188270.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 413386.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 413386.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 111221.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 111221.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 111221.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 111221.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 5078355.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.sumEiendeler: 5078355.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 4084871.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 4084871.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 993483.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 993483.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1324688.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1324688.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -429070.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -429070.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 5507425.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 5507425.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 407431.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 407431.0 NOK (journalnr 2026749010)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 4108927.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4108927.0 NOK (journalnr 2025732883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -835794.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -835794.0 NOK (journalnr 2025732883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 1901139.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.sumEiendeler: 1901139.0 NOK (journalnr 2025732883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -540293.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -540293.0 NOK (journalnr 2025732883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 5841559.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5841559.0 NOK (journalnr 2024744390)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -1400077.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -1400077.0 NOK (journalnr 2024744390)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3178054.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "eiendeler.sumEiendeler: 3178054.0 NOK (journalnr 2024744390)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 295502.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 295502.0 NOK (journalnr 2024744390)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816256232 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916289359",
+        "name": "ELIFE",
+        "address": "Sannergata 2, 0557 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "underenhet 916289359 overordnetEnhet: 816256232",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816256232",
+      "as_of": "2015-11-25",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816256232",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.92859596535574,
+        "lon": 10.757432400922063,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Sannergata+2&postnummer=0557&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "address 'Sannergata 2', 0557 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 816256232, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.elife.no/",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "page text contains organisation number 816256232",
+      "explanation": "Page from https://www.elife.no/, the website declared in Enhetsregisteret for organisation number 816256232; page text contains organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Kjøp elsykkel designet i Norge. Nøye håndplukket utvalg av elsykler, deler og tilbehør. Besøk vår butikk i Oslo eller handle online. Ekspertråd og service.",
+      "source_url": "https://www.elife.no/",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "meta description: Kjøp elsykkel designet i Norge. Nøye håndplukket utvalg av elsykler, deler og tilbehør. Besøk vår butikk i Oslo eller handle online. Ekspertråd og service.",
+      "explanation": "Page from https://www.elife.no/, the website declared in Enhetsregisteret for organisation number 816256232; page text contains organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/elifeelsykler",
+      "source_url": "https://www.elife.no/",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "link on page: https://www.facebook.com/elifeelsykler",
+      "explanation": "Page from https://www.elife.no/, the website declared in Enhetsregisteret for organisation number 816256232; page text contains organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/elife_elsykler",
+      "source_url": "https://www.elife.no/",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "link on page: https://www.instagram.com/elife_elsykler",
+      "explanation": "Page from https://www.elife.no/, the website declared in Enhetsregisteret for organisation number 816256232; page text contains organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    },
+    {
+      "field": "social:youtube",
+      "value": "https://www.youtube.com/@elifeelsykler6438",
+      "source_url": "https://www.elife.no/",
+      "retrieved_at": "2026-10-12T11:10:09Z",
+      "evidence": "link on page: https://www.youtube.com/@elifeelsykler6438",
+      "explanation": "Page from https://www.elife.no/, the website declared in Enhetsregisteret for organisation number 816256232; page text contains organisation number 816256232",
+      "first_seen": "2026-10-12T11:10:09Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ELIFE AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.elife.no"
+  ],
+  "summary": "ELIFE AS is an Aksjeselskap (AS) registered in 2015, based in Oslo. Main industry: 46.900 Uspesifisert engroshandel. Latest selskap accounts (period ending 2025-12-31): revenue 3.6 million NOK, net profit 111.2 thousand NOK. Key people: Shiwen Eivindsen (daglig leder), Sindre Eivindsen (styrets leder). It operates 1 registered establishment(s). Website: www.elife.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 816256232.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains organisation number 816256232.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

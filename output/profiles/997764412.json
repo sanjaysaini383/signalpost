@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "organization_number": "997764412",
+  "generated_at": "2026-10-12T11:08:11Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØYSTEIN L VASSENGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "navn: ØYSTEIN L VASSENGEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-12-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2011-12-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Øyavegen 33, 2030 NANNESTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "forretningsadresse: Øyavegen 33, 2030 NANNESTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NANNESTAD (3238)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "kommune: NANNESTAD, kommunenummer: 3238",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "33.120 Reparasjon og vedlikehold av maskiner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "naeringskode1: 33.120 Reparasjon og vedlikehold av maskiner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "industry_code_2",
+      "value": "01.110 Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "naeringskode2: 01.110 Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "mobile",
+      "value": "464 49 249",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "mobil: 464 49 249",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Snøbrøyting og utleie av egen arbeidskraft (mekaniker). I tillegg drives det jordbruksvirksomhet, med dyrking av korn.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "aktivitet: Snøbrøyting og utleie av egen arbeidskraft (mekaniker). I tillegg drives det jordbruksvirksomhet, med dyrking av korn.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Øystein Landsverk Vassengen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412/roller",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "INNH (Innehaver): Øystein Landsverk Vassengen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997764412",
+      "as_of": "2011-12-27",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ORMSTAD REGNSKAP AS (org 919154713)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997764412/roller",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "REGN (Regnskapsfører): ORMSTAD REGNSKAP AS (org 919154713)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997764412",
+      "as_of": "2020-06-02",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "978106137",
+        "name": "ØYSTEIN L VASSENGEN",
+        "address": "Øyavegen 33, 2030 NANNESTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underenhet 978106137 overordnetEnhet: 997764412",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997764412",
+      "as_of": "1997-06-18",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997764412",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997764412",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.17656180801458,
+        "lon": 11.039503507054826,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=%C3%98yavegen+33&postnummer=2030&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "address 'Øyavegen 33', 2030 NANNESTAD, municipality 3238 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997764412, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:11Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ØYSTEIN L VASSENGEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ØYSTEIN L VASSENGEN is an Enkeltpersonforetak (ENK) registered in 2011, based in Nannestad. Main industry: 33.120 Reparasjon og vedlikehold av maskiner. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997764412.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,668 @@
+{
+  "schema_version": 2,
+  "organization_number": "998229014",
+  "generated_at": "2026-10-12T11:09:15Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TW ZERO FLEET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "navn: TW ZERO FLEET AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "stiftelsesdato: 2012-03-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2026-02-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "vedtektsdato: 2026-02-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "employees",
+      "value": 22,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "antallAnsatte: 22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "as_of": "2026-07-15",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Disenåvegen 555, 2114 DISENÅ, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "forretningsadresse: Disenåvegen 555, 2114 DISENÅ, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SØR-ODAL (3415)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "kommune: SØR-ODAL, kommunenummer: 3415",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "naeringskode1: 49.410 Godstransport på vei",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "mobile",
+      "value": "976 76 787",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "mobil: 976 76 787",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "email",
+      "value": "tom@twi.as",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "epostadresse: tom@twi.as",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Transport og frakt på land, og det som naturlig hører herunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "aktivitet: Transport og frakt på land, og det som naturlig hører herunder.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Transport og frakt på land, og det som naturlig hører herunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "vedtektsfestetFormaal: Transport og frakt på land, og det som naturlig hører herunder.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 3090000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "kapital.belop: 3090000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "as_of": "2026-01-09",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "TOM WILHELMSEN AS",
+          "from": "2012-04-16",
+          "to": "2026-03-12"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'TOM WILHELMSEN AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2024",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Tom Wilhelmsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014/roller",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "DAGL (Daglig leder): Tom Wilhelmsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229014",
+      "as_of": "2024-02-19",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Tom Wilhelmsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014/roller",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "LEDE (Styrets leder): Tom Wilhelmsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229014",
+      "as_of": "2024-02-19",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "VIDI REVISJON AS (org 936106439)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014/roller",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "REVI (Revisor): VIDI REVISJON AS (org 936106439)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229014",
+      "as_of": "2025-12-27",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "VIEW GROUP AS (org 987260335)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229014/roller",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "REGN (Regnskapsfører): VIEW GROUP AS (org 987260335)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229014",
+      "as_of": "2025-11-01",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "journalnr 2025454514, regnskapsperiode 2024-01-01..2024-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 94152042.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 94152042.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 94321522.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 94321522.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -169480.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -169480.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -2138924.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -2138924.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -2019693.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -2019693.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 44322944.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.sumEiendeler: 44322944.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 26121827.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 26121827.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 18201118.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 18201118.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 3766370.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 3766370.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 194942.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 194942.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 44128004.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 44128004.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 35303088.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 35303088.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 8824917.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 8824917.0 NOK (journalnr 2025454514)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 92564013.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 92564013.0 NOK (journalnr 2024614305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -11649517.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -11649517.0 NOK (journalnr 2024614305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 39175438.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.sumEiendeler: 39175438.0 NOK (journalnr 2024614305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -11808095.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -11808095.0 NOK (journalnr 2024614305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2022",
+      "value": {
+        "amount": 106642411.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 106642411.0 NOK (journalnr 2023369510)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2022-01-01 to 2022-12-31",
+      "as_of": "2022-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2022",
+      "value": {
+        "amount": -3279486.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -3279486.0 NOK (journalnr 2023369510)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2022-01-01 to 2022-12-31",
+      "as_of": "2022-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2022",
+      "value": {
+        "amount": 65516198.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "eiendeler.sumEiendeler: 65516198.0 NOK (journalnr 2023369510)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2022-01-01 to 2022-12-31",
+      "as_of": "2022-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2022",
+      "value": {
+        "amount": -281742.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -281742.0 NOK (journalnr 2023369510)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229014 in Regnskapsregisteret, period 2022-01-01 to 2022-12-31",
+      "as_of": "2022-12-31",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998246962",
+        "name": "TW ZERO FLEET AS AVD DISENÅ",
+        "address": "Disenåvegen 551, 2114 DISENÅ, Norge",
+        "employees": 14
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "underenhet 998246962 overordnetEnhet: 998229014",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998229014",
+      "as_of": "2012-04-16",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "934977602",
+        "name": "TW ZERO FLEET AS AVD YTRE ENEBAKK",
+        "address": "Landskaugveien 27, 1914 YTRE ENEBAKK, Norge",
+        "employees": 8
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "underenhet 934977602 overordnetEnhet: 998229014",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998229014",
+      "as_of": "2025-02-04",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 2,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998229014",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "page.totalElements: 2",
+      "explanation": "Number of sub-units the register lists under organisation number 998229014",
+      "first_seen": "2026-10-12T11:09:15Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.20768323456443,
+        "lon": 11.648405388363974,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Disen%C3%A5vegen+555&postnummer=2114&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:15Z",
+      "evidence": "address 'Disenåvegen 555', 2114 DISENÅ, municipality 3415 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998229014, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:15Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TW ZERO FLEET AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TW ZERO FLEET AS is an Aksjeselskap (AS) registered in 2012, based in Sør-Odal. Main industry: 49.410 Godstransport på vei. It has 22 registered employees. Latest selskap accounts (period ending 2024-12-31): revenue 94.2 million NOK, net profit -2.0 million NOK. Key people: Tom Wilhelmsen (daglig leder), Tom Wilhelmsen (styrets leder). It operates 2 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998229014.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

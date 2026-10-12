@@ -1,0 +1,275 @@
+{
+  "schema_version": 2,
+  "organization_number": "998941873",
+  "generated_at": "2026-10-12T11:09:19Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "GEORG MÁR WIIUM BALDURSSON",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "navn: GEORG MÁR WIIUM BALDURSSON",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-10-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sykehusveien 4, 9775 GAMVIK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "forretningsadresse: Sykehusveien 4, 9775 GAMVIK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 37, 9775 GAMVIK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "postadresse: Postboks 37, 9775 GAMVIK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "municipality",
+      "value": "GAMVIK (5626)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "kommune: GAMVIK, kommunenummer: 5626",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "03.110 Fiske og fangst i sjø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "naeringskode1: 03.110 Fiske og fangst i sjø",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "mobile",
+      "value": "46918270",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "mobil: 46918270",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "email",
+      "value": "goggi1974@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "epostadresse: goggi1974@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Kystfiske.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "aktivitet: Kystfiske.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Georg Mar Baldursson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873/roller",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "INNH (Innehaver): Georg Mar Baldursson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941873",
+      "as_of": "2012-10-09",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Georg Mar Baldursson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873/roller",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "DAGL (Daglig leder): Georg Mar Baldursson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941873",
+      "as_of": "2013-07-23",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "WIIKS REGNSKAPSKONTOR AS (org 968784358)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941873/roller",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "REGN (Regnskapsfører): WIIKS REGNSKAPSKONTOR AS (org 968784358)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941873",
+      "as_of": "2014-03-13",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998992893",
+        "name": "GEORG MÁR WIIUM BALDURSSON",
+        "address": "Sykehusveien 4, 9775 GAMVIK, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "underenhet 998992893 overordnetEnhet: 998941873",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998941873",
+      "as_of": "2012-10-10",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998941873",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998941873",
+      "first_seen": "2026-10-12T11:09:19Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 71.06304773274549,
+        "lon": 28.24218210613257,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Sykehusveien+4&postnummer=9775&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:19Z",
+      "evidence": "address 'Sykehusveien 4', 9775 GAMVIK, municipality 5626 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998941873, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:19Z"
+    }
+  ],
+  "warnings": [],
+  "name": "GEORG MÁR WIIUM BALDURSSON",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "GEORG MÁR WIIUM BALDURSSON is an Enkeltpersonforetak (ENK) registered in 2012, based in Gamvik. Main industry: 03.110 Fiske og fangst i sjø. Key people: Georg Mar Baldursson (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998941873.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

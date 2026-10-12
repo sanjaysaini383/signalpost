@@ -1,0 +1,593 @@
+{
+  "schema_version": 2,
+  "organization_number": "813914042",
+  "generated_at": "2026-10-12T11:08:05Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VIZRT GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "navn: VIZRT GROUP AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "stiftelsesdato: 2014-07-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-07-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-07-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-07-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-07-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "vedtektsdato: 2019-11-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Lars Hilles gate 30, 5008 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "forretningsadresse: Lars Hilles gate 30, 5008 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "58.290 Utgivelse av annen programvare",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "naeringskode1: 58.290 Utgivelse av annen programvare",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "website",
+      "value": "www.vizrt.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "hjemmeside: www.vizrt.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie aksjer samt alt som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "aktivitet: Eie aksjer samt alt som står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie aksjer samt alt som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "vedtektsfestetFormaal: Eie aksjer samt alt som står i forbindelse med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 60000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "kapital.belop: 60000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "as_of": "2015-03-23",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "STARTUP 663 14 AS",
+          "from": "2014-07-21",
+          "to": "2014-10-27"
+        },
+        {
+          "name": "AKSJESELSKAPET AV 17. OKTOBER 2014 AS",
+          "from": "2014-10-27",
+          "to": "2015-04-23"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'AKSJESELSKAPET AV 17. OKTOBER 2014 AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Rohit Nagarajan"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042/roller",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "DAGL (Daglig leder): Rohit Nagarajan",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813914042",
+      "as_of": "2025-07-22",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Rohit Nagarajan"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042/roller",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "LEDE (Styrets leder): Rohit Nagarajan",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813914042",
+      "as_of": "2025-02-05",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Pierre Albert Charles Milet"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042/roller",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "MEDL (Styremedlem): Pierre Albert Charles Milet",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813914042",
+      "as_of": "2025-02-05",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "CEDRA NORGE AS (org 935416779)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813914042/roller",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "REVI (Revisor): CEDRA NORGE AS (org 935416779)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813914042",
+      "as_of": "2026-05-02",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "forenkletAnvendelseIFRS",
+        "small_company_rules": false,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "journalnr 2026619074, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 224375.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 224375.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -224375.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -224375.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 56092754.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 56092754.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 43755389.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 43755389.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 4154391319.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.sumEiendeler: 4154391319.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 956296419.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 956296419.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 3198094900.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 3198094900.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1251.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1251.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1236587449.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1236587449.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2917803870.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2917803870.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 124999.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 124999.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 2917678870.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 2917678870.0 NOK (journalnr 2026619074)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -212475801.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -212475801.0 NOK (journalnr 2025710075)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 3973219808.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.sumEiendeler: 3973219808.0 NOK (journalnr 2025710075)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 986151913.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 986151913.0 NOK (journalnr 2025710075)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -104296287.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -104296287.0 NOK (journalnr 2024737099)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 3460329691.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "eiendeler.sumEiendeler: 3460329691.0 NOK (journalnr 2024737099)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1027514943.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1027514943.0 NOK (journalnr 2024737099)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813914042 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "917022577",
+        "name": "VIZRT GROUP AS",
+        "address": "Lars Hilles gate 30, 5008 BERGEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "underenhet 917022577 overordnetEnhet: 813914042",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813914042",
+      "as_of": "2016-04-19",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813914042",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 813914042",
+      "first_seen": "2026-10-12T11:08:05Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.38548045291674,
+        "lon": 5.332800119199358,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Lars+Hilles+gate+30&postnummer=5008&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:05Z",
+      "evidence": "address 'Lars Hilles gate 30', 5008 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 813914042, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:05Z"
+    }
+  ],
+  "warnings": [
+    "website https://www.vizrt.com/ discarded: page does not tie to organisation number 813914042"
+  ],
+  "name": "VIZRT GROUP AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "VIZRT GROUP AS is an Aksjeselskap (AS) registered in 2014, based in Bergen. Main industry: 58.290 Utgivelse av annen programvare. Latest selskap accounts (period ending 2025-12-31): net profit 43.8 million NOK. Key people: Rohit Nagarajan (daglig leder), Rohit Nagarajan (styrets leder). It operates 1 registered establishment(s). Website: www.vizrt.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 813914042.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "organization_number": "998359546",
+  "generated_at": "2026-10-12T11:09:03Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRØEN GABRIELE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "navn: FRØEN GABRIELE",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-05-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Basterudvegen 30B, 2312 OTTESTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "forretningsadresse: Basterudvegen 30B, 2312 OTTESTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STANGE (3413)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "kommune: STANGE, kommunenummer: 3413",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "85.597 Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "naeringskode1: 85.597 Annen undervisning ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "phone",
+      "value": "62 57 26 12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "telefon: 62 57 26 12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "mobile",
+      "value": "472 88 871",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "mobil: 472 88 871",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "email",
+      "value": "gabriele3844@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "epostadresse: gabriele3844@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Undervisning/ veiledning om traumer og dissosasjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "aktivitet: Undervisning/ veiledning om traumer og dissosasjon.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998359546",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Gabriele Möbes Frøen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998359546/roller",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "INNH (Innehaver): Gabriele Möbes Frøen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998359546",
+      "as_of": "2012-05-10",
+      "first_seen": "2026-10-12T11:09:03Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.77597322878576,
+        "lon": 11.125641725394628,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Basterudvegen+30B&postnummer=2312&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:03Z",
+      "evidence": "address 'Basterudvegen 30B', 2312 OTTESTAD, municipality 3413 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998359546, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:03Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FRØEN GABRIELE",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FRØEN GABRIELE is an Enkeltpersonforetak (ENK) registered in 2012, based in Stange. Main industry: 85.597 Annen undervisning ellers.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998359546.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,209 @@
+{
+  "schema_version": 2,
+  "organization_number": "823861982",
+  "generated_at": "2026-10-12T11:10:02Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TMC TUDOSIE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "navn: TMC TUDOSIE",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-12-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-12-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Sinsenveien 56A, 0586 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "forretningsadresse: Sinsenveien 56A, 0586 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "naeringskode1: 49.410 Godstransport på vei",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "mobile",
+      "value": "46375338",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "mobil: 46375338",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Godstransport på vei. Transport av varer, budbil, flyttehjelp, matkjøring og aviser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "aktivitet: Godstransport på vei. Transport av varer, budbil, flyttehjelp, matkjøring og aviser.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Marius-Catalin Tudosie"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823861982/roller",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "INNH (Innehaver): Marius-Catalin Tudosie",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823861982",
+      "as_of": "2020-10-08",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924350288",
+        "name": "TMC TUDOSIE",
+        "address": "Sinsenveien 56A, 0586 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "underenhet 924350288 overordnetEnhet: 823861982",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823861982",
+      "as_of": "2020-01-06",
+      "first_seen": "2026-10-12T11:10:02Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823861982",
+      "retrieved_at": "2026-10-12T11:10:02Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 823861982",
+      "first_seen": "2026-10-12T11:10:02Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TMC TUDOSIE",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "TMC TUDOSIE is an Enkeltpersonforetak (ENK) registered in 2019, based in Oslo. Main industry: 49.410 Godstransport på vei. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 823861982.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

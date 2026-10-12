@@ -1,0 +1,251 @@
+{
+  "schema_version": 2,
+  "organization_number": "997625196",
+  "generated_at": "2026-10-12T11:08:39Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "JONAS LIHAUG FREDRIKSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "navn: JONAS LIHAUG FREDRIKSEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-11-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2011-11-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Disenveien 37, 0587 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "forretningsadresse: Disenveien 37, 0587 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "naeringskode1: 90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Medieproduksjon, konsultasjon, skuespillerarbeid og diverse scenekunst.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "aktivitet: Medieproduksjon, konsultasjon, skuespillerarbeid og diverse scenekunst.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "JONAS LIHAUG FREDRIKSEN",
+          "from": "2011-11-21",
+          "to": "2014-12-16"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'JONAS LIHAUG FREDRIKSEN'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Jonas Lihaug Fredriksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196/roller",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "INNH (Innehaver): Jonas Lihaug Fredriksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997625196",
+      "as_of": "2011-11-21",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "TRYGGESETH REGNSKAP (org 993940321)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997625196/roller",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "REGN (Regnskapsfører): TRYGGESETH REGNSKAP (org 993940321)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997625196",
+      "as_of": "2023-06-05",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "917174377",
+        "name": "JONAS LIHAUG FREDRIKSEN",
+        "address": "Disenveien 37, 0587 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "underenhet 917174377 overordnetEnhet: 997625196",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997625196",
+      "as_of": "2016-05-19",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997625196",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997625196",
+      "first_seen": "2026-10-12T11:08:39Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.941020617144396,
+        "lon": 10.795860577892878,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Disenveien+37&postnummer=0587&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:39Z",
+      "evidence": "address 'Disenveien 37', 0587 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997625196, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:39Z"
+    }
+  ],
+  "warnings": [],
+  "name": "JONAS LIHAUG FREDRIKSEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "JONAS LIHAUG FREDRIKSEN is an Enkeltpersonforetak (ENK) registered in 2011, based in Oslo. Main industry: 90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997625196.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

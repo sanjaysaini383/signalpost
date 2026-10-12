@@ -1,0 +1,231 @@
+{
+  "schema_version": 2,
+  "organization_number": "998920523",
+  "generated_at": "2026-10-12T11:07:12Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SERVICE ROMAN RUCKI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "navn: SERVICE ROMAN RUCKI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-10-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-11-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Ormerudveien 52B, 1410 KOLBOTN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "forretningsadresse: Ormerudveien 52B, 1410 KOLBOTN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NORDRE FOLLO (3207)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "kommune: NORDRE FOLLO, kommunenummer: 3207",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "naeringskode1: 41.000 Oppføring av bygninger",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "email",
+      "value": "roman.rucki@interia.pl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "epostadresse: roman.rucki@interia.pl",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Oppussingstjenester, byggearbeid, båtbyggertjeneste.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "aktivitet: Oppussingstjenester, byggearbeid, båtbyggertjeneste.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Roman Stanislaw Rucki"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998920523/roller",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "INNH (Innehaver): Roman Stanislaw Rucki",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998920523",
+      "as_of": "2013-02-02",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "999072488",
+        "name": "SERVICE ROMAN RUCKI",
+        "address": "Ormerudveien 52B, 1410 KOLBOTN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "underenhet 999072488 overordnetEnhet: 998920523",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998920523",
+      "as_of": "2012-10-30",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998920523",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998920523",
+      "first_seen": "2026-10-12T11:07:12Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.81818063463446,
+        "lon": 10.806962466437122,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Ormerudveien+52B&postnummer=1410&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:12Z",
+      "evidence": "address 'Ormerudveien 52B', 1410 KOLBOTN, municipality 3207 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998920523, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:12Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SERVICE ROMAN RUCKI",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SERVICE ROMAN RUCKI is an Enkeltpersonforetak (ENK) registered in 2012, based in Nordre Follo. Main industry: 41.000 Oppføring av bygninger. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998920523.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

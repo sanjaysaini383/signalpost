@@ -1,0 +1,598 @@
+{
+  "schema_version": 2,
+  "organization_number": "819943672",
+  "generated_at": "2026-10-12T11:08:44Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TOM ELEKTRO OG ANLEGG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "navn: TOM ELEKTRO OG ANLEGG AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "stiftelsesdato: 2017-11-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2017-11-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2017-11-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2017-11-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2017-11-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2018-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2018-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2017-11-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "vedtektsdato: 2017-11-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Vågåvegen 66A, 2680 VÅGÅ, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "forretningsadresse: Vågåvegen 66A, 2680 VÅGÅ, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "municipality",
+      "value": "VÅGÅ (3435)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "kommune: VÅGÅ, kommunenummer: 3435",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "43.210 Elektrisk installasjonsarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "naeringskode1: 43.210 Elektrisk installasjonsarbeid",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Elektroinstallasjon. Samt anleggs- og transporttjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "aktivitet: Elektroinstallasjon. Samt anleggs- og transporttjenester.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å tilby tjenester innenfor elektroinstallasjon, i tillegg til anleggs- og transporttjenester samt annen virksomhet forbundet med dette, herunder å eie aksjer i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "vedtektsfestetFormaal: Å tilby tjenester innenfor elektroinstallasjon, i tillegg til anleggs- og transporttjenester samt annen virksomhet forbundet med dette, herunder å eie aksjer i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "as_of": "2017-11-22",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Tom Stadeløkken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672/roller",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "DAGL (Daglig leder): Tom Stadeløkken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819943672",
+      "as_of": "2017-11-22",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Tom Stadeløkken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672/roller",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "LEDE (Styrets leder): Tom Stadeløkken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819943672",
+      "as_of": "2017-11-22",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Sindre Stadeløkken"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672/roller",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "MEDL (Styremedlem): Sindre Stadeløkken",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819943672",
+      "as_of": "2017-11-22",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SNØHETTA REGNSKAP OTTA VÅGÅ AS (org 915232108)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819943672/roller",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "REGN (Regnskapsfører): SNØHETTA REGNSKAP OTTA VÅGÅ AS (org 915232108)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 819943672",
+      "as_of": "2017-11-22",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "journalnr 2026390969, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1149806.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1149806.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1083782.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1083782.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 66023.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 66023.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 45171.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 45171.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 45171.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 45171.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 800641.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.sumEiendeler: 800641.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 545190.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 545190.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 255451.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 255451.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 61618.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 61618.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 38753.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 38753.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 761888.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 761888.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 595680.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 595680.0 NOK (journalnr 2026390969)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 844033.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 844033.0 NOK (journalnr 2025449828)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -27717.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -27717.0 NOK (journalnr 2025449828)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 802475.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.sumEiendeler: 802475.0 NOK (journalnr 2025449828)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -6419.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -6419.0 NOK (journalnr 2025449828)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 621646.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 621646.0 NOK (journalnr 2024589883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -82159.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -82159.0 NOK (journalnr 2024589883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 742465.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "eiendeler.sumEiendeler: 742465.0 NOK (journalnr 2024589883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 21298.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 21298.0 NOK (journalnr 2024589883)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 819943672 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "919972165",
+        "name": "TOM ELEKTRO OG ANLEGG AS",
+        "address": "Vågåvegen 66A, 2680 VÅGÅ, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "underenhet 919972165 overordnetEnhet: 819943672",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 819943672",
+      "as_of": "2017-11-27",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=819943672",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 819943672",
+      "first_seen": "2026-10-12T11:08:44Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 61.873012342673555,
+        "lon": 9.101528386108761,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=V%C3%A5g%C3%A5vegen+66A&postnummer=2680&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:44Z",
+      "evidence": "address 'Vågåvegen 66A', 2680 VÅGÅ, municipality 3435 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 819943672, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TOM ELEKTRO OG ANLEGG AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TOM ELEKTRO OG ANLEGG AS is an Aksjeselskap (AS) registered in 2017, based in Vågå. Main industry: 43.210 Elektrisk installasjonsarbeid. Latest selskap accounts (period ending 2025-12-31): revenue 1.1 million NOK, net profit 45.2 thousand NOK. Key people: Tom Stadeløkken (daglig leder), Tom Stadeløkken (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 819943672.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

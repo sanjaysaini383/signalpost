@@ -1,0 +1,674 @@
+{
+  "schema_version": 2,
+  "organization_number": "823343922",
+  "generated_at": "2026-10-12T11:08:11Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "NEA SKIN CLINIC AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "navn: NEA SKIN CLINIC AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "founded",
+      "value": "2019-08-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "stiftelsesdato: 2019-08-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-09-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-09-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2019-09-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2019-09-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-08-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "vedtektsdato: 2019-08-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Majorstuhuset 6 etg, Kirkeveien 64A, 0364 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "forretningsadresse: Majorstuhuset 6 etg, Kirkeveien 64A, 0364 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Kirkeveien 64A, 0364 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "postadresse: Kirkeveien 64A, 0364 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.993 Andre helsetjenester ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website",
+      "value": "www.neaskinclinic.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "hjemmeside: www.neaskinclinic.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "mobile",
+      "value": "929 87 970",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "mobil: 929 87 970",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "email",
+      "value": "kontakt@neaskinclinic.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "epostadresse: kontakt@neaskinclinic.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Behandlinger av medisinsk og kosmetisk art utført av sykepleier i samarbeid med lege.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "aktivitet: Behandlinger av medisinsk og kosmetisk art utført av sykepleier i samarbeid med lege.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Estetiske behandlinger, medisinsk hudklinikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "vedtektsfestetFormaal: Estetiske behandlinger, medisinsk hudklinikk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "as_of": "2019-09-05",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Amila Hotic Sunde"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922/roller",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "DAGL (Daglig leder): Amila Hotic Sunde",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823343922",
+      "as_of": "2019-09-05",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Amila Hotic Sunde"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922/roller",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "LEDE (Styrets leder): Amila Hotic Sunde",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823343922",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Leif Petter Sunde"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823343922/roller",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "MEDL (Styremedlem): Leif Petter Sunde",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823343922",
+      "as_of": "2026-02-02",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "journalnr 2026624016, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1020918.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1020918.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 818057.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 818057.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 202861.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 202861.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 200817.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 200817.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 155364.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 155364.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 365969.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.sumEiendeler: 365969.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 365969.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 365969.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 354684.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 354684.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 296267.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 296267.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 69702.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 69702.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 69702.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 69702.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 0.0 NOK (journalnr 2026624016)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 594811.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 594811.0 NOK (journalnr 2025599008)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 131699.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 131699.0 NOK (journalnr 2025599008)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 205596.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.sumEiendeler: 205596.0 NOK (journalnr 2025599008)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 140903.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 140903.0 NOK (journalnr 2025599008)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 478058.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 478058.0 NOK (journalnr 2024585598)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 29162.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 29162.0 NOK (journalnr 2024585598)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 122716.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "eiendeler.sumEiendeler: 122716.0 NOK (journalnr 2024585598)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 9205.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9205.0 NOK (journalnr 2024585598)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 823343922 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "923367160",
+        "name": "NEA SKIN CLINIC AS",
+        "address": "Majorstuhuset 6 etg, Kirkeveien 64A, 0364 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "underenhet 923367160 overordnetEnhet: 823343922",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 823343922",
+      "as_of": "2019-09-09",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=823343922",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 823343922",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.neaskinclinic.no/",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website_description",
+      "value": "På neaskinclinic.no kan du lese om de ulike behandlinger og finne priser, samt enkelt booke time hos kosmetisk sykepleier Amila Hotic Sunde",
+      "source_url": "https://www.neaskinclinic.no/",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "meta description: På neaskinclinic.no kan du lese om de ulike behandlinger og finne priser, samt enkelt booke time hos kosmetisk sykepleier Amila Hotic Sunde",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website_email",
+      "value": "kontakt@neaskinclinic.no",
+      "source_url": "https://www.neaskinclinic.no/",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "mailto:kontakt@neaskinclinic.no",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4748286221",
+      "source_url": "https://www.neaskinclinic.no/kontakt",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "tel:+47 48286221",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/neaskinclinic",
+      "source_url": "https://www.neaskinclinic.no/",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "link on page: https://www.instagram.com/neaskinclinic",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    },
+    {
+      "field": "website_address",
+      "value": "64A Kirkeveien, 0364 Majorstuen",
+      "source_url": "https://www.neaskinclinic.no/",
+      "retrieved_at": "2026-10-12T11:08:11Z",
+      "evidence": "JSON-LD LocalBusiness: address 64A Kirkeveien, 0364 Majorstuen (postal code equals the register's)",
+      "explanation": "Page from https://www.neaskinclinic.no/, the website declared in Enhetsregisteret for organisation number 823343922; page text contains company name 'nea skin clinic' and the registered postal code 0364",
+      "first_seen": "2026-10-12T11:08:11Z"
+    }
+  ],
+  "warnings": [],
+  "name": "NEA SKIN CLINIC AS",
+  "sources_used": [
+    "data.brreg.no",
+    "www.neaskinclinic.no"
+  ],
+  "summary": "NEA SKIN CLINIC AS is an Aksjeselskap (AS) registered in 2019, based in Oslo. Main industry: 86.993 Andre helsetjenester ellers. Latest selskap accounts (period ending 2025-12-31): revenue 1.0 million NOK, net profit 155.4 thousand NOK. Key people: Amila Hotic Sunde (daglig leder), Amila Hotic Sunde (styrets leder). It operates 1 registered establishment(s). Website: www.neaskinclinic.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 823343922.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'nea skin clinic' and the registered postal code 0364."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

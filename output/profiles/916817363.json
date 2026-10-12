@@ -1,0 +1,239 @@
+{
+  "schema_version": 2,
+  "organization_number": "916817363",
+  "generated_at": "2026-10-12T11:10:11Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ROE INVESTERINGSLAG ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "navn: ROE INVESTERINGSLAG ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "founded",
+      "value": "2016-02-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "stiftelsesdato: 2016-02-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-02-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2016-02-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-02-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-02-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2016-02-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "vedtektsdato: 2016-02-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Klevarsida 106, 3812 AKKERHAUGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "forretningsadresse: Klevarsida 106, 3812 AKKERHAUGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MIDT-TELEMARK (4020)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "kommune: MIDT-TELEMARK, kommunenummer: 4020",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "08.110 Bryting av dekorstein, kalkstein, gips, skifer og annen stein",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "naeringskode1: 08.110 Bryting av dekorstein, kalkstein, gips, skifer og annen stein",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Investeringer i aksjer og alt som står i forbindelse med det.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "aktivitet: Investeringer i aksjer og alt som står i forbindelse med det.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Investeringer i aksjer og alt som står i forbindelse med det.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "vedtektsfestetFormaal: Investeringer i aksjer og alt som står i forbindelse med det.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916817363",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Hans Olav Roe"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363/roller",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Hans Olav Roe",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916817363",
+      "as_of": "2016-02-29",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Magnhild Roe"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916817363/roller",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Magnhild Roe",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916817363",
+      "as_of": "2016-02-29",
+      "first_seen": "2026-10-12T11:10:11Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.46890702462196,
+        "lon": 9.296392467385521,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Klevarsida+106&postnummer=3812&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:10:11Z",
+      "evidence": "address 'Klevarsida 106', 3812 AKKERHAUGEN, municipality 4020 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916817363, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:10:11Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ROE INVESTERINGSLAG ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ROE INVESTERINGSLAG ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2016, based in Midt-Telemark. Main industry: 08.110 Bryting av dekorstein, kalkstein, gips, skifer og annen stein.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916817363.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

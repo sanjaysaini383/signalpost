@@ -1,0 +1,322 @@
+{
+  "schema_version": 2,
+  "organization_number": "914737699",
+  "generated_at": "2026-10-12T11:07:28Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "OSLO SY- OG SERVICESENTER ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "navn: OSLO SY- OG SERVICESENTER ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-12-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "stiftelsesdato: 2014-12-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-01-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-01-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2014-12-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "vedtektsdato: 2014-12-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "employees",
+      "value": 6,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "antallAnsatte: 6",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "as_of": "2026-09-14",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Thorvald Meyers gate 48A, 0552 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "forretningsadresse: Thorvald Meyers gate 48A, 0552 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "47.510 Detaljhandel med tekstiler og utstyrsvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "naeringskode1: 47.510 Detaljhandel med tekstiler og utstyrsvarer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "website",
+      "value": "www.elna-oslo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "hjemmeside: www.elna-oslo.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "phone",
+      "value": "22 35 61 67",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "telefon: 22 35 61 67",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "email",
+      "value": "post@elna-oslo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "epostadresse: post@elna-oslo.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Butikksalg og verksted av symaskiner og strikkemaskiner, salg av sytilbehør og garn.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "aktivitet: Butikksalg og verksted av symaskiner og strikkemaskiner, salg av sytilbehør og garn.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg og service av symaskiner og strikkemaskiner, salg av sytilbehør og garn.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "vedtektsfestetFormaal: Salg og service av symaskiner og strikkemaskiner, salg av sytilbehør og garn.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Turid Bjørgesæter"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699/roller",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Turid Bjørgesæter",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 914737699",
+      "as_of": "2015-01-02",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Kari Trondsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699/roller",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Kari Trondsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 914737699",
+      "as_of": "2015-01-02",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ALLSIDIG REGNSKAP AS (org 926877119)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914737699/roller",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "REGN (Regnskapsfører): ALLSIDIG REGNSKAP AS (org 926877119)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 914737699",
+      "as_of": "2021-08-09",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "971886773",
+        "name": "OSLO SY- OG SERVICESENTER ANS",
+        "address": "Thorvald Meyers gate 48A, 0552 OSLO, Norge",
+        "employees": 6
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "underenhet 971886773 overordnetEnhet: 914737699",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 914737699",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=914737699",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 914737699",
+      "first_seen": "2026-10-12T11:07:28Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.922955270268886,
+        "lon": 10.759477770361901,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Thorvald+Meyers+gate+48A&postnummer=0552&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:28Z",
+      "evidence": "address 'Thorvald Meyers gate 48A', 0552 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 914737699, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:28Z"
+    }
+  ],
+  "warnings": [
+    "website https://www.elna-oslo.no/ discarded: page does not tie to organisation number 914737699"
+  ],
+  "name": "OSLO SY- OG SERVICESENTER ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "OSLO SY- OG SERVICESENTER ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2015, based in Oslo. Main industry: 47.510 Detaljhandel med tekstiler og utstyrsvarer. It has 6 registered employees. It operates 1 registered establishment(s). Website: www.elna-oslo.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 914737699.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,661 @@
+{
+  "schema_version": 2,
+  "organization_number": "816017912",
+  "generated_at": "2026-10-12T11:07:37Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "DØSKELAND AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "navn: DØSKELAND AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-09-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "stiftelsesdato: 2015-09-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2015-10-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2015-10-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-10-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-10-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2022-09-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "vedtektsdato: 2022-09-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Alvervegen 139, 6973 SANDE I SUNNFJORD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "forretningsadresse: Alvervegen 139, 6973 SANDE I SUNNFJORD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SUNNFJORD (4647)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "kommune: SUNNFJORD, kommunenummer: 4647",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "website",
+      "value": "www.doskeland.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "hjemmeside: www.doskeland.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "phone",
+      "value": "57 71 61 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "telefon: 57 71 61 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "email",
+      "value": "post@doskeland.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "epostadresse: post@doskeland.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie fast eiendom, metaller, maskiner samt leie ut maskiner og eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "aktivitet: Eie fast eiendom, metaller, maskiner samt leie ut maskiner og eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie fast eiendom, metaller, maskiner samt leie ut maskiner og eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "vedtektsfestetFormaal: Eie fast eiendom, metaller, maskiner samt leie ut maskiner og eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 80000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "kapital.belop: 80000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "as_of": "2022-10-20",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "FJORDANE AS",
+          "from": "2015-10-02",
+          "to": "2019-10-25"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'FJORDANE AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ole Rune Døskeland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912/roller",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "DAGL (Daglig leder): Ole Rune Døskeland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816017912",
+      "as_of": "2015-10-02",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Ole Rune Døskeland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912/roller",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "LEDE (Styrets leder): Ole Rune Døskeland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816017912",
+      "as_of": "2015-10-02",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Thomas Haug"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912/roller",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "VARA (Varamedlem): Thomas Haug",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816017912",
+      "as_of": "2015-10-02",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ARGO REVISJON AS (org 927251167)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816017912/roller",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "REGN (Regnskapsfører): ARGO REVISJON AS (org 927251167)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 816017912",
+      "as_of": "2024-03-13",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "journalnr 2026304359, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 793921.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 793921.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 674712.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 674712.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 119209.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 119209.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 105908.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 105908.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 82609.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 82609.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 4463016.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "eiendeler.sumEiendeler: 4463016.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 4463016.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 4463016.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 1754817.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1754817.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 2708199.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 2708199.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 2708199.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 2708199.0 NOK (journalnr 2026304359)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 822027.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 822027.0 NOK (journalnr 2025325911)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -17470.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -17470.0 NOK (journalnr 2025325911)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 6509759.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "eiendeler.sumEiendeler: 6509759.0 NOK (journalnr 2025325911)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 1672208.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1672208.0 NOK (journalnr 2025325911)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 797841.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 797841.0 NOK (journalnr 2024301481)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -9119.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -9119.0 NOK (journalnr 2024301481)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 6135172.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "eiendeler.sumEiendeler: 6135172.0 NOK (journalnr 2024301481)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1749678.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1749678.0 NOK (journalnr 2024301481)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 816017912 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916019955",
+        "name": "DØSKELAND AS",
+        "address": "Alvervegen 139, 6973 SANDE I SUNNFJORD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "underenhet 916019955 overordnetEnhet: 816017912",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 816017912",
+      "as_of": "2015-10-05",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=816017912",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 816017912",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 61.334301120115974,
+        "lon": 5.744143845732549,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Alvervegen+139&postnummer=6973&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "address 'Alvervegen 139', 6973 SANDE I SUNNFJORD, municipality 4647 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 816017912, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.doskeland.com/",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "page text contains company name 'døskeland' and the registered postal code 6973",
+      "explanation": "Page from https://www.doskeland.com/, the website declared in Enhetsregisteret for organisation number 816017912; page text contains company name 'døskeland' and the registered postal code 6973",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@doskeland.com",
+      "source_url": "https://www.doskeland.com/",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "tter. Kontakt oss Alvervegen 139 6973 Sande I Sunnfjord, Norway +47 57 71 61 00 post@doskeland.com © Alle rettar reserverte 2024 Facebook",
+      "explanation": "Page from https://www.doskeland.com/, the website declared in Enhetsregisteret for organisation number 816017912; page text contains company name 'døskeland' and the registered postal code 6973",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4795203949",
+      "source_url": "https://www.doskeland.com/",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "tel:+4795203949",
+      "explanation": "Page from https://www.doskeland.com/, the website declared in Enhetsregisteret for organisation number 816017912; page text contains company name 'døskeland' and the registered postal code 6973",
+      "first_seen": "2026-10-12T11:07:37Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/doskelandbruk",
+      "source_url": "https://www.doskeland.com/",
+      "retrieved_at": "2026-10-12T11:07:37Z",
+      "evidence": "link on page: https://www.facebook.com/doskelandbruk",
+      "explanation": "Page from https://www.doskeland.com/, the website declared in Enhetsregisteret for organisation number 816017912; page text contains company name 'døskeland' and the registered postal code 6973",
+      "first_seen": "2026-10-12T11:07:37Z"
+    }
+  ],
+  "warnings": [],
+  "name": "DØSKELAND AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.doskeland.com"
+  ],
+  "summary": "DØSKELAND AS is an Aksjeselskap (AS) registered in 2015, based in Sunnfjord. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 793.9 thousand NOK, net profit 82.6 thousand NOK. Key people: Ole Rune Døskeland (daglig leder), Ole Rune Døskeland (styrets leder). It operates 1 registered establishment(s). Website: www.doskeland.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 816017912.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'døskeland' and the registered postal code 6973.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

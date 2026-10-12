@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "organization_number": "825285962",
+  "generated_at": "2026-10-12T11:07:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "C KILDEMO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "navn: C KILDEMO",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-07-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-07-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2020-07-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2020-07-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Lierengvegen 497, 2836 BIRI, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "forretningsadresse: Lierengvegen 497, 2836 BIRI, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "municipality",
+      "value": "GJØVIK (3407)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "kommune: GJØVIK, kommunenummer: 3407",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "74.200 Fotografvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "naeringskode1: 74.200 Fotografvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "website",
+      "value": "catrinekildemo.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "hjemmeside: catrinekildemo.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "mobile",
+      "value": "484 38 259",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "mobil: 484 38 259",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "email",
+      "value": "ckildemo@yahoo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "epostadresse: ckildemo@yahoo.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Markedsføringstjenester. I hovedsak innholdsproduksjon ved fotografering/video og grafisk design.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "aktivitet: Markedsføringstjenester. I hovedsak innholdsproduksjon ved fotografering/video og grafisk design.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825285962",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Catrine Kildemo"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825285962/roller",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "INNH (Innehaver): Catrine Kildemo",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 825285962",
+      "as_of": "2020-07-02",
+      "first_seen": "2026-10-12T11:07:17Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.97215214491954,
+        "lon": 10.52505078853239,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Lierengvegen+497&postnummer=2836&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:17Z",
+      "evidence": "address 'Lierengvegen 497', 2836 BIRI, municipality 3407 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825285962, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:17Z"
+    }
+  ],
+  "warnings": [
+    "website https://catrinekildemo.com/ unreachable or blocked"
+  ],
+  "name": "C KILDEMO",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "C KILDEMO is an Enkeltpersonforetak (ENK) registered in 2020, based in Gjøvik. Main industry: 74.200 Fotografvirksomhet. Website: catrinekildemo.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825285962.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

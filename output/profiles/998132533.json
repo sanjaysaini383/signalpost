@@ -1,0 +1,692 @@
+{
+  "schema_version": 2,
+  "organization_number": "998132533",
+  "generated_at": "2026-10-12T11:09:34Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "YOGAROMMET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "navn: YOGAROMMET AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "stiftelsesdato: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-03-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-03-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "vedtektsdato: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Strandgaten 10, 5013 BERGEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "forretningsadresse: Strandgaten 10, 5013 BERGEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Dyrhaugen 36, 5236 RÅDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "postadresse: Dyrhaugen 36, 5236 RÅDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "93.130 Treningssentervirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "naeringskode1: 93.130 Treningssentervirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "website",
+      "value": "www.yogarommet.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "hjemmeside: www.yogarommet.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "mobile",
+      "value": "416 53 103",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "mobil: 416 53 103",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "email",
+      "value": "post@yogarommet.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "epostadresse: post@yogarommet.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Treningstudio. Yoga, gruppetrening i studio og web-basert/online, privattimer/pt og annet som naturlig følger av dette",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "aktivitet: Treningstudio. Yoga, gruppetrening i studio og web-basert/online, privattimer/pt og annet som naturlig følger av dette",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Undervisning av yoga og meditasjon samt andre tilbud som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet og kjøp og salg av utstyr til disse aktivitetene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "vedtektsfestetFormaal: Undervisning av yoga og meditasjon samt andre tilbud som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet og kjøp og salg av utstyr til disse aktivitetene.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 100000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "kapital.belop: 100000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "as_of": "2012-03-19",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Benedicte Leinan Clementsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533/roller",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "DAGL (Daglig leder): Benedicte Leinan Clementsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998132533",
+      "as_of": "2017-07-14",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Benedicte Leinan Clementsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533/roller",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "LEDE (Styrets leder): Benedicte Leinan Clementsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998132533",
+      "as_of": "2024-07-10",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Njål Leinan Clementsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533/roller",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "MEDL (Styremedlem): Njål Leinan Clementsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998132533",
+      "as_of": "2024-07-10",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AIDER AS (org 922633452)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998132533/roller",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "REGN (Regnskapsfører): AIDER AS (org 922633452)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998132533",
+      "as_of": "2024-01-11",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "journalnr 2026646749, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2578673.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2578673.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 2700334.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 2700334.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -121661.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -121661.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -142035.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -142035.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -142035.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -142035.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 408044.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.sumEiendeler: 408044.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 183071.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 183071.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 224973.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 224973.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 61749.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 61749.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -203909.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -203909.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 611953.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 611953.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 218750.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 218750.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 393203.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 393203.0 NOK (journalnr 2026646749)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 2677513.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2677513.0 NOK (journalnr 2025682975)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -60277.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -60277.0 NOK (journalnr 2025682975)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 539175.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.sumEiendeler: 539175.0 NOK (journalnr 2025682975)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 38127.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 38127.0 NOK (journalnr 2025682975)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 2692694.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2692694.0 NOK (journalnr 2024746034)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -33651.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -33651.0 NOK (journalnr 2024746034)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 632398.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "eiendeler.sumEiendeler: 632398.0 NOK (journalnr 2024746034)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 98404.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 98404.0 NOK (journalnr 2024746034)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998132533 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998150264",
+        "name": "YOGAROMMET AS",
+        "address": "Strandgaten 10, 5013 BERGEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "underenhet 998150264 overordnetEnhet: 998132533",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998132533",
+      "as_of": "2012-03-21",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998132533",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.39400554012438,
+        "lon": 5.322540373696309,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Strandgaten+10&postnummer=5013&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "address 'Strandgaten 10', 5013 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998132533, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "page text contains organisation number 998132533",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "website_description",
+      "value": "Yogarommet tilbyr yoga for hele kroppen med ulike program og fokus for hver klasse. Vi ønsker å være et trygt sted hvor man kan komme som man er. Vi tilbyr yogaklasser tilpasset alle nivå, midt i Bergen sentrum.",
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "meta description: Yogarommet tilbyr yoga for hele kroppen med ulike program og fokus for hver klasse. Vi ønsker å være et trygt sted hvor man kan komme som man er. Vi tilbyr yogaklasser tilpasset alle nivå, midt i Berg",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "website_email",
+      "value": "post@yogarommet.no",
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "mailto:post@yogarommet.no",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "004741653103",
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "tel:004741653103",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/yogarommet",
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "link on page: https://www.facebook.com/yogarommet",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/yogarommet",
+      "source_url": "https://www.yogarommet.no/",
+      "retrieved_at": "2026-10-12T11:09:34Z",
+      "evidence": "link on page: https://www.instagram.com/yogarommet",
+      "explanation": "Page from https://www.yogarommet.no/, the website declared in Enhetsregisteret for organisation number 998132533; page text contains organisation number 998132533",
+      "first_seen": "2026-10-12T11:09:34Z"
+    }
+  ],
+  "warnings": [],
+  "name": "YOGAROMMET AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.yogarommet.no"
+  ],
+  "summary": "YOGAROMMET AS is an Aksjeselskap (AS) registered in 2012, based in Bergen. Main industry: 93.130 Treningssentervirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 2.6 million NOK, net profit -142.0 thousand NOK. Key people: Benedicte Leinan Clementsen (daglig leder), Benedicte Leinan Clementsen (styrets leder). It operates 1 registered establishment(s). Website: www.yogarommet.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998132533.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains organisation number 998132533.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

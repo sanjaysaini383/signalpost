@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "organization_number": "983770665",
+  "generated_at": "2026-10-12T11:07:38Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "UNIPLASTEX-NORGE DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "navn: UNIPLASTEX-NORGE DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "stiftelsesdato: 2001-10-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2001-11-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "vedtektsdato: 2001-11-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Skorstad, 7819 FOSSLANDSOSEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "forretningsadresse: Skorstad, 7819 FOSSLANDSOSEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NAMSOS (5007)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "kommune: NAMSOS, kommunenummer: 5007",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.860 Engroshandel med innsatsvarer ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "naeringskode1: 46.860 Engroshandel med innsatsvarer ellers",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "phone",
+      "value": "74 27 59 10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "telefon: 74 27 59 10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Import og salg av plastprodukter og andre produkter som er naturlig knyttet til dette. Selskapet kan også ha interesser som eier eller deltaker i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "aktivitet: Import og salg av plastprodukter og andre produkter som er naturlig knyttet til dette. Selskapet kan også ha interesser som eier eller deltaker i andre foretak.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Import og salg av plastprodukter og andre produkter som er naturlig knyttet til dette. Selskapet kan også ha interesser som eier eller deltaker i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "vedtektsfestetFormaal: Import og salg av plastprodukter og andre produkter som er naturlig knyttet til dette. Selskapet kan også ha interesser som eier eller deltaker i andre foretak.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983770665",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Kåre Jarle Devik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665/roller",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "DAGL (Daglig leder): Kåre Jarle Devik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983770665",
+      "as_of": "2001-11-24",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Kurt Peter Andersson"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665/roller",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Kurt Peter Andersson",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983770665",
+      "as_of": "2001-11-24",
+      "first_seen": "2026-10-12T11:07:38Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Kåre Jarle Devik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983770665/roller",
+      "retrieved_at": "2026-10-12T11:07:38Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Kåre Jarle Devik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983770665",
+      "as_of": "2001-11-24",
+      "first_seen": "2026-10-12T11:07:38Z"
+    }
+  ],
+  "warnings": [],
+  "name": "UNIPLASTEX-NORGE DA",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "UNIPLASTEX-NORGE DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Namsos. Main industry: 46.860 Engroshandel med innsatsvarer ellers. Key people: Kåre Jarle Devik (daglig leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983770665.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

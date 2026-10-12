@@ -1,0 +1,564 @@
+{
+  "schema_version": 2,
+  "organization_number": "924459557",
+  "generated_at": "2026-10-12T11:09:26Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SIEMENS ENERGY GLOBAL GMBH & CO. KG NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "navn: SIEMENS ENERGY GLOBAL GMBH & CO. KG NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Norskregistrert utenlandsk foretak (NUF)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "organisasjonsform: NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-02-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2023-02-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2023-02-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Otto-Hahn-Ring 6, DE-81739 Munich, Tyskland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "forretningsadresse: Otto-Hahn-Ring 6, DE-81739 Munich, Tyskland",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Siemens Energy, Postboks 1 Alnabru, 0613 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "postadresse: c/o Siemens Energy, Postboks 1 Alnabru, 0613 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "28.290 Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "naeringskode1: 28.290 Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Produksjon, salg og installasjon av maskiner og utstyr til kraftproduksjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "aktivitet: Produksjon, salg og installasjon av maskiner og utstyr til kraftproduksjon.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "SIEMENS GAS AND POWER GMBH & CO. KG",
+          "from": "2020-02-01",
+          "to": "2020-11-26"
+        },
+        {
+          "name": "SIEMENS ENERGY GLOBAL GMBH & CO. KG",
+          "from": "2020-11-26",
+          "to": "2023-02-14"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'SIEMENS ENERGY GLOBAL GMBH & CO. KG'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Daniela Schneider"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557/roller",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "DAGL (Daglig leder): Daniela Schneider",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924459557",
+      "as_of": "2023-02-14",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "KPMG AS (org 935174627)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557/roller",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "REVI (Revisor): KPMG AS (org 935174627)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924459557",
+      "as_of": "2025-04-24",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "RÖDL ACCOUNTING AS (org 913416252)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557/roller",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "REGN (Regnskapsfører): RÖDL ACCOUNTING AS (org 913416252)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924459557",
+      "as_of": "2025-01-27",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "COMPLÉR ACCOUNTING AS (org 992886625)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557/roller",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "REGN (Regnskapsfører): COMPLÉR ACCOUNTING AS (org 992886625)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924459557",
+      "as_of": "2025-01-27",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "role:HFOR",
+      "value": {
+        "role": "Oppl om foretaket i hjemlandet",
+        "name": "SIEMENS ENERGY GLOBAL GMBH & CO.KG (org 924524049)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924459557/roller",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "HFOR (Oppl om foretaket i hjemlandet): SIEMENS ENERGY GLOBAL GMBH & CO.KG (org 924524049)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924459557",
+      "as_of": "2020-02-01",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2024-10-01",
+        "period_end": "2025-09-30",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "journalnr 2026613000, regnskapsperiode 2024-10-01..2025-09-30",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 237792397.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 237792397.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 228646535.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 228646535.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 9145861.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 9145861.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 9145861.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 9145861.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 7133771.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 7133771.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 32114733.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "eiendeler.sumEiendeler: 32114733.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 30607330.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 30607330.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1507403.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1507403.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 11291567.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 11291567.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 20823165.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 20823165.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 20823165.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 20823165.0 NOK (journalnr 2026613000)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2024-10-01 to 2025-09-30",
+      "as_of": "2025-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 119373057.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 119373057.0 NOK (journalnr 2025416097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2023-10-01 to 2024-09-30",
+      "as_of": "2024-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 3581191.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 3581191.0 NOK (journalnr 2025416097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2023-10-01 to 2024-09-30",
+      "as_of": "2024-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 27264652.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "eiendeler.sumEiendeler: 27264652.0 NOK (journalnr 2025416097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2023-10-01 to 2024-09-30",
+      "as_of": "2024-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 4157796.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4157796.0 NOK (journalnr 2025416097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2023-10-01 to 2024-09-30",
+      "as_of": "2024-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 19220164.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 19220164.0 NOK (journalnr 2024492736)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2022-10-01 to 2023-09-30",
+      "as_of": "2023-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 576605.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 576605.0 NOK (journalnr 2024492736)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2022-10-01 to 2023-09-30",
+      "as_of": "2023-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 5041326.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "eiendeler.sumEiendeler: 5041326.0 NOK (journalnr 2024492736)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2022-10-01 to 2023-09-30",
+      "as_of": "2023-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 576605.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 576605.0 NOK (journalnr 2024492736)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924459557 in Regnskapsregisteret, period 2022-10-01 to 2023-09-30",
+      "as_of": "2023-09-30",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924529334",
+        "name": "SIEMENS ENERGY GLOBAL GMBH & CO. KG NUF",
+        "address": "Otto-Hahn-Ring 6, DE-81739 Munich, Tyskland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "underenhet 924529334 overordnetEnhet: 924459557",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924459557",
+      "as_of": "2020-02-01",
+      "first_seen": "2026-10-12T11:09:26Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924459557",
+      "retrieved_at": "2026-10-12T11:09:26Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924459557",
+      "first_seen": "2026-10-12T11:09:26Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SIEMENS ENERGY GLOBAL GMBH & CO. KG NUF",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "SIEMENS ENERGY GLOBAL GMBH & CO. KG NUF is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 28.290 Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted. Latest selskap accounts (period ending 2025-09-30): revenue 237.8 million NOK, net profit 7.1 million NOK. Key people: Daniela Schneider (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924459557.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

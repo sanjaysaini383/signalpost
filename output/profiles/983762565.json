@@ -1,0 +1,282 @@
+{
+  "schema_version": 2,
+  "organization_number": "983762565",
+  "generated_at": "2026-10-12T11:09:45Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SANDS FIRM COLLECTION DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "navn: SANDS FIRM COLLECTION DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "stiftelsesdato: 2001-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-10-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-10-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-10-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-10-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2001-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "vedtektsdato: 2001-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Lyngheiveien 10, 4824 BJORBEKK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "forretningsadresse: Lyngheiveien 10, 4824 BJORBEKK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ARENDAL (4203)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "kommune: ARENDAL, kommunenummer: 4203",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.420 Engroshandel med klær og skotøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "naeringskode1: 46.420 Engroshandel med klær og skotøy",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "phone",
+      "value": "37 09 52 44",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "telefon: 37 09 52 44",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "email",
+      "value": "blauvlan@online.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "epostadresse: blauvlan@online.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Import og salg av konfeksjon og reklameartikler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "aktivitet: Import og salg av konfeksjon og reklameartikler.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Import og salg av konfeksjon og reklameartikler og ellers beslekted virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "vedtektsfestetFormaal: Import og salg av konfeksjon og reklameartikler og ellers beslekted virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983762565",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Sverre Solvei"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565/roller",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "DAGL (Daglig leder): Sverre Solvei",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983762565",
+      "as_of": "2001-10-03",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Sverre Solvei"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565/roller",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Sverre Solvei",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983762565",
+      "as_of": "2001-10-03",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Thor Sverre Sveinungsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565/roller",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Thor Sverre Sveinungsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983762565",
+      "as_of": "2001-10-03",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "OLE CHRISTOFFER OLSEN (org 979684177)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983762565/roller",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "REGN (Regnskapsfører): OLE CHRISTOFFER OLSEN (org 979684177)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983762565",
+      "as_of": "2001-10-03",
+      "first_seen": "2026-10-12T11:09:45Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.427242067671315,
+        "lon": 8.692517831754058,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Lyngheiveien+10&postnummer=4824&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:45Z",
+      "evidence": "address 'Lyngheiveien 10', 4824 BJORBEKK, municipality 4203 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 983762565, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:45Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SANDS FIRM COLLECTION DA",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SANDS FIRM COLLECTION DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Arendal. Main industry: 46.420 Engroshandel med klær og skotøy. Key people: Sverre Solvei (daglig leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983762565.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

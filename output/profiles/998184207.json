@@ -1,0 +1,223 @@
+{
+  "schema_version": 2,
+  "organization_number": "998184207",
+  "generated_at": "2026-10-12T11:08:35Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENK SVERRE HUGO OLSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "navn: ENK SVERRE HUGO OLSEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Revsnesveien 1, 9624 REVSNESHAMN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "forretningsadresse: Revsnesveien 1, 9624 REVSNESHAMN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HAMMERFEST (5603)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "kommune: HAMMERFEST, kommunenummer: 5603",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.322 Engroshandel med fisk, skalldyr og bløtdyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "naeringskode1: 46.322 Engroshandel med fisk, skalldyr og bløtdyr",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "mobile",
+      "value": "950 07 260",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "mobil: 950 07 260",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Salg av fisk gjennom råfisklag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "aktivitet: Salg av fisk gjennom råfisklag.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Sverre Hugo Olsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184207/roller",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "INNH (Innehaver): Sverre Hugo Olsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998184207",
+      "as_of": "2012-03-29",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998193222",
+        "name": "ENK SVERRE HUGO OLSEN",
+        "address": "Revsnesveien 1, 9624 REVSNESHAMN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "underenhet 998193222 overordnetEnhet: 998184207",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998184207",
+      "as_of": "2012-03-31",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184207",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998184207",
+      "first_seen": "2026-10-12T11:08:35Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 70.68660374198512,
+        "lon": 24.350517853366465,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Revsnesveien+1&postnummer=9624&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:35Z",
+      "evidence": "address 'Revsnesveien 1', 9624 REVSNESHAMN, municipality 5603 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998184207, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:35Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ENK SVERRE HUGO OLSEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ENK SVERRE HUGO OLSEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Hammerfest. Main industry: 46.322 Engroshandel med fisk, skalldyr og bløtdyr. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998184207.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

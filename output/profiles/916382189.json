@@ -1,0 +1,298 @@
+{
+  "schema_version": 2,
+  "organization_number": "916382189",
+  "generated_at": "2026-10-12T11:07:19Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RØRHOLT SØNDRE ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "navn: RØRHOLT SØNDRE ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "founded",
+      "value": "2015-12-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "stiftelsesdato: 2015-12-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-01-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2016-01-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-01-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-01-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-12-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "vedtektsdato: 2015-12-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Rørholtveien 759, 3967 STATHELLE, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "forretningsadresse: Rørholtveien 759, 3967 STATHELLE, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BAMBLE (4012)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "kommune: BAMBLE, kommunenummer: 4012",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "02.200 Avvirkning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "naeringskode1: 02.200 Avvirkning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Skogbruk. Avvirkning av skog og det som naturlig faller inn under denne driften.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "aktivitet: Skogbruk. Avvirkning av skog og det som naturlig faller inn under denne driften.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive skogbruk i skog eiet av selskapets deltakere. Skogen skal skjøttes godt etter valige metoder. Eiendommen er gnr.59 bnr.19, 38, 53.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "vedtektsfestetFormaal: Drive skogbruk i skog eiet av selskapets deltakere. Skogen skal skjøttes godt etter valige metoder. Eiendommen er gnr.59 bnr.19, 38, 53.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Inger Merethe Rørholt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189/roller",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "DAGL (Daglig leder): Inger Merethe Rørholt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916382189",
+      "as_of": "2016-01-09",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Astrid Rørholt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189/roller",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Astrid Rørholt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916382189",
+      "as_of": "2016-01-09",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Bjørn Arnold Rørholt"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189/roller",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Bjørn Arnold Rørholt",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916382189",
+      "as_of": "2016-01-09",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ØKORÅD BAMBLE AS (org 821551692)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916382189/roller",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "REGN (Regnskapsfører): ØKORÅD BAMBLE AS (org 821551692)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916382189",
+      "as_of": "2019-02-06",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916538278",
+        "name": "RØRHOLT SØNDRE ANS",
+        "address": "Rørholtveien 759, 3967 STATHELLE, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "underenhet 916538278 overordnetEnhet: 916382189",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 916382189",
+      "as_of": "2016-01-11",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916382189",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 916382189",
+      "first_seen": "2026-10-12T11:07:19Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.00526848320985,
+        "lon": 9.383908795434138,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=R%C3%B8rholtveien+759&postnummer=3967&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:19Z",
+      "evidence": "address 'Rørholtveien 759', 3967 STATHELLE, municipality 4012 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916382189, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:19Z"
+    }
+  ],
+  "warnings": [],
+  "name": "RØRHOLT SØNDRE ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "RØRHOLT SØNDRE ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2016, based in Bamble. Main industry: 02.200 Avvirkning. Key people: Inger Merethe Rørholt (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916382189.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

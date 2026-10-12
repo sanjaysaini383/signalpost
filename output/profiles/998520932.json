@@ -1,0 +1,665 @@
+{
+  "schema_version": 2,
+  "organization_number": "998520932",
+  "generated_at": "2026-10-12T11:09:12Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRI FILM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "navn: FRI FILM AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-06-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "stiftelsesdato: 2012-06-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-06-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-06-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "vedtektsdato: 2012-06-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Christian Krohgs gate 34, 0186 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "forretningsadresse: Christian Krohgs gate 34, 0186 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "59.110 Produksjon av film, video og fjernsynsprogrammer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "naeringskode1: 59.110 Produksjon av film, video og fjernsynsprogrammer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "website",
+      "value": "www.frifilm.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "hjemmeside: www.frifilm.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "email",
+      "value": "beatheh@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "epostadresse: beatheh@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Å produsere dokumentarfilm for TV, undervisning og festivaler samt selge tjenester innen foto, casting og undervisning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "aktivitet: Å produsere dokumentarfilm for TV, undervisning og festivaler samt selge tjenester innen foto, casting og undervisning.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å produsere dokumentarfilm for TV, undervisning og festivaler samt selge tjenester innen foto, casting og undervisning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "vedtektsfestetFormaal: Å produsere dokumentarfilm for TV, undervisning og festivaler samt selge tjenester innen foto, casting og undervisning.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "as_of": "2012-06-20",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Beathe Hofseth"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932/roller",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "LEDE (Styrets leder): Beathe Hofseth",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998520932",
+      "as_of": "2020-06-18",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Siri Beate Natvik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932/roller",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "MEDL (Styremedlem): Siri Beate Natvik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998520932",
+      "as_of": "2020-06-18",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Susann Østigaard"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932/roller",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "MEDL (Styremedlem): Susann Østigaard",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998520932",
+      "as_of": "2020-06-18",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Mia Jensen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932/roller",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "MEDL (Styremedlem): Mia Jensen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998520932",
+      "as_of": "2020-06-18",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "GERHARD & SØNN AS (org 913107209)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998520932/roller",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "REGN (Regnskapsfører): GERHARD & SØNN AS (org 913107209)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998520932",
+      "as_of": "2019-11-06",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "journalnr 2026742930, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2974246.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2974246.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 2868544.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 2868544.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 105702.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 105702.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 91776.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 91776.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 91776.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 91776.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 10696576.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.sumEiendeler: 10696576.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 10494719.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 10494719.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 201858.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 201858.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1315726.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1315726.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 457693.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 457693.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 10238883.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 10238883.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 10238883.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 10238883.0 NOK (journalnr 2026742930)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 2145345.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2145345.0 NOK (journalnr 2025745401)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -94935.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -94935.0 NOK (journalnr 2025745401)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 9678245.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.sumEiendeler: 9678245.0 NOK (journalnr 2025745401)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 365917.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 365917.0 NOK (journalnr 2025745401)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 2333568.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2333568.0 NOK (journalnr 2024638824)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 16199.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 16199.0 NOK (journalnr 2024638824)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 9151308.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "eiendeler.sumEiendeler: 9151308.0 NOK (journalnr 2024638824)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 460852.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 460852.0 NOK (journalnr 2024638824)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998520932 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998546583",
+        "name": "FRI FILM AS",
+        "address": "Christian Krohgs gate 34, 0186 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "underenhet 998546583 overordnetEnhet: 998520932",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998520932",
+      "as_of": "2012-06-26",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998520932",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998520932",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.91643397991678,
+        "lon": 10.76020578495964,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Christian+Krohgs+gate+34&postnummer=0186&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "address 'Christian Krohgs gate 34', 0186 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998520932, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://www.frifilm.no/",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "page text contains company name 'fri film' and the registered postal code 0186",
+      "explanation": "Page from https://www.frifilm.no/, the website declared in Enhetsregisteret for organisation number 998520932; page text contains company name 'fri film' and the registered postal code 0186",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "website_email",
+      "value": "beathe@frifilm.no",
+      "source_url": "https://www.frifilm.no/",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "mailto:beathe@frifilm.no",
+      "explanation": "Page from https://www.frifilm.no/, the website declared in Enhetsregisteret for organisation number 998520932; page text contains company name 'fri film' and the registered postal code 0186",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/FriFilm",
+      "source_url": "https://www.frifilm.no/",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "link on page: https://www.facebook.com/FriFilm",
+      "explanation": "Page from https://www.frifilm.no/, the website declared in Enhetsregisteret for organisation number 998520932; page text contains company name 'fri film' and the registered postal code 0186",
+      "first_seen": "2026-10-12T11:09:12Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "+4797036023",
+      "source_url": "https://www.frifilm.no/",
+      "retrieved_at": "2026-10-12T11:09:12Z",
+      "evidence": "JSON-LD Organization: telephone +47 970 36 023",
+      "explanation": "Page from https://www.frifilm.no/, the website declared in Enhetsregisteret for organisation number 998520932; page text contains company name 'fri film' and the registered postal code 0186",
+      "first_seen": "2026-10-12T11:09:12Z"
+    }
+  ],
+  "warnings": [],
+  "name": "FRI FILM AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.frifilm.no"
+  ],
+  "summary": "FRI FILM AS is an Aksjeselskap (AS) registered in 2012, based in Oslo. Main industry: 59.110 Produksjon av film, video og fjernsynsprogrammer. Latest selskap accounts (period ending 2025-12-31): revenue 3.0 million NOK, net profit 91.8 thousand NOK. Key people: Beathe Hofseth (styrets leder). It operates 1 registered establishment(s). Website: www.frifilm.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998520932.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'fri film' and the registered postal code 0186.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

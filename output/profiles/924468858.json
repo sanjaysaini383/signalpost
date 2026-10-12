@@ -1,0 +1,513 @@
+{
+  "schema_version": 2,
+  "organization_number": "924468858",
+  "generated_at": "2026-10-12T11:08:59Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KLAIPEDOS TRANSEKSPEDICIJA NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "navn: KLAIPEDOS TRANSEKSPEDICIJA NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Norskregistrert utenlandsk foretak (NUF)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "organisasjonsform: NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-02-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-02-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2020-02-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2020-02-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Svepeliu, LT-94101 KLAIPEDA, Litauen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "forretningsadresse: Svepeliu, LT-94101 KLAIPEDA, Litauen",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o BHR Finans & Regnskap AS, Bjørnstjerne Bjørnsons gate 55, 3044 DRAMMEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "postadresse: c/o BHR Finans & Regnskap AS, Bjørnstjerne Bjørnsons gate 55, 3044 DRAMMEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "naeringskode1: 49.410 Godstransport på vei",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "email",
+      "value": "post@bhras.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "epostadresse: post@bhras.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Salg av tjenester innen transport, logistikk og beslektet næringsvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "aktivitet: Salg av tjenester innen transport, logistikk og beslektet næringsvirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "role:KONT",
+      "value": {
+        "role": "Kontaktperson",
+        "name": "Gintautas Siaskus"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858/roller",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "KONT (Kontaktperson): Gintautas Siaskus",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924468858",
+      "as_of": "2020-02-13",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "BHR FINANS & REGNSKAP AS (org 998164923)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858/roller",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "REGN (Regnskapsfører): BHR FINANS & REGNSKAP AS (org 998164923)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924468858",
+      "as_of": "2020-02-13",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "role:HFOR",
+      "value": {
+        "role": "Oppl om foretaket i hjemlandet",
+        "name": "UAB KLAIPEDOS TRANSEKSPEDICIJA (org 824595402)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924468858/roller",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "HFOR (Oppl om foretaket i hjemlandet): UAB KLAIPEDOS TRANSEKSPEDICIJA (org 824595402)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924468858",
+      "as_of": "2020-02-13",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "journalnr 2026406856, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 3893276.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3893276.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 4189271.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 4189271.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -295995.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -295995.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -295995.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -295995.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -295995.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -295995.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 213561.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "eiendeler.sumEiendeler: 213561.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 213561.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 213561.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -256911.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -256911.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 470472.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 470472.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 470472.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 470472.0 NOK (journalnr 2026406856)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 4320088.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4320088.0 NOK (journalnr 2025616354)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 684852.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 684852.0 NOK (journalnr 2025616354)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 208199.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "eiendeler.sumEiendeler: 208199.0 NOK (journalnr 2025616354)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -8788.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -8788.0 NOK (journalnr 2025616354)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 82646180.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 82646180.0 NOK (journalnr 2024470491)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -1435142.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -1435142.0 NOK (journalnr 2024470491)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 46430146.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "eiendeler.sumEiendeler: 46430146.0 NOK (journalnr 2024470491)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 18018228.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 18018228.0 NOK (journalnr 2024470491)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924468858 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924595620",
+        "name": "KLAIPEDOS TRANSEKSPEDICIJA NUF",
+        "address": "Svepeliu, LT-94101 KLAIPEDA, Litauen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "underenhet 924595620 overordnetEnhet: 924468858",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924468858",
+      "as_of": "2020-02-13",
+      "first_seen": "2026-10-12T11:08:59Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924468858",
+      "retrieved_at": "2026-10-12T11:08:59Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924468858",
+      "first_seen": "2026-10-12T11:08:59Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KLAIPEDOS TRANSEKSPEDICIJA NUF",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "KLAIPEDOS TRANSEKSPEDICIJA NUF is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 49.410 Godstransport på vei. Latest selskap accounts (period ending 2025-12-31): revenue 3.9 million NOK, net profit -296.0 thousand NOK. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924468858.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,598 @@
+{
+  "schema_version": 2,
+  "organization_number": "998210178",
+  "generated_at": "2026-10-12T11:08:49Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ISAKSEN AUTOMASJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "navn: ISAKSEN AUTOMASJON AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "stiftelsesdato: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "vedtektsdato: 2012-02-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Grønhaugvegen 26, 3920 PORSGRUNN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "forretningsadresse: Grønhaugvegen 26, 3920 PORSGRUNN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "municipality",
+      "value": "PORSGRUNN (4001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "kommune: PORSGRUNN, kommunenummer: 4001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Teknisk konsulentvirksomhet, automasjonstjenester, ingeniørtjenester og annet som naturlig knytter seg til dette samt deltagelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "aktivitet: Teknisk konsulentvirksomhet, automasjonstjenester, ingeniørtjenester og annet som naturlig knytter seg til dette samt deltagelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Teknisk konsulentvirksomhet, automasjonstjenester, ingeniørtjenester og annet som naturlig knytter seg til dette samt deltagelse i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "vedtektsfestetFormaal: Teknisk konsulentvirksomhet, automasjonstjenester, ingeniørtjenester og annet som naturlig knytter seg til dette samt deltagelse i andre selskaper.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Rune Isaksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178/roller",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "DAGL (Daglig leder): Rune Isaksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210178",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Rune Isaksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178/roller",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "LEDE (Styrets leder): Rune Isaksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210178",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Kjell-Åge Isaksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178/roller",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "VARA (Varamedlem): Kjell-Åge Isaksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210178",
+      "as_of": "2012-04-10",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ECIT FORRETNINGSPARTNER AS (org 990945748)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998210178/roller",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "REGN (Regnskapsfører): ECIT FORRETNINGSPARTNER AS (org 990945748)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998210178",
+      "as_of": "2025-03-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "journalnr 2026341780, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 2348631.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 2348631.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1571727.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1571727.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 776904.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 776904.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 779830.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 779830.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 608436.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 608436.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 1270967.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.sumEiendeler: 1270967.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1270967.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1270967.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 298133.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 298133.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 253395.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 253395.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1017572.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1017572.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 1017572.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 1017572.0 NOK (journalnr 2026341780)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 1525913.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1525913.0 NOK (journalnr 2025448838)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 318821.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 318821.0 NOK (journalnr 2025448838)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 1184795.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.sumEiendeler: 1184795.0 NOK (journalnr 2025448838)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 244959.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 244959.0 NOK (journalnr 2025448838)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 1498200.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1498200.0 NOK (journalnr 2024434644)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 465756.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 465756.0 NOK (journalnr 2024434644)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 1364190.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "eiendeler.sumEiendeler: 1364190.0 NOK (journalnr 2024434644)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 526138.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 526138.0 NOK (journalnr 2024434644)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998210178 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "985820392",
+        "name": "ISAKSEN AUTOMASJON AS",
+        "address": "Grønhaugvegen 26, 3920 PORSGRUNN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "underenhet 985820392 overordnetEnhet: 998210178",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998210178",
+      "as_of": "2003-06-26",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998210178",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998210178",
+      "first_seen": "2026-10-12T11:08:49Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.145921533270105,
+        "lon": 9.632301277542666,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Gr%C3%B8nhaugvegen+26&postnummer=3920&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:49Z",
+      "evidence": "address 'Grønhaugvegen 26', 3920 PORSGRUNN, municipality 4001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998210178, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:49Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ISAKSEN AUTOMASJON AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ISAKSEN AUTOMASJON AS is an Aksjeselskap (AS) registered in 2012, based in Porsgrunn. Main industry: 71.129 Annen teknisk konsulentvirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 2.3 million NOK, net profit 608.4 thousand NOK. Key people: Rune Isaksen (daglig leder), Rune Isaksen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998210178.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

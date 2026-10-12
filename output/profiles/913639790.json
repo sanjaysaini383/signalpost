@@ -1,0 +1,624 @@
+{
+  "schema_version": 2,
+  "organization_number": "913639790",
+  "generated_at": "2026-10-12T11:08:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VÅGSFJORD EIENDOM ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "navn: VÅGSFJORD EIENDOM ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-05-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "stiftelsesdato: 2014-05-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-05-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-05-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2015-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2015-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2021-11-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "vedtektsdato: 2021-11-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Klubbveien 3, 9406 HARSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "forretningsadresse: Klubbveien 3, 9406 HARSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HARSTAD (5503)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "kommune: HARSTAD, kommunenummer: 5503",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie og drift av fast eiendom samt deltagelse i annen virksomhet som har tilknytning til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "aktivitet: Eie og drift av fast eiendom samt deltagelse i annen virksomhet som har tilknytning til dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drift av fast eiendom samt deltagelse i annen virksomhet som har tilknytning til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "vedtektsfestetFormaal: Eie og drift av fast eiendom samt deltagelse i annen virksomhet som har tilknytning til dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "HSI EIENDOM ANS",
+          "from": "2014-05-19",
+          "to": "2018-07-26"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'HSI EIENDOM ANS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Ola Aasmund Karlsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "DAGL (Daglig leder): Ola Aasmund Karlsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2014-05-19",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "HARSTAD SKIPSINDUSTRI AS (org 950927569)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): HARSTAD SKIPSINDUSTRI AS (org 950927569)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2015-07-02",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "TINIUS INVEST AS (org 999154905)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): TINIUS INVEST AS (org 999154905)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2015-07-02",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Lars Weyer-Larsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "LEDE (Styrets leder): Lars Weyer-Larsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2024-10-05",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Andreas Jansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "MEDL (Styremedlem): Andreas Jansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2024-10-05",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "ENTER REVISJON HÅLOGALAND AS (org 997398610)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913639790/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "REVI (Revisor): ENTER REVISJON HÅLOGALAND AS (org 997398610)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913639790",
+      "as_of": "2014-05-19",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "journalnr 2026698950, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 440393.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 440393.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 2166795.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 2166795.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -1726403.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -1726403.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -1952253.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -1952253.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 26026526.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.sumEiendeler: 26026526.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1994371.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1994371.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 24032155.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 24032155.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 479261.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 479261.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 22005097.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 22005097.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 4021428.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4021428.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 781428.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 781428.0 NOK (journalnr 2026698950)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 538330.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 538330.0 NOK (journalnr 2025714863)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 9305718.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 9305718.0 NOK (journalnr 2025714863)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 27996762.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.sumEiendeler: 27996762.0 NOK (journalnr 2025714863)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 23957350.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 23957350.0 NOK (journalnr 2025714863)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 538630.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 538630.0 NOK (journalnr 2024653640)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -1373594.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -1373594.0 NOK (journalnr 2024653640)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 25600686.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "eiendeler.sumEiendeler: 25600686.0 NOK (journalnr 2024653640)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 19995198.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 19995198.0 NOK (journalnr 2024653640)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913639790 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "913681762",
+        "name": "VÅGSFJORD EIENDOM ANS",
+        "address": "Klubbveien 3, 9406 HARSTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underenhet 913681762 overordnetEnhet: 913639790",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 913639790",
+      "as_of": "2014-05-26",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913639790",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 913639790",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 68.79516018992253,
+        "lon": 16.541280703809527,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Klubbveien+3&postnummer=9406&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "address 'Klubbveien 3', 9406 HARSTAD, municipality 5503 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 913639790, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:17Z"
+    }
+  ],
+  "warnings": [],
+  "name": "VÅGSFJORD EIENDOM ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "VÅGSFJORD EIENDOM ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2014, based in Harstad. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 440.4 thousand NOK, net profit -2.0 million NOK. Key people: Ola Aasmund Karlsen (daglig leder), Lars Weyer-Larsen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 913639790.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

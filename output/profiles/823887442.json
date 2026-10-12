@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "organization_number": "823887442",
+  "generated_at": "2026-10-12T11:07:57Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "HANNA WORUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "navn: HANNA WORUM",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2019-12-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2019-12-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "business_address",
+      "value": "c/o TIAGO LEMOS SOARES, Seilduksgata 20A, 0553 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "forretningsadresse: c/o TIAGO LEMOS SOARES, Seilduksgata 20A, 0553 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "naeringskode1: 70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Konsulenttjenester for startups. Innovasjon og entreprenørskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "aktivitet: Konsulenttjenester for startups. Innovasjon og entreprenørskap.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 823887442",
+      "first_seen": "2026-10-12T11:07:57Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Hanna Antonie Worum"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823887442/roller",
+      "retrieved_at": "2026-10-12T11:07:57Z",
+      "evidence": "INNH (Innehaver): Hanna Antonie Worum",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 823887442",
+      "as_of": "2019-12-03",
+      "first_seen": "2026-10-12T11:07:57Z"
+    }
+  ],
+  "warnings": [],
+  "name": "HANNA WORUM",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "HANNA WORUM is an Enkeltpersonforetak (ENK) registered in 2019, based in Oslo. Main industry: 70.200 Bedriftsrådgivning og annen administrativ rådgivning.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 823887442.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

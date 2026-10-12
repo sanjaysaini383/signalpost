@@ -1,0 +1,730 @@
+{
+  "schema_version": 2,
+  "organization_number": "813900742",
+  "generated_at": "2026-10-12T11:08:37Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALIEN AUTOSPA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "navn: ALIEN AUTOSPA AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "stiftelsesdato: 2014-05-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-08-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-08-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-08-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-08-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2014-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2014-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2025-07-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "vedtektsdato: 2025-07-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Gvarvvegen 598, 3810 GVARV, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "forretningsadresse: Gvarvvegen 598, 3810 GVARV, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MIDT-TELEMARK (4020)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "kommune: MIDT-TELEMARK, kommunenummer: 4020",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.720 Engroshandel med deler og utstyr for motorvogner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "naeringskode1: 46.720 Engroshandel med deler og utstyr for motorvogner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website",
+      "value": "alienautospa.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "hjemmeside: alienautospa.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "mobile",
+      "value": "954 81 400",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "mobil: 954 81 400",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "email",
+      "value": "kundeservice@alienautospa.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "epostadresse: kundeservice@alienautospa.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Import av bilrelaterte produkter, salg av bilrelaterte varer. Det skal også være anledning til å vedlikeholde og renholde biler. Investeringer i eiendom og verdipapirer, samt konsulentvirksomhet innen bilbransjen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "aktivitet: Import av bilrelaterte produkter, salg av bilrelaterte varer. Det skal også være anledning til å vedlikeholde og renholde biler. Investeringer i eiendom og verdipapirer, samt konsulentvirksomhet innen",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Import av bilrelaterte produkter, salg av bilrelaterte varer. Det skal også være anledning til å vedlikeholde og renholde biler. Investeringer i eiendom og verdipapirer, samt konsulentvirksomhet innen bilbransjen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "vedtektsfestetFormaal: Import av bilrelaterte produkter, salg av bilrelaterte varer. Det skal også være anledning til å vedlikeholde og renholde biler. Investeringer i eiendom og verdipapirer, samt konsulentvirksomhet innen",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "as_of": "2014-08-01",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ALIEN AUTOSPA AS",
+          "from": "2014-08-01",
+          "to": "2018-06-15"
+        },
+        {
+          "name": "IGL COATINGS NORDIC AS",
+          "from": "2018-06-15",
+          "to": "2025-07-28"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'IGL COATINGS NORDIC AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Hans Audun Aarnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742/roller",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "DAGL (Daglig leder): Hans Audun Aarnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813900742",
+      "as_of": "2024-02-05",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Arne Roger Snapa"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742/roller",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "LEDE (Styrets leder): Arne Roger Snapa",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813900742",
+      "as_of": "2024-02-05",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Hans Audun Aarnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742/roller",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "MEDL (Styremedlem): Hans Audun Aarnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813900742",
+      "as_of": "2024-02-05",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "IEK REGNSKAP OG RÅDGIVING AS (org 928415406)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813900742/roller",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "REGN (Regnskapsfører): IEK REGNSKAP OG RÅDGIVING AS (org 928415406)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813900742",
+      "as_of": "2023-09-14",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "journalnr 2026314186, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1281147.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1281147.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1461246.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1461246.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -180099.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -180099.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -178360.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -178360.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -178360.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -178360.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 825151.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.sumEiendeler: 825151.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 732841.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 732841.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 92310.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 92310.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 884.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 884.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": -599357.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -599357.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 1424508.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1424508.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 674508.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 674508.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 750000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 750000.0 NOK (journalnr 2026314186)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 970987.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 970987.0 NOK (journalnr 2025314894)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -294300.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -294300.0 NOK (journalnr 2025314894)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 1200764.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.sumEiendeler: 1200764.0 NOK (journalnr 2025314894)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -420997.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -420997.0 NOK (journalnr 2025314894)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 827170.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 827170.0 NOK (journalnr 2024335832)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -176008.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -176008.0 NOK (journalnr 2024335832)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 1184454.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "eiendeler.sumEiendeler: 1184454.0 NOK (journalnr 2024335832)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -126697.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -126697.0 NOK (journalnr 2024335832)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813900742 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "913966759",
+        "name": "ALIEN AUTOSPA AS",
+        "address": "Gvarvvegen 598, 3810 GVARV, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "underenhet 913966759 overordnetEnhet: 813900742",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813900742",
+      "as_of": "2014-08-04",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813900742",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.392140950103204,
+        "lon": 9.162297157554999,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Gvarvvegen+598&postnummer=3810&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "address 'Gvarvvegen 598', 3810 GVARV, municipality 4020 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 813900742, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website_verified",
+      "value": true,
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "page text contains organisation number 813900742",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website_description",
+      "value": "#bilpleie,#båtpleie, #industricoating, #vaskekjemi, #cardetailing, #vindusvask, #renhold, #bakteriedreper, #traktorcoating, #gravemaskincoating, #coating",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "meta description: #bilpleie,#båtpleie, #industricoating, #vaskekjemi, #cardetailing, #vindusvask, #renhold, #bakteriedreper, #traktorcoating, #gravemaskincoating, #coating",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website_email",
+      "value": "info@alienautospa.no",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "tikk Adresse Torshølvegen 18 port 1 , 3810 GVARV Telefon 95481400 E-postadresse info@alienautospa.no Foretaksregisteret 813 900 742 Theme primary color Logo background color Shop o",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "95481400",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "tel:95481400",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "social:facebook",
+      "value": "https://www.facebook.com/alienautospa",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "link on page: https://www.facebook.com/alienautospa",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "social:instagram",
+      "value": "https://www.instagram.com/iglcoatingsnorway",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "link on page: https://www.instagram.com/iglcoatingsnorway",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "social:linkedin",
+      "value": "https://www.linkedin.com/company/101535890",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "link on page: https://www.linkedin.com/company/101535890",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    },
+    {
+      "field": "website_address",
+      "value": "Torshølvegen 18 port 1, 3810 GVARV",
+      "source_url": "https://alienautospa.no/",
+      "retrieved_at": "2026-10-12T11:08:37Z",
+      "evidence": "JSON-LD Organization: address Torshølvegen 18 port 1, 3810 GVARV (postal code equals the register's)",
+      "explanation": "Page from https://alienautospa.no/, the website declared in Enhetsregisteret for organisation number 813900742; page text contains organisation number 813900742",
+      "first_seen": "2026-10-12T11:08:37Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ALIEN AUTOSPA AS",
+  "sources_used": [
+    "alienautospa.no",
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ALIEN AUTOSPA AS is an Aksjeselskap (AS) registered in 2014, based in Midt-Telemark. Main industry: 46.720 Engroshandel med deler og utstyr for motorvogner. Latest selskap accounts (period ending 2025-12-31): revenue 1.3 million NOK, net profit -178.4 thousand NOK. Key people: Hans Audun Aarnes (daglig leder), Arne Roger Snapa (styrets leder). It operates 1 registered establishment(s). Website: alienautospa.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 813900742.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains organisation number 813900742.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

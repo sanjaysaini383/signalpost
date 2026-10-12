@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "organization_number": "998941512",
+  "generated_at": "2026-10-12T11:08:17Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VEILAGET MORTENSVEI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "navn: VEILAGET MORTENSVEI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Forening/lag/innretning (FLI)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "organisasjonsform: FLI",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-05-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "stiftelsesdato: 2012-05-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-10-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-10-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Mortens vei 1C, 3114 TØNSBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "forretningsadresse: Mortens vei 1C, 3114 TØNSBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TØNSBERG (3905)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "kommune: TØNSBERG, kommunenummer: 3905",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "naeringskode1: 68.320 Eiendomsforvaltning på oppdrag",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Vedlikehold,brøyting og oppgradering av Mortensvei.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "aktivitet: Vedlikehold,brøyting og oppgradering av Mortensvei.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941512",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "role:KONT",
+      "value": {
+        "role": "Kontaktperson",
+        "name": "Terje Johansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941512/roller",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "KONT (Kontaktperson): Terje Johansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941512",
+      "as_of": "2014-01-23",
+      "first_seen": "2026-10-12T11:08:17Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.28142647162537,
+        "lon": 10.463219367060084,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Mortens+vei+1C&postnummer=3114&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:17Z",
+      "evidence": "address 'Mortens vei 1C', 3114 TØNSBERG, municipality 3905 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998941512, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:17Z"
+    }
+  ],
+  "warnings": [],
+  "name": "VEILAGET MORTENSVEI",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "VEILAGET MORTENSVEI is a Forening/lag/innretning (FLI) registered in 2012, based in Tønsberg. Main industry: 68.320 Eiendomsforvaltning på oppdrag.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998941512.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

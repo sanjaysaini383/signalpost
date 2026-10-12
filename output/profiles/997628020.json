@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "organization_number": "997628020",
+  "generated_at": "2026-10-12T11:08:16Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STEINAR HUSTOFT NATURBRUK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "navn: STEINAR HUSTOFT NATURBRUK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2011-11-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2011-11-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "business_address",
+      "value": "c/o Steinar Hustoft, Ringheimsvegen 41, 5705 VOSS, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "forretningsadresse: c/o Steinar Hustoft, Ringheimsvegen 41, 5705 VOSS, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "municipality",
+      "value": "VOSS (4621)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "kommune: VOSS, kommunenummer: 4621",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "02.200 Avvirkning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "naeringskode1: 02.200 Avvirkning",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "industry_code_2",
+      "value": "01.451 Sauehold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "naeringskode2: 01.451 Sauehold",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "website",
+      "value": "www.tindeguide.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "hjemmeside: www.tindeguide.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "mobile",
+      "value": "917 31 388",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "mobil: 917 31 388",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "email",
+      "value": "steinarhustoft@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "epostadresse: steinarhustoft@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Skogbruk og sauehald. Naturbasert reiseliv(fjellføring).",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "aktivitet: Skogbruk og sauehald. Naturbasert reiseliv(fjellføring).",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "STEINAR HUSTOFT",
+          "from": "2011-11-21",
+          "to": "2014-01-08"
+        },
+        {
+          "name": "HUSTOFT FJELLFØRING",
+          "from": "2014-01-08",
+          "to": "2016-01-14"
+        },
+        {
+          "name": "TINDEGUIDE.NO STEINAR HUSTOFT",
+          "from": "2016-01-14",
+          "to": "2022-09-07"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "historiskeNavn: 3 earlier name(s), latest 'TINDEGUIDE.NO STEINAR HUSTOFT'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Steinar Hustoft"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020/roller",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "INNH (Innehaver): Steinar Hustoft",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997628020",
+      "as_of": "2011-11-21",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Steinar Hustoft"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997628020/roller",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "DAGL (Daglig leder): Steinar Hustoft",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 997628020",
+      "as_of": "2011-11-21",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "935381290",
+        "name": "STEINAR HUSTOFT NATURBRUK",
+        "address": "c/o Steinar Hustoft, Ringheimsvegen 41, 5705 VOSS, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "underenhet 935381290 overordnetEnhet: 997628020",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997628020",
+      "as_of": "2025-04-19",
+      "first_seen": "2026-10-12T11:08:16Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997628020",
+      "retrieved_at": "2026-10-12T11:08:16Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997628020",
+      "first_seen": "2026-10-12T11:08:16Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.tindeguide.no/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "STEINAR HUSTOFT NATURBRUK",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "STEINAR HUSTOFT NATURBRUK is an Enkeltpersonforetak (ENK) registered in 2011, based in Voss. Main industry: 02.200 Avvirkning. Key people: Steinar Hustoft (daglig leder). It operates 1 registered establishment(s). Website: www.tindeguide.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997628020.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

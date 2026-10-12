@@ -1,0 +1,334 @@
+{
+  "schema_version": 2,
+  "organization_number": "983575250",
+  "generated_at": "2026-10-12T11:09:48Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TORSKEN KOLONIAL DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "navn: TORSKEN KOLONIAL DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-07-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "stiftelsesdato: 2001-07-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-08-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-08-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-08-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-08-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2001-07-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "vedtektsdato: 2001-07-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "antallAnsatte: 5",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "as_of": "2025-11-12",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Værnesveien 159, 9381 TORSKEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "forretningsadresse: Værnesveien 159, 9381 TORSKEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SENJA (5530)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "kommune: SENJA, kommunenummer: 5530",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "naeringskode1: 47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "phone",
+      "value": "77 85 53 90",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "telefon: 77 85 53 90",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Butikkhandel med kolonialvarer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "aktivitet: Butikkhandel med kolonialvarer.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av dagligvarer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "vedtektsfestetFormaal: Salg av dagligvarer.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Kirsti Marianne Hanssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "DAGL (Daglig leder): Kirsti Marianne Hanssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2001-08-25",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Kirsti Marianne Hanssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Kirsti Marianne Hanssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2001-08-25",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Arne Johan Hanssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Arne Johan Hanssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2001-08-25",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Kirsti Marianne Hanssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "LEDE (Styrets leder): Kirsti Marianne Hanssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2001-08-25",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Arne Johan Hanssen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "MEDL (Styremedlem): Arne Johan Hanssen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2001-08-25",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AKTIVA AS (org 998577179)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983575250/roller",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "REGN (Regnskapsfører): AKTIVA AS (org 998577179)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983575250",
+      "as_of": "2013-05-29",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "971805633",
+        "name": "TORSKEN KOLONIAL DA",
+        "address": "Værnesveien 159, 9381 TORSKEN, Norge",
+        "employees": 5
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "underenhet 971805633 overordnetEnhet: 983575250",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 983575250",
+      "as_of": "1995-02-23",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983575250",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 983575250",
+      "first_seen": "2026-10-12T11:09:48Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 69.33854184720505,
+        "lon": 17.105340276053866,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=V%C3%A6rnesveien+159&postnummer=9381&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:48Z",
+      "evidence": "address 'Værnesveien 159', 9381 TORSKEN, municipality 5530 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 983575250, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:48Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TORSKEN KOLONIAL DA",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TORSKEN KOLONIAL DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Senja. Main industry: 47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler. It has 5 registered employees. Key people: Kirsti Marianne Hanssen (daglig leder), Kirsti Marianne Hanssen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983575250.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

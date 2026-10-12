@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "organization_number": "983725813",
+  "generated_at": "2026-10-12T11:07:20Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "BELLO FRISØR DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "navn: BELLO FRISØR DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-09-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "stiftelsesdato: 2001-09-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-09-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-09-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-09-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-09-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2005-12-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "vedtektsdato: 2005-12-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Auggedalsbaklia 324, 2653 VESTRE GAUSDAL, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "forretningsadresse: Auggedalsbaklia 324, 2653 VESTRE GAUSDAL, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "municipality",
+      "value": "GAUSDAL (3441)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "kommune: GAUSDAL, kommunenummer: 3441",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "96.210 Frisering og barbering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "naeringskode1: 96.210 Frisering og barbering",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "mobile",
+      "value": "955 53 671",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "mobil: 955 53 671",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "email",
+      "value": "mstensha@bbnett.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "epostadresse: mstensha@bbnett.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Frisør (dame og herre).",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "aktivitet: Frisør (dame og herre).",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Tjenester innen frisør og hårpleie på best mulig rasjonell og økonomisk måte. Selskapet står for alt vedlikehold og driftsutgifter av salongen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "vedtektsfestetFormaal: Tjenester innen frisør og hårpleie på best mulig rasjonell og økonomisk måte. Selskapet står for alt vedlikehold og driftsutgifter av salongen.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "May Janne Stenshagen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813/roller",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "DAGL (Daglig leder): May Janne Stenshagen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983725813",
+      "as_of": "2001-09-26",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "May Janne Stenshagen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813/roller",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): May Janne Stenshagen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983725813",
+      "as_of": "2006-07-10",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Grethe Brumoen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813/roller",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Grethe Brumoen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983725813",
+      "as_of": "2006-07-10",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "SNØHETTA REGNSKAP ØYER AS (org 912751082)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983725813/roller",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "REGN (Regnskapsfører): SNØHETTA REGNSKAP ØYER AS (org 912751082)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983725813",
+      "as_of": "2026-06-08",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "983758460",
+        "name": "BELLO FRISØR DA",
+        "address": "Auggedalsbaklia 324, 2653 VESTRE GAUSDAL, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "underenhet 983758460 overordnetEnhet: 983725813",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 983725813",
+      "as_of": "2001-09-27",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983725813",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 983725813",
+      "first_seen": "2026-10-12T11:07:20Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 61.13105021637118,
+        "lon": 10.179176354448668,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Auggedalsbaklia+324&postnummer=2653&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:20Z",
+      "evidence": "address 'Auggedalsbaklia 324', 2653 VESTRE GAUSDAL, municipality 3441 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 983725813, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:20Z"
+    }
+  ],
+  "warnings": [],
+  "name": "BELLO FRISØR DA",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BELLO FRISØR DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Gausdal. Main industry: 96.210 Frisering og barbering. Key people: May Janne Stenshagen (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983725813.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,600 @@
+{
+  "schema_version": 2,
+  "organization_number": "998310075",
+  "generated_at": "2026-10-12T11:08:40Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "KRAV MAGA INSTITUTTET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "navn: KRAV MAGA INSTITUTTET AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-02-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "stiftelsesdato: 2012-02-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-05-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-05-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-05-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2013-01-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "vedtektsdato: 2013-01-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Nittedalsgata 12, 2000 LILLESTRØM, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "forretningsadresse: Nittedalsgata 12, 2000 LILLESTRØM, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "municipality",
+      "value": "LILLESTRØM (3205)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "kommune: LILLESTRØM, kommunenummer: 3205",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "naeringskode1: 73.110 Reklamebyråvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "mobile",
+      "value": "90 03 52 44",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "mobil: 90 03 52 44",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Reklame, arrangementer av event typen og promotere aktiviteter i Lillestrøm og omegn, trening og undervisning i Krav Maga sport, og kjøp og salg av varer og tjenester i sammenheng med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "aktivitet: Reklame, arrangementer av event typen og promotere aktiviteter i Lillestrøm og omegn, trening og undervisning i Krav Maga sport, og kjøp og salg av varer og tjenester i sammenheng med dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Reklame, mediavirksomhet av type radio og TV. Undervisning og trening i Krav Maga sport.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "vedtektsfestetFormaal: Reklame, mediavirksomhet av type radio og TV. Undervisning og trening i Krav Maga sport.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "as_of": "2012-05-03",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "AKERSHUS MEDIA AS",
+          "from": "2012-05-03",
+          "to": "2013-01-22"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'AKERSHUS MEDIA AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Glenn Jarle Jordheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075/roller",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "DAGL (Daglig leder): Glenn Jarle Jordheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998310075",
+      "as_of": "2012-05-03",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Glenn Jarle Jordheim"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075/roller",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "LEDE (Styrets leder): Glenn Jarle Jordheim",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998310075",
+      "as_of": "2012-05-03",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Eddi Edgar Ingolf Samuelsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998310075/roller",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "VARA (Varamedlem): Eddi Edgar Ingolf Samuelsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998310075",
+      "as_of": "2012-05-03",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "journalnr 2026549307, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 1049230.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1049230.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 837927.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 837927.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 211303.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 211303.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 209073.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 209073.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 209073.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 209073.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 240514.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.sumEiendeler: 240514.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 240514.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 240514.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 165682.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 165682.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 63627.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 63627.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 176887.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 176887.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 176887.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 176887.0 NOK (journalnr 2026549307)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 1370422.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1370422.0 NOK (journalnr 2025559722)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -75799.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -75799.0 NOK (journalnr 2025559722)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 319952.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.sumEiendeler: 319952.0 NOK (journalnr 2025559722)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -145446.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -145446.0 NOK (journalnr 2025559722)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 725771.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 725771.0 NOK (journalnr 2024516855)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -435643.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -435643.0 NOK (journalnr 2024516855)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 193236.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "eiendeler.sumEiendeler: 193236.0 NOK (journalnr 2024516855)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -69647.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -69647.0 NOK (journalnr 2024516855)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998310075 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "918258000",
+        "name": "KRAV MAGA INSTITUTTET AS",
+        "address": "Nittedalsgata 12, 2000 LILLESTRØM, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "underenhet 918258000 overordnetEnhet: 998310075",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998310075",
+      "as_of": "2016-12-21",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998310075",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998310075",
+      "first_seen": "2026-10-12T11:08:40Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.95679346885465,
+        "lon": 11.04679155079326,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nittedalsgata+12&postnummer=2000&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:40Z",
+      "evidence": "address 'Nittedalsgata 12', 2000 LILLESTRØM, municipality 3205 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998310075, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:40Z"
+    }
+  ],
+  "warnings": [],
+  "name": "KRAV MAGA INSTITUTTET AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KRAV MAGA INSTITUTTET AS is an Aksjeselskap (AS) registered in 2012, based in Lillestrøm. Main industry: 73.110 Reklamebyråvirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 1.0 million NOK, net profit 209.1 thousand NOK. Key people: Glenn Jarle Jordheim (daglig leder), Glenn Jarle Jordheim (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998310075.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

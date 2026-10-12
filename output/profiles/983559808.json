@@ -1,0 +1,308 @@
+{
+  "schema_version": 2,
+  "organization_number": "983559808",
+  "generated_at": "2026-10-12T11:07:30Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "SØRHUGLO SAMDRIFT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "navn: SØRHUGLO SAMDRIFT DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med delt ansvar (DA)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "organisasjonsform: DA",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "founded",
+      "value": "2001-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "stiftelsesdato: 2001-07-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2001-07-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2001-07-30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-08-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-08-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2001-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2001-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2023-10-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "vedtektsdato: 2023-10-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "business_address",
+      "value": "5413 HUGLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "forretningsadresse: 5413 HUGLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STORD (4614)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "kommune: STORD, kommunenummer: 4614",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "naeringskode1: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "phone",
+      "value": "53 49 56 25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "telefon: 53 49 56 25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Landbruk med mjølk- og kjøtproduksjon på storfe.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "aktivitet: Landbruk med mjølk- og kjøtproduksjon på storfe.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Mjølkeproduksjon storfe (storfehold, jordbruk og mjølkeproduksjon.)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "vedtektsfestetFormaal: Mjølkeproduksjon storfe (storfehold, jordbruk og mjølkeproduksjon.)",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "SØRHUGLO SAMDRIFT DA",
+          "from": "2001-07-30",
+          "to": "2001-08-23"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'SØRHUGLO SAMDRIFT DA'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Espen Haukanes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808/roller",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "DAGL (Daglig leder): Espen Haukanes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983559808",
+      "as_of": "2023-11-15",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Espen Haukanes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808/roller",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Espen Haukanes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983559808",
+      "as_of": "2023-11-15",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "role:DTPR",
+      "value": {
+        "role": "Deltaker med delt ansvar",
+        "name": "Janne Irene Eikeland"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808/roller",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "DTPR (Deltaker med delt ansvar): Janne Irene Eikeland",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983559808",
+      "as_of": "2023-11-15",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ECIT FORRETNINGSPARTNER AS (org 990945748)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983559808/roller",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "REGN (Regnskapsfører): ECIT FORRETNINGSPARTNER AS (org 990945748)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 983559808",
+      "as_of": "2024-08-06",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "983674933",
+        "name": "SØRHUGLO SAMDRIFT DA",
+        "address": "5413 HUGLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "underenhet 983674933 overordnetEnhet: 983559808",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 983559808",
+      "as_of": "2001-09-10",
+      "first_seen": "2026-10-12T11:07:30Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983559808",
+      "retrieved_at": "2026-10-12T11:07:30Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 983559808",
+      "first_seen": "2026-10-12T11:07:30Z"
+    }
+  ],
+  "warnings": [],
+  "name": "SØRHUGLO SAMDRIFT DA",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "SØRHUGLO SAMDRIFT DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Stord. Main industry: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr. Key people: Espen Haukanes (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983559808.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

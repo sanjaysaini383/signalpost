@@ -1,0 +1,315 @@
+{
+  "schema_version": 2,
+  "organization_number": "916768117",
+  "generated_at": "2026-10-12T11:09:05Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "STUDIO FRODELØKKA ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "navn: STUDIO FRODELØKKA ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "founded",
+      "value": "2016-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "stiftelsesdato: 2016-02-17",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2016-02-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2016-02-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-02-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-02-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2025-04-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "vedtektsdato: 2025-04-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Frodegaten 23, 3111 TØNSBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "forretningsadresse: Frodegaten 23, 3111 TØNSBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Kjetil Hognestad, Jarlsøveien 49D, 3124 TØNSBERG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "postadresse: c/o Kjetil Hognestad, Jarlsøveien 49D, 3124 TØNSBERG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TØNSBERG (3905)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "kommune: TØNSBERG, kommunenummer: 3905",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "mobile",
+      "value": "901 70 452",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "mobil: 901 70 452",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "email",
+      "value": "kjetil.a.hognestad@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "epostadresse: kjetil.a.hognestad@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Leie av eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "aktivitet: Leie av eiendom.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Et kontorfellesskap som sammen skal forholde seg til én utleier av eiendom. Selskapet skal i hovedsak motta leieinntekter fra deltagerne i fellesskapet og viderebetale dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "vedtektsfestetFormaal: Et kontorfellesskap som sammen skal forholde seg til én utleier av eiendom. Selskapet skal i hovedsak motta leieinntekter fra deltagerne i fellesskapet og viderebetale dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Terje Johannesen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117/roller",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Terje Johannesen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916768117",
+      "as_of": "2025-05-03",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Kjetil Andreas Hognestad"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117/roller",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Kjetil Andreas Hognestad",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916768117",
+      "as_of": "2025-05-03",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Gisle Saga"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117/roller",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Gisle Saga",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916768117",
+      "as_of": "2025-05-03",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Eirik Hansen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916768117/roller",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Eirik Hansen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 916768117",
+      "as_of": "2025-05-03",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "916807619",
+        "name": "STUDIO FRODELØKKA ANS",
+        "address": "Frodegaten 23, 3111 TØNSBERG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "underenhet 916807619 overordnetEnhet: 916768117",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 916768117",
+      "as_of": "2016-02-25",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916768117",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 916768117",
+      "first_seen": "2026-10-12T11:09:05Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.274560533170344,
+        "lon": 10.408191790286928,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Frodegaten+23&postnummer=3111&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:05Z",
+      "evidence": "address 'Frodegaten 23', 3111 TØNSBERG, municipality 3905 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916768117, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:05Z"
+    }
+  ],
+  "warnings": [],
+  "name": "STUDIO FRODELØKKA ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STUDIO FRODELØKKA ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2016, based in Tønsberg. Main industry: 68.200 Utleie av egen eller leid fast eiendom. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916768117.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

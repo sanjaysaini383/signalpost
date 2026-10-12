@@ -1,0 +1,239 @@
+{
+  "schema_version": 2,
+  "organization_number": "924469064",
+  "generated_at": "2026-10-12T11:07:51Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "POUR-TECH AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "navn: POUR-TECH AB",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Norskregistrert utenlandsk foretak (NUF)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "organisasjonsform: NUF",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "registrertIForetaksregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2020-02-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2020-02-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2020-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2020-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Industrivägen 39, 433 61 SÄVEDALEN, Sverige",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "forretningsadresse: Industrivägen 39, 433 61 SÄVEDALEN, Sverige",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Maersk A&V Services Norway AS, Isebakkeveien 25, 1788 HALDEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "postadresse: c/o Maersk A&V Services Norway AS, Isebakkeveien 25, 1788 HALDEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Automatisk støperiesystemer for jern og stålstøperier og rådgivning innen håndtering av smelting av jern og stål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "aktivitet: Automatisk støperiesystemer for jern og stålstøperier og rådgivning innen håndtering av smelting av jern og stål.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "role:REPR",
+      "value": {
+        "role": "Norsk repr. for utenl. enhet",
+        "name": "MAERSK ACCOUNTANCY & VAT SERVICES NORWAY AS (org 979295278)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064/roller",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "REPR (Norsk repr. for utenl. enhet): MAERSK ACCOUNTANCY & VAT SERVICES NORWAY AS (org 979295278)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924469064",
+      "as_of": "2020-02-15",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "role:KONT",
+      "value": {
+        "role": "Kontaktperson",
+        "name": "Niklas Stigendal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064/roller",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "KONT (Kontaktperson): Niklas Stigendal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924469064",
+      "as_of": "2020-02-15",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "MAERSK ACCOUNTANCY & VAT SERVICES NORWAY AS (org 979295278)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064/roller",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "REGN (Regnskapsfører): MAERSK ACCOUNTANCY & VAT SERVICES NORWAY AS (org 979295278)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924469064",
+      "as_of": "2020-02-15",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "role:HFOR",
+      "value": {
+        "role": "Oppl om foretaket i hjemlandet",
+        "name": "POUR-TECH AB (org 924609281)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924469064/roller",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "HFOR (Oppl om foretaket i hjemlandet): POUR-TECH AB (org 924609281)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 924469064",
+      "as_of": "2020-02-15",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "924609958",
+        "name": "POUR-TECH AB",
+        "address": "Industrivägen 39, 433 61 SÄVEDALEN, Sverige"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "underenhet 924609958 overordnetEnhet: 924469064",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924469064",
+      "as_of": "2020-02-15",
+      "first_seen": "2026-10-12T11:07:51Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924469064",
+      "retrieved_at": "2026-10-12T11:07:51Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924469064",
+      "first_seen": "2026-10-12T11:07:51Z"
+    }
+  ],
+  "warnings": [],
+  "name": "POUR-TECH AB",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "POUR-TECH AB is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 71.129 Annen teknisk konsulentvirksomhet. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924469064.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

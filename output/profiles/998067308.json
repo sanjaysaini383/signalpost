@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "organization_number": "998067308",
+  "generated_at": "2026-10-12T11:08:23Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "VEDCOMPANIET P.LARSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "navn: VEDCOMPANIET P.LARSEN",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-03-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-03-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-03-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-03-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Fotlandsvegen 129, 5282 LONEVÅG, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "forretningsadresse: Fotlandsvegen 129, 5282 LONEVÅG, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSTERØY (4630)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "kommune: OSTERØY, kommunenummer: 4630",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "47.780 Annen detaljhandel med andre nye varer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "naeringskode1: 47.780 Annen detaljhandel med andre nye varer",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "website",
+      "value": "www.vedcompaniet.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "hjemmeside: www.vedcompaniet.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "mobile",
+      "value": "960 15 040",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "mobil: 960 15 040",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "email",
+      "value": "perla4@online.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "epostadresse: perla4@online.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Import og salg av energiprodukter og produkter relatert til jordbruk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "aktivitet: Import og salg av energiprodukter og produkter relatert til jordbruk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Per Larsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998067308/roller",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "INNH (Innehaver): Per Larsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998067308",
+      "as_of": "2012-03-07",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "892452792",
+        "name": "VEDCOMPANIET P. LARSEN",
+        "address": "Fotlandsvegen 129, 5282 LONEVÅG, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "underenhet 892452792 overordnetEnhet: 998067308",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998067308",
+      "as_of": "2008-03-18",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998067308",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998067308",
+      "first_seen": "2026-10-12T11:08:23Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.52369841172837,
+        "lon": 5.515090740915076,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Fotlandsvegen+129&postnummer=5282&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:23Z",
+      "evidence": "address 'Fotlandsvegen 129', 5282 LONEVÅG, municipality 4630 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998067308, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:23Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.vedcompaniet.com/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "VEDCOMPANIET P.LARSEN",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "VEDCOMPANIET P.LARSEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Osterøy. Main industry: 47.780 Annen detaljhandel med andre nye varer. It operates 1 registered establishment(s). Website: www.vedcompaniet.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998067308.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

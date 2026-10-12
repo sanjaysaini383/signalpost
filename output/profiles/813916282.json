@@ -1,0 +1,601 @@
+{
+  "schema_version": 2,
+  "organization_number": "813916282",
+  "generated_at": "2026-10-12T11:07:50Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TRELYST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "navn: TRELYST AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-05-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "stiftelsesdato: 2014-05-23",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-09-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-09-03",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2019-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2019-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2022-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "vedtektsdato: 2022-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Osloveien 128, 3511 HØNEFOSS, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "forretningsadresse: Osloveien 128, 3511 HØNEFOSS, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "municipality",
+      "value": "RINGERIKE (3305)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "kommune: RINGERIKE, kommunenummer: 3305",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "71.110 Arkitektvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "naeringskode1: 71.110 Arkitektvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "mobile",
+      "value": "967 56 969",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "mobil: 967 56 969",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "email",
+      "value": "info@trelyst.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "epostadresse: info@trelyst.no",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Arkitekttjenester vedrørende byggverk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "aktivitet: Arkitekttjenester vedrørende byggverk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Arkitekttjenester vedrørende byggverk, herunder saksbehandling og teknisk rådgivning, designtjenester i forbindelse med nettopptreden samt alt hva som hermed står i forbindelse, herunder delta i andre selskaper med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "vedtektsfestetFormaal: Arkitekttjenester vedrørende byggverk, herunder saksbehandling og teknisk rådgivning, designtjenester i forbindelse med nettopptreden samt alt hva som hermed står i forbindelse, herunder delta i andre",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "as_of": "2014-09-03",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Carsten Mathias Elbe"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282/roller",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "DAGL (Daglig leder): Carsten Mathias Elbe",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813916282",
+      "as_of": "2014-09-03",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Carsten Mathias Elbe"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282/roller",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "LEDE (Styrets leder): Carsten Mathias Elbe",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813916282",
+      "as_of": "2014-09-03",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Sandra Heese Elbe"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813916282/roller",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "MEDL (Styremedlem): Sandra Heese Elbe",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 813916282",
+      "as_of": "2014-09-03",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "journalnr 2026707077, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 3000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3000.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 22867.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 22867.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -19867.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -19867.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -19942.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -19942.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -19942.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -19942.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 76074.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.sumEiendeler: 76074.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 51074.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 51074.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 25000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 25000.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1490.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1490.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 18796.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 18796.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 57278.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 57278.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 2909.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 2909.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 54369.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 54369.0 NOK (journalnr 2026707077)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 23380.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 23380.0 NOK (journalnr 2025509980)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -8933.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -8933.0 NOK (journalnr 2025509980)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 93579.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.sumEiendeler: 93579.0 NOK (journalnr 2025509980)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 38739.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 38739.0 NOK (journalnr 2025509980)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 26781.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 26781.0 NOK (journalnr 2024483650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 5106.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 5106.0 NOK (journalnr 2024483650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 87304.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "eiendeler.sumEiendeler: 87304.0 NOK (journalnr 2024483650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 47671.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 47671.0 NOK (journalnr 2024483650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813916282 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "914112206",
+        "name": "TRELYST AS",
+        "address": "Osloveien 128, 3511 HØNEFOSS, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "underenhet 914112206 overordnetEnhet: 813916282",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813916282",
+      "as_of": "2014-09-04",
+      "first_seen": "2026-10-12T11:07:50Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813916282",
+      "retrieved_at": "2026-10-12T11:07:50Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 813916282",
+      "first_seen": "2026-10-12T11:07:50Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TRELYST AS",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "TRELYST AS is an Aksjeselskap (AS) registered in 2014, based in Ringerike. Main industry: 71.110 Arkitektvirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 3.0 thousand NOK, net profit -19.9 thousand NOK. Key people: Carsten Mathias Elbe (daglig leder), Carsten Mathias Elbe (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 813916282.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

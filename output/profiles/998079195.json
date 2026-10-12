@@ -1,0 +1,253 @@
+{
+  "schema_version": 2,
+  "organization_number": "998079195",
+  "generated_at": "2026-10-12T11:07:15Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "RUNAR FIKSDAL MUSIKK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "navn: RUNAR FIKSDAL MUSIKK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Enkeltpersonforetak (ENK)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "organisasjonsform: ENK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Solhauggata 12E, 0565 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "forretningsadresse: Solhauggata 12E, 0565 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "naeringskode1: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "mobile",
+      "value": "951 72 906",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "mobil: 951 72 906",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "email",
+      "value": "runar_fiksdal@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "epostadresse: runar_fiksdal@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Frilans musikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "aktivitet: Frilans musikk.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "role:INNH",
+      "value": {
+        "role": "Innehaver",
+        "name": "Runar Fiksdal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195/roller",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "INNH (Innehaver): Runar Fiksdal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998079195",
+      "as_of": "2012-04-18",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Runar Fiksdal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998079195/roller",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "DAGL (Daglig leder): Runar Fiksdal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998079195",
+      "as_of": "2012-04-18",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "998278422",
+        "name": "RUNAR FIKSDAL MUSIKK",
+        "address": "Solhauggata 12E, 0565 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "underenhet 998278422 overordnetEnhet: 998079195",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998079195",
+      "as_of": "2012-04-21",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998079195",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998079195",
+      "first_seen": "2026-10-12T11:07:15Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.92455125095657,
+        "lon": 10.770818033353336,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Solhauggata+12E&postnummer=0565&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:15Z",
+      "evidence": "address 'Solhauggata 12E', 0565 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998079195, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:15Z"
+    }
+  ],
+  "warnings": [],
+  "name": "RUNAR FIKSDAL MUSIKK",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "RUNAR FIKSDAL MUSIKK is an Enkeltpersonforetak (ENK) registered in 2012, based in Oslo. Main industry: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk. Key people: Runar Fiksdal (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998079195.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

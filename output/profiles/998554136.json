@@ -1,0 +1,614 @@
+{
+  "schema_version": 2,
+  "organization_number": "998554136",
+  "generated_at": "2026-10-12T11:07:40Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TANNLEGE EIRIK FLODIN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "navn: TANNLEGE EIRIK FLODIN AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-05-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "stiftelsesdato: 2012-05-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-06-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-06-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-05-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "vedtektsdato: 2012-05-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "business_address",
+      "value": "2. etg, Farmanns gate 13B, 1607 FREDRIKSTAD, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "forretningsadresse: 2. etg, Farmanns gate 13B, 1607 FREDRIKSTAD, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FREDRIKSTAD (3107)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "kommune: FREDRIKSTAD, kommunenummer: 3107",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "86.230 Tannlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "naeringskode1: 86.230 Tannlegetjenester",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "phone",
+      "value": "69 31 85 30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "telefon: 69 31 85 30",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "mobile",
+      "value": "482 06 686",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "mobil: 482 06 686",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "email",
+      "value": "eirikflodin@hotmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "epostadresse: eirikflodin@hotmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Tannlegevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "aktivitet: Tannlegevirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Selskapets formål er å drive tannlegevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "vedtektsfestetFormaal: Selskapets formål er å drive tannlegevirksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Eirik Flodin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136/roller",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "DAGL (Daglig leder): Eirik Flodin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998554136",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Eirik Flodin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136/roller",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "LEDE (Styrets leder): Eirik Flodin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998554136",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Jan-Georg Flodin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136/roller",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "VARA (Varamedlem): Jan-Georg Flodin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998554136",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Ruth Ingjerd Lindeland Flodin"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136/roller",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "VARA (Varamedlem): Ruth Ingjerd Lindeland Flodin",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998554136",
+      "as_of": "2012-06-27",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "OVERBLIKK REGNSKAP AS (org 922551162)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998554136/roller",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "REGN (Regnskapsfører): OVERBLIKK REGNSKAP AS (org 922551162)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998554136",
+      "as_of": "2024-09-16",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "journalnr 2026669880, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 3538160.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3538160.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 2591696.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 2591696.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 946464.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 946464.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 976910.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 976910.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 757699.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 757699.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 6990525.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.sumEiendeler: 6990525.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 3584803.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 3584803.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 3405722.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 3405722.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 590553.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 590553.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 6400691.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 6400691.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 589835.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 589835.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 589835.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 589835.0 NOK (journalnr 2026669880)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 3453767.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3453767.0 NOK (journalnr 2025610316)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 1136262.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1136262.0 NOK (journalnr 2025610316)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 7393384.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.sumEiendeler: 7393384.0 NOK (journalnr 2025610316)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 5742992.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5742992.0 NOK (journalnr 2025610316)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 3385701.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3385701.0 NOK (journalnr 2024468285)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 1120111.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1120111.0 NOK (journalnr 2024468285)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 6525505.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "eiendeler.sumEiendeler: 6525505.0 NOK (journalnr 2024468285)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 4906730.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4906730.0 NOK (journalnr 2024468285)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998554136 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "986566678",
+        "name": "TANNLEGE EIRIK FLODIN AS",
+        "address": "2. etg, Farmanns gate 13B, 1607 FREDRIKSTAD, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "underenhet 986566678 overordnetEnhet: 998554136",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998554136",
+      "as_of": "2004-02-14",
+      "first_seen": "2026-10-12T11:07:40Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998554136",
+      "retrieved_at": "2026-10-12T11:07:40Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998554136",
+      "first_seen": "2026-10-12T11:07:40Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TANNLEGE EIRIK FLODIN AS",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "TANNLEGE EIRIK FLODIN AS is an Aksjeselskap (AS) registered in 2012, based in Fredrikstad. Main industry: 86.230 Tannlegetjenester. Latest selskap accounts (period ending 2025-12-31): revenue 3.5 million NOK, net profit 757.7 thousand NOK. Key people: Eirik Flodin (daglig leder), Eirik Flodin (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998554136.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

@@ -1,0 +1,616 @@
+{
+  "schema_version": 2,
+  "organization_number": "998209781",
+  "generated_at": "2026-10-12T11:10:01Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CIRCUS MAXIMUS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "navn: CIRCUS MAXIMUS AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "stiftelsesdato: 2012-03-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-05-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-05-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-05-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-05-08",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-03-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "vedtektsdato: 2012-03-27",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Hareveien 38C, 1413 TÅRNÅSEN, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "forretningsadresse: Hareveien 38C, 1413 TÅRNÅSEN, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NORDRE FOLLO (3207)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "kommune: NORDRE FOLLO, kommunenummer: 3207",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "90.390 Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "naeringskode1: 90.390 Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "website",
+      "value": "www.circusmaximussite.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "hjemmeside: www.circusmaximussite.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "mobile",
+      "value": "99168943",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "mobil: 99168943",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "email",
+      "value": "glenmollen@gmail.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "epostadresse: glenmollen@gmail.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Aktivitet i underholdningsbransjen og tilhørende utnyttelse av produkter og varemerker, inklusivt men ikke begrenset til konserter, inspilling og produksjon samt salg av merchandise.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "aktivitet: Aktivitet i underholdningsbransjen og tilhørende utnyttelse av produkter og varemerker, inklusivt men ikke begrenset til konserter, inspilling og produksjon samt salg av merchandise.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Aktivitet i underholdningsbransjen og tilhørende utnyttelse av produkter og varemerker, inklusivt men ikke begrenset til konserter, inspilling og produksjon samt salg av merchandise.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "vedtektsfestetFormaal: Aktivitet i underholdningsbransjen og tilhørende utnyttelse av produkter og varemerker, inklusivt men ikke begrenset til konserter, inspilling og produksjon samt salg av merchandise.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "as_of": "2012-05-08",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Glen Cato Høye Møllen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "DAGL (Daglig leder): Glen Cato Høye Møllen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2012-05-08",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Mats Aleksander Haugen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "LEDE (Styrets leder): Mats Aleksander Haugen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Michael Eriksen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "MEDL (Styremedlem): Michael Eriksen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Truls Andreas Haugen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "MEDL (Styremedlem): Truls Andreas Haugen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Lasse Finbråten"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "MEDL (Styremedlem): Lasse Finbråten",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Glen Cato Høye Møllen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "MEDL (Styremedlem): Glen Cato Høye Møllen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2026-02-17",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AMIRA REGNSKAP AS (org 934599977)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998209781/roller",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "REGN (Regnskapsfører): AMIRA REGNSKAP AS (org 934599977)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998209781",
+      "as_of": "2025-01-02",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "journalnr 2026338785, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 97509.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 97509.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 102458.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 102458.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": -4949.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -4949.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -4467.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -4467.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": -4467.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -4467.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 114980.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "eiendeler.sumEiendeler: 114980.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 114980.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 114980.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 97351.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 97351.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 114980.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 114980.0 NOK (journalnr 2026338785)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 409898.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 409898.0 NOK (journalnr 2025606215)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -109813.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -109813.0 NOK (journalnr 2025606215)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 149197.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "eiendeler.sumEiendeler: 149197.0 NOK (journalnr 2025606215)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 119448.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 119448.0 NOK (journalnr 2025606215)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 117716.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 117716.0 NOK (journalnr 2024332650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 15918.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 15918.0 NOK (journalnr 2024332650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 233738.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "eiendeler.sumEiendeler: 233738.0 NOK (journalnr 2024332650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 229261.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 229261.0 NOK (journalnr 2024332650)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998209781 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "920116094",
+        "name": "CIRCUS MAXIMUS AS",
+        "address": "Hareveien 38C, 1413 TÅRNÅSEN, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "underenhet 920116094 overordnetEnhet: 998209781",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998209781",
+      "as_of": "2017-12-15",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998209781",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998209781",
+      "first_seen": "2026-10-12T11:10:01Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.81132776626782,
+        "lon": 10.814713619933425,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Hareveien+38C&postnummer=1413&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:10:01Z",
+      "evidence": "address 'Hareveien 38C', 1413 TÅRNÅSEN, municipality 3207 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998209781, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:10:01Z"
+    }
+  ],
+  "warnings": [
+    "website fetch failed: GET https://www.circusmaximussite.com/robots.txt failed: [Errno 11001] getaddrinfo failed"
+  ],
+  "name": "CIRCUS MAXIMUS AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "CIRCUS MAXIMUS AS is an Aksjeselskap (AS) registered in 2012, based in Nordre Follo. Main industry: 90.390 Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet. Latest selskap accounts (period ending 2025-12-31): revenue 97.5 thousand NOK, net profit -4.5 thousand NOK. Key people: Glen Cato Høye Møllen (daglig leder), Mats Aleksander Haugen (styrets leder). It operates 1 registered establishment(s). Website: www.circusmaximussite.com.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998209781.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

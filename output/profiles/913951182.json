@@ -1,0 +1,315 @@
+{
+  "schema_version": 2,
+  "organization_number": "913951182",
+  "generated_at": "2026-10-12T11:07:44Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "LAITI ELIASSEN ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "navn: LAITI ELIASSEN ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "organisasjonsform: ANS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "founded",
+      "value": "2014-07-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "stiftelsesdato: 2014-07-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2014-08-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2014-08-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-08-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-08-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2014-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2014-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2014-07-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "vedtektsdato: 2014-07-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Deanugeaidnu 5823, 9734 KARASJOK, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "forretningsadresse: Deanugeaidnu 5823, 9734 KARASJOK, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "municipality",
+      "value": "KARASJOK (5610)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "kommune: KARASJOK, kommunenummer: 5610",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "naeringskode1: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "mobile",
+      "value": "928 82 255",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "mobil: 928 82 255",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "email",
+      "value": "laitieliassen@outlook.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "epostadresse: laitieliassen@outlook.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie og drive gårdsbruk med melkeproduksjon, salg av landbruksprodukter, gårdsturisme og det som naturlig hører inn under dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "aktivitet: Eie og drive gårdsbruk med melkeproduksjon, salg av landbruksprodukter, gårdsturisme og det som naturlig hører inn under dette.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive gårdsbruk, gårdsturisme og nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "vedtektsfestetFormaal: Eie og drive gårdsbruk, gårdsturisme og nærliggende virksomhet.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Kenneth Eliassen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182/roller",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "DAGL (Daglig leder): Kenneth Eliassen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913951182",
+      "as_of": "2014-08-13",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Kenneth Eliassen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182/roller",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Kenneth Eliassen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913951182",
+      "as_of": "2014-08-13",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "role:DTSO",
+      "value": {
+        "role": "Deltaker med fullt ansvar",
+        "name": "Ann Kristin Laiti"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182/roller",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "DTSO (Deltaker med fullt ansvar): Ann Kristin Laiti",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913951182",
+      "as_of": "2014-08-13",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "AVERDI KARASJOK AS (org 980383571)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913951182/roller",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "REGN (Regnskapsfører): AVERDI KARASJOK AS (org 980383571)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 913951182",
+      "as_of": "2014-08-13",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "974066602",
+        "name": "LAITI ELIASSEN ANS",
+        "address": "Berta, 9730 KARASJOK, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "underenhet 974066602 overordnetEnhet: 913951182",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 913951182",
+      "as_of": "1995-09-14",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913951182",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 913951182",
+      "first_seen": "2026-10-12T11:07:44Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 69.75455226938348,
+        "lon": 26.144580964907437,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Deanugeaidnu+5823&postnummer=9734&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:07:44Z",
+      "evidence": "address 'Deanugeaidnu 5823', 9734 KARASJOK, municipality 5610 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 913951182, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:07:44Z"
+    }
+  ],
+  "warnings": [],
+  "name": "LAITI ELIASSEN ANS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "LAITI ELIASSEN ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2014, based in Karasjok. Main industry: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr. Key people: Kenneth Eliassen (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 913951182.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

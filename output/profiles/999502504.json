@@ -1,0 +1,616 @@
+{
+  "schema_version": 2,
+  "organization_number": "999502504",
+  "generated_at": "2026-10-12T11:08:53Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "ØRSTA FOTBALL AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "navn: ØRSTA FOTBALL AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-11-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "stiftelsesdato: 2012-11-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2013-01-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2013-01-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2013-01-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2013-01-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-11-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-12-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "vedtektsdato: 2015-12-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Holmegata 20, 6153 ØRSTA, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "forretningsadresse: Holmegata 20, 6153 ØRSTA, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 158, 6151 ØRSTA, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "postadresse: Postboks 158, 6151 ØRSTA, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ØRSTA (1520)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "kommune: ØRSTA, kommunenummer: 1520",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Utleige av eigen fast eigedom. Sal av reklameplass.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "aktivitet: Utleige av eigen fast eigedom. Sal av reklameplass.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eige, drive, vidareutvikle og leige ut fotballhall i tilknytning til Ørsta Stadion. Selskapet skal også kunne selje reklameplass. Selskapet er utan eige økonomisk føremål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "vedtektsfestetFormaal: Å eige, drive, vidareutvikle og leige ut fotballhall i tilknytning til Ørsta Stadion. Selskapet skal også kunne selje reklameplass. Selskapet er utan eige økonomisk føremål.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 30000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "kapital.belop: 30000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "as_of": "2013-01-09",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "registered_in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "registrertIFrivillighetsregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Petter Anton Klock Sandnes"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504/roller",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "LEDE (Styrets leder): Petter Anton Klock Sandnes",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999502504",
+      "as_of": "2013-01-09",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Bente Reklev"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504/roller",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "MEDL (Styremedlem): Bente Reklev",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999502504",
+      "as_of": "2013-01-09",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "role:VARA",
+      "value": {
+        "role": "Varamedlem",
+        "name": "Bjarte Myrold"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504/roller",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "VARA (Varamedlem): Bjarte Myrold",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999502504",
+      "as_of": "2013-01-09",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "ALFA NOR REGNSKAP AS (org 914813433)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999502504/roller",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "REGN (Regnskapsfører): ALFA NOR REGNSKAP AS (org 914813433)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 999502504",
+      "as_of": "2020-12-28",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "journalnr 2026488240, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 587330.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 587330.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 472639.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 472639.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 114690.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 114690.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 91245.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 91245.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 71170.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 71170.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 866140.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "eiendeler.sumEiendeler: 866140.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 196732.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 196732.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 669408.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 669408.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 589616.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 589616.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 276523.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 276523.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 65946.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 65946.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 210577.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 210577.0 NOK (journalnr 2026488240)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 933989.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 933989.0 NOK (journalnr 2025481875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 348326.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 348326.0 NOK (journalnr 2025481875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 980016.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "eiendeler.sumEiendeler: 980016.0 NOK (journalnr 2025481875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 518446.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 518446.0 NOK (journalnr 2025481875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 733088.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 733088.0 NOK (journalnr 2024648249)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 14837.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 14837.0 NOK (journalnr 2024648249)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 1051986.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "eiendeler.sumEiendeler: 1051986.0 NOK (journalnr 2024648249)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 170120.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 170120.0 NOK (journalnr 2024648249)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999502504 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "999510167",
+        "name": "ØRSTA FOTBALL AS",
+        "address": "Holmegata 20, 6153 ØRSTA, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "underenhet 999510167 overordnetEnhet: 999502504",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999502504",
+      "as_of": "2013-01-10",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999502504",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 999502504",
+      "first_seen": "2026-10-12T11:08:53Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 62.19517222495499,
+        "lon": 6.131537079866152,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Holmegata+20&postnummer=6153&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:53Z",
+      "evidence": "address 'Holmegata 20', 6153 ØRSTA, municipality 1520 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 999502504, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:53Z"
+    }
+  ],
+  "warnings": [],
+  "name": "ØRSTA FOTBALL AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ØRSTA FOTBALL AS is an Aksjeselskap (AS) registered in 2013, based in Ørsta. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 587.3 thousand NOK, net profit 71.2 thousand NOK. Key people: Petter Anton Klock Sandnes (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 999502504.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

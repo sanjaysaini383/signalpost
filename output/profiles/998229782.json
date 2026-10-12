@@ -1,0 +1,628 @@
+{
+  "schema_version": 2,
+  "organization_number": "998229782",
+  "generated_at": "2026-10-12T11:09:24Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "TOLUMA KREDITT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "navn: TOLUMA KREDITT AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "stiftelsesdato: 2012-03-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "2012-04-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 2012-04-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-04-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-04-11",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2025-05-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "vedtektsdato: 2025-05-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Strandveien 20, 1366 LYSAKER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "forretningsadresse: Strandveien 20, 1366 LYSAKER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 33, 1324 LYSAKER, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "postadresse: Postboks 33, 1324 LYSAKER, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BÆRUM (3201)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "kommune: BÆRUM, kommunenummer: 3201",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "64.312 Alternative investeringsfond (aif) som ikke er verdipapirfond",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "naeringskode1: 64.312 Alternative investeringsfond (aif) som ikke er verdipapirfond",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "4500 Alternative investeringsfond (AIF) unntatt verdipapirfond",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "institusjonellSektorkode: 4500 Alternative investeringsfond (AIF) unntatt verdipapirfond",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "phone",
+      "value": "67 58 40 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "telefon: 67 58 40 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "email",
+      "value": "toluma@ww-group.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "epostadresse: toluma@ww-group.com",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Eie og forvalte aksjer, verdipapirer og andre formuesverdier av hvilken som helst art, herunder utlån av selskapets verdier.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "aktivitet: Eie og forvalte aksjer, verdipapirer og andre formuesverdier av hvilken som helst art, herunder utlån av selskapets verdier.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og forvalte aksjer, verdipapirer og andre formuesverdier av hvilken som helst art, som inngår i en diversifisert portefølje av hovedsakelig renteinstrumenter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "vedtektsfestetFormaal: Eie og forvalte aksjer, verdipapirer og andre formuesverdier av hvilken som helst art, som inngår i en diversifisert portefølje av hovedsakelig renteinstrumenter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 5800000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "kapital.belop: 5800000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "as_of": "2024-11-20",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "registrertIMvaregisteret: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Thomas Wilhelmsen"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782/roller",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "LEDE (Styrets leder): Thomas Wilhelmsen",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229782",
+      "as_of": "2023-09-04",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Ragnhild Hjørnevik"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782/roller",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "MEDL (Styremedlem): Ragnhild Hjørnevik",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229782",
+      "as_of": "2023-09-04",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "role:MEDL",
+      "value": {
+        "role": "Styremedlem",
+        "name": "Fridtjof Berents"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782/roller",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "MEDL (Styremedlem): Fridtjof Berents",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229782",
+      "as_of": "2023-09-04",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "PRICEWATERHOUSECOOPERS AS (org 987009713)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782/roller",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "REVI (Revisor): PRICEWATERHOUSECOOPERS AS (org 987009713)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229782",
+      "as_of": "2012-04-11",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "TOLUMA REGNSKAP AS (org 984048866)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998229782/roller",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "REGN (Regnskapsfører): TOLUMA REGNSKAP AS (org 984048866)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 998229782",
+      "as_of": "2016-09-13",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": false,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "journalnr 2026557505, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 65598838.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 65598838.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 10565387.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 10565387.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 55033451.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 55033451.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 55485245.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 55485245.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 50428925.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 50428925.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 689034405.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.sumEiendeler: 689034405.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 605016353.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 605016353.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 84018052.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 84018052.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 23772562.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 23772562.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 578251685.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 578251685.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 110782720.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 110782720.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 110782720.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 110782720.0 NOK (journalnr 2026557505)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 45763790.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 45763790.0 NOK (journalnr 2025576492)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 11105759.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 11105759.0 NOK (journalnr 2025576492)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 704000398.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.sumEiendeler: 704000398.0 NOK (journalnr 2025576492)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 677151633.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 677151633.0 NOK (journalnr 2025576492)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 54513919.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 54513919.0 NOK (journalnr 2024601570)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 16923200.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 16923200.0 NOK (journalnr 2024601570)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 257895798.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "eiendeler.sumEiendeler: 257895798.0 NOK (journalnr 2024601570)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 241500055.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 241500055.0 NOK (journalnr 2024601570)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998229782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "914715407",
+        "name": "TOLUMA KREDITT AS",
+        "address": "Strandveien 20, 1366 LYSAKER, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "underenhet 914715407 overordnetEnhet: 998229782",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998229782",
+      "as_of": "2014-12-21",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998229782",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998229782",
+      "first_seen": "2026-10-12T11:09:24Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.911850989275464,
+        "lon": 10.64063647412273,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Strandveien+20&postnummer=1366&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:09:24Z",
+      "evidence": "address 'Strandveien 20', 1366 LYSAKER, municipality 3201 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998229782, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:09:24Z"
+    }
+  ],
+  "warnings": [],
+  "name": "TOLUMA KREDITT AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TOLUMA KREDITT AS is an Aksjeselskap (AS) registered in 2012, based in Bærum. Main industry: 64.312 Alternative investeringsfond (aif) som ikke er verdipapirfond. Latest selskap accounts (period ending 2025-12-31): revenue 65.6 million NOK, net profit 50.4 million NOK. Key people: Thomas Wilhelmsen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998229782.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}

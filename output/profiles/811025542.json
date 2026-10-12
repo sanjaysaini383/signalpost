@@ -1,0 +1,646 @@
+{
+  "schema_version": 2,
+  "organization_number": "811025542",
+  "generated_at": "2026-10-12T11:08:43Z",
+  "status": "active",
+  "facts": [
+    {
+      "field": "name",
+      "value": "CHEMI TEKNIK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "navn: CHEMI TEKNIK AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "organization_form",
+      "value": "Aksjeselskap (AS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "organisasjonsform: AS",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "registered_in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "registrertIForetaksregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "founded",
+      "value": "1974-03-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "stiftelsesdato: 1974-03-06",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "registered_date",
+      "value": "1995-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "registreringsdatoEnhetsregisteret: 1995-03-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "1989-02-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "registreringsdatoForetaksregisteret: 1989-02-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "1973-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 1973-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2007-08-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "vedtektsdato: 2007-08-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "konkurs: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "under_liquidation",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "underAvvikling: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "under_forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "business_address",
+      "value": "Tvetenveien 30, 0666 OSLO, Norge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "forretningsadresse: Tvetenveien 30, 0666 OSLO, Norge",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "industry_code",
+      "value": "46.850 Engroshandel med kjemiske produkter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "naeringskode1: 46.850 Engroshandel med kjemiske produkter",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "phone",
+      "value": "22 65 41 00",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "telefon: 22 65 41 00",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "activity_description",
+      "value": "Handel, agentur- og konsulentvirksomhet innen området laboratorieutstyr og -instrumenter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "aktivitet: Handel, agentur- og konsulentvirksomhet innen området laboratorieutstyr og -instrumenter.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel, agentur- og konsulentvirksomhet, hovedsaklig innen området laboratorieutstyr og -instrumenter, og hva som står i forbindelse hermed.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "vedtektsfestetFormaal: Handel, agentur- og konsulentvirksomhet, hovedsaklig innen området laboratorieutstyr og -instrumenter, og hva som står i forbindelse hermed.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "share_capital",
+      "value": {
+        "amount": 1500000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "kapital.belop: 1500000.0 NOK",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "as_of": "2007-09-22",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "AS CHEMI TEKNIK",
+          "from": "1995-03-12",
+          "to": "2001-03-07"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'AS CHEMI TEKNIK'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "part_of_group",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "erIKonsern: False",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "registrertIMvaregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "sisteInnsendteAarsregnskap: 2025",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "role:DAGL",
+      "value": {
+        "role": "Daglig leder",
+        "name": "Terje Fjelldal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542/roller",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "DAGL (Daglig leder): Terje Fjelldal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811025542",
+      "as_of": "2018-04-11",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "role:LEDE",
+      "value": {
+        "role": "Styrets leder",
+        "name": "Terje Fjelldal"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542/roller",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "LEDE (Styrets leder): Terje Fjelldal",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811025542",
+      "as_of": "2018-04-11",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "role:REVI",
+      "value": {
+        "role": "Revisor",
+        "name": "SOLHØI REVISJON AS (org 952011677)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542/roller",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "REVI (Revisor): SOLHØI REVISJON AS (org 952011677)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811025542",
+      "as_of": "2016-11-30",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "role:REGN",
+      "value": {
+        "role": "Regnskapsfører",
+        "name": "TRIO REGNSKAP AS (org 951228400)"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811025542/roller",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "REGN (Regnskapsfører): TRIO REGNSKAP AS (org 951228400)",
+      "explanation": "Role listed on the Enhetsregisteret record of organisation number 811025542",
+      "as_of": "2001-03-07",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "journalnr 2026370097, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:revenue",
+      "value": {
+        "amount": 17792935.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 17792935.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 16320919.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 16320919.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:operating_profit",
+      "value": {
+        "amount": 1472016.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1472016.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1283220.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1283220.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:net_profit",
+      "value": {
+        "amount": 1000633.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1000633.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:total_assets",
+      "value": {
+        "amount": 8012112.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.sumEiendeler: 8012112.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 7206656.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 7206656.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 805456.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 805456.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 105648.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 105648.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:equity",
+      "value": {
+        "amount": 4647448.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4647448.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:total_debt",
+      "value": {
+        "amount": 3364664.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 3364664.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 2658474.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 2658474.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 706190.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 706190.0 NOK (journalnr 2026370097)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 18510598.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 18510598.0 NOK (journalnr 2025646538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 936158.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 936158.0 NOK (journalnr 2025646538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 8426720.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.sumEiendeler: 8426720.0 NOK (journalnr 2025646538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 4646815.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 4646815.0 NOK (journalnr 2025646538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 17900766.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 17900766.0 NOK (journalnr 2024468877)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 1965749.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1965749.0 NOK (journalnr 2024468877)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 8779146.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "eiendeler.sumEiendeler: 8779146.0 NOK (journalnr 2024468877)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 5210657.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 5210657.0 NOK (journalnr 2024468877)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811025542 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "establishment",
+      "value": {
+        "organization_number": "971674709",
+        "name": "CHEMI TEKNIK AS",
+        "address": "Tvetenveien 30, 0666 OSLO, Norge"
+      },
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "underenhet 971674709 overordnetEnhet: 811025542",
+      "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 811025542",
+      "as_of": "1995-02-22",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811025542",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 811025542",
+      "first_seen": "2026-10-12T11:08:43Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.9123395843174,
+        "lon": 10.818348941947583,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Tvetenveien+30&postnummer=0666&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T11:08:43Z",
+      "evidence": "address 'Tvetenveien 30', 0666 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 811025542, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T11:08:43Z"
+    }
+  ],
+  "warnings": [],
+  "name": "CHEMI TEKNIK AS",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "CHEMI TEKNIK AS is an Aksjeselskap (AS) registered in 1995, based in Oslo. Main industry: 46.850 Engroshandel med kjemiske produkter. Latest selskap accounts (period ending 2025-12-31): revenue 17.8 million NOK, net profit 1.0 million NOK. Key people: Terje Fjelldal (daglig leder), Terje Fjelldal (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 811025542.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
+  "changes_since_previous_run": []
+}
