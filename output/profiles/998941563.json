@@ -1,142 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998941563",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:41Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "TTR PAINTBALL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "navn: TTR PAINTBALL",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "organization_form",
       "value": "Forening/lag/innretning (FLI)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "organisasjonsform: FLI",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "founded",
       "value": "2012-10-07",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "stiftelsesdato: 2012-10-07",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "registered_date",
       "value": "2012-10-09",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-10-09",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "business_address",
       "value": "Rismyrvegen 23, 4645 NODELAND, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "forretningsadresse: Rismyrvegen 23, 4645 NODELAND, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
+    },
+    {
+      "field": "municipality",
+      "value": "KRISTIANSAND (4204)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
+      "retrieved_at": "2026-10-12T09:55:41Z",
+      "evidence": "kommune: KRISTIANSAND, kommunenummer: 4204",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "industry_code",
       "value": "93.120 Aktiviteter i idrettslag og -klubber",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "naeringskode1: 93.120 Aktiviteter i idrettslag og -klubber",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
+      "retrieved_at": "2026-10-12T09:55:41Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
+      "first_seen": "2026-10-12T09:55:41Z"
+    },
+    {
+      "field": "mobile",
       "value": "473 26 087",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 473 26 087",
+      "retrieved_at": "2026-10-12T09:55:41Z",
+      "evidence": "mobil: 473 26 087",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "email",
       "value": "tor.inge.r@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "epostadresse: tor.inge.r@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "activity_description",
       "value": "Paintball med alt dette medfører.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "aktivitet: Paintball med alt dette medfører.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
+      "retrieved_at": "2026-10-12T09:55:41Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998941563",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "role:LEDE",
@@ -145,11 +173,11 @@
         "name": "Tor-Inge Repstad"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "LEDE (Styrets leder): Tor-Inge Repstad",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941563",
       "as_of": "2012-10-09",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
     },
     {
       "field": "role:MEDL",
@@ -158,15 +186,44 @@
         "name": "Torleif Johan Jensen Repstad"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998941563/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:41Z",
       "evidence": "MEDL (Styremedlem): Torleif Johan Jensen Repstad",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998941563",
       "as_of": "2012-10-09",
-      "first_seen": "2026-10-11T18:01:55Z"
+      "first_seen": "2026-10-12T09:55:41Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.148064566208575,
+        "lon": 7.835062104768507,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Rismyrvegen+23&postnummer=4645&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:41Z",
+      "evidence": "address 'Rismyrvegen 23', 4645 NODELAND, municipality 4204 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998941563, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:41Z"
     }
   ],
   "warnings": [],
   "name": "TTR PAINTBALL",
-  "previous_run": "2026-10-11T18:01:55Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TTR PAINTBALL is a Forening/lag/innretning (FLI) registered in 2012, based in Kristiansand. Main industry: 93.120 Aktiviteter i idrettslag og -klubber. Key people: Tor-Inge Repstad (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998941563.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

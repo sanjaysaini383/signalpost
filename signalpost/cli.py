@@ -1,5 +1,6 @@
 """Command line interface: run, profile, sample."""
 import argparse
+import csv
 import json
 import random
 import sys
@@ -9,6 +10,10 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
 from . import brreg, orgno
+
+for _stream in (sys.stdout, sys.stderr):  # company names contain letters the Windows console cannot print
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
 from .budget import BudgetExceeded, Fetcher
 from .profile import apply_history, build_profile, load_previous, save_profile
 from .website import website_facts
@@ -28,10 +33,36 @@ def read_orgs(path):
     return out
 
 
+def write_aggregates(out_dir, orgs):
+    """One JSON line per profile plus a flat CSV overview, so results can be read without opening 1,000 files."""
+    out = Path(out_dir)
+    rows, n = [], 0
+    with (out / "profiles.jsonl").open("w", encoding="utf-8") as jl:
+        for org in orgs:
+            p = load_previous(out_dir, org)
+            if not p:
+                continue
+            n += 1
+            jl.write(json.dumps(p, ensure_ascii=False, separators=(",", ":")) + "\n")
+            val = lambda field: next((f["value"] for f in p["facts"] if f["field"] == field), "")
+            rev = val("financials:selskap:revenue") or val("financials:konsern:revenue")
+            rows.append([org, p.get("name", ""), p["status"], len(p["facts"]), val("employees"),
+                         rev.get("amount", "") if isinstance(rev, dict) else "", rev.get("currency", "") if isinstance(rev, dict) else "",
+                         val("website"), val("industry_code"), val("municipality"), len(p.get("warnings", [])),
+                         len(p.get("changes_since_previous_run", []))])
+    with (out / "summary.csv").open("w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["organization_number", "name", "status", "facts", "employees", "revenue", "currency",
+                    "website", "industry", "municipality", "warnings", "changes"])
+        w.writerows(rows)
+    return n
+
+
 def cmd_run(a):
     orgs = read_orgs(a.input)
     deadline = time.monotonic() + a.time_limit_min * 60
-    fetcher = Fetcher(max_requests=a.max_requests, cache_dir=None if a.no_cache else Path(a.out) / ".cache", deadline=deadline)
+    fetcher = Fetcher(max_requests=a.max_requests, cache_dir=None if a.no_cache else Path(a.out) / ".cache",
+                      deadline=deadline, cache_ttl=a.cache_ttl)
     site_fn = None if a.no_website else website_facts
     stats = {"done": 0, "failed": 0, "changed": 0, "stopped": False}
 
@@ -56,10 +87,12 @@ def cmd_run(a):
 
     with ThreadPoolExecutor(max_workers=a.workers) as pool:
         list(pool.map(work, enumerate(orgs, 1)))
+    n_out = write_aggregates(a.out, orgs)
     cost = fetcher.llm_input_tokens * HAIKU_IN + fetcher.llm_output_tokens * HAIKU_OUT
     print(f"done={stats['done']}/{len(orgs)} failed={stats['failed']} with_changes={stats['changed']} "
           f"requests={fetcher.requests_made} llm_tokens={fetcher.llm_input_tokens}+{fetcher.llm_output_tokens} "
           f"est_llm_cost_usd={cost:.4f}")
+    print(f"wrote {a.out}/profiles.jsonl and {a.out}/summary.csv ({n_out} profiles)")
     return 0
 
 
@@ -117,8 +150,14 @@ def cmd_validate(a):
                 problems.append(f"{org}: {x['field']} source URL does not reference the organisation number")
             if x.get("field", "").startswith("financials:") and not (x["value"] or {}).get("currency"):
                 problems.append(f"{org}: {x['field']} has no currency")
-            if x.get("field", "").startswith(("website_", "social:", "product_", "location", "business_summary"))                     and "website_verified" not in {y["field"] for y in p["facts"]}:
+            site_derived = x.get("field", "").startswith(("website_", "social:", "product_", "location", "business_summary"))
+            if site_derived and x["field"] != "website_verified" and "website_verified" not in {y["field"] for y in p["facts"]}:
                 problems.append(f"{org}: website-derived fact {x['field']} without verified website")
+        if p.get("status") == "deleted" and any(x["field"].startswith(("financials:", "role:")) for x in p["facts"]):
+            problems.append(f"{org}: deleted company still lists live financials or roles")
+        for k in ("summary", "identity_check"):
+            if p.get("status") in ("active", "sub_unit") and not p.get(k):
+                problems.append(f"{org}: missing {k}")
     print(f"profiles={n} facts={facts_n} problems={len(problems)}")
     for line in problems[:50]:
         print("  " + line)
@@ -136,11 +175,12 @@ def main(argv=None):
     p = argparse.ArgumentParser(prog="signalpost", description="Profile Norwegian companies from public sources")
     sub = p.add_subparsers(dest="cmd", required=True)
     r = sub.add_parser("run", help="build/update profiles for every org number in a file")
-    r.add_argument("--input", required=True, help="text file with one organisation number per line")
+    r.add_argument("--input", default="companies.txt", help="text file with one organisation number per line")
     r.add_argument("--out", default="output")
     r.add_argument("--max-requests", type=int, default=1800)
     r.add_argument("--time-limit-min", type=float, default=40)
     r.add_argument("--no-cache", action="store_true")
+    r.add_argument("--cache-ttl", type=int, default=3600, help="seconds a cached response may be reused")
     r.add_argument("--no-website", action="store_true", help="register data only")
     r.add_argument("--workers", type=int, default=8)
     r.set_defaults(fn=cmd_run)

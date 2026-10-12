@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998364922",
-  "generated_at": "2026-10-11T18:04:05Z",
+  "generated_at": "2026-10-12T09:55:00Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MOTRIX PRODUCTIONS V/ HENRIK MARTIN DAHLSBAKKEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "navn: MOTRIX PRODUCTIONS V/ HENRIK MARTIN DAHLSBAKKEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "registered_date",
       "value": "2012-05-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-05-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2019-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2019-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "business_address",
       "value": "Karlsvognen 6A, 2315 HAMAR, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "forretningsadresse: Karlsvognen 6A, 2315 HAMAR, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HAMAR (3403)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "kommune: HAMAR, kommunenummer: 3403",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "industry_code",
       "value": "59.110 Produksjon av film, video og fjernsynsprogrammer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "naeringskode1: 59.110 Produksjon av film, video og fjernsynsprogrammer",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "mobile",
       "value": "906 10 684",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
-      "evidence": "telefon: 906 10 684",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "mobil: 906 10 684",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "email",
       "value": "dahlsbakken@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "epostadresse: dahlsbakken@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "activity_description",
       "value": "Film- og videoproduksjon.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "aktivitet: Film- og videoproduksjon.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998364922",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Henrik Martin Knuten Dahlsbakken"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "INNH (Innehaver): Henrik Martin Knuten Dahlsbakken",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998364922",
       "as_of": "2012-05-12",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "role:DAGL",
@@ -149,11 +186,11 @@
         "name": "Henrik Martin Knuten Dahlsbakken"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998364922/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "DAGL (Daglig leder): Henrik Martin Knuten Dahlsbakken",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998364922",
       "as_of": "2012-05-12",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
     },
     {
       "field": "establishment",
@@ -163,15 +200,54 @@
         "address": "Karlsvognen 6A, 2315 HAMAR, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998364922",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:55:00Z",
       "evidence": "underenhet 923047131 overordnetEnhet: 998364922",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998364922",
       "as_of": "2019-07-09",
-      "first_seen": "2026-10-11T18:01:39Z"
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998364922",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998364922",
+      "first_seen": "2026-10-12T09:55:00Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.81238530504387,
+        "lon": 11.04338376424717,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Karlsvognen+6A&postnummer=2315&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:00Z",
+      "evidence": "address 'Karlsvognen 6A', 2315 HAMAR, municipality 3403 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998364922, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:00Z"
     }
   ],
   "warnings": [],
   "name": "MOTRIX PRODUCTIONS V/ HENRIK MARTIN DAHLSBAKKEN",
-  "previous_run": "2026-10-11T18:01:39Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "MOTRIX PRODUCTIONS V/ HENRIK MARTIN DAHLSBAKKEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Hamar. Main industry: 59.110 Produksjon av film, video og fjernsynsprogrammer. Key people: Henrik Martin Knuten Dahlsbakken (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998364922.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,151 +1,206 @@
 {
+  "schema_version": 2,
   "organization_number": "913501098",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:57:55Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MORGEN CAFE ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "navn: MORGEN CAFE ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "organisasjonsform: ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "founded",
       "value": "2014-04-14",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "stiftelsesdato: 2014-04-14",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "registered_date",
       "value": "2014-04-22",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-04-22",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-04-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-04-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2014-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2014-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2014-04-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "vedtektsdato: 2014-04-14",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "business_address",
       "value": "Utmarkveien 1, 0691 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "forretningsadresse: Utmarkveien 1, 0691 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "industry_code",
       "value": "56.110 Drift av restauranter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "naeringskode1: 56.110 Drift av restauranter",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "mobile",
       "value": "402 03 544",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "telefon: 402 03 544",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "mobil: 402 03 544",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "email",
       "value": "trashid1@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "epostadresse: trashid1@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "activity_description",
       "value": "Cafe.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "aktivitet: Cafe.",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "purpose",
       "value": "Drift av cafe, salg av is og tilhørende mat, bakst.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "vedtektsfestetFormaal: Drift av cafe, salg av is og tilhørende mat, bakst.",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913501098",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "role:DAGL",
@@ -154,11 +209,11 @@
         "name": "Azeem Mahmood Mughal"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "DAGL (Daglig leder): Azeem Mahmood Mughal",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913501098",
       "as_of": "2014-04-22",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "role:DTSO",
@@ -167,11 +222,11 @@
         "name": "Tauqir Rashid"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Tauqir Rashid",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913501098",
       "as_of": "2014-04-22",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "role:DTSO",
@@ -180,11 +235,11 @@
         "name": "Azeem Mahmood Mughal"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Azeem Mahmood Mughal",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913501098",
       "as_of": "2014-04-22",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "role:REGN",
@@ -193,11 +248,11 @@
         "name": "RA REGNSKAP Rukhsar Ahmed (org 956515254)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913501098/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "REGN (Regnskapsfører): RA REGNSKAP Rukhsar Ahmed (org 956515254)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913501098",
       "as_of": "2014-11-13",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
     },
     {
       "field": "establishment",
@@ -207,15 +262,54 @@
         "address": "Utmarkveien 1, 0691 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913501098",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:55Z",
       "evidence": "underenhet 995274760 overordnetEnhet: 913501098",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 913501098",
       "as_of": "2010-03-10",
-      "first_seen": "2026-10-11T18:03:04Z"
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913501098",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 913501098",
+      "first_seen": "2026-10-12T09:57:55Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.8832408238129,
+        "lon": 10.845670612258488,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Utmarkveien+1&postnummer=0691&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:55Z",
+      "evidence": "address 'Utmarkveien 1', 0691 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 913501098, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:55Z"
     }
   ],
   "warnings": [],
   "name": "MORGEN CAFE ANS",
-  "previous_run": "2026-10-11T18:03:04Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "MORGEN CAFE ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2014, based in Oslo. Main industry: 56.110 Drift av restauranter. Key people: Azeem Mahmood Mughal (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 913501098.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,151 +1,206 @@
 {
+  "schema_version": 2,
   "organization_number": "811605212",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:31Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "AA-TVERRELVA KRAFT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "navn: AA-TVERRELVA KRAFT AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "founded",
       "value": "2012-10-25",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "stiftelsesdato: 2012-10-25",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "registered_date",
       "value": "2013-02-22",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2013-02-22",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2013-02-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2013-02-22",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2021-07-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "vedtektsdato: 2021-07-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "business_address",
       "value": "Schweigaards gate 14, 0185 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "forretningsadresse: Schweigaards gate 14, 0185 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "postal_address",
       "value": "Postboks 3324 Sørenga, 0140 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "postadresse: Postboks 3324 Sørenga, 0140 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "industry_code",
       "value": "35.150 Handel med elektrisitet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "naeringskode1: 35.150 Handel med elektrisitet",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "website",
       "value": "www.fortevannkraft.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "hjemmeside: www.fortevannkraft.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "phone",
       "value": "22 86 55 00",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "telefon: 22 86 55 00",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "mobile",
+      "value": "950 31 733",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "mobil: 950 31 733",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "email",
       "value": "vibeke.solum@fortevannkraft.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "epostadresse: vibeke.solum@fortevannkraft.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "activity_description",
       "value": "Selskapets virksomhet er selv, gjennom hel- eller deleide selskaper eller ved samarbeid med andre virksomheter å forestå utvikling av og investeringer i kraftverk, samt utvikling, produksjon, handel og investeringer, herunder salg av elektrisk kraft, og annen virksomhet beslektet med denne.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "aktivitet: Selskapets virksomhet er selv, gjennom hel- eller deleide selskaper eller ved samarbeid med andre virksomheter å forestå utvikling av og investeringer i kraftverk, samt utvikling, produksjon, handel o",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "purpose",
       "value": "Selskapets virksomhet er selv, gjennom hel- eller deleide selskaper eller ved samarbeid med andre virksomheter å forestå utvikling av og investeringer i kraftverk, samt utvikling, produksjon, handel og investeringer, herunder salg av elektrisk kraft, og annen virksomhet beslektet med denne.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "vedtektsfestetFormaal: Selskapets virksomhet er selv, gjennom hel- eller deleide selskaper eller ved samarbeid med andre virksomheter å forestå utvikling av og investeringer i kraftverk, samt utvikling, produksjon, handel o",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "share_capital",
@@ -154,38 +209,73 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "kapital.belop: 193943.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
       "as_of": "2013-02-22",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "TYNGDEKRAFT AA- TVERRELVA AS",
+          "from": "2013-02-22",
+          "to": "2018-08-09"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'TYNGDEKRAFT AA- TVERRELVA AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "part_of_group",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "erIKonsern: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 811605212",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:LEDE",
@@ -194,11 +284,11 @@
         "name": "Allan Niklas Sörensen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "LEDE (Styrets leder): Allan Niklas Sörensen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2026-03-02",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:MEDL",
@@ -207,11 +297,11 @@
         "name": "Kristoffer Kjelstadli"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "MEDL (Styremedlem): Kristoffer Kjelstadli",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2026-03-02",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:MEDL",
@@ -220,11 +310,11 @@
         "name": "Joen Anders Emil Averstad"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "MEDL (Styremedlem): Joen Anders Emil Averstad",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2026-03-02",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:MEDL",
@@ -233,11 +323,11 @@
         "name": "Jens Oscar Mattias Söderqvist"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "MEDL (Styremedlem): Jens Oscar Mattias Söderqvist",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2026-03-02",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:REVI",
@@ -246,11 +336,11 @@
         "name": "DELOITTE AS (org 980211282)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "REVI (Revisor): DELOITTE AS (org 980211282)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2024-05-14",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "role:REGN",
@@ -259,11 +349,43 @@
         "name": "ENORA AS (org 935701430)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/811605212/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "REGN (Regnskapsfører): ENORA AS (org 935701430)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 811605212",
       "as_of": "2025-12-02",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "EUR",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "journalnr 2026538575, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 45349.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 45349.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -272,11 +394,24 @@
         "currency": "EUR"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -45349.0 EUR (journalnr 2026538575)",
       "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -4442.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -4442.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -285,11 +420,11 @@
         "currency": "EUR"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 17640.0 EUR (journalnr 2026538575)",
       "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -298,11 +433,50 @@
         "currency": "EUR"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "eiendeler.sumEiendeler: 13206851.0 EUR (journalnr 2026538575)",
       "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 104057.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 104057.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 13102794.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 13102794.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 93951.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 93951.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -311,11 +485,11 @@
         "currency": "EUR"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 267074.0 EUR (journalnr 2026538575)",
       "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -324,11 +498,115 @@
         "currency": "EUR"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 12939776.0 EUR (journalnr 2026538575)",
       "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 13766.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 13766.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 12926010.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 12926010.0 EUR (journalnr 2026538575)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 207267.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 207267.0 EUR (journalnr 2025348030)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 10291639.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "eiendeler.sumEiendeler: 10291639.0 EUR (journalnr 2025348030)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 249435.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 249435.0 EUR (journalnr 2025348030)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -26119.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -26119.0 EUR (journalnr 2024432115)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 5302881.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "eiendeler.sumEiendeler: 5302881.0 EUR (journalnr 2024432115)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 42167.0,
+        "currency": "EUR"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 42167.0 EUR (journalnr 2024432115)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 811605212 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:31Z"
     },
     {
       "field": "establishment",
@@ -338,17 +616,54 @@
         "address": "Schweigaards gate 14, 0185 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811605212",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:31Z",
       "evidence": "underenhet 911610701 overordnetEnhet: 811605212",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 811605212",
       "as_of": "2013-02-25",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=811605212",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 811605212",
+      "first_seen": "2026-10-12T09:56:31Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.91130105945705,
+        "lon": 10.760542077283388,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Schweigaards+gate+14&postnummer=0185&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:31Z",
+      "evidence": "address 'Schweigaards gate 14', 0185 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 811605212, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:31Z"
     }
   ],
   "warnings": [
-    "website https://www.fortevannkraft.no/ discarded: page does not mention org number or company name"
+    "website https://www.fortevannkraft.no/ discarded: page does not tie to organisation number 811605212"
   ],
   "name": "AA-TVERRELVA KRAFT AS",
-  "previous_run": "2026-10-11T18:02:14Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "AA-TVERRELVA KRAFT AS is an Aksjeselskap (AS) registered in 2013, based in Oslo. Main industry: 35.150 Handel med elektrisitet. Latest selskap accounts (period ending 2025-12-31): net profit 17.6 thousand EUR. Key people: Allan Niklas Sörensen (styrets leder). It operates 1 registered establishment(s). Website: www.fortevannkraft.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 811605212.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

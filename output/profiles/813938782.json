@@ -1,124 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "813938782",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:37Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "WITO FRISØR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "navn: WITO FRISØR AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "founded",
       "value": "2014-05-02",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "stiftelsesdato: 2014-05-02",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "registered_date",
       "value": "2014-07-28",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-07-28",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-07-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-07-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2019-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2019-07-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2019-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "vedtektsdato: 2019-06-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "business_address",
       "value": "Torget 4, 7240 HITRA, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "forretningsadresse: Torget 4, 7240 HITRA, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HITRA (5056)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "kommune: HITRA, kommunenummer: 5056",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "industry_code",
       "value": "96.210 Frisering og barbering",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "naeringskode1: 96.210 Frisering og barbering",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "mobile",
       "value": "911 70 076",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 911 70 076",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "mobil: 911 70 076",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "activity_description",
       "value": "Selskapet skal drive med frisørsalong.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "aktivitet: Selskapet skal drive med frisørsalong.",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "purpose",
       "value": "Selskapet skal drive med frisørsalong.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "vedtektsfestetFormaal: Selskapet skal drive med frisørsalong.",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "share_capital",
@@ -127,38 +173,62 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
       "as_of": "2014-07-28",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "HAUGES EIENDOM AS",
+          "from": "2014-07-28",
+          "to": "2019-06-25"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'HAUGES EIENDOM AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 813938782",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "role:DAGL",
@@ -167,11 +237,11 @@
         "name": "Siri Aanes"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "DAGL (Daglig leder): Siri Aanes",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813938782",
       "as_of": "2019-06-25",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "role:LEDE",
@@ -180,11 +250,11 @@
         "name": "Jarle Marvin Kjørsvik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "LEDE (Styrets leder): Jarle Marvin Kjørsvik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813938782",
       "as_of": "2019-06-25",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "role:MEDL",
@@ -193,11 +263,11 @@
         "name": "Terje Fjeldvær"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "MEDL (Styremedlem): Terje Fjeldvær",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813938782",
       "as_of": "2019-06-25",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "role:MEDL",
@@ -206,11 +276,11 @@
         "name": "Siri Aanes"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "MEDL (Styremedlem): Siri Aanes",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813938782",
       "as_of": "2019-06-25",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "role:REGN",
@@ -219,11 +289,30 @@
         "name": "PROXO REGNSKAP AS (org 924923180)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813938782/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "REGN (Regnskapsfører): PROXO REGNSKAP AS (org 924923180)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813938782",
       "as_of": "2025-11-17",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "journalnr 2026346538, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -232,11 +321,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1092160.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 1084369.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 1084369.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -245,11 +347,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 7791.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 7791.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 7791.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -258,11 +373,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 5522.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -271,11 +386,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "eiendeler.sumEiendeler: 307354.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 259997.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 259997.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 47356.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 47356.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 121063.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 121063.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -284,11 +438,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -66360.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -297,11 +451,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 373714.0 NOK (journalnr 2026346538)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 373714.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 373714.0 NOK (journalnr 2026346538)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 992813.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 992813.0 NOK (journalnr 2025502901)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -58515.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -58515.0 NOK (journalnr 2025502901)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 251163.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "eiendeler.sumEiendeler: 251163.0 NOK (journalnr 2025502901)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": -71881.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -71881.0 NOK (journalnr 2025502901)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 1025444.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 1025444.0 NOK (journalnr 2024420305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 64974.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 64974.0 NOK (journalnr 2024420305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 318209.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "eiendeler.sumEiendeler: 318209.0 NOK (journalnr 2024420305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -13366.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -13366.0 NOK (journalnr 2024420305)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813938782 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:37Z"
     },
     {
       "field": "establishment",
@@ -311,15 +582,54 @@
         "address": "Torget 4, 7240 HITRA, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813938782",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:37Z",
       "evidence": "underenhet 913940830 overordnetEnhet: 813938782",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813938782",
       "as_of": "2014-07-29",
-      "first_seen": "2026-10-11T18:01:53Z"
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813938782",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 813938782",
+      "first_seen": "2026-10-12T09:55:37Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.600437744813135,
+        "lon": 8.976177904008857,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Torget+4&postnummer=7240&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:37Z",
+      "evidence": "address 'Torget 4', 7240 HITRA, municipality 5056 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 813938782, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:37Z"
     }
   ],
   "warnings": [],
   "name": "WITO FRISØR AS",
-  "previous_run": "2026-10-11T18:01:53Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "WITO FRISØR AS is an Aksjeselskap (AS) registered in 2014, based in Hitra. Main industry: 96.210 Frisering og barbering. Latest selskap accounts (period ending 2025-12-31): revenue 1.1 million NOK, net profit 5.5 thousand NOK. Key people: Siri Aanes (daglig leder), Jarle Marvin Kjørsvik (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 813938782.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

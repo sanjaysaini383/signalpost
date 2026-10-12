@@ -1,115 +1,143 @@
 {
+  "schema_version": 2,
   "organization_number": "825275312",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:30Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "LISE CAMILLA RUUD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "navn: LISE CAMILLA RUUD",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "registered_date",
       "value": "2020-06-30",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-06-30",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "business_address",
       "value": "Ullevålsveien 82C, 0454 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "forretningsadresse: Ullevålsveien 82C, 0454 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
+      "retrieved_at": "2026-10-12T09:55:30Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "industry_code",
       "value": "90.111 Skapende kunstnerisk virksomhet innenfor litteratur",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "naeringskode1: 90.111 Skapende kunstnerisk virksomhet innenfor litteratur",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
+      "retrieved_at": "2026-10-12T09:55:30Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "activity_description",
       "value": "Forfattervirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "aktivitet: Forfattervirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
+      "retrieved_at": "2026-10-12T09:55:30Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825275312",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +146,11 @@
         "name": "Lise Camilla Ruud"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825275312/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "INNH (Innehaver): Lise Camilla Ruud",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825275312",
       "as_of": "2020-06-30",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
     },
     {
       "field": "establishment",
@@ -132,15 +160,55 @@
         "address": "Ullevålsveien 82C, 0454 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825275312",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:30Z",
       "evidence": "underenhet 925362832 overordnetEnhet: 825275312",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825275312",
       "as_of": "2020-07-18",
-      "first_seen": "2026-10-11T18:01:50Z"
+      "first_seen": "2026-10-12T09:55:30Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825275312",
+      "retrieved_at": "2026-10-12T09:55:30Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 825275312",
+      "first_seen": "2026-10-12T09:55:30Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.933173119305685,
+        "lon": 10.734624038882238,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Ullev%C3%A5lsveien+82C&postnummer=0454&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:30Z",
+      "evidence": "address 'Ullevålsveien 82C', 0454 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825275312, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:30Z"
     }
   ],
   "warnings": [],
   "name": "LISE CAMILLA RUUD",
-  "previous_run": "2026-10-11T18:01:50Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "LISE CAMILLA RUUD is an Enkeltpersonforetak (ENK) registered in 2020, based in Oslo. Main industry: 90.111 Skapende kunstnerisk virksomhet innenfor litteratur. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825275312.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

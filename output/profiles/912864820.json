@@ -1,151 +1,197 @@
 {
+  "schema_version": 2,
   "organization_number": "912864820",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:56:51Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "WIZARDWEAR. ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "navn: WIZARDWEAR. ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "organisasjonsform: ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "founded",
       "value": "2013-12-05",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "stiftelsesdato: 2013-12-05",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "registered_date",
       "value": "2014-01-20",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-01-20",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-01-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-01-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2013-12-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "vedtektsdato: 2013-12-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "business_address",
       "value": "Vetrlidsallmenningen 8, 5003 BERGEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "forretningsadresse: Vetrlidsallmenningen 8, 5003 BERGEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "industry_code",
       "value": "74.110 Industri-, produkt- og motedesignvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "naeringskode1: 74.110 Industri-, produkt- og motedesignvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "mobile",
       "value": "995 58 060",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
-      "evidence": "telefon: 995 58 060",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "mobil: 995 58 060",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "email",
       "value": "simenkongsvik@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "epostadresse: simenkongsvik@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "activity_description",
       "value": "Design av T-skjorter, genserer, og diverse tilbehør som belter og luer. Import av ferdig produkt i liten skala. Distribusjon og salg av ferdig produkt.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "aktivitet: Design av T-skjorter, genserer, og diverse tilbehør som belter og luer. Import av ferdig produkt i liten skala. Distribusjon og salg av ferdig produkt.",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "purpose",
       "value": "Designe, importere og selge klær. Selve formålet er å fremme vår egen budskap innen miljøet som klærne er beregnet for. Vi ønsker å bidra til det norske ski/snowboardmiljøet med egne klær og utstyr.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "vedtektsfestetFormaal: Designe, importere og selge klær. Selve formålet er å fremme vår egen budskap innen miljøet som klærne er beregnet for. Vi ønsker å bidra til det norske ski/snowboardmiljøet med egne klær og utstyr.",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 912864820",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DAGL",
@@ -154,11 +200,11 @@
         "name": "Simen Berge Kongsvik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DAGL (Daglig leder): Simen Berge Kongsvik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DTSO",
@@ -167,11 +213,11 @@
         "name": "Torgeir Timenes Bell"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Torgeir Timenes Bell",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DTSO",
@@ -180,11 +226,11 @@
         "name": "Torstein Myklebust Brændmo"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Torstein Myklebust Brændmo",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DTSO",
@@ -193,11 +239,11 @@
         "name": "Stian Karlsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Stian Karlsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DTSO",
@@ -206,11 +252,11 @@
         "name": "Håkon Haraldssønn Haslum"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Håkon Haraldssønn Haslum",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:DTSO",
@@ -219,11 +265,11 @@
         "name": "Simen Berge Kongsvik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Simen Berge Kongsvik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2014-01-20",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:LEDE",
@@ -232,11 +278,11 @@
         "name": "Simen Berge Kongsvik"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "LEDE (Styrets leder): Simen Berge Kongsvik",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2026-01-31",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:MEDL",
@@ -245,11 +291,11 @@
         "name": "Stian Karlsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "MEDL (Styremedlem): Stian Karlsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2026-01-31",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:MEDL",
@@ -258,11 +304,11 @@
         "name": "Torgeir Timenes Bell"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "MEDL (Styremedlem): Torgeir Timenes Bell",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2026-01-31",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
     },
     {
       "field": "role:MEDL",
@@ -271,15 +317,44 @@
         "name": "Fredrik Hugøy Espedal"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912864820/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:51Z",
       "evidence": "MEDL (Styremedlem): Fredrik Hugøy Espedal",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 912864820",
       "as_of": "2026-01-31",
-      "first_seen": "2026-10-11T18:02:24Z"
+      "first_seen": "2026-10-12T09:56:51Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.3963464500694,
+        "lon": 5.327888971038497,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Vetrlidsallmenningen+8&postnummer=5003&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:51Z",
+      "evidence": "address 'Vetrlidsallmenningen 8', 5003 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 912864820, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:51Z"
     }
   ],
   "warnings": [],
   "name": "WIZARDWEAR. ANS",
-  "previous_run": "2026-10-11T18:02:24Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "WIZARDWEAR. ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2014, based in Bergen. Main industry: 74.110 Industri-, produkt- og motedesignvirksomhet. Key people: Simen Berge Kongsvik (daglig leder), Simen Berge Kongsvik (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 912864820.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

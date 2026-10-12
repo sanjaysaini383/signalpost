@@ -1,142 +1,179 @@
 {
+  "schema_version": 2,
   "organization_number": "998929970",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:58:13Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "GARASJETORGETS NYTTEFORENING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "navn: GARASJETORGETS NYTTEFORENING",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "organization_form",
       "value": "Forening/lag/innretning (FLI)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "organisasjonsform: FLI",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "founded",
       "value": "2012-09-08",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "stiftelsesdato: 2012-09-08",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "registered_date",
       "value": "2013-02-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2013-02-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "business_address",
       "value": "Kommandørkaptein Klincks vei 1, 3183 HORTEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "forretningsadresse: Kommandørkaptein Klincks vei 1, 3183 HORTEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "postal_address",
       "value": "Vikveien 145, 3180 NYKIRKE, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "postadresse: Vikveien 145, 3180 NYKIRKE, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HORTEN (3901)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
+      "retrieved_at": "2026-10-12T09:58:13Z",
+      "evidence": "kommune: HORTEN, kommunenummer: 3901",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "industry_code",
       "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "naeringskode1: 94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
+      "retrieved_at": "2026-10-12T09:58:13Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "email",
       "value": "garasjetorget@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "epostadresse: garasjetorget@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "activity_description",
       "value": "Konserter, utstillinger, arrangere torgdager.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "aktivitet: Konserter, utstillinger, arrangere torgdager.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
+      "retrieved_at": "2026-10-12T09:58:13Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
+    },
+    {
+      "field": "registered_in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970",
+      "retrieved_at": "2026-10-12T09:58:13Z",
+      "evidence": "registrertIFrivillighetsregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998929970",
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "role:LEDE",
@@ -145,11 +182,11 @@
         "name": "Stig Arne Caray Jakovesi"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "LEDE (Styrets leder): Stig Arne Caray Jakovesi",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998929970",
       "as_of": "2026-04-06",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "role:MEDL",
@@ -158,11 +195,11 @@
         "name": "Nina Dyran"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "MEDL (Styremedlem): Nina Dyran",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998929970",
       "as_of": "2026-04-06",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
     },
     {
       "field": "role:MEDL",
@@ -171,15 +208,44 @@
         "name": "Fred Anders Lillebø"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998929970/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:13Z",
       "evidence": "MEDL (Styremedlem): Fred Anders Lillebø",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998929970",
       "as_of": "2026-04-06",
-      "first_seen": "2026-10-11T18:03:13Z"
+      "first_seen": "2026-10-12T09:58:13Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.42550307678889,
+        "lon": 10.488432408462044,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Kommand%C3%B8rkaptein+Klincks+vei+1&postnummer=3183&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:58:13Z",
+      "evidence": "address 'Kommandørkaptein Klincks vei 1', 3183 HORTEN, municipality 3901 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998929970, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:58:13Z"
     }
   ],
   "warnings": [],
   "name": "GARASJETORGETS NYTTEFORENING",
-  "previous_run": "2026-10-11T18:03:13Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "GARASJETORGETS NYTTEFORENING is a Forening/lag/innretning (FLI) registered in 2013, based in Horten. Main industry: 94.992 Aktiviteter i andre medlemsorganisasjoner ellers. Key people: Stig Arne Caray Jakovesi (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998929970.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

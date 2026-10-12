@@ -1,133 +1,185 @@
 {
+  "schema_version": 2,
   "organization_number": "998082064",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:28Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "MULTI SERVICE TU HONG VU",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "navn: MULTI SERVICE TU HONG VU",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "business_address",
       "value": "Prestholsteigen 36A, 4313 SANDNES, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "forretningsadresse: Prestholsteigen 36A, 4313 SANDNES, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SANDNES (1108)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "kommune: SANDNES, kommunenummer: 1108",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "industry_code",
       "value": "81.210 Rengjøring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "naeringskode1: 81.210 Rengjøring av bygninger",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "mobile",
       "value": "454 12 396",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 454 12 396",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "mobil: 454 12 396",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "email",
       "value": "tuvu2009@yahoo.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "epostadresse: tuvu2009@yahoo.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "activity_description",
       "value": "Renhold og annen service tjeneste.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "aktivitet: Renhold og annen service tjeneste.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "MULTI SERVICE TU HONG VU",
+          "from": "2012-03-12",
+          "to": "2014-07-22"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'MULTI SERVICE TU HONG VU'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998082064",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +188,11 @@
         "name": "Tu Hong Vu"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "INNH (Innehaver): Tu Hong Vu",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998082064",
       "as_of": "2012-03-12",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "role:FFØR",
@@ -149,11 +201,11 @@
         "name": "Phuong Anh Vu Luu"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998082064/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "FFØR (Forretningsfører): Phuong Anh Vu Luu",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998082064",
       "as_of": "2021-09-09",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
     },
     {
       "field": "establishment",
@@ -163,15 +215,54 @@
         "address": "Prestholsteigen 36A, 4313 SANDNES, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998082064",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:28Z",
       "evidence": "underenhet 998133165 overordnetEnhet: 998082064",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998082064",
       "as_of": "2012-03-19",
-      "first_seen": "2026-10-11T18:01:49Z"
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998082064",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998082064",
+      "first_seen": "2026-10-12T09:55:28Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.86367898949366,
+        "lon": 5.7138547291394355,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Prestholsteigen+36A&postnummer=4313&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:28Z",
+      "evidence": "address 'Prestholsteigen 36A', 4313 SANDNES, municipality 1108 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998082064, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:28Z"
     }
   ],
   "warnings": [],
   "name": "MULTI SERVICE TU HONG VU",
-  "previous_run": "2026-10-11T18:01:49Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "MULTI SERVICE TU HONG VU is an Enkeltpersonforetak (ENK) registered in 2012, based in Sandnes. Main industry: 81.210 Rengjøring av bygninger. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998082064.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

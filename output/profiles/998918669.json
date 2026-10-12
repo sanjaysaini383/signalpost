@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998918669",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:14Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SCHOUW SCENE OG STUDIO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "navn: SCHOUW SCENE OG STUDIO",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "registered_date",
       "value": "2012-10-04",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-10-04",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2017-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2017-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "business_address",
       "value": "Laksefjordgata 22, 9750 HONNINGSVÅG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "forretningsadresse: Laksefjordgata 22, 9750 HONNINGSVÅG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NORDKAPP (5620)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "kommune: NORDKAPP, kommunenummer: 5620",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "industry_code",
       "value": "85.529 Annen undervisning innenfor kultur",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "naeringskode1: 85.529 Annen undervisning innenfor kultur",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "mobile",
       "value": "926 93 299",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 926 93 299",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "mobil: 926 93 299",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "email",
       "value": "morten.schouw@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "epostadresse: morten.schouw@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "activity_description",
       "value": "Musikkundervisning, sceniske produksjoner, rigging av lyd/lys, musikkproduskjon og -arrangering",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "aktivitet: Musikkundervisning, sceniske produksjoner, rigging av lyd/lys, musikkproduskjon og -arrangering",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998918669",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Morten Schouw"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998918669/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "INNH (Innehaver): Morten Schouw",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998918669",
       "as_of": "2012-10-04",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
     },
     {
       "field": "establishment",
@@ -150,15 +187,54 @@
         "address": "Laksefjordgata 22, 9750 HONNINGSVÅG, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998918669",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:14Z",
       "evidence": "underenhet 998933528 overordnetEnhet: 998918669",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998918669",
       "as_of": "2012-10-06",
-      "first_seen": "2026-10-11T18:01:43Z"
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998918669",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998918669",
+      "first_seen": "2026-10-12T09:55:14Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 70.97461641765783,
+        "lon": 25.986842816579657,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Laksefjordgata+22&postnummer=9750&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:14Z",
+      "evidence": "address 'Laksefjordgata 22', 9750 HONNINGSVÅG, municipality 5620 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998918669, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:14Z"
     }
   ],
   "warnings": [],
   "name": "SCHOUW SCENE OG STUDIO",
-  "previous_run": "2026-10-11T18:01:43Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SCHOUW SCENE OG STUDIO is an Enkeltpersonforetak (ENK) registered in 2012, based in Nordkapp. Main industry: 85.529 Annen undervisning innenfor kultur. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998918669.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

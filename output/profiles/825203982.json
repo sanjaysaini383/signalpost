@@ -1,115 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "825203982",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:57:05Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "FALLAS YAMASHITA MILJØTEKNIKK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "navn: FALLAS YAMASHITA MILJØTEKNIKK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "registered_date",
       "value": "2020-06-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-06-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2020-06-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
+      "retrieved_at": "2026-10-12T09:57:05Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2020-06-16",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "business_address",
       "value": "Hertug Guthorms gate 3A, 3111 TØNSBERG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "forretningsadresse: Hertug Guthorms gate 3A, 3111 TØNSBERG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TØNSBERG (3905)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
+      "retrieved_at": "2026-10-12T09:57:05Z",
+      "evidence": "kommune: TØNSBERG, kommunenummer: 3905",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "industry_code",
       "value": "71.129 Annen teknisk konsulentvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
+      "retrieved_at": "2026-10-12T09:57:05Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "activity_description",
       "value": "Miljø- og økologisk teknisk prosjektering, som ingeniør.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "aktivitet: Miljø- og økologisk teknisk prosjektering, som ingeniør.",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
+      "retrieved_at": "2026-10-12T09:57:05Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203982",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +155,11 @@
         "name": "Vladimir Kazuomi Fallas Yamashita"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "INNH (Innehaver): Vladimir Kazuomi Fallas Yamashita",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825203982",
       "as_of": "2020-06-16",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
     },
     {
       "field": "role:DAGL",
@@ -131,15 +168,45 @@
         "name": "Vladimir Kazuomi Fallas Yamashita"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203982/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:05Z",
       "evidence": "DAGL (Daglig leder): Vladimir Kazuomi Fallas Yamashita",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825203982",
       "as_of": "2020-06-16",
-      "first_seen": "2026-10-11T18:02:30Z"
+      "first_seen": "2026-10-12T09:57:05Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.27067764102046,
+        "lon": 10.40708464186853,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Hertug+Guthorms+gate+3A&postnummer=3111&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:05Z",
+      "evidence": "address 'Hertug Guthorms gate 3A', 3111 TØNSBERG, municipality 3905 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825203982, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:05Z"
     }
   ],
   "warnings": [],
   "name": "FALLAS YAMASHITA MILJØTEKNIKK",
-  "previous_run": "2026-10-11T18:02:30Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FALLAS YAMASHITA MILJØTEKNIKK is an Enkeltpersonforetak (ENK) registered in 2020, based in Tønsberg. Main industry: 71.129 Annen teknisk konsulentvirksomhet. Key people: Vladimir Kazuomi Fallas Yamashita (daglig leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825203982.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

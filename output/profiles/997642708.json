@@ -1,133 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "997642708",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:40Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SANDRA MUJINGA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "navn: SANDRA MUJINGA",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "registered_date",
       "value": "2011-11-23",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2011-11-23",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "business_address",
       "value": "Brochmanns gate 7, 0470 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "forretningsadresse: Brochmanns gate 7, 0470 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "industry_code",
       "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "naeringskode1: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
+      "first_seen": "2026-10-12T09:57:40Z"
+    },
+    {
+      "field": "mobile",
       "value": "962 32 415",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
-      "evidence": "telefon: 962 32 415",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "mobil: 962 32 415",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "email",
       "value": "s.mujinga@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "epostadresse: s.mujinga@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "activity_description",
       "value": "Dj, utøvende musiker og performancekunstner.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "aktivitet: Dj, utøvende musiker og performancekunstner.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997642708",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +164,11 @@
         "name": "Sandra Mujinga"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "INNH (Innehaver): Sandra Mujinga",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997642708",
       "as_of": "2011-11-23",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "role:REGN",
@@ -149,11 +177,11 @@
         "name": "KUNST & KULTUR REGNSKAP AS (org 991908501)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997642708/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "REGN (Regnskapsfører): KUNST & KULTUR REGNSKAP AS (org 991908501)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997642708",
       "as_of": "2025-11-17",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
     },
     {
       "field": "establishment",
@@ -163,15 +191,54 @@
         "address": "Brochmanns gate 7, 0470 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997642708",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:40Z",
       "evidence": "underenhet 930449237 overordnetEnhet: 997642708",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997642708",
       "as_of": "2022-12-13",
-      "first_seen": "2026-10-11T18:02:55Z"
+      "first_seen": "2026-10-12T09:57:40Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997642708",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997642708",
+      "first_seen": "2026-10-12T09:57:40Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.940064491182106,
+        "lon": 10.764286509600897,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Brochmanns+gate+7&postnummer=0470&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:40Z",
+      "evidence": "address 'Brochmanns gate 7', 0470 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997642708, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:40Z"
     }
   ],
   "warnings": [],
   "name": "SANDRA MUJINGA",
-  "previous_run": "2026-10-11T18:02:55Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SANDRA MUJINGA is an Enkeltpersonforetak (ENK) registered in 2011, based in Oslo. Main industry: 90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997642708.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,115 +1,134 @@
 {
+  "schema_version": 2,
   "organization_number": "914246954",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:56:56Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STIFTELSEN VINGMEDKLUBBEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "navn: STIFTELSEN VINGMEDKLUBBEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "organization_form",
       "value": "Stiftelse (STI)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "organisasjonsform: STI",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "founded",
       "value": "2014-06-30",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "stiftelsesdato: 2014-06-30",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "registered_date",
       "value": "2014-10-20",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-10-20",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "business_address",
       "value": "c/o GE Vingmed Ultrasound AS, Strandpromenaden 45, 3183 HORTEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "forretningsadresse: c/o GE Vingmed Ultrasound AS, Strandpromenaden 45, 3183 HORTEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "postal_address",
       "value": "c/o GE Vingmed Ultrasound AS, Postboks 141, 3191 HORTEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "postadresse: c/o GE Vingmed Ultrasound AS, Postboks 141, 3191 HORTEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HORTEN (3901)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "kommune: HORTEN, kommunenummer: 3901",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "industry_code",
       "value": "68.200 Utleie av egen eller leid fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "activity_description",
       "value": "Stiftelsens formål er utleie av firmahytter, samt drive bedriftsidrettslag og andre sosiale arrangementer for de ansatte i GE Vingmed Ultrasound AS, org. nr. 938 937 583.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "aktivitet: Stiftelsens formål er utleie av firmahytter, samt drive bedriftsidrettslag og andre sosiale arrangementer for de ansatte i GE Vingmed Ultrasound AS, org. nr. 938 937 583.",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "share_capital",
@@ -118,38 +137,56 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "kapital.belop: 100000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
       "as_of": "2014-10-20",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "registered_in_foundation_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "registrertIStiftelsesregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 914246954",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:DAGL",
@@ -158,11 +195,11 @@
         "name": "Sverre Langhus"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "DAGL (Daglig leder): Sverre Langhus",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2016-07-05",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:LEDE",
@@ -171,11 +208,11 @@
         "name": "Emilia May O Brien"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "LEDE (Styrets leder): Emilia May O Brien",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2026-09-24",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:MEDL",
@@ -184,11 +221,11 @@
         "name": "Sverre Langhus"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "MEDL (Styremedlem): Sverre Langhus",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2026-09-24",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:MEDL",
@@ -197,11 +234,11 @@
         "name": "Kirsten Skaftå Smith"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "MEDL (Styremedlem): Kirsten Skaftå Smith",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2026-09-24",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:REVI",
@@ -210,11 +247,11 @@
         "name": "CEDRA NORGE AS (org 935416779)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "REVI (Revisor): CEDRA NORGE AS (org 935416779)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2026-05-02",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "role:REGN",
@@ -223,11 +260,30 @@
         "name": "ALTCTRL AS (org 920049826)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914246954/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "REGN (Regnskapsfører): ALTCTRL AS (org 920049826)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 914246954",
       "as_of": "2021-08-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "journalnr 2026604928, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -236,11 +292,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 535684.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 448110.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 448110.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -249,11 +318,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 87574.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 86454.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 86454.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -262,11 +344,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 86454.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -275,11 +357,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "eiendeler.sumEiendeler: 446261.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 446261.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 446261.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 411007.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 411007.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -288,11 +409,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 393819.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -301,11 +422,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 52442.0 NOK (journalnr 2026604928)",
       "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 52442.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 52442.0 NOK (journalnr 2026604928)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 524763.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 524763.0 NOK (journalnr 2025744259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 27592.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 27592.0 NOK (journalnr 2025744259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 374089.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "eiendeler.sumEiendeler: 374089.0 NOK (journalnr 2025744259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 307365.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 307365.0 NOK (journalnr 2025744259)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 471354.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 471354.0 NOK (journalnr 2024627351)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 28525.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 28525.0 NOK (journalnr 2024627351)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 340061.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "eiendeler.sumEiendeler: 340061.0 NOK (journalnr 2024627351)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 279773.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 279773.0 NOK (journalnr 2024627351)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 914246954 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:56Z"
     },
     {
       "field": "establishment",
@@ -315,15 +553,40 @@
         "address": "c/o GE Vingmed Ultrasound AS, Strandpromenaden 45, 3183 HORTEN, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=914246954",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:56:56Z",
       "evidence": "underenhet 920081495 overordnetEnhet: 914246954",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 914246954",
       "as_of": "2017-12-15",
-      "first_seen": "2026-10-11T18:02:26Z"
+      "first_seen": "2026-10-12T09:56:56Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=914246954",
+      "retrieved_at": "2026-10-12T09:56:56Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 914246954",
+      "first_seen": "2026-10-12T09:56:56Z"
     }
   ],
   "warnings": [],
   "name": "STIFTELSEN VINGMEDKLUBBEN",
-  "previous_run": "2026-10-11T18:02:26Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "STIFTELSEN VINGMEDKLUBBEN is a Stiftelse (STI) registered in 2014, based in Horten. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 535.7 thousand NOK, net profit 86.5 thousand NOK. Key people: Sverre Langhus (daglig leder), Emilia May O Brien (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 914246954.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

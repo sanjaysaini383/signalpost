@@ -1,133 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "818490852",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:23Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "KRISTINE BREMNES",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "navn: KRISTINE BREMNES",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "registered_date",
       "value": "2017-02-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-02-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "business_address",
       "value": "Leksvikgata 1, 7066 TRONDHEIM, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "forretningsadresse: Leksvikgata 1, 7066 TRONDHEIM, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "kommune: TRONDHEIM, kommunenummer: 5001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "industry_code",
       "value": "73.110 Reklamebyråvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "naeringskode1: 73.110 Reklamebyråvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
+      "first_seen": "2026-10-12T09:55:23Z"
+    },
+    {
+      "field": "mobile",
       "value": "48 21 45 13",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 48 21 45 13",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "mobil: 48 21 45 13",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "email",
       "value": "kristinehbremnes@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "epostadresse: kristinehbremnes@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "activity_description",
       "value": "Driver en YouTube-kanal.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "aktivitet: Driver en YouTube-kanal.",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818490852",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +164,11 @@
         "name": "Kristine Husås Bremnes"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "INNH (Innehaver): Kristine Husås Bremnes",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818490852",
       "as_of": "2017-02-01",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "role:FFØR",
@@ -149,11 +177,11 @@
         "name": "Janne Bremnes"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818490852/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "FFØR (Forretningsfører): Janne Bremnes",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818490852",
       "as_of": "2017-02-01",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
     },
     {
       "field": "establishment",
@@ -163,15 +191,54 @@
         "address": "Leksvikgata 1, 7066 TRONDHEIM, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818490852",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:23Z",
       "evidence": "underenhet 918547819 overordnetEnhet: 818490852",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818490852",
       "as_of": "2017-02-11",
-      "first_seen": "2026-10-11T18:01:47Z"
+      "first_seen": "2026-10-12T09:55:23Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818490852",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 818490852",
+      "first_seen": "2026-10-12T09:55:23Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.4415663713048,
+        "lon": 10.441436111360934,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Leksvikgata+1&postnummer=7066&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:23Z",
+      "evidence": "address 'Leksvikgata 1', 7066 TRONDHEIM, municipality 5001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818490852, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:23Z"
     }
   ],
   "warnings": [],
   "name": "KRISTINE BREMNES",
-  "previous_run": "2026-10-11T18:01:47Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KRISTINE BREMNES is an Enkeltpersonforetak (ENK) registered in 2017, based in Trondheim. Main industry: 73.110 Reklamebyråvirksomhet. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818490852.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998075300",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:58Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "FEIE OG MASKINSERVICE YNGVE BERNTZEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "navn: FEIE OG MASKINSERVICE YNGVE BERNTZEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-10",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-10",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "business_address",
       "value": "Haugtomtveien 10, 1808 ASKIM, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "forretningsadresse: Haugtomtveien 10, 1808 ASKIM, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "municipality",
+      "value": "INDRE ØSTFOLD (3118)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "kommune: INDRE ØSTFOLD, kommunenummer: 3118",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "industry_code",
       "value": "81.220 Utvendig rengjøring av bygninger og industriell rengjøring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "naeringskode1: 81.220 Utvendig rengjøring av bygninger og industriell rengjøring",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "mobile",
       "value": "473 66 464",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 473 66 464",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "mobil: 473 66 464",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "email",
       "value": "y-ber@online.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "epostadresse: y-ber@online.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "activity_description",
       "value": "Utføre feietjenester og andre maskintjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "aktivitet: Utføre feietjenester og andre maskintjenester.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998075300",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Yngve Rolf Berntzen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998075300/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "INNH (Innehaver): Yngve Rolf Berntzen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998075300",
       "as_of": "2012-03-10",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
     },
     {
       "field": "establishment",
@@ -150,15 +187,54 @@
         "address": "Haugtomtveien 10, 1808 ASKIM, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998075300",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:58Z",
       "evidence": "underenhet 998123380 overordnetEnhet: 998075300",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998075300",
       "as_of": "2012-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998075300",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998075300",
+      "first_seen": "2026-10-12T09:55:58Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.5984564470954,
+        "lon": 11.18037652043962,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Haugtomtveien+10&postnummer=1808&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:58Z",
+      "evidence": "address 'Haugtomtveien 10', 1808 ASKIM, municipality 3118 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998075300, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:58Z"
     }
   ],
   "warnings": [],
   "name": "FEIE OG MASKINSERVICE YNGVE BERNTZEN",
-  "previous_run": "2026-10-11T18:02:02Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "FEIE OG MASKINSERVICE YNGVE BERNTZEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Indre Østfold. Main industry: 81.220 Utvendig rengjøring av bygninger og industriell rengjøring. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998075300.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

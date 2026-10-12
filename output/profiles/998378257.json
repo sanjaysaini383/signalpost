@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998378257",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:56Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "KALKENBERG FAMILIE-NETTVERKSKOMPETANSE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "navn: KALKENBERG FAMILIE-NETTVERKSKOMPETANSE",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "registered_date",
       "value": "2012-05-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-05-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-05-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-05-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "business_address",
       "value": "Langfjellveien 191, 8615 SKONSENG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "forretningsadresse: Langfjellveien 191, 8615 SKONSENG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "municipality",
+      "value": "RANA (1833)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "kommune: RANA, kommunenummer: 1833",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "industry_code",
       "value": "88.991 Barneverntjenester",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "naeringskode1: 88.991 Barneverntjenester",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "mobile",
       "value": "994 03 386",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 994 03 386",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "mobil: 994 03 386",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "email",
       "value": "kalkenberg@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "epostadresse: kalkenberg@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "activity_description",
       "value": "Bistand/hjelp til familier koordinert gjennom kommunale barneverntjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "aktivitet: Bistand/hjelp til familier koordinert gjennom kommunale barneverntjenester.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998378257",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Espen Kalkenberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998378257/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "INNH (Innehaver): Espen Kalkenberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998378257",
       "as_of": "2012-05-21",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
     },
     {
       "field": "establishment",
@@ -150,15 +187,54 @@
         "address": "Langfjellveien 191, 8615 SKONSENG, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998378257",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:56Z",
       "evidence": "underenhet 998407826 overordnetEnhet: 998378257",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998378257",
       "as_of": "2012-05-22",
-      "first_seen": "2026-10-11T18:02:01Z"
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998378257",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998378257",
+      "first_seen": "2026-10-12T09:55:56Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 66.35670835316148,
+        "lon": 14.371524188533837,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Langfjellveien+191&postnummer=8615&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:56Z",
+      "evidence": "address 'Langfjellveien 191', 8615 SKONSENG, municipality 1833 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998378257, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:56Z"
     }
   ],
   "warnings": [],
   "name": "KALKENBERG FAMILIE-NETTVERKSKOMPETANSE",
-  "previous_run": "2026-10-11T18:02:01Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KALKENBERG FAMILIE-NETTVERKSKOMPETANSE is an Enkeltpersonforetak (ENK) registered in 2012, based in Rana. Main industry: 88.991 Barneverntjenester. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998378257.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

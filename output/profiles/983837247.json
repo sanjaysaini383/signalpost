@@ -1,133 +1,179 @@
 {
+  "schema_version": 2,
   "organization_number": "983837247",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:33Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "LIHAUG EIENDOM DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "navn: LIHAUG EIENDOM DA",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med delt ansvar (DA)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "organisasjonsform: DA",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "founded",
       "value": "2001-10-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "stiftelsesdato: 2001-10-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_date",
       "value": "2001-11-19",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2001-11-19",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-11-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-11-19",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2001-10-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "vedtektsdato: 2001-10-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "business_address",
       "value": "Nordliveien 9A, 4073 RANDABERG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "forretningsadresse: Nordliveien 9A, 4073 RANDABERG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "municipality",
+      "value": "RANDABERG (1127)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "kommune: RANDABERG, kommunenummer: 1127",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "industry_code",
       "value": "68.200 Utleie av egen eller leid fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "activity_description",
       "value": "Kjøp, salg av fast eiendom, samt utleie av dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "aktivitet: Kjøp, salg av fast eiendom, samt utleie av dette.",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "purpose",
       "value": "Kjøp, salg av fast eiendom, samt utleie av dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "vedtektsfestetFormaal: Kjøp, salg av fast eiendom, samt utleie av dette.",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 983837247",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:FFØR",
@@ -136,11 +182,11 @@
         "name": "Knut Ole Jøsvold Lihaug"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "FFØR (Forretningsfører): Knut Ole Jøsvold Lihaug",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983837247",
       "as_of": "2001-11-19",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:DTPR",
@@ -149,15 +195,45 @@
         "name": "Knut Ole Jøsvold Lihaug"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983837247/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "DTPR (Deltaker med delt ansvar): Knut Ole Jøsvold Lihaug",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983837247",
       "as_of": "2001-11-19",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.995615487125725,
+        "lon": 5.629555801920041,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nordliveien+9A&postnummer=4073&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "address 'Nordliveien 9A', 4073 RANDABERG, municipality 1127 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 983837247, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:33Z"
     }
   ],
   "warnings": [],
   "name": "LIHAUG EIENDOM DA",
-  "previous_run": "2026-10-11T18:02:48Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "LIHAUG EIENDOM DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Randaberg. Main industry: 68.200 Utleie av egen eller leid fast eiendom.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983837247.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

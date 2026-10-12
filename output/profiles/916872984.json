@@ -1,133 +1,188 @@
 {
+  "schema_version": 2,
   "organization_number": "916872984",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:04Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SLOWBOAT ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "navn: SLOWBOAT ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "organisasjonsform: ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "founded",
       "value": "2016-03-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "stiftelsesdato: 2016-03-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "registered_date",
       "value": "2016-03-10",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2016-03-10",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2016-03-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2016-03-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2022-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2022-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2016-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "vedtektsdato: 2016-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "business_address",
       "value": "Biskop Darres gate 9, 7067 TRONDHEIM, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "forretningsadresse: Biskop Darres gate 9, 7067 TRONDHEIM, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "kommune: TRONDHEIM, kommunenummer: 5001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "industry_code",
       "value": "01.489 Husdyrhold ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "naeringskode1: 01.489 Husdyrhold ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "activity_description",
       "value": "Landbruk: Birøkt Undervisning: Birøkt og natur Handel: Salg av produktion fra birøkt. (Honning, propolis, voks, bier, materiell). Salg av andre naturlige, selvproduserte eller sankete matvarer i forbindelse med honning (Bær, te og brød).",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "aktivitet: Landbruk: Birøkt Undervisning: Birøkt og natur Handel: Salg av produktion fra birøkt. (Honning, propolis, voks, bier, materiell). Salg av andre naturlige, selvproduserte eller sankete matvarer i forbi",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "purpose",
       "value": "Hovedaktiviteten vil omfatte aktiviteter rundt livet til Apis mellifera (honningbien). Her under: opprettholdelse av honningbi-kolonier, vidensinnsamling- og deling for apirister, innsamling av honning og bivoks, bestøving av avgrøder, i undervisnings øyemed, produsering av bier og bie familier, produsering av materiell til apikultur.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "vedtektsfestetFormaal: Hovedaktiviteten vil omfatte aktiviteter rundt livet til Apis mellifera (honningbien). Her under: opprettholdelse av honningbi-kolonier, vidensinnsamling- og deling for apirister, innsamling av honnin",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 916872984",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "role:DTSO",
@@ -136,11 +191,11 @@
         "name": "Sonja Træen Høpfner"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Sonja Træen Høpfner",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916872984",
       "as_of": "2016-03-10",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "role:DTSO",
@@ -149,11 +204,11 @@
         "name": "Erik Træen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916872984/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Erik Træen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916872984",
       "as_of": "2016-03-10",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
     },
     {
       "field": "establishment",
@@ -163,15 +218,55 @@
         "address": "Biskop Darres gate 9, 7067 TRONDHEIM, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916872984",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:04Z",
       "evidence": "underenhet 934689232 overordnetEnhet: 916872984",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 916872984",
       "as_of": "2024-12-20",
-      "first_seen": "2026-10-11T18:02:04Z"
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916872984",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 916872984",
+      "first_seen": "2026-10-12T09:56:04Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.43882485466965,
+        "lon": 10.423999859375755,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Biskop+Darres+gate+9&postnummer=7067&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:04Z",
+      "evidence": "address 'Biskop Darres gate 9', 7067 TRONDHEIM, municipality 5001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916872984, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:04Z"
     }
   ],
   "warnings": [],
   "name": "SLOWBOAT ANS",
-  "previous_run": "2026-10-11T18:02:04Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "SLOWBOAT ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2016, based in Trondheim. Main industry: 01.489 Husdyrhold ikke nevnt annet sted. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916872984.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

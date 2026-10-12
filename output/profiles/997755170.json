@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "997755170",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:51Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "HAUGER GÅRD V/ LISE-MARIT AMLIE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "navn: HAUGER GÅRD V/ LISE-MARIT AMLIE",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "registered_date",
       "value": "2012-01-04",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-01-04",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "business_address",
       "value": "Glads vei 17, 0489 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "forretningsadresse: Glads vei 17, 0489 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "industry_code",
       "value": "68.200 Utleie av egen eller leid fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "phone",
       "value": "22 15 56 41",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "telefon: 22 15 56 41",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "mobile",
+      "value": "91105491",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "mobil: 91105491",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "email",
       "value": "lm_amlie@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "epostadresse: lm_amlie@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "activity_description",
       "value": "Utleie av eiendom og utleie av jord.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "aktivitet: Utleie av eiendom og utleie av jord.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997755170",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Lise-Marit Amlie"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "INNH (Innehaver): Lise-Marit Amlie",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997755170",
       "as_of": "2012-01-04",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "role:DAGL",
@@ -149,11 +186,11 @@
         "name": "Thor Jacob Amlie"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "DAGL (Daglig leder): Thor Jacob Amlie",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997755170",
       "as_of": "2012-01-04",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "role:REGN",
@@ -162,11 +199,11 @@
         "name": "BLAKER REGNSKAPSKONTOR AS (org 959095086)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997755170/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "REGN (Regnskapsfører): BLAKER REGNSKAPSKONTOR AS (org 959095086)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997755170",
       "as_of": "2023-02-11",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
     },
     {
       "field": "establishment",
@@ -176,15 +213,54 @@
         "address": "Glads vei 17, 0489 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997755170",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:51Z",
       "evidence": "underenhet 999130100 overordnetEnhet: 997755170",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997755170",
       "as_of": "2012-11-12",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997755170",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997755170",
+      "first_seen": "2026-10-12T09:55:51Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.95172600453586,
+        "lon": 10.788632529592276,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Glads+vei+17&postnummer=0489&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:51Z",
+      "evidence": "address 'Glads vei 17', 0489 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997755170, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:51Z"
     }
   ],
   "warnings": [],
   "name": "HAUGER GÅRD V/ LISE-MARIT AMLIE",
-  "previous_run": "2026-10-11T18:01:58Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "HAUGER GÅRD V/ LISE-MARIT AMLIE is an Enkeltpersonforetak (ENK) registered in 2012, based in Oslo. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Key people: Thor Jacob Amlie (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997755170.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

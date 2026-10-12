@@ -1,143 +1,189 @@
 {
+  "schema_version": 2,
   "organization_number": "998510880",
-  "generated_at": "2026-10-11T18:04:07Z",
+  "generated_at": "2026-10-12T09:56:41Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BØ AUTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "navn: BØ AUTO AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "founded",
       "value": "2012-06-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "stiftelsesdato: 2012-06-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "registered_date",
       "value": "2012-06-18",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-06-18",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-06-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-06-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2012-06-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "vedtektsdato: 2012-06-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "employees",
       "value": 8,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "antallAnsatte: 8",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
       "as_of": "2025-09-13",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "business_address",
       "value": "Bøgata 111, 3800 BØ I TELEMARK, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "forretningsadresse: Bøgata 111, 3800 BØ I TELEMARK, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MIDT-TELEMARK (4020)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "kommune: MIDT-TELEMARK, kommunenummer: 4020",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "industry_code",
       "value": "95.310 Reparasjon og vedlikehold av motorvogner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "naeringskode1: 95.310 Reparasjon og vedlikehold av motorvogner",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "industry_code_2",
       "value": "77.110 Utleie og leasing av biler og andre lette motorvogner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "naeringskode2: 77.110 Utleie og leasing av biler og andre lette motorvogner",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "phone",
       "value": "35 95 02 75",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "telefon: 35 95 02 75",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "activity_description",
       "value": "Drift av autorisert bilverksted.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "aktivitet: Drift av autorisert bilverksted.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "purpose",
       "value": "Drift av autorisert bilverksted videre salg av rekvisita og tilbehør samt hva som står i en naturlig tilknytting til dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "vedtektsfestetFormaal: Drift av autorisert bilverksted videre salg av rekvisita og tilbehør samt hva som står i en naturlig tilknytting til dette.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "share_capital",
@@ -146,38 +192,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "kapital.belop: 300000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
       "as_of": "2012-06-18",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 998510880",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "role:DAGL",
@@ -186,11 +241,11 @@
         "name": "Knut Arne Firingen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "DAGL (Daglig leder): Knut Arne Firingen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998510880",
       "as_of": "2012-06-18",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "role:LEDE",
@@ -199,11 +254,11 @@
         "name": "Knut Arne Firingen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "LEDE (Styrets leder): Knut Arne Firingen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998510880",
       "as_of": "2012-06-18",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "role:VARA",
@@ -212,11 +267,11 @@
         "name": "Gro Margareth Espeseth Firingen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "VARA (Varamedlem): Gro Margareth Espeseth Firingen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998510880",
       "as_of": "2012-06-18",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "role:REVI",
@@ -225,11 +280,11 @@
         "name": "ERNST & YOUNG AS (org 976389387)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "REVI (Revisor): ERNST & YOUNG AS (org 976389387)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998510880",
       "as_of": "2014-10-09",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "role:REGN",
@@ -238,11 +293,30 @@
         "name": "AIDER AS (org 922633452)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998510880/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "REGN (Regnskapsfører): AIDER AS (org 922633452)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998510880",
       "as_of": "2026-09-29",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "journalnr 2026532398, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -251,11 +325,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 13846779.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 12384215.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 12384215.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -264,11 +351,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1462563.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1520386.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1520386.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -277,11 +377,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 1184832.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -290,11 +390,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "eiendeler.sumEiendeler: 4702164.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 4174122.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 4174122.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 528042.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 528042.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 3073588.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 3073588.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -303,11 +442,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 640039.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -316,11 +455,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 4062125.0 NOK (journalnr 2026532398)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 4062125.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 4062125.0 NOK (journalnr 2026532398)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 13165850.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 13165850.0 NOK (journalnr 2025568932)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 1337773.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1337773.0 NOK (journalnr 2025568932)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 4426236.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "eiendeler.sumEiendeler: 4426236.0 NOK (journalnr 2025568932)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 955207.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 955207.0 NOK (journalnr 2025568932)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 11109995.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 11109995.0 NOK (journalnr 2024488017)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 880010.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 880010.0 NOK (journalnr 2024488017)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 4594134.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "eiendeler.sumEiendeler: 4594134.0 NOK (journalnr 2024488017)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 817435.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 817435.0 NOK (journalnr 2024488017)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998510880 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "establishment",
@@ -330,11 +586,11 @@
         "address": "Bøgata 111, 3800 BØ I TELEMARK, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "underenhet 915464106 overordnetEnhet: 998510880",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998510880",
       "as_of": "2015-06-01",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
     },
     {
       "field": "establishment",
@@ -345,15 +601,53 @@
         "employees": 8
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998510880",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:41Z",
       "evidence": "underenhet 971673346 overordnetEnhet: 998510880",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998510880",
       "as_of": "1995-02-22",
-      "first_seen": "2026-10-11T18:02:20Z"
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 2,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998510880",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "page.totalElements: 2",
+      "explanation": "Number of sub-units the register lists under organisation number 998510880",
+      "first_seen": "2026-10-12T09:56:41Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.41130660928048,
+        "lon": 9.073389473862308,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=B%C3%B8gata+111&postnummer=3800&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:41Z",
+      "evidence": "address 'Bøgata 111', 3800 BØ I TELEMARK, municipality 4020 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998510880, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:41Z"
     }
   ],
   "warnings": [],
   "name": "BØ AUTO AS",
-  "previous_run": "2026-10-11T18:02:20Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BØ AUTO AS is an Aksjeselskap (AS) registered in 2012, based in Midt-Telemark. Main industry: 95.310 Reparasjon og vedlikehold av motorvogner. It has 8 registered employees. Latest selskap accounts (period ending 2025-12-31): revenue 13.8 million NOK, net profit 1.2 million NOK. Key people: Knut Arne Firingen (daglig leder), Knut Arne Firingen (styrets leder). It operates 2 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998510880.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,115 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "998134137",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:43Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STERO TRANSPORT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "navn: STERO TRANSPORT AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "founded",
       "value": "2012-01-02",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "stiftelsesdato: 2012-01-02",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-20",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-20",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-03-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-03-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2026-06-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "vedtektsdato: 2026-06-15",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "business_address",
       "value": "Hagavegen 28, 1929 AULI, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "forretningsadresse: Hagavegen 28, 1929 AULI, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NES (3228)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "kommune: NES, kommunenummer: 3228",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "industry_code",
       "value": "49.410 Godstransport på vei",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "naeringskode1: 49.410 Godstransport på vei",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "activity_description",
       "value": "Transport av gods på vei.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "aktivitet: Transport av gods på vei.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "purpose",
       "value": "Transport på vei og i tillegg hva styret finner interessant for selskapet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "vedtektsfestetFormaal: Transport på vei og i tillegg hva styret finner interessant for selskapet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "share_capital",
@@ -118,38 +155,62 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
       "as_of": "2012-03-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "STERO FYRINGSTEKNIKK AS",
+          "from": "2012-03-20",
+          "to": "2026-07-22"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'STERO FYRINGSTEKNIKK AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 998134137",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:DAGL",
@@ -158,11 +219,11 @@
         "name": "Rolf Frogner Hansen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "DAGL (Daglig leder): Rolf Frogner Hansen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998134137",
       "as_of": "2012-03-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:LEDE",
@@ -171,11 +232,11 @@
         "name": "Rolf Frogner Hansen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "LEDE (Styrets leder): Rolf Frogner Hansen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998134137",
       "as_of": "2012-03-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:VARA",
@@ -184,11 +245,11 @@
         "name": "Hilde Krefting Hansen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "VARA (Varamedlem): Hilde Krefting Hansen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998134137",
       "as_of": "2012-03-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:REGN",
@@ -197,11 +258,43 @@
         "name": "Fenstad Regnskapskontor A/S (org 929983122)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998134137/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "REGN (Regnskapsfører): Fenstad Regnskapskontor A/S (org 929983122)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998134137",
       "as_of": "2012-03-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "journalnr 2026387278, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 6120.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 6120.0 NOK (journalnr 2026387278)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -210,11 +303,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -6120.0 NOK (journalnr 2026387278)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 8686.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 8686.0 NOK (journalnr 2026387278)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -223,11 +329,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 8686.0 NOK (journalnr 2026387278)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -236,11 +342,37 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "eiendeler.sumEiendeler: 353082.0 NOK (journalnr 2026387278)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 353082.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 353082.0 NOK (journalnr 2026387278)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 353082.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 353082.0 NOK (journalnr 2026387278)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -249,11 +381,89 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 353082.0 NOK (journalnr 2026387278)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 7085.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 7085.0 NOK (journalnr 2025492919)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 344396.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "eiendeler.sumEiendeler: 344396.0 NOK (journalnr 2025492919)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 344396.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 344396.0 NOK (journalnr 2025492919)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 10603.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 10603.0 NOK (journalnr 2024432737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 337311.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "eiendeler.sumEiendeler: 337311.0 NOK (journalnr 2024432737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 337311.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 337311.0 NOK (journalnr 2024432737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998134137 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "establishment",
@@ -263,15 +473,54 @@
         "address": "Hagavegen 28, 1929 AULI, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998134137",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underenhet 937799896 overordnetEnhet: 998134137",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998134137",
       "as_of": "2026-06-01",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998134137",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998134137",
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.058528738525204,
+        "lon": 11.389913521125132,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Hagavegen+28&postnummer=1929&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "address 'Hagavegen 28', 1929 AULI, municipality 3228 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998134137, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:43Z"
     }
   ],
   "warnings": [],
   "name": "STERO TRANSPORT AS",
-  "previous_run": "2026-10-11T18:02:59Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STERO TRANSPORT AS is an Aksjeselskap (AS) registered in 2012, based in Nes. Main industry: 49.410 Godstransport på vei. Latest selskap accounts (period ending 2025-12-31): net profit 8.7 thousand NOK. Key people: Rolf Frogner Hansen (daglig leder), Rolf Frogner Hansen (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998134137.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

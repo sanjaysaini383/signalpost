@@ -1,115 +1,125 @@
 {
+  "schema_version": 2,
   "organization_number": "924510625",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:33Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BRUNEL SOUTH EAST ASIA PTE LTD - NORWAY BRANCH",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "navn: BRUNEL SOUTH EAST ASIA PTE LTD - NORWAY BRANCH",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "business_address",
       "value": "77 Robinson Road 10-03, SG-068896 SINGAPORE, Singapore",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "forretningsadresse: 77 Robinson Road 10-03, SG-068896 SINGAPORE, Singapore",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "industry_code",
       "value": "78.100 Rekruttering og formidling av arbeidskraft",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "naeringskode1: 78.100 Rekruttering og formidling av arbeidskraft",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "activity_description",
       "value": "Rekruttere, engasjere og skaffe besetningspersonell til skip/fartøy som brukes til offshore-arbeid.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "aktivitet: Rekruttere, engasjere og skaffe besetningspersonell til skip/fartøy som brukes til offshore-arbeid.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924510625",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:DAGL",
@@ -118,11 +128,11 @@
         "name": "Jonathan Richard Proctor"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "DAGL (Daglig leder): Jonathan Richard Proctor",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924510625",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:HFOR",
@@ -131,11 +141,11 @@
         "name": "BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD (org 924613394)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924510625/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD (org 924613394)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924510625",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "establishment",
@@ -145,15 +155,41 @@
         "address": "77 Robinson Road 10-03, SG-068896 SINGAPORE, Singapore"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924510625",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underenhet 924618035 overordnetEnhet: 924510625",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924510625",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924510625",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924510625",
+      "first_seen": "2026-10-12T09:57:33Z"
     }
   ],
   "warnings": [],
   "name": "BRUNEL SOUTH EAST ASIA PTE LTD - NORWAY BRANCH",
-  "previous_run": "2026-10-11T18:02:48Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "BRUNEL SOUTH EAST ASIA PTE LTD - NORWAY BRANCH is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 78.100 Rekruttering og formidling av arbeidskraft. Key people: Jonathan Richard Proctor (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924510625.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

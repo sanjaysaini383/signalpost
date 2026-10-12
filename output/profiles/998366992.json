@@ -1,124 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "998366992",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:19Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BERGE DEKOR",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "navn: BERGE DEKOR",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "registered_date",
       "value": "2012-05-23",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-05-23",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "business_address",
       "value": "Strynevegen 2950, 6798 HJELLEDALEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "forretningsadresse: Strynevegen 2950, 6798 HJELLEDALEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STRYN (4651)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
+      "retrieved_at": "2026-10-12T09:55:19Z",
+      "evidence": "kommune: STRYN, kommunenummer: 4651",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "industry_code",
       "value": "90.209 Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "naeringskode1: 90.209 Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
+      "retrieved_at": "2026-10-12T09:55:19Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
+      "first_seen": "2026-10-12T09:55:19Z"
+    },
+    {
+      "field": "mobile",
       "value": "90952296",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 90952296",
+      "retrieved_at": "2026-10-12T09:55:19Z",
+      "evidence": "mobil: 90952296",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "activity_description",
       "value": "Kunst-verksemd, hytte-dekor.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "aktivitet: Kunst-verksemd, hytte-dekor.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
+      "retrieved_at": "2026-10-12T09:55:19Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998366992",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "role:INNH",
@@ -127,11 +155,11 @@
         "name": "Unni Kristin Berge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "INNH (Innehaver): Unni Kristin Berge",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998366992",
       "as_of": "2012-05-23",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
     },
     {
       "field": "role:DAGL",
@@ -140,15 +168,45 @@
         "name": "Unni Kristin Berge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998366992/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:19Z",
       "evidence": "DAGL (Daglig leder): Unni Kristin Berge",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998366992",
       "as_of": "2012-05-23",
-      "first_seen": "2026-10-11T18:01:45Z"
+      "first_seen": "2026-10-12T09:55:19Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 61.921496979180475,
+        "lon": 7.1923987257987,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Strynevegen+2950&postnummer=6798&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:19Z",
+      "evidence": "address 'Strynevegen 2950', 6798 HJELLEDALEN, municipality 4651 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998366992, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:19Z"
     }
   ],
   "warnings": [],
   "name": "BERGE DEKOR",
-  "previous_run": "2026-10-11T18:01:45Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BERGE DEKOR is an Enkeltpersonforetak (ENK) registered in 2012, based in Stryn. Main industry: 90.209 Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted. Key people: Unni Kristin Berge (daglig leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998366992.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

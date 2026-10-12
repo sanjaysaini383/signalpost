@@ -1,133 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "998181437",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:39Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ALF HENNING LØVALD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "navn: ALF HENNING LØVALD",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "registered_date",
       "value": "2012-04-03",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-04-03",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "business_address",
       "value": "Stubberudveien 3, 3089 HOLMESTRAND, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "forretningsadresse: Stubberudveien 3, 3089 HOLMESTRAND, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
+    },
+    {
+      "field": "municipality",
+      "value": "HOLMESTRAND (3903)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
+      "retrieved_at": "2026-10-12T09:57:39Z",
+      "evidence": "kommune: HOLMESTRAND, kommunenummer: 3903",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "industry_code",
       "value": "02.200 Avvirkning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "naeringskode1: 02.200 Avvirkning",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
+      "retrieved_at": "2026-10-12T09:57:39Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
+      "first_seen": "2026-10-12T09:57:39Z"
+    },
+    {
+      "field": "mobile",
       "value": "93880028",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
-      "evidence": "telefon: 93880028",
+      "retrieved_at": "2026-10-12T09:57:39Z",
+      "evidence": "mobil: 93880028",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "email",
       "value": "affi_7@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "epostadresse: affi_7@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "activity_description",
       "value": "Skogbruk/landbruk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "aktivitet: Skogbruk/landbruk.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
+      "retrieved_at": "2026-10-12T09:57:39Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998181437",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
     },
     {
       "field": "role:INNH",
@@ -136,15 +164,44 @@
         "name": "Alf Henning Løvald"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998181437/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:39Z",
       "evidence": "INNH (Innehaver): Alf Henning Løvald",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998181437",
       "as_of": "2012-04-03",
-      "first_seen": "2026-10-11T18:02:54Z"
+      "first_seen": "2026-10-12T09:57:39Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.498275882592395,
+        "lon": 10.25312002543435,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Stubberudveien+3&postnummer=3089&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:39Z",
+      "evidence": "address 'Stubberudveien 3', 3089 HOLMESTRAND, municipality 3903 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998181437, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:39Z"
     }
   ],
   "warnings": [],
   "name": "ALF HENNING LØVALD",
-  "previous_run": "2026-10-11T18:02:54Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ALF HENNING LØVALD is an Enkeltpersonforetak (ENK) registered in 2012, based in Holmestrand. Main industry: 02.200 Avvirkning.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998181437.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

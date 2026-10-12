@@ -1,133 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "825203222",
-  "generated_at": "2026-10-11T18:04:07Z",
+  "generated_at": "2026-10-12T09:56:38Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "CELINE JESSEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "navn: CELINE JESSEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "registered_date",
       "value": "2020-06-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-06-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "business_address",
       "value": "Eitrheimsvegen 20, 5750 ODDA, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "forretningsadresse: Eitrheimsvegen 20, 5750 ODDA, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ULLENSVANG (4618)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "kommune: ULLENSVANG, kommunenummer: 4618",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "industry_code",
       "value": "79.902 Guide- og reiseledervirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "naeringskode1: 79.902 Guide- og reiseledervirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "mobile",
       "value": "928 93 599",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
-      "evidence": "telefon: 928 93 599",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "mobil: 928 93 599",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "email",
       "value": "celinejessen@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "epostadresse: celinejessen@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "activity_description",
       "value": "Reiseleder og guide virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "aktivitet: Reiseleder og guide virksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825203222",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +164,11 @@
         "name": "Ricke Celine Sandø Jessen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825203222/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "INNH (Innehaver): Ricke Celine Sandø Jessen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825203222",
       "as_of": "2020-06-16",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "establishment",
@@ -150,15 +178,54 @@
         "address": "Eitrheimsvegen 20, 5750 ODDA, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825203222",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underenhet 925307688 overordnetEnhet: 825203222",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825203222",
       "as_of": "2020-07-07",
-      "first_seen": "2026-10-11T18:02:18Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825203222",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 825203222",
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.06952081654774,
+        "lon": 6.54348694439685,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Eitrheimsvegen+20&postnummer=5750&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "address 'Eitrheimsvegen 20', 5750 ODDA, municipality 4618 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825203222, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:38Z"
     }
   ],
   "warnings": [],
   "name": "CELINE JESSEN",
-  "previous_run": "2026-10-11T18:02:18Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "CELINE JESSEN is an Enkeltpersonforetak (ENK) registered in 2020, based in Ullensvang. Main industry: 79.902 Guide- og reiseledervirksomhet. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825203222.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

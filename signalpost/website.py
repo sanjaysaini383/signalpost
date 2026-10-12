@@ -11,7 +11,7 @@ from .brreg import fact
 from .budget import BudgetExceeded
 
 MAX_PAGE_CHARS = 400_000
-CONTACT_HINTS = re.compile(r"kontakt|contact|om-oss|om_oss|omoss|about|om-|about-us", re.I)
+CONTACT_HINTS = re.compile(r"kontakt|contact|om-oss|om_oss|omoss|about|om-|tjenest|service|produkt|product", re.I)
 SOCIAL = {
     "linkedin": re.compile(r"https?://(?:[a-z]{2,3}\.)?linkedin\.com/company/[\w\-%.]+", re.I),
     "facebook": re.compile(r"https?://(?:www\.)?facebook\.com/(?!sharer|share|plugins|tr\b)[\w\-.]+", re.I),
@@ -27,9 +27,13 @@ class _Page(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.title, self.meta, self.links, self._text, self._skip, self._in_title = "", {}, [], [], 0, False
+        self.ldjson, self._ld = [], False
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        if tag == "script" and "ld+json" in (a.get("type") or "").lower():
+            self._ld = True
+            self.ldjson.append("")
         if tag in ("script", "style", "noscript", "svg"):
             self._skip += 1
         elif tag == "title":
@@ -42,12 +46,16 @@ class _Page(HTMLParser):
             self.links.append(a["href"].strip())
 
     def handle_endtag(self, tag):
+        if tag == "script":
+            self._ld = False
         if tag in ("script", "style", "noscript", "svg") and self._skip:
             self._skip -= 1
         elif tag == "title":
             self._in_title = False
 
     def handle_data(self, data):
+        if self._ld and self.ldjson:
+            self.ldjson[-1] += data
         if self._in_title:
             self.title += data
         elif not self._skip and data.strip():
@@ -86,16 +94,106 @@ def _name_core(name):
     return re.sub(r"\s+", " ", n).strip().lower()
 
 
-def ties_to_company(org, name, texts):
-    """Return an evidence string if the pages mention the org number or the company's name, else None."""
+def _org_pattern(org):
+    return re.compile(rf"(?<!\d){org[:3]}[\s.]?{org[3:6]}[\s.]?{org[6:]}(?!\d)")
+
+
+def ties_to_company(org, name, texts, postcode=None, phones=(), strong_only=False, domain=None):
+    """Return an evidence string if the pages tie to THIS company, else None.
+
+    Strong: the organisation number appears on the page. Weaker (only for sites the register itself declares):
+    the company name together with the registered postal code or telephone number. A name alone is never enough."""
     blob = " ".join(texts)
-    digits = re.sub(r"\s", "", blob)
-    if re.search(rf"(?<!\d){org}(?!\d)", digits):
+    if _org_pattern(org).search(blob):
         return f"page text contains organisation number {org}"
+    if strong_only:
+        return None
     core = _name_core(name)
-    if len(core) >= 4 and core in re.sub(r"\s+", " ", blob.lower()):
-        return f"page text contains company name '{core}'"
+    flat = re.sub(r"\s+", " ", blob.lower())
+    if len(core) < 4 or core not in flat:
+        return None
+    if postcode and re.search(rf"(?<!\d){postcode}(?!\d)", blob):
+        return f"page text contains company name '{core}' and the registered postal code {postcode}"
+    if domain and _domain_matches_name(domain, core):
+        return f"the registered website domain '{domain}' matches the company name '{core}' and the page shows the name"
+    digits = re.sub(r"\D", "", blob)
+    for ph in phones:
+        d = re.sub(r"\D", "", ph or "")[-8:]
+        if len(d) == 8 and d in digits:
+            return f"page text contains company name '{core}' and the registered telephone number {ph}"
     return None
+
+
+def _domain_matches_name(domain, core):
+    label = re.sub(r"[^a-z0-9]", "", domain.lower().removeprefix("www.").split(".")[0].translate(_ASCII))
+    joined = re.sub(r"[^a-z0-9]", "", core.translate(_ASCII))
+    if len(label) < 6 or len(joined) < 6:
+        return False
+    if label == joined:
+        return True
+    short, long_ = sorted((label, joined), key=len)
+    return short in long_ and len(short) / len(long_) >= 0.7
+
+
+_ASCII = str.maketrans({"æ": "ae", "ø": "o", "å": "a", "ä": "a", "ö": "o", "ü": "u", "é": "e"})
+DISCOVERY_FORMS = {"AS", "ASA", "ANS", "DA", "SA", "BA", "KS", "SE", "IKS", "NUF"}
+
+
+def candidate_domains(name, limit=3):
+    """Plausible domains for a company, derived from its registered name. They are only guesses and must be
+    confirmed by the organisation number on the page before anything is published."""
+    folded = re.sub(r"[^a-z0-9 ]", "", _name_core(name).translate(_ASCII))
+    tokens = folded.split()
+    joined = "".join(tokens)
+    if len(joined) < 5 or len(tokens) > 5:
+        return []
+    out = [f"{joined}.no", f"{joined}.com"]
+    if len(tokens) > 1:
+        out.append("-".join(tokens) + ".no")
+    return list(dict.fromkeys(out))[:limit]
+
+
+def discover_site(fetcher, org, unit):
+    """Try name-derived domains; accept one only if its home page shows this organisation number."""
+    if (unit.get("organisasjonsform") or {}).get("kode") not in DISCOVERY_FORMS:
+        return None
+    for host in candidate_domains(unit.get("navn", "")):
+        url = f"https://{host}/"
+        try:
+            status, html = fetcher.get(url, accept="text/html", retries=1, timeout=8)
+        except BudgetExceeded:
+            raise
+        except Exception:
+            continue
+        if status == 200 and "<" in html:
+            p = parse_page(html)
+            if ties_to_company(org, unit.get("navn", ""), [p.title + " " + p.text], strong_only=True):
+                return url
+    return None
+
+
+def parse_jsonld(blocks):
+    """Flatten schema.org objects found in application/ld+json blocks."""
+    objs = []
+
+    def walk(x):
+        if isinstance(x, list):
+            for i in x:
+                walk(i)
+        elif isinstance(x, dict):
+            objs.append(x)
+            for k in ("@graph", "mainEntity", "publisher", "provider"):
+                if k in x:
+                    walk(x[k])
+    for b in blocks:
+        try:
+            walk(json.loads(b))
+        except ValueError:
+            continue
+    return objs
+
+
+_ORG_TYPES = re.compile(r"organi[sz]ation|business|corporation|company|store|restaurant|service", re.I)
 
 
 def _allowed(fetcher, base, url):
@@ -115,7 +213,7 @@ def _snippet(text, needle, width=80):
     return text[max(0, i - width): i + len(needle) + width].replace("\n", " ").strip()
 
 
-def collect_pages(fetcher, site, max_pages=3):
+def collect_pages(fetcher, site, max_pages=4):
     """Fetch the home page plus up to two contact/about pages. Returns [(url, html)]."""
     if not _allowed(fetcher, site, site):
         return []
@@ -146,9 +244,12 @@ def collect_pages(fetcher, site, max_pages=3):
 
 def website_facts(fetcher, org, unit, retrieved_at, warnings):
     site = normalize_url(unit.get("hjemmeside"))
-    if not site:
-        return []
+    declared = bool(site)
     try:
+        if not site:
+            site = discover_site(fetcher, org, unit)
+        if not site:
+            return []
         pages = collect_pages(fetcher, site)
     except BudgetExceeded:
         raise
@@ -160,13 +261,22 @@ def website_facts(fetcher, org, unit, retrieved_at, warnings):
         return []
     parsed = [(u, h, parse_page(h)) for u, h in pages]
     texts = [p.title + " " + p.text for _, _, p in parsed]
-    tie = ties_to_company(org, unit.get("navn", ""), texts)
+    addr = unit.get("forretningsadresse") or {}
+    tie = ties_to_company(org, unit.get("navn", ""), texts, postcode=addr.get("postnummer"),
+                          phones=[unit.get("telefon"), unit.get("mobil")], strong_only=not declared,
+                          domain=urlparse(site).netloc if declared else None)
     if not tie:
-        warnings.append(f"website {site} discarded: page does not mention org number or company name")
+        warnings.append(f"website {site} discarded: page does not tie to organisation number {org}")
         return []
 
-    why_base = f"Page from {site}, the website declared in Enhetsregisteret for organisation number {org}; {tie}"
+    origin = ("the website declared in Enhetsregisteret" if declared
+              else "a website found by name-based domain lookup (not in the register)")
+    why_base = f"Page from {site}, {origin} for organisation number {org}; {tie}"
     out = [fact("website_verified", True, pages[0][0], tie, why_base, retrieved_at)]
+    if not declared:
+        out.append(fact("website", site, pages[0][0], tie,
+                        f"Not listed in the register. Accepted only because the page itself shows organisation number {org}",
+                        retrieved_at))
     home_url, _, home = parsed[0]
     desc = home.meta.get("description") or home.meta.get("og:description")
     if desc and len(desc) > 20:
@@ -202,6 +312,40 @@ def website_facts(fetcher, org, unit, retrieved_at, warnings):
     for name, (url, link) in sorted(socials.items()):
         out.append(fact(f"social:{name}", link, url, f"link on page: {link}", why_base, retrieved_at))
 
+    # schema.org data the company publishes about itself (JSON-LD)
+    seen = {(f["field"], str(f["value"])) for f in out}
+    reg_post = addr.get("postnummer")
+    for url, _, p in parsed:
+        for o in parse_jsonld(p.ldjson):
+            types = o.get("@type")
+            types = " ".join(types) if isinstance(types, list) else str(types or "")
+            if not _ORG_TYPES.search(types):
+                continue
+            ev = f"JSON-LD {types}: "
+            tel = re.sub(r"[^\d+]", "", str(o.get("telephone") or ""))
+            if 8 <= len(tel) <= 15 and ("website_phone", tel) not in seen:
+                seen.add(("website_phone", tel))
+                out.append(fact("website_phone", tel, url, ev + f"telephone {o.get('telephone')}", why_base, retrieved_at))
+            mail = str(o.get("email") or "").replace("mailto:", "").strip().lower()
+            if EMAIL.fullmatch(mail) and ("website_email", mail) not in seen and (
+                    mail.split("@")[1] == site_domain or mail.split("@")[1].endswith("." + site_domain)):
+                seen.add(("website_email", mail))
+                out.append(fact("website_email", mail, url, ev + f"email {mail}", why_base, retrieved_at))
+            a = o.get("address")
+            if isinstance(a, dict) and a.get("streetAddress") and str(a.get("postalCode", "")).strip() == reg_post:
+                text = f"{a['streetAddress']}, {a.get('postalCode')} {a.get('addressLocality', '')}".strip()
+                if ("website_address", text) not in seen:
+                    seen.add(("website_address", text))
+                    out.append(fact("website_address", text, url, ev + f"address {text} (postal code equals the register's)",
+                                    why_base, retrieved_at))
+            same = o.get("sameAs")
+            for link in ([same] if isinstance(same, str) else same or []):
+                for name, rx in SOCIAL.items():
+                    m = rx.match(str(link))
+                    if m and (f"social:{name}", m.group(0)) not in seen and not any(f["field"] == f"social:{name}" for f in out):
+                        seen.add((f"social:{name}", m.group(0)))
+                        out.append(fact(f"social:{name}", m.group(0), url, ev + f"sameAs {m.group(0)}", why_base, retrieved_at))
+
     if os.environ.get("ANTHROPIC_API_KEY"):
         out += llm_facts(fetcher, parsed, why_base, retrieved_at, warnings)
     return out
@@ -235,6 +379,10 @@ def verify_llm_items(data, source_texts):
         q = _norm(str(item["quote"]))
         if len(q) < 12:
             return
+        # Any figure the model states must be in its own quote: no invented numbers, least of all money.
+        nums = re.findall(r"\d[\d .,]*\d|\d", str(item["value"]))
+        if any(re.sub(r"\D", "", n) not in re.sub(r"\D", "", q) for n in nums):
+            return
         for url, text in source_texts:
             if q in _norm(text):
                 kept.append((field, str(item["value"]).strip(), str(item["quote"]).strip(), url))
@@ -250,14 +398,14 @@ def verify_llm_items(data, source_texts):
     return kept
 
 
-def llm_facts(fetcher, parsed, why_base, retrieved_at, warnings):
-    import anthropic
-
+def llm_facts(fetcher, parsed, why_base, retrieved_at, warnings, client=None):
     source_texts = [(u, p.title + " " + p.text) for u, _, p in parsed]
     corpus = "\n\n".join(f"[{u}]\n{t[:4000]}" for u, t in source_texts)[:9000]
     fetcher.count_external()  # an LLM call counts against the outbound-request budget
     try:
-        client = anthropic.Anthropic(max_retries=1, timeout=60)
+        if client is None:
+            import anthropic
+            client = anthropic.Anthropic(max_retries=1, timeout=60)
         resp = client.messages.create(
             model=LLM_MODEL, max_tokens=2000, system=PROMPT,
             output_config={"effort": "low"},

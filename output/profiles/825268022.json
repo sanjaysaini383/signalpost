@@ -1,115 +1,143 @@
 {
+  "schema_version": 2,
   "organization_number": "825268022",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:57:51Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "PSYKOLOG LOTTA SJÅFJELL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "navn: PSYKOLOG LOTTA SJÅFJELL",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "registered_date",
       "value": "2020-06-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-06-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "business_address",
       "value": "Olleveien 22C, 1182 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "forretningsadresse: Olleveien 22C, 1182 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
+      "retrieved_at": "2026-10-12T09:57:51Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "industry_code",
       "value": "85.597 Annen undervisning ellers",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "naeringskode1: 85.597 Annen undervisning ellers",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
+      "retrieved_at": "2026-10-12T09:57:51Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "activity_description",
       "value": "Undervisning, foredrag, opplæring innen psykisk helse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "aktivitet: Undervisning, foredrag, opplæring innen psykisk helse.",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
+      "retrieved_at": "2026-10-12T09:57:51Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825268022",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
     },
     {
       "field": "role:INNH",
@@ -118,15 +146,45 @@
         "name": "Lotta Sjåfjell Hexeberg"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825268022/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:51Z",
       "evidence": "INNH (Innehaver): Lotta Sjåfjell Hexeberg",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825268022",
       "as_of": "2020-06-29",
-      "first_seen": "2026-10-11T18:03:02Z"
+      "first_seen": "2026-10-12T09:57:51Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.89367211987371,
+        "lon": 10.791069520746731,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Olleveien+22C&postnummer=1182&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:51Z",
+      "evidence": "address 'Olleveien 22C', 1182 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825268022, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:51Z"
     }
   ],
   "warnings": [],
   "name": "PSYKOLOG LOTTA SJÅFJELL",
-  "previous_run": "2026-10-11T18:03:02Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "PSYKOLOG LOTTA SJÅFJELL is an Enkeltpersonforetak (ENK) registered in 2020, based in Oslo. Main industry: 85.597 Annen undervisning ellers.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825268022.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

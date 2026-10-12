@@ -1,142 +1,197 @@
 {
+  "schema_version": 2,
   "organization_number": "813887622",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:33Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "PLOCKMATIC DOCUMENT FINISHING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "navn: PLOCKMATIC DOCUMENT FINISHING AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "founded",
       "value": "2014-07-01",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "stiftelsesdato: 2014-07-01",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "registered_date",
       "value": "2014-08-18",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-08-18",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-08-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-08-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2014-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2014-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2017-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "vedtektsdato: 2017-11-24",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "business_address",
       "value": "Grorudveien 55, 0976 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "forretningsadresse: Grorudveien 55, 0976 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "industry_code",
       "value": "46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "naeringskode1: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "website",
       "value": "www.plockmatic.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "hjemmeside: www.plockmatic.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "phone",
       "value": "23 89 85 86",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "telefon: 23 89 85 86",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "mobile",
+      "value": "911 28 221",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "mobil: 911 28 221",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "email",
       "value": "info@plockmatic.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "epostadresse: info@plockmatic.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "activity_description",
       "value": "Salg, markedsføring og service av kontorinventar og kontormaskiner, samt maskiner og tilleggsutstyr for etterbehandling til trykkerier og grafisk virksomhet samt annen forenlig virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "aktivitet: Salg, markedsføring og service av kontorinventar og kontormaskiner, samt maskiner og tilleggsutstyr for etterbehandling til trykkerier og grafisk virksomhet samt annen forenlig virksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "purpose",
       "value": "Bedrive salg, markedsføring og service av kontorinventar og kontormaskiner, samt maskiner og tilleggsutstyr for etterbehandling til trykkerier og grafisk virksomhet samt annen forenlig virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "vedtektsfestetFormaal: Bedrive salg, markedsføring og service av kontorinventar og kontormaskiner, samt maskiner og tilleggsutstyr for etterbehandling til trykkerier og grafisk virksomhet samt annen forenlig virksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "share_capital",
@@ -145,38 +200,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "kapital.belop: 350000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
       "as_of": "2017-12-27",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 813887622",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "role:DAGL",
@@ -185,11 +249,11 @@
         "name": "Fredrik Thorsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "DAGL (Daglig leder): Fredrik Thorsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813887622",
       "as_of": "2014-08-18",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "role:LEDE",
@@ -198,11 +262,11 @@
         "name": "Jan Anders Marstorp"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "LEDE (Styrets leder): Jan Anders Marstorp",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813887622",
       "as_of": "2014-08-18",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "role:MEDL",
@@ -211,11 +275,11 @@
         "name": "Ola Lars Erik Nilsson"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "MEDL (Styremedlem): Ola Lars Erik Nilsson",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813887622",
       "as_of": "2014-08-18",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "role:REVI",
@@ -224,11 +288,30 @@
         "name": "INSIGNIS AS (org 917835810)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813887622/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "REVI (Revisor): INSIGNIS AS (org 917835810)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 813887622",
       "as_of": "2022-10-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "journalnr 2026425114, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -237,11 +320,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 14522057.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 14083726.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 14083726.0 NOK (journalnr 2026425114)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -250,11 +346,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 438331.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 330253.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 330253.0 NOK (journalnr 2026425114)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -263,11 +372,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 330253.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -276,11 +385,37 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "eiendeler.sumEiendeler: 10452466.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 10452466.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 10452466.0 NOK (journalnr 2026425114)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 151313.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 151313.0 NOK (journalnr 2026425114)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -289,11 +424,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2665034.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -302,11 +437,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 7787432.0 NOK (journalnr 2026425114)",
       "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 7787432.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 7787432.0 NOK (journalnr 2026425114)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 11306406.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 11306406.0 NOK (journalnr 2025315809)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 470350.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 470350.0 NOK (journalnr 2025315809)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 7417248.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "eiendeler.sumEiendeler: 7417248.0 NOK (journalnr 2025315809)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 2334781.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2334781.0 NOK (journalnr 2025315809)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 13906630.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 13906630.0 NOK (journalnr 2024483304)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 383363.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 383363.0 NOK (journalnr 2024483304)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 5051487.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "eiendeler.sumEiendeler: 5051487.0 NOK (journalnr 2024483304)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1864431.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1864431.0 NOK (journalnr 2024483304)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 813887622 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:33Z"
     },
     {
       "field": "establishment",
@@ -316,17 +568,54 @@
         "address": "Grorudveien 55, 0976 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813887622",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:33Z",
       "evidence": "underenhet 914136164 overordnetEnhet: 813887622",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 813887622",
       "as_of": "2014-09-09",
-      "first_seen": "2026-10-11T18:01:52Z"
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813887622",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 813887622",
+      "first_seen": "2026-10-12T09:55:33Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.95334214871895,
+        "lon": 10.884794450153736,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Grorudveien+55&postnummer=0976&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:33Z",
+      "evidence": "address 'Grorudveien 55', 0976 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 813887622, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:33Z"
     }
   ],
   "warnings": [
     "website fetch failed: GET https://www.plockmatic.no/robots.txt failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)"
   ],
   "name": "PLOCKMATIC DOCUMENT FINISHING AS",
-  "previous_run": "2026-10-11T18:01:52Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "PLOCKMATIC DOCUMENT FINISHING AS is an Aksjeselskap (AS) registered in 2014, based in Oslo. Main industry: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr. Latest selskap accounts (period ending 2025-12-31): revenue 14.5 million NOK, net profit 330.3 thousand NOK. Key people: Fredrik Thorsen (daglig leder), Jan Anders Marstorp (styrets leder). It operates 1 registered establishment(s). Website: www.plockmatic.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 813887622.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

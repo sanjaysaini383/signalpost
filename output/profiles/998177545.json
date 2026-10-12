@@ -1,124 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "998177545",
-  "generated_at": "2026-10-11T18:04:13Z",
+  "generated_at": "2026-10-12T09:57:24Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BJØRN BORG KJØLSETH",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "navn: BJØRN BORG KJØLSETH",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "registered_date",
       "value": "2012-04-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-04-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "business_address",
       "value": "Sondrevegen 3B, 0378 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "forretningsadresse: Sondrevegen 3B, 0378 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
+      "retrieved_at": "2026-10-12T09:57:24Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "industry_code",
       "value": "73.110 Reklamebyråvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "naeringskode1: 73.110 Reklamebyråvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
+      "retrieved_at": "2026-10-12T09:57:24Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "website",
       "value": "Www.alphabit.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "hjemmeside: Www.alphabit.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "activity_description",
       "value": "Rådgivning innen datatjenester og online markedsføring.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "aktivitet: Rådgivning innen datatjenester og online markedsføring.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
+      "retrieved_at": "2026-10-12T09:57:24Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998177545",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "role:INNH",
@@ -127,11 +155,11 @@
         "name": "Bjørn Borg Kjølseth"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998177545/roller",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "INNH (Innehaver): Bjørn Borg Kjølseth",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998177545",
       "as_of": "2012-04-17",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
     },
     {
       "field": "establishment",
@@ -141,17 +169,56 @@
         "address": "Sondrevegen 3B, 0378 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998177545",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:24Z",
       "evidence": "underenhet 918257500 overordnetEnhet: 998177545",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998177545",
       "as_of": "2016-12-21",
-      "first_seen": "2026-10-11T18:02:39Z"
+      "first_seen": "2026-10-12T09:57:24Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998177545",
+      "retrieved_at": "2026-10-12T09:57:24Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998177545",
+      "first_seen": "2026-10-12T09:57:24Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.934971684681464,
+        "lon": 10.661196576998764,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Sondrevegen+3B&postnummer=0378&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:24Z",
+      "evidence": "address 'Sondrevegen 3B', 0378 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998177545, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:24Z"
     }
   ],
   "warnings": [
     "website fetch failed: GET https://Www.alphabit.no/robots.txt failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.alphabit.no'. (_ssl.c:1082)"
   ],
   "name": "BJØRN BORG KJØLSETH",
-  "previous_run": "2026-10-11T18:02:39Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BJØRN BORG KJØLSETH is an Enkeltpersonforetak (ENK) registered in 2012, based in Oslo. Main industry: 73.110 Reklamebyråvirksomhet. It operates 1 registered establishment(s). Website: Www.alphabit.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998177545.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

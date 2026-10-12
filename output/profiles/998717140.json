@@ -1,115 +1,167 @@
 {
+  "schema_version": 2,
   "organization_number": "998717140",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:28Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "KILDEVELL, ASLAUG OG ARE OLJEMARK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "navn: KILDEVELL, ASLAUG OG ARE OLJEMARK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "registered_date",
       "value": "2012-08-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-08-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2026-03-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2026-03-13",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "business_address",
       "value": "Hølondvegen 2000, 7212 KORSVEGEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "forretningsadresse: Hølondvegen 2000, 7212 KORSVEGEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "municipality",
+      "value": "MELHUS (5028)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "kommune: MELHUS, kommunenummer: 5028",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "industry_code",
       "value": "96.990 Andre personlige tjenester ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "naeringskode1: 96.990 Andre personlige tjenester ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "activity_description",
       "value": "Kristent omsorgsarbeid der hele Bibelen som Guds Ord forkynnes i form av møter, konferanser, utgivelse av bøker og kunst.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "aktivitet: Kristent omsorgsarbeid der hele Bibelen som Guds Ord forkynnes i form av møter, konferanser, utgivelse av bøker og kunst.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ARE E OLJEMARK MASKIN",
+          "from": "2012-08-16",
+          "to": "2026-03-13"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'ARE E OLJEMARK MASKIN'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998717140",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +170,11 @@
         "name": "Are Edvin Oljemark"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998717140/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "INNH (Innehaver): Are Edvin Oljemark",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998717140",
       "as_of": "2012-08-16",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
     },
     {
       "field": "establishment",
@@ -132,15 +184,55 @@
         "address": "Hølondvegen 2000, 7212 KORSVEGEN, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998717140",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:28Z",
       "evidence": "underenhet 937356226 overordnetEnhet: 998717140",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998717140",
       "as_of": "2026-03-14",
-      "first_seen": "2026-10-11T18:02:44Z"
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998717140",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998717140",
+      "first_seen": "2026-10-12T09:57:28Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.16371234576137,
+        "lon": 10.107673400740598,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=H%C3%B8londvegen+2000&postnummer=7212&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:28Z",
+      "evidence": "address 'Hølondvegen 2000', 7212 KORSVEGEN, municipality 5028 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998717140, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:28Z"
     }
   ],
   "warnings": [],
   "name": "KILDEVELL, ASLAUG OG ARE OLJEMARK",
-  "previous_run": "2026-10-11T18:02:44Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KILDEVELL, ASLAUG OG ARE OLJEMARK is an Enkeltpersonforetak (ENK) registered in 2012, based in Melhus. Main industry: 96.990 Andre personlige tjenester ikke nevnt annet sted. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998717140.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

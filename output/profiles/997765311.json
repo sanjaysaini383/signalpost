@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "997765311",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:57:08Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "RØRLEGGERMESTER BORREBÆK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "navn: RØRLEGGERMESTER BORREBÆK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "registered_date",
       "value": "2012-01-04",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-01-04",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "business_address",
       "value": "Øvre Gjellum vei 1, 1389 HEGGEDAL, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "forretningsadresse: Øvre Gjellum vei 1, 1389 HEGGEDAL, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ASKER (3203)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "kommune: ASKER, kommunenummer: 3203",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "industry_code",
       "value": "43.221 Rørleggerarbeid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "naeringskode1: 43.221 Rørleggerarbeid",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "mobile",
       "value": "91341521",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
-      "evidence": "telefon: 91341521",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "mobil: 91341521",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "email",
       "value": "rorleggerb@yahoo.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "epostadresse: rorleggerb@yahoo.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "activity_description",
       "value": "Rørleggertjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "aktivitet: Rørleggertjenester.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765311",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Vidar Johan Borrebæk"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "INNH (Innehaver): Vidar Johan Borrebæk",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997765311",
       "as_of": "2012-01-04",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "role:DAGL",
@@ -149,11 +186,11 @@
         "name": "Vidar Johan Borrebæk"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "DAGL (Daglig leder): Vidar Johan Borrebæk",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997765311",
       "as_of": "2012-01-04",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "role:REGN",
@@ -162,11 +199,11 @@
         "name": "A/S KATRO (org 947213962)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765311/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "REGN (Regnskapsfører): A/S KATRO (org 947213962)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997765311",
       "as_of": "2012-01-04",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
     },
     {
       "field": "establishment",
@@ -176,15 +213,54 @@
         "address": "Øvre Gjellum vei 1, 1389 HEGGEDAL, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997765311",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:08Z",
       "evidence": "underenhet 997797930 overordnetEnhet: 997765311",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997765311",
       "as_of": "2012-01-05",
-      "first_seen": "2026-10-11T18:02:31Z"
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997765311",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997765311",
+      "first_seen": "2026-10-12T09:57:08Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.791440697088866,
+        "lon": 10.448541263144254,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=%C3%98vre+Gjellum+vei+1&postnummer=1389&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:08Z",
+      "evidence": "address 'Øvre Gjellum vei 1', 1389 HEGGEDAL, municipality 3203 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997765311, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:08Z"
     }
   ],
   "warnings": [],
   "name": "RØRLEGGERMESTER BORREBÆK",
-  "previous_run": "2026-10-11T18:02:31Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "RØRLEGGERMESTER BORREBÆK is an Enkeltpersonforetak (ENK) registered in 2012, based in Asker. Main industry: 43.221 Rørleggerarbeid. Key people: Vidar Johan Borrebæk (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997765311.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

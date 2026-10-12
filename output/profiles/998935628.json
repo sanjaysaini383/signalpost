@@ -1,142 +1,190 @@
 {
+  "schema_version": 2,
   "organization_number": "998935628",
-  "generated_at": "2026-10-11T18:04:05Z",
+  "generated_at": "2026-10-12T09:54:55Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ISIS NATURTERAPI & ATELIER VOCALIS DALHAUG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "navn: ISIS NATURTERAPI & ATELIER VOCALIS DALHAUG",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "registered_date",
       "value": "2012-10-08",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-10-08",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "business_address",
       "value": "Bunesvegen 889, 2120 SAGSTUA, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "forretningsadresse: Bunesvegen 889, 2120 SAGSTUA, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NORD-ODAL (3414)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "kommune: NORD-ODAL, kommunenummer: 3414",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "industry_code",
       "value": "86.993 Andre helsetjenester ellers",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "website",
       "value": "www.solviantonette.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "hjemmeside: www.solviantonette.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
-      "field": "phone",
+      "field": "mobile",
       "value": "917 11 490",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
-      "evidence": "telefon: 917 11 490",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "mobil: 917 11 490",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "email",
       "value": "solvi.antonette@solviantonette.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "epostadresse: solvi.antonette@solviantonette.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "activity_description",
       "value": "Homøopraktiker MNLH, craniosakralterapi og healing og homotoksikologi. Malekurs og undervisning i sang/ pust/ stemmefrigjøring. Billedkunst: Maleri, tegning og grafikk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "aktivitet: Homøopraktiker MNLH, craniosakralterapi og healing og homotoksikologi. Malekurs og undervisning i sang/ pust/ stemmefrigjøring. Billedkunst: Maleri, tegning og grafikk.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ISIS NATURTERAPI & ATELIER ANIMA DALHAUG",
+          "from": "2012-10-08",
+          "to": "2015-07-08"
+        },
+        {
+          "name": "ISIS NATURTERAPI & ATELIER MEZZO DALHAUG",
+          "from": "2015-07-08",
+          "to": "2015-10-30"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'ISIS NATURTERAPI & ATELIER MEZZO DALHAUG'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935628",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "role:INNH",
@@ -145,11 +193,11 @@
         "name": "Sølvi Antonette Dalhaug"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "INNH (Innehaver): Sølvi Antonette Dalhaug",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935628",
       "as_of": "2012-10-08",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "role:REGN",
@@ -158,11 +206,11 @@
         "name": "JOTUNHEIMEN REGNSKAP AS (org 968611313)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935628/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "REGN (Regnskapsfører): JOTUNHEIMEN REGNSKAP AS (org 968611313)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935628",
       "as_of": "2023-07-06",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "establishment",
@@ -172,17 +220,55 @@
         "address": "Bunesvegen 889, 2120 SAGSTUA, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998935628",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underenhet 998991188 overordnetEnhet: 998935628",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998935628",
       "as_of": "2012-10-10",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998935628",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998935628",
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.423903074182206,
+        "lon": 11.594264040987214,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Bunesvegen+889&postnummer=2120&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "address 'Bunesvegen 889', 2120 SAGSTUA, municipality 3414 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998935628, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:54:55Z"
     }
   ],
   "warnings": [
-    "website https://www.solviantonette.no/ discarded: page does not mention org number or company name"
+    "website https://www.solviantonette.no/ discarded: page does not tie to organisation number 998935628"
   ],
   "name": "ISIS NATURTERAPI & ATELIER VOCALIS DALHAUG",
-  "previous_run": "2026-10-11T18:01:37Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ISIS NATURTERAPI & ATELIER VOCALIS DALHAUG is an Enkeltpersonforetak (ENK) registered in 2012, based in Nord-Odal. Main industry: 86.993 Andre helsetjenester ellers. It operates 1 registered establishment(s). Website: www.solviantonette.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998935628.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

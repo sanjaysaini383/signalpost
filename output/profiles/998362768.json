@@ -1,124 +1,190 @@
 {
+  "schema_version": 2,
   "organization_number": "998362768",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:16Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STJERNEGRILLEN V/SANOBAR OMARZAI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "navn: STJERNEGRILLEN V/SANOBAR OMARZAI",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "registered_date",
       "value": "2012-05-10",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-05-10",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-05-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-05-10",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "business_address",
       "value": "Altaveien 212, 9515 ALTA, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "forretningsadresse: Altaveien 212, 9515 ALTA, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ALTA (5601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "kommune: ALTA, kommunenummer: 5601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "industry_code",
       "value": "56.110 Drift av restauranter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "naeringskode1: 56.110 Drift av restauranter",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "phone",
       "value": "78 43 65 30",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "telefon: 78 43 65 30",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "mobile",
+      "value": "469 06 087",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "mobil: 469 06 087",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "activity_description",
       "value": "Serveringsvirksomhet og cateringvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "aktivitet: Serveringsvirksomhet og cateringvirksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "PITSTOP RESTAURANT V/SANOBAR OMARZAI",
+          "from": "2012-05-10",
+          "to": "2014-03-22"
+        },
+        {
+          "name": "ALTA BISTRO PITSTOP V/SANOBAR OMARZAI",
+          "from": "2014-03-22",
+          "to": "2021-02-24"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "historiskeNavn: 2 earlier name(s), latest 'ALTA BISTRO PITSTOP V/SANOBAR OMARZAI'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998362768",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
     },
     {
       "field": "role:INNH",
@@ -127,15 +193,45 @@
         "name": "Sanobar Omarzai"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998362768/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:16Z",
       "evidence": "INNH (Innehaver): Sanobar Omarzai",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998362768",
       "as_of": "2012-05-10",
-      "first_seen": "2026-10-11T18:02:09Z"
+      "first_seen": "2026-10-12T09:56:16Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 69.97435860187741,
+        "lon": 23.346379557503226,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Altaveien+212&postnummer=9515&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:16Z",
+      "evidence": "address 'Altaveien 212', 9515 ALTA, municipality 5601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998362768, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:16Z"
     }
   ],
   "warnings": [],
   "name": "STJERNEGRILLEN V/SANOBAR OMARZAI",
-  "previous_run": "2026-10-11T18:02:09Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STJERNEGRILLEN V/SANOBAR OMARZAI is an Enkeltpersonforetak (ENK) registered in 2012, based in Alta. Main industry: 56.110 Drift av restauranter.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998362768.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

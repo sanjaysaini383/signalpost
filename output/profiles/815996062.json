@@ -1,152 +1,189 @@
 {
+  "schema_version": 2,
   "organization_number": "815996062",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:33Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STEMMELOGOPEDI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "navn: STEMMELOGOPEDI AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "founded",
       "value": "2015-08-25",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "stiftelsesdato: 2015-08-25",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "registered_date",
       "value": "2015-09-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2015-09-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2015-09-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2015-09-29",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2015-08-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "vedtektsdato: 2015-08-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "employees",
       "value": 5,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "antallAnsatte: 5",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
       "as_of": "2026-09-14",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "business_address",
       "value": "Strandkaien 2A, 5013 BERGEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "forretningsadresse: Strandkaien 2A, 5013 BERGEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BERGEN (4601)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "kommune: BERGEN, kommunenummer: 4601",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "industry_code",
       "value": "86.993 Andre helsetjenester ellers",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "naeringskode1: 86.993 Andre helsetjenester ellers",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website",
       "value": "www.stemmelogopedi.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "hjemmeside: www.stemmelogopedi.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
-      "field": "phone",
+      "field": "mobile",
       "value": "924 53 308",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
-      "evidence": "telefon: 924 53 308",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "mobil: 924 53 308",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "email",
       "value": "post@stemmelogopedi.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "epostadresse: post@stemmelogopedi.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "activity_description",
       "value": "Logopedisk arbeid med pust- og stemme, ved funksjonelle og organiske stemmevansker som følge av feil- eller misbruk, sykdom og kirurgi.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "aktivitet: Logopedisk arbeid med pust- og stemme, ved funksjonelle og organiske stemmevansker som følge av feil- eller misbruk, sykdom og kirurgi.",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "purpose",
       "value": "Logopedisk arbeid med pust- og stemme, ved funksjonelle og organiske stemmevansker som følge av feil- eller misbruk, sykdom og kirurgi.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "vedtektsfestetFormaal: Logopedisk arbeid med pust- og stemme, ved funksjonelle og organiske stemmevansker som følge av feil- eller misbruk, sykdom og kirurgi.",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "share_capital",
@@ -155,38 +192,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
       "as_of": "2015-09-29",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:DAGL",
@@ -195,11 +241,11 @@
         "name": "Tom Karlsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "DAGL (Daglig leder): Tom Karlsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 815996062",
       "as_of": "2026-06-02",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:LEDE",
@@ -208,11 +254,11 @@
         "name": "Tom Karlsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "LEDE (Styrets leder): Tom Karlsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 815996062",
       "as_of": "2023-08-29",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "role:REGN",
@@ -221,11 +267,30 @@
         "name": "BRYGGEN REVISJON AS (org 963216343)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815996062/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "REGN (Regnskapsfører): BRYGGEN REVISJON AS (org 963216343)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 815996062",
       "as_of": "2015-09-29",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "journalnr 2026487509, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -234,11 +299,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4572786.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 4673084.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 4673084.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -247,11 +325,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: -100298.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": -84403.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: -84403.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -260,11 +351,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "resultatregnskapResultat.aarsresultat: -84403.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -273,11 +364,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "eiendeler.sumEiendeler: 796934.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 791131.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 791131.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 5803.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 5803.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 753455.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 753455.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -286,11 +416,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 228105.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -299,11 +429,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 568829.0 NOK (journalnr 2026487509)",
       "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 568829.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 568829.0 NOK (journalnr 2026487509)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 4932462.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 4932462.0 NOK (journalnr 2025306138)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -10339.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -10339.0 NOK (journalnr 2025306138)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 932781.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "eiendeler.sumEiendeler: 932781.0 NOK (journalnr 2025306138)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 312507.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 312507.0 NOK (journalnr 2025306138)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 3165170.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 3165170.0 NOK (journalnr 2024562574)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 128210.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 128210.0 NOK (journalnr 2024562574)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 805414.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "eiendeler.sumEiendeler: 805414.0 NOK (journalnr 2024562574)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 322847.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 322847.0 NOK (journalnr 2024562574)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 815996062 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "establishment",
@@ -314,96 +561,151 @@
         "employees": 5
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815996062",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "underenhet 820634012 overordnetEnhet: 815996062",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 815996062",
       "as_of": "2018-03-22",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=815996062",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.39408948544553,
+        "lon": 5.324601556504011,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Strandkaien+2A&postnummer=5013&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "address 'Strandkaien 2A', 5013 BERGEN, municipality 4601 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 815996062, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_verified",
       "value": true,
       "source_url": "https://www.stemmelogopedi.no/",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "page text contains organisation number 815996062",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_description",
       "value": "Trenger du hjelp med stemme, tale eller språk? Stemmelogopedi AS tilbyr logopedtjenester tilpasset dine behov.",
       "source_url": "https://www.stemmelogopedi.no/",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "meta description: Trenger du hjelp med stemme, tale eller språk? Stemmelogopedi AS tilbyr logopedtjenester tilpasset dine behov.",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_email",
       "value": "aina@stemmelogopedi.no",
       "source_url": "https://www.stemmelogopedi.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "mailto:aina@stemmelogopedi.no",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_email",
       "value": "irene@stemmelogopedi.no",
       "source_url": "https://www.stemmelogopedi.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "mailto:irene@stemmelogopedi.no",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_email",
       "value": "tom@stemmelogopedi.no",
       "source_url": "https://www.stemmelogopedi.no/",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "mailto:tom@stemmelogopedi.no",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_phone",
       "value": "40000648",
       "source_url": "https://www.stemmelogopedi.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "tel:400 00 648",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_phone",
       "value": "40300098",
       "source_url": "https://www.stemmelogopedi.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "tel:403 00 098",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "website_phone",
       "value": "41220929",
       "source_url": "https://www.stemmelogopedi.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "tel:412 20 929",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
     },
     {
       "field": "social:facebook",
       "value": "https://www.facebook.com/profile.php",
       "source_url": "https://www.stemmelogopedi.no/",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:33Z",
       "evidence": "link on page: https://www.facebook.com/profile.php",
       "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
-      "first_seen": "2026-10-11T18:02:48Z"
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "website_phone",
+      "value": "92453308",
+      "source_url": "https://www.stemmelogopedi.no/",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "JSON-LD ProfessionalService: telephone 924 53 308",
+      "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
+    },
+    {
+      "field": "website_address",
+      "value": "Strandkaien 2A, 5013 Bergen",
+      "source_url": "https://www.stemmelogopedi.no/",
+      "retrieved_at": "2026-10-12T09:57:33Z",
+      "evidence": "JSON-LD ProfessionalService: address Strandkaien 2A, 5013 Bergen (postal code equals the register's)",
+      "explanation": "Page from https://www.stemmelogopedi.no/, the website declared in Enhetsregisteret for organisation number 815996062; page text contains organisation number 815996062",
+      "first_seen": "2026-10-12T09:57:33Z"
     }
   ],
   "warnings": [],
   "name": "STEMMELOGOPEDI AS",
-  "previous_run": "2026-10-11T18:02:48Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.stemmelogopedi.no"
+  ],
+  "summary": "STEMMELOGOPEDI AS is an Aksjeselskap (AS) registered in 2015, based in Bergen. Main industry: 86.993 Andre helsetjenester ellers. It has 5 registered employees. Latest selskap accounts (period ending 2025-12-31): revenue 4.6 million NOK, net profit -84.4 thousand NOK. Key people: Tom Karlsen (daglig leder), Tom Karlsen (styrets leder). It operates 1 registered establishment(s). Website: www.stemmelogopedi.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 815996062.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains organisation number 815996062.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

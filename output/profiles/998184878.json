@@ -1,142 +1,179 @@
 {
+  "schema_version": 2,
   "organization_number": "998184878",
-  "generated_at": "2026-10-11T18:04:13Z",
+  "generated_at": "2026-10-12T09:57:20Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "VORTVEDT JØRGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "navn: VORTVEDT JØRGEN",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "business_address",
       "value": "Granittveien 20, 1890 RAKKESTAD, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "forretningsadresse: Granittveien 20, 1890 RAKKESTAD, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "municipality",
+      "value": "RAKKESTAD (3120)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "kommune: RAKKESTAD, kommunenummer: 3120",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "industry_code",
       "value": "01.610 Tjenester tilknyttet planteproduksjon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "naeringskode1: 01.610 Tjenester tilknyttet planteproduksjon",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "industry_code_2",
       "value": "01.110 Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "naeringskode2: 01.110 Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "mobile",
       "value": "924 61 816",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
-      "evidence": "telefon: 924 61 816",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "mobil: 924 61 816",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "email",
       "value": "vortvedt1@hotmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "epostadresse: vortvedt1@hotmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "activity_description",
       "value": "Leiekjøring traktor med fører. Dyrking av korn.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "aktivitet: Leiekjøring traktor med fører. Dyrking av korn.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998184878",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "role:INNH",
@@ -145,11 +182,11 @@
         "name": "Jørgen Vortvedt"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878/roller",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "INNH (Innehaver): Jørgen Vortvedt",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998184878",
       "as_of": "2012-03-29",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "role:REGN",
@@ -158,11 +195,11 @@
         "name": "NLR REGNSKAP AS (org 833028812)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998184878/roller",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "REGN (Regnskapsfører): NLR REGNSKAP AS (org 833028812)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998184878",
       "as_of": "2025-08-23",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
     },
     {
       "field": "establishment",
@@ -172,15 +209,54 @@
         "address": "Granittveien 20, 1890 RAKKESTAD, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184878",
-      "retrieved_at": "2026-10-11T18:04:13Z",
+      "retrieved_at": "2026-10-12T09:57:20Z",
       "evidence": "underenhet 898194442 overordnetEnhet: 998184878",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998184878",
       "as_of": "2012-03-31",
-      "first_seen": "2026-10-11T18:02:37Z"
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998184878",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998184878",
+      "first_seen": "2026-10-12T09:57:20Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.443546886001286,
+        "lon": 11.318010851774263,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Granittveien+20&postnummer=1890&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:20Z",
+      "evidence": "address 'Granittveien 20', 1890 RAKKESTAD, municipality 3120 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998184878, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:20Z"
     }
   ],
   "warnings": [],
   "name": "VORTVEDT JØRGEN",
-  "previous_run": "2026-10-11T18:02:37Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "VORTVEDT JØRGEN is an Enkeltpersonforetak (ENK) registered in 2012, based in Rakkestad. Main industry: 01.610 Tjenester tilknyttet planteproduksjon. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998184878.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,143 +1,171 @@
 {
+  "schema_version": 2,
   "organization_number": "916134118",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:57:59Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ANNE GRETE EIDSVIG OG KJELL INGE RØKKES ALLMENNYTTIGE STIFTELSE FOR UTDANNING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "navn: ANNE GRETE EIDSVIG OG KJELL INGE RØKKES ALLMENNYTTIGE STIFTELSE FOR UTDANNING",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "organization_form",
       "value": "Stiftelse (STI)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "organisasjonsform: STI",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "founded",
       "value": "2015-09-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "stiftelsesdato: 2015-09-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "registered_date",
       "value": "2015-11-18",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2015-11-18",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2016-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2016-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "employees",
       "value": 5,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "antallAnsatte: 5",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
       "as_of": "2025-10-15",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "business_address",
       "value": "Oksenøyveien 10, 1366 LYSAKER, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "forretningsadresse: Oksenøyveien 10, 1366 LYSAKER, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "postal_address",
       "value": "Postboks 243, 1326 LYSAKER, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "postadresse: Postboks 243, 1326 LYSAKER, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "municipality",
+      "value": "BÆRUM (3201)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "kommune: BÆRUM, kommunenummer: 3201",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "industry_code",
       "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "naeringskode1: 94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "website",
       "value": "www.akerscholarship.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "hjemmeside: www.akerscholarship.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
-      "field": "phone",
+      "field": "mobile",
       "value": "46744444",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "telefon: 46744444",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "mobil: 46744444",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "activity_description",
       "value": "Har til formål (ved utdeling av stipender og på andre måter) å gi særlig kvalifiserte personer med tilknytning til Norge mulighet til å ta en høyere grad ved verdens ledende universiteter, og bidra til å utvikle stipendiatenes personlige allmennyttige engasjement.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "aktivitet: Har til formål (ved utdeling av stipender og på andre måter) å gi særlig kvalifiserte personer med tilknytning til Norge mulighet til å ta en høyere grad ved verdens ledende universiteter, og bidra ti",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "share_capital",
@@ -146,38 +174,56 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "kapital.belop: 50000000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
       "as_of": "2015-11-18",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "registered_in_foundation_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "registrertIStiftelsesregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 916134118",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:DAGL",
@@ -186,11 +232,11 @@
         "name": "Bjørn Elias Blindheim"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "DAGL (Daglig leder): Bjørn Elias Blindheim",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2015-11-18",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:LEDE",
@@ -199,11 +245,11 @@
         "name": "Øyvind Eriksen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "LEDE (Styrets leder): Øyvind Eriksen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -212,11 +258,11 @@
         "name": "Kjell Inge Røkke"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): Kjell Inge Røkke",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -225,11 +271,11 @@
         "name": "Anne Grete Eidsvig"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): Anne Grete Eidsvig",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -238,11 +284,11 @@
         "name": "Tore Myrholt"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): Tore Myrholt",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -251,11 +297,11 @@
         "name": "Marianne Fyhn"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): Marianne Fyhn",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -264,11 +310,11 @@
         "name": "John-Arne Røttingen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): John-Arne Røttingen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:MEDL",
@@ -277,11 +323,11 @@
         "name": "Charlotte Cecilie Solberg Håkonsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "MEDL (Styremedlem): Charlotte Cecilie Solberg Håkonsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2026-07-16",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:REVI",
@@ -290,11 +336,11 @@
         "name": "PRICEWATERHOUSECOOPERS AS (org 987009713)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "REVI (Revisor): PRICEWATERHOUSECOOPERS AS (org 987009713)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2023-01-17",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "role:REGN",
@@ -303,11 +349,30 @@
         "name": "AS SOLREGN (org 956623103)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916134118/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "REGN (Regnskapsfører): AS SOLREGN (org 956623103)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 916134118",
       "as_of": "2024-08-13",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "journalnr 2026630732, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -316,11 +381,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 30710679.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 29026176.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 29026176.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -329,11 +407,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 1684503.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 5114204.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 5114204.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -342,11 +433,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 5114204.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -355,11 +446,37 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "eiendeler.sumEiendeler: 91241329.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 91241329.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 91241329.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 90219868.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 90219868.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -368,11 +485,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 27184549.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -381,11 +498,141 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 64056780.0 NOK (journalnr 2026630732)",
       "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 37629916.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 37629916.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 26426864.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 26426864.0 NOK (journalnr 2026630732)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 31478786.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 31478786.0 NOK (journalnr 2025589011)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -13014116.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -13014116.0 NOK (journalnr 2025589011)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 92840915.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "eiendeler.sumEiendeler: 92840915.0 NOK (journalnr 2025589011)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 22070345.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 22070345.0 NOK (journalnr 2025589011)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 68552057.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 68552057.0 NOK (journalnr 2024526579)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 34194635.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 34194635.0 NOK (journalnr 2024526579)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 95579810.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "eiendeler.sumEiendeler: 95579810.0 NOK (journalnr 2024526579)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 35084461.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 35084461.0 NOK (journalnr 2024526579)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 916134118 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
       "field": "establishment",
@@ -396,78 +643,54 @@
         "employees": 5
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916134118",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:57:59Z",
       "evidence": "underenhet 916287860 overordnetEnhet: 916134118",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 916134118",
       "as_of": "2015-11-24",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
-      "field": "website_verified",
-      "value": true,
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=916134118",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 916134118",
+      "first_seen": "2026-10-12T09:57:59Z"
     },
     {
-      "field": "website_description",
-      "value": "Aker Scholarship er et stipend for deg som ønsker å ta en Mastergrad eller PhD ved et av verdens ledende universiteter. Stipendet kan søkes av studenter fra alle fagområder.",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "meta description: Aker Scholarship er et stipend for deg som ønsker å ta en Mastergrad eller PhD ved et av verdens ledende universiteter. Stipendet kan søkes av studenter fra alle fagområder.",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
-    },
-    {
-      "field": "website_email",
-      "value": "kontakt@akerscholarship.no",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "mailto:kontakt@akerscholarship.no",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
-    },
-    {
-      "field": "website_phone",
-      "value": "+4746744444",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "tel:+4746744444",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
-    },
-    {
-      "field": "social:facebook",
-      "value": "https://www.facebook.com/akerscholarship",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "link on page: https://www.facebook.com/akerscholarship",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
-    },
-    {
-      "field": "social:instagram",
-      "value": "https://www.instagram.com/akerscholarship",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "link on page: https://www.instagram.com/akerscholarship",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
-    },
-    {
-      "field": "social:linkedin",
-      "value": "https://www.linkedin.com/company/10168233",
-      "source_url": "https://www.akerscholarship.no/",
-      "retrieved_at": "2026-10-11T18:04:17Z",
-      "evidence": "link on page: https://www.linkedin.com/company/10168233",
-      "explanation": "Page from https://www.akerscholarship.no/, the website declared in Enhetsregisteret for organisation number 916134118; page text contains company name 'anne grete eidsvig og kjell inge røkkes allmennyttige stiftelse for utdanning'",
-      "first_seen": "2026-10-11T18:03:07Z"
+      "field": "geo_location",
+      "value": {
+        "lat": 59.90504329020761,
+        "lon": 10.625481049747615,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Oksen%C3%B8yveien+10&postnummer=1366&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:59Z",
+      "evidence": "address 'Oksenøyveien 10', 1366 LYSAKER, municipality 3201 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 916134118, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:59Z"
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "website https://www.akerscholarship.no/ discarded: page does not tie to organisation number 916134118"
+  ],
   "name": "ANNE GRETE EIDSVIG OG KJELL INGE RØKKES ALLMENNYTTIGE STIFTELSE FOR UTDANNING",
-  "previous_run": "2026-10-11T18:03:07Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ANNE GRETE EIDSVIG OG KJELL INGE RØKKES ALLMENNYTTIGE STIFTELSE FOR UTDANNING is a Stiftelse (STI) registered in 2015, based in Bærum. Main industry: 94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål. It has 5 registered employees. Latest selskap accounts (period ending 2025-12-31): revenue 30.7 million NOK, net profit 5.1 million NOK. Key people: Bjørn Elias Blindheim (daglig leder), Øyvind Eriksen (styrets leder). It operates 1 registered establishment(s). Website: www.akerscholarship.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 916134118.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

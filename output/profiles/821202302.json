@@ -1,124 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "821202302",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:32Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "HEDDALSVEGEN 24 DRIFT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "navn: HEDDALSVEGEN 24 DRIFT AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "founded",
       "value": "2018-07-16",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "stiftelsesdato: 2018-07-16",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "registered_date",
       "value": "2018-07-31",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2018-07-31",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2018-07-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2018-07-31",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2025-08-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "vedtektsdato: 2025-08-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "business_address",
       "value": "Heddalsvegen 24, 3674 NOTODDEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "forretningsadresse: Heddalsvegen 24, 3674 NOTODDEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "postal_address",
       "value": "Bølehøgda 66, 3746 SKIEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "postadresse: Bølehøgda 66, 3746 SKIEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "municipality",
+      "value": "NOTODDEN (4005)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "kommune: NOTODDEN, kommunenummer: 4005",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "industry_code",
       "value": "68.320 Eiendomsforvaltning på oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "naeringskode1: 68.320 Eiendomsforvaltning på oppdrag",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "activity_description",
       "value": "Vedlikehold, teknisk drift, tjenester og prosjekter knyttet til forvaltning av eiendommen Heddalsvegen 24.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "aktivitet: Vedlikehold, teknisk drift, tjenester og prosjekter knyttet til forvaltning av eiendommen Heddalsvegen 24.",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "purpose",
       "value": "Vedlikehold, teknisk drift, tjenester og prosjekter knyttet til forvaltning av eiendommen Heddalsvegen 24.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "vedtektsfestetFormaal: Vedlikehold, teknisk drift, tjenester og prosjekter knyttet til forvaltning av eiendommen Heddalsvegen 24.",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "share_capital",
@@ -127,38 +164,62 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "kapital.belop: 1766000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
       "as_of": "2025-08-18",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "RONNIE SKAVLID HOLDING AS",
+          "from": "2018-07-31",
+          "to": "2025-08-01"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'RONNIE SKAVLID HOLDING AS'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 821202302",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "role:LEDE",
@@ -167,11 +228,43 @@
         "name": "Ronnie Skavlid"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/821202302/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "LEDE (Styrets leder): Ronnie Skavlid",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 821202302",
       "as_of": "2018-07-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "journalnr 2026505829, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 0.0 NOK (journalnr 2026505829)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -180,11 +273,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 0.0 NOK (journalnr 2026505829)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 0.0 NOK (journalnr 2026505829)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -193,11 +299,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 0.0 NOK (journalnr 2026505829)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -206,11 +312,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "eiendeler.sumEiendeler: 0.0 NOK (journalnr 2026505829)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 0.0 NOK (journalnr 2026505829)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -219,15 +338,122 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:32Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 0.0 NOK (journalnr 2026505829)",
       "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": -509.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -509.0 NOK (journalnr 2025714708)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "eiendeler.sumEiendeler: 0.0 NOK (journalnr 2025714708)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 0.0 NOK (journalnr 2025714708)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -1766609.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -1766609.0 NOK (journalnr 2024717363)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "eiendeler.sumEiendeler: 0.0 NOK (journalnr 2024717363)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": -1746509.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/821202302",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: -1746509.0 NOK (journalnr 2024717363)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 821202302 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:32Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.55804492833651,
+        "lon": 9.255113890099652,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Heddalsvegen+24&postnummer=3674&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:32Z",
+      "evidence": "address 'Heddalsvegen 24', 3674 NOTODDEN, municipality 4005 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 821202302, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:32Z"
     }
   ],
   "warnings": [],
   "name": "HEDDALSVEGEN 24 DRIFT AS",
-  "previous_run": "2026-10-11T18:02:14Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "HEDDALSVEGEN 24 DRIFT AS is an Aksjeselskap (AS) registered in 2018, based in Notodden. Main industry: 68.320 Eiendomsforvaltning på oppdrag. Latest selskap accounts (period ending 2025-12-31): net profit 0 NOK. Key people: Ronnie Skavlid (styrets leder).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 821202302.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

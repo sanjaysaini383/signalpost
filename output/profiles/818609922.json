@@ -1,124 +1,185 @@
 {
+  "schema_version": 2,
   "organization_number": "818609922",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:35Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ATELIER BEAUTY ANGELIKA WIESE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "navn: ATELIER BEAUTY ANGELIKA WIESE",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "registered_date",
       "value": "2017-02-23",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-02-23",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2019-04-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2019-04-09",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2017-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2017-09-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "business_address",
       "value": "Nedre Storgate 12, 3015 DRAMMEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "forretningsadresse: Nedre Storgate 12, 3015 DRAMMEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "postal_address",
       "value": "Konvallveien 11A, 3074 SANDE I VESTFOLD, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "postadresse: Konvallveien 11A, 3074 SANDE I VESTFOLD, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "municipality",
+      "value": "DRAMMEN (3301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "kommune: DRAMMEN, kommunenummer: 3301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "industry_code",
       "value": "96.220 Skjønnhetspleie",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "naeringskode1: 96.220 Skjønnhetspleie",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "activity_description",
       "value": "Tjenester innen skjønnhetspleie, makeup, fotpleie, vippeforlengelse. Salg av varer, klær, smykker, sko, kosmetikkprodukter, kostholds produkter. Opplæring/undervisning innen negldesign og make-up.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "aktivitet: Tjenester innen skjønnhetspleie, makeup, fotpleie, vippeforlengelse. Salg av varer, klær, smykker, sko, kosmetikkprodukter, kostholds produkter. Opplæring/undervisning innen negldesign og make-up.",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "ATELIER BEAUTY ANGELIKA WIESE",
+          "from": "2017-02-23",
+          "to": "2019-04-09"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'ATELIER BEAUTY ANGELIKA WIESE'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 818609922",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "role:INNH",
@@ -127,11 +188,11 @@
         "name": "Angelika Wiese"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818609922/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "INNH (Innehaver): Angelika Wiese",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818609922",
       "as_of": "2017-02-23",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
     },
     {
       "field": "establishment",
@@ -141,15 +202,55 @@
         "address": "Nedre Storgate 12, 3015 DRAMMEN, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818609922",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:35Z",
       "evidence": "underenhet 918653007 overordnetEnhet: 818609922",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818609922",
       "as_of": "2017-03-04",
-      "first_seen": "2026-10-11T18:02:50Z"
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818609922",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 818609922",
+      "first_seen": "2026-10-12T09:57:35Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.742769452590714,
+        "lon": 10.208118467874211,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Nedre+Storgate+12&postnummer=3015&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:35Z",
+      "evidence": "address 'Nedre Storgate 12', 3015 DRAMMEN, municipality 3301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818609922, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:35Z"
     }
   ],
   "warnings": [],
   "name": "ATELIER BEAUTY ANGELIKA WIESE",
-  "previous_run": "2026-10-11T18:02:50Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "ATELIER BEAUTY ANGELIKA WIESE is an Enkeltpersonforetak (ENK) registered in 2017, based in Drammen. Main industry: 96.220 Skjønnhetspleie. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818609922.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

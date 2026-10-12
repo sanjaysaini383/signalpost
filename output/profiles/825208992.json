@@ -1,115 +1,143 @@
 {
+  "schema_version": 2,
   "organization_number": "825208992",
-  "generated_at": "2026-10-11T18:04:07Z",
+  "generated_at": "2026-10-12T09:56:38Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STUDIO N KORVENKONTIO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "navn: STUDIO N KORVENKONTIO",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "registered_date",
       "value": "2020-06-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-06-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "business_address",
       "value": "Strandengveien 80, 1390 VOLLEN, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "forretningsadresse: Strandengveien 80, 1390 VOLLEN, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ASKER (3203)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "kommune: ASKER, kommunenummer: 3203",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "industry_code",
       "value": "74.120 Grafisk design og visuell kommunikasjonsdesign",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "naeringskode1: 74.120 Grafisk design og visuell kommunikasjonsdesign",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "activity_description",
       "value": "Selkapet skal tilby tjenester innen grafisk design, tekstproduksjon, prosjektledelse og redaktørtjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "aktivitet: Selkapet skal tilby tjenester innen grafisk design, tekstproduksjon, prosjektledelse og redaktørtjenester.",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 825208992",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +146,11 @@
         "name": "Nora Sofia Korvenkontio"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825208992/roller",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "INNH (Innehaver): Nora Sofia Korvenkontio",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 825208992",
       "as_of": "2020-06-17",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
     },
     {
       "field": "establishment",
@@ -132,15 +160,55 @@
         "address": "Strandengveien 80, 1390 VOLLEN, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825208992",
-      "retrieved_at": "2026-10-11T18:04:07Z",
+      "retrieved_at": "2026-10-12T09:56:38Z",
       "evidence": "underenhet 925310972 overordnetEnhet: 825208992",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 825208992",
       "as_of": "2020-07-07",
-      "first_seen": "2026-10-11T18:02:17Z"
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=825208992",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 825208992",
+      "first_seen": "2026-10-12T09:56:38Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.80798458304199,
+        "lon": 10.474325159507789,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Strandengveien+80&postnummer=1390&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:38Z",
+      "evidence": "address 'Strandengveien 80', 1390 VOLLEN, municipality 3203 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 825208992, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:38Z"
     }
   ],
   "warnings": [],
   "name": "STUDIO N KORVENKONTIO",
-  "previous_run": "2026-10-11T18:02:17Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STUDIO N KORVENKONTIO is an Enkeltpersonforetak (ENK) registered in 2020, based in Asker. Main industry: 74.120 Grafisk design og visuell kommunikasjonsdesign. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 825208992.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

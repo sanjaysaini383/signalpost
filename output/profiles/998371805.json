@@ -1,133 +1,170 @@
 {
+  "schema_version": 2,
   "organization_number": "998371805",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:39Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "PSYKOLOG DRAGANA TOSINOVIC",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "navn: PSYKOLOG DRAGANA TOSINOVIC",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "registered_date",
       "value": "2012-05-14",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-05-14",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "business_address",
       "value": "Aamodthellinga 2E, 2008 FJERDINGBY, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "forretningsadresse: Aamodthellinga 2E, 2008 FJERDINGBY, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
+    },
+    {
+      "field": "municipality",
+      "value": "RÆLINGEN (3224)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
+      "retrieved_at": "2026-10-12T09:55:39Z",
+      "evidence": "kommune: RÆLINGEN, kommunenummer: 3224",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "industry_code",
       "value": "86.930 Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "naeringskode1: 86.930 Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
+      "retrieved_at": "2026-10-12T09:55:39Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "phone",
       "value": "63 83 06 99",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "telefon: 63 83 06 99",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
+    },
+    {
+      "field": "mobile",
+      "value": "419 34 860",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
+      "retrieved_at": "2026-10-12T09:55:39Z",
+      "evidence": "mobil: 419 34 860",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "email",
       "value": "dragana.tosinovic@gmail.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "epostadresse: dragana.tosinovic@gmail.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "activity_description",
       "value": "Kurs i foreldreveiledning. samlivskurs, parsamtaler, individuell terapi.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "aktivitet: Kurs i foreldreveiledning. samlivskurs, parsamtaler, individuell terapi.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
+      "retrieved_at": "2026-10-12T09:55:39Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998371805",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +173,11 @@
         "name": "Dragana Tosinovic"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "INNH (Innehaver): Dragana Tosinovic",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998371805",
       "as_of": "2012-05-14",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
     },
     {
       "field": "role:REGN",
@@ -149,15 +186,44 @@
         "name": "FRISIKT VEST AS (org 991606823)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998371805/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:39Z",
       "evidence": "REGN (Regnskapsfører): FRISIKT VEST AS (org 991606823)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998371805",
       "as_of": "2022-02-07",
-      "first_seen": "2026-10-11T18:01:54Z"
+      "first_seen": "2026-10-12T09:55:39Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.93323759945116,
+        "lon": 11.06637694748007,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Aamodthellinga+2E&postnummer=2008&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:39Z",
+      "evidence": "address 'Aamodthellinga 2E', 2008 FJERDINGBY, municipality 3224 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998371805, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:39Z"
     }
   ],
   "warnings": [],
   "name": "PSYKOLOG DRAGANA TOSINOVIC",
-  "previous_run": "2026-10-11T18:01:54Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "PSYKOLOG DRAGANA TOSINOVIC is an Enkeltpersonforetak (ENK) registered in 2012, based in Rælingen. Main industry: 86.930 Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998371805.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,133 +1,161 @@
 {
+  "schema_version": 2,
   "organization_number": "818531532",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:17Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BENTE FALLA AAMODT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "navn: BENTE FALLA AAMODT",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "registered_date",
       "value": "2017-02-08",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-02-08",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "business_address",
       "value": "Øktnervegen 22, 2100 SKARNES, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "forretningsadresse: Øktnervegen 22, 2100 SKARNES, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SØR-ODAL (3415)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
+      "retrieved_at": "2026-10-12T09:56:17Z",
+      "evidence": "kommune: SØR-ODAL, kommunenummer: 3415",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "industry_code",
       "value": "02.200 Avvirkning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "naeringskode1: 02.200 Avvirkning",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
+      "retrieved_at": "2026-10-12T09:56:17Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
+      "first_seen": "2026-10-12T09:56:17Z"
+    },
+    {
+      "field": "mobile",
       "value": "995 33 321",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 995 33 321",
+      "retrieved_at": "2026-10-12T09:56:17Z",
+      "evidence": "mobil: 995 33 321",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "email",
       "value": "bentefaa@outlook.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "epostadresse: bentefaa@outlook.com",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "activity_description",
       "value": "Avvirkning av tømmer. Skogbruk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "aktivitet: Avvirkning av tømmer. Skogbruk.",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
+      "retrieved_at": "2026-10-12T09:56:17Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818531532",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
     },
     {
       "field": "role:INNH",
@@ -136,15 +164,44 @@
         "name": "Bente Falla Aamodt"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818531532/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:17Z",
       "evidence": "INNH (Innehaver): Bente Falla Aamodt",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818531532",
       "as_of": "2017-02-08",
-      "first_seen": "2026-10-11T18:02:10Z"
+      "first_seen": "2026-10-12T09:56:17Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.238126573876414,
+        "lon": 11.71506752243898,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=%C3%98ktnervegen+22&postnummer=2100&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:17Z",
+      "evidence": "address 'Øktnervegen 22', 2100 SKARNES, municipality 3415 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818531532, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:17Z"
     }
   ],
   "warnings": [],
   "name": "BENTE FALLA AAMODT",
-  "previous_run": "2026-10-11T18:02:10Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BENTE FALLA AAMODT is an Enkeltpersonforetak (ENK) registered in 2017, based in Sør-Odal. Main industry: 02.200 Avvirkning.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818531532.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

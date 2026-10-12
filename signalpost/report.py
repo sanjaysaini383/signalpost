@@ -44,6 +44,7 @@ section#detail{overflow:auto;padding:28px 36px 56px}
 .chip{display:inline-flex;align-items:center;gap:6px;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:500;background:var(--soft);color:var(--muted);border:1px solid var(--line)}
 .chip.mono{font-family:var(--mono);font-size:11.5px}.chip.ok{background:var(--ok-soft);color:var(--ok);border-color:transparent}
 .chip.warn{background:var(--warn-soft);color:var(--warn);border-color:transparent}.chip.bad{background:var(--bad-soft);color:var(--bad);border-color:transparent}
+.sum{margin:14px 0 0;color:var(--text);line-height:1.6;max-width:72ch}
 .note{margin-top:14px;padding:10px 14px;border-radius:10px;font-size:13px;background:var(--warn-soft);color:var(--warn)}
 .card{margin-top:18px;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
 .card>h3{margin:0;padding:12px 20px;font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--soft);border-bottom:1px solid var(--line);display:flex;justify-content:space-between}
@@ -99,7 +100,7 @@ function renderList(){const L=filtered();$('count').textContent=L.length.toLocal
  r.onclick=()=>{document.querySelectorAll('.row.sel').forEach(x=>x.classList.remove('sel'));r.classList.add('sel');show(p)};return r}));
  if(L.length>500)box.append(el('div','empty','Showing first 500. Narrow the search.'))}
 function factRow(f){const row=el('div','kv');row.append(el('div','k',label(f.field)));const v=el('div','v');const m=el('div','main',fmt(f.value));
- if(f.as_of)m.append(el('span','as','as of '+f.as_of));v.append(m);
+ if(f.as_of)m.append(el('span','as','as of '+f.as_of));if(f.stale)m.append(el('span','chip warn','stale: source unavailable on last run'));v.append(m);
  const det=document.createElement('details');det.append(el('summary',null,'Evidence'));const ev=el('div','ev');
  const add=(l,node)=>{const r=el('div');r.append(el('span','l',l));r.append(node);ev.append(r)};
  add('Source',link(f.source_url));add('Retrieved',el('span','mono',f.retrieved_at));add('Evidence',el('span',null,f.evidence));add('Why this company',el('span',null,f.explanation));
@@ -109,7 +110,11 @@ function show(p){const d=$('detail');d.replaceChildren();const w=el('div','wrap'
  c.append(el('span','chip mono','Org '+p.organization_number),el('span','chip '+(p.status==='active'?'ok':'bad'),p.status));
  const flag=['bankrupt','under_liquidation','under_forced_dissolution'].find(k=>p.facts.some(f=>f.field===k&&f.value===true));if(flag)c.append(el('span','chip bad',label(flag)));
  c.append(el('span','chip',p.facts.length+' facts'),el('span','chip','Generated '+p.generated_at));if(p.previous_run)c.append(el('span','chip','Previous run '+p.previous_run));
- hero.append(c);p.warnings.forEach(x=>hero.append(el('div','note',x)));w.append(hero);
+ hero.append(c);if(p.summary)hero.append(el('p','sum',p.summary));p.warnings.forEach(x=>hero.append(el('div','note',x)));w.append(hero);
+ const ic=(p.identity_check||[]),cn=(p.coverage_notes||[]);
+ if(ic.length||cn.length){const k=el('div','card');k.append(el('h3',null,'Identity and coverage'));
+  ic.forEach(x=>{const r=el('div','chg');r.append(el('span','chip ok','verified'),el('span',null,x));k.append(r)});
+  cn.forEach(x=>{const r=el('div','chg');r.append(el('span','chip','missing'),el('span',null,x));k.append(r)});w.append(k)}
  const ch=p.changes_since_previous_run||[];if(ch.length){const k=el('div','card');k.append(el('h3',null,'Changes since previous run'));
   ch.forEach(x=>{const r=el('div','chg');r.append(el('span','chip warn',x.change),el('span',null,label(x.field)+': '+(x.old!==undefined?fmt(x.old)+' → ':'')+(x.new!==undefined?fmt(x.new):'')));k.append(r)});w.append(k)}
  const G={};p.facts.forEach(f=>{const g=f.field.startsWith('financials:')?'Financials':f.field.startsWith('role:')?'Roles':f.field==='establishment'?'Establishments':

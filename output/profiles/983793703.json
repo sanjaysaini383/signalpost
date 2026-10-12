@@ -1,151 +1,221 @@
 {
+  "schema_version": 2,
   "organization_number": "983793703",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:02Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "NESS & STRANDEN EIENDOM DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "navn: NESS & STRANDEN EIENDOM DA",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med delt ansvar (DA)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "organisasjonsform: DA",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "founded",
       "value": "2001-10-14",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "stiftelsesdato: 2001-10-14",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "registered_date",
       "value": "2001-11-07",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2001-11-07",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2001-11-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2001-11-07",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2009-01-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "vedtektsdato: 2009-01-28",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "business_address",
       "value": "Dr. Sands veg 7, 7052 TRONDHEIM, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "forretningsadresse: Dr. Sands veg 7, 7052 TRONDHEIM, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "kommune: TRONDHEIM, kommunenummer: 5001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "industry_code",
       "value": "68.200 Utleie av egen eller leid fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "phone",
       "value": "95 80 63 38",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "telefon: 95 80 63 38",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "mobile",
+      "value": "95806338",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "mobil: 95806338",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "activity_description",
       "value": "Eie og drift av fast eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "aktivitet: Eie og drift av fast eiendom.",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "purpose",
       "value": "Eie, drift og utleie av eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "vedtektsfestetFormaal: Eie, drift og utleie av eiendom.",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "NESS & MYHRE EIENDOM DA",
+          "from": "2001-11-07",
+          "to": "2009-03-25"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'NESS & MYHRE EIENDOM DA'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2024",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "sisteInnsendteAarsregnskap: 2024",
       "explanation": "Enhetsregisteret record keyed by organisation number 983793703",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:DAGL",
@@ -154,11 +224,11 @@
         "name": "Tore Ness"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "DAGL (Daglig leder): Tore Ness",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2001-11-07",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:DTPR",
@@ -167,11 +237,11 @@
         "name": "Robert Ness"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "DTPR (Deltaker med delt ansvar): Robert Ness",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2009-03-25",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:DTPR",
@@ -180,11 +250,11 @@
         "name": "Tore Ness"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "DTPR (Deltaker med delt ansvar): Tore Ness",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2009-03-25",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:DTPR",
@@ -193,11 +263,11 @@
         "name": "May Stranden"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "DTPR (Deltaker med delt ansvar): May Stranden",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2009-03-25",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:LEDE",
@@ -206,11 +276,11 @@
         "name": "Tore Ness"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "LEDE (Styrets leder): Tore Ness",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2013-01-19",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:MEDL",
@@ -219,11 +289,11 @@
         "name": "May Stranden"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "MEDL (Styremedlem): May Stranden",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2013-01-19",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "role:VARA",
@@ -232,11 +302,30 @@
         "name": "Jan Tommy Sagmyr"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983793703/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "VARA (Varamedlem): Jan Tommy Sagmyr",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 983793703",
       "as_of": "2013-01-19",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "journalnr 2025430049, regnskapsperiode 2024-01-01..2024-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -245,11 +334,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 218641.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 61205.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 61205.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -258,11 +360,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 157436.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 58534.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 58534.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -271,11 +386,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 58534.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -284,11 +399,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "eiendeler.sumEiendeler: 4851150.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1290.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1290.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 4849860.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 4849860.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1290.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1290.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -297,11 +451,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2863101.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -310,11 +464,89 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 1988049.0 NOK (journalnr 2025430049)",
       "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
       "as_of": "2024-12-31",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 1243.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 1243.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 1986806.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 1986806.0 NOK (journalnr 2025430049)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 186410.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 186410.0 NOK (journalnr 2024460489)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": -7280.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: -7280.0 NOK (journalnr 2024460489)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 4869377.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "eiendeler.sumEiendeler: 4869377.0 NOK (journalnr 2024460489)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 2804567.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2804567.0 NOK (journalnr 2024460489)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 983793703 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:02Z"
     },
     {
       "field": "establishment",
@@ -324,15 +556,54 @@
         "address": "Dr. Sands veg 7, 7052 TRONDHEIM, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983793703",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:02Z",
       "evidence": "underenhet 918224637 overordnetEnhet: 983793703",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 983793703",
       "as_of": "2016-12-21",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983793703",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 983793703",
+      "first_seen": "2026-10-12T09:56:02Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.424216099252924,
+        "lon": 10.424416950532986,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Dr.+Sands+veg+7&postnummer=7052&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:02Z",
+      "evidence": "address 'Dr. Sands veg 7', 7052 TRONDHEIM, municipality 5001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 983793703, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:02Z"
     }
   ],
   "warnings": [],
   "name": "NESS & STRANDEN EIENDOM DA",
-  "previous_run": "2026-10-11T18:02:03Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "NESS & STRANDEN EIENDOM DA is an Ansvarlig selskap med delt ansvar (DA) registered in 2001, based in Trondheim. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2024-12-31): revenue 218.6 thousand NOK, net profit 58.5 thousand NOK. Key people: Tore Ness (daglig leder), Tore Ness (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 983793703.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

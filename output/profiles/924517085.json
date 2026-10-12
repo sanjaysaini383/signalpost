@@ -1,115 +1,136 @@
 {
+  "schema_version": 2,
   "organization_number": "924517085",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:25Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SAND SUBSEA LIMITED",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "navn: SAND SUBSEA LIMITED",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "business_address",
       "value": "3 Chestnut Lane, BANCHORY AB31 5PH ABERDEENSHIRE, Storbritannia",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "forretningsadresse: 3 Chestnut Lane, BANCHORY AB31 5PH ABERDEENSHIRE, Storbritannia",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "industry_code",
       "value": "71.129 Annen teknisk konsulentvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "activity_description",
       "value": "Industriteknikk på oljerigger.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "aktivitet: Industriteknikk på oljerigger.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
+      "retrieved_at": "2026-10-12T09:55:25Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
+    },
+    {
+      "field": "register_notes",
+      "value": [
+        "KONT: Kontaktperson mangler. Virksomheten har fått pålegg om å melde manglende rolle"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085",
+      "retrieved_at": "2026-10-12T09:55:25Z",
+      "evidence": "paategninger: ['KONT: Kontaktperson mangler. Virksomheten har fått pålegg om å melde manglende rolle']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924517085",
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "role:HFOR",
@@ -118,11 +139,11 @@
         "name": "SAND SUBSEA LTD (org 924571101)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924517085/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): SAND SUBSEA LTD (org 924571101)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924517085",
       "as_of": "2020-02-29",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
     },
     {
       "field": "establishment",
@@ -132,15 +153,41 @@
         "address": "3 Chestnut Lane, BANCHORY AB31 5PH ABERDEENSHIRE, Storbritannia"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924517085",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:25Z",
       "evidence": "underenhet 924684690 overordnetEnhet: 924517085",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924517085",
       "as_of": "2020-02-29",
-      "first_seen": "2026-10-11T18:01:48Z"
+      "first_seen": "2026-10-12T09:55:25Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924517085",
+      "retrieved_at": "2026-10-12T09:55:25Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924517085",
+      "first_seen": "2026-10-12T09:55:25Z"
     }
   ],
   "warnings": [],
   "name": "SAND SUBSEA LIMITED",
-  "previous_run": "2026-10-11T18:01:48Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "SAND SUBSEA LIMITED is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 71.129 Annen teknisk konsulentvirksomhet. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924517085.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

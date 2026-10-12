@@ -4,41 +4,63 @@ from pathlib import Path
 
 from . import brreg, orgno
 from .budget import BudgetExceeded
+from .geo import geo_facts
+from .summary import build_summary, coverage_notes, identity_check
+
+SCHEMA_VERSION = 2
+_STATUS = {"found": "active", "deleted": "deleted", "sub_unit": "sub_unit"}
 
 
 def build_profile(fetcher, org, include_website=None):
     org = orgno.normalize(org)
     retrieved_at = brreg.now_iso()
-    profile = {"organization_number": org, "generated_at": retrieved_at, "status": None, "facts": [], "warnings": []}
+    profile = {"schema_version": SCHEMA_VERSION, "organization_number": org, "generated_at": retrieved_at,
+               "status": None, "facts": [], "warnings": []}
     if not orgno.is_valid(org):
         profile["status"] = "invalid_org_number"
         return profile
 
     state, unit = brreg.fetch_unit(fetcher, org)
-    if state != "found":
-        profile["status"] = state  # deleted | not_found
+    if state == "not_found":
+        profile["status"] = "not_found"
         return profile
-    profile["status"] = "active"
-    facts = brreg.unit_facts(org, unit, retrieved_at)
-    # Secondary sources may fail (e.g. HTTP 500). Skip them with a warning; never guess the missing facts.
-    for label, fetch, convert in (
-            ("roles", brreg.fetch_roles, brreg.role_facts),
-            ("accounts", brreg.fetch_accounts, brreg.account_facts),
-            ("sub-units", brreg.fetch_subunits, brreg.subunit_facts)):
+    if (unit or {}).get("organisasjonsnummer") not in (None, org):
+        # Never publish a record the register did not return for exactly this number.
+        profile["status"] = "mismatch"
+        profile["warnings"].append("register returned a different organisation number; nothing published")
+        return profile
+    profile["status"] = _STATUS[state]
+    facts = brreg.unit_facts(org, unit, retrieved_at, sub_unit=(state == "sub_unit"))
+
+    def optional(label, produce):
+        # Secondary sources may fail (e.g. HTTP 500). Skip them with a warning; never guess the missing facts.
         try:
-            facts += convert(org, fetch(fetcher, org), retrieved_at)
+            return produce()
         except BudgetExceeded:
             raise
         except Exception as e:
             profile["warnings"].append(f"{label} unavailable: {e}")
-    if include_website:
-        facts += include_website(fetcher, org, unit, retrieved_at, profile["warnings"])
+            profile.setdefault("failed_sources", []).append(label)
+            return []
+
+    if state == "found":
+        facts += optional("roles", lambda: brreg.role_facts(org, brreg.fetch_roles(fetcher, org), retrieved_at))
+        facts += optional("accounts", lambda: brreg.account_facts(org, brreg.fetch_accounts(fetcher, org), retrieved_at))
+        facts += optional("sub-units", lambda: brreg.subunit_facts(org, brreg.fetch_subunits(fetcher, org), retrieved_at))
+    if state in ("found", "sub_unit"):
+        facts += optional("geocoding", lambda: geo_facts(fetcher, org, unit, retrieved_at))
+    if state == "found" and include_website:
+        facts += optional("website", lambda: include_website(fetcher, org, unit, retrieved_at, profile["warnings"]))
     profile["name"] = unit.get("navn")
     profile["facts"] = facts
+    profile["sources_used"] = sorted({f["source_url"].split("/")[2] for f in facts if "://" in f["source_url"]})
+    profile["summary"] = build_summary(profile)
+    profile["identity_check"] = identity_check(profile, org)
+    profile["coverage_notes"] = coverage_notes(profile)
     return profile
 
 
-_MULTI = ("website_email", "website_phone", "product_or_service", "location")
+_MULTI = ("website_email", "website_phone", "website_address", "product_or_service", "location")
 
 
 def _key(f):
@@ -77,9 +99,26 @@ def diff_profiles(old, new):
     return changes
 
 
+_SOURCE_FIELDS = {
+    "roles": ("role:",),
+    "accounts": ("financials", "accounts_info"),
+    "sub-units": ("establishment",),
+    "geocoding": ("geo_location",),
+    "website": ("website_", "social:", "product_or_service", "location", "business_summary"),
+}
+
+
 def apply_history(profile, previous):
-    """Carry first_seen forward and record what changed since the previous run."""
+    """Carry first_seen forward and record what changed since the previous run.
+
+    If a source failed this run, its earlier facts are kept and flagged stale (with their original retrieval
+    time) instead of being dropped, so a temporary outage is not reported as 'the company lost these facts'."""
     now = profile["generated_at"]
+    have = {_key(f) for f in profile["facts"]}
+    for label in profile.get("failed_sources", []):
+        for f in (previous or {}).get("facts", []):
+            if f["field"].startswith(_SOURCE_FIELDS.get(label, ())) and _key(f) not in have:
+                profile["facts"].append({**f, "stale": True})
     prev = {_key(f): f for f in (previous or {}).get("facts", [])}
     for f in profile["facts"]:
         p = prev.get(_key(f))

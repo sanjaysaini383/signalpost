@@ -1,115 +1,125 @@
 {
+  "schema_version": 2,
   "organization_number": "924441879",
-  "generated_at": "2026-10-11T18:04:14Z",
+  "generated_at": "2026-10-12T09:57:43Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "AISUS OFFSHORE LIMITED",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "navn: AISUS OFFSHORE LIMITED",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "business_address",
       "value": "Unit 21 Denmore Road, ABERDEEN AB23 8JW, Storbritannia",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "forretningsadresse: Unit 21 Denmore Road, ABERDEEN AB23 8JW, Storbritannia",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "industry_code",
       "value": "74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "naeringskode1: 74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "activity_description",
       "value": "Å tilby fjernstyrt inspeksjonstjenester og høytrykk spyling av senkekasser, stigerør og j-rør offshore.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "aktivitet: Å tilby fjernstyrt inspeksjonstjenester og høytrykk spyling av senkekasser, stigerør og j-rør offshore.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924441879",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:DAGL",
@@ -118,11 +128,11 @@
         "name": "Ryan Michael Catto"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "DAGL (Daglig leder): Ryan Michael Catto",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924441879",
       "as_of": "2024-11-20",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "role:HFOR",
@@ -131,11 +141,11 @@
         "name": "AISUS OFFSHORE LIMITED (org 924590963)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924441879/roller",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): AISUS OFFSHORE LIMITED (org 924590963)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924441879",
       "as_of": "2020-02-12",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
     },
     {
       "field": "establishment",
@@ -145,15 +155,41 @@
         "address": "Unit 21 Denmore Road, ABERDEEN AB23 8JW, Storbritannia"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924441879",
-      "retrieved_at": "2026-10-11T18:04:14Z",
+      "retrieved_at": "2026-10-12T09:57:43Z",
       "evidence": "underenhet 924594403 overordnetEnhet: 924441879",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924441879",
       "as_of": "2020-02-12",
-      "first_seen": "2026-10-11T18:02:59Z"
+      "first_seen": "2026-10-12T09:57:43Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924441879",
+      "retrieved_at": "2026-10-12T09:57:43Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924441879",
+      "first_seen": "2026-10-12T09:57:43Z"
     }
   ],
   "warnings": [],
   "name": "AISUS OFFSHORE LIMITED",
-  "previous_run": "2026-10-11T18:02:59Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "AISUS OFFSHORE LIMITED is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted. Key people: Ryan Michael Catto (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924441879.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

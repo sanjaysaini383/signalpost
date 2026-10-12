@@ -1,142 +1,206 @@
 {
+  "schema_version": 2,
   "organization_number": "913557824",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:57:02Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "GRØSLE REKVISITA ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "navn: GRØSLE REKVISITA ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "organisasjonsform: ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "founded",
       "value": "2014-04-25",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "stiftelsesdato: 2014-04-25",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "registered_date",
       "value": "2014-05-05",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2014-05-05",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2014-05-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2014-05-05",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2014-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2014-05-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2014-04-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "vedtektsdato: 2014-04-25",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "business_address",
       "value": "Roresanden 109, 4885 GRIMSTAD, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "forretningsadresse: Roresanden 109, 4885 GRIMSTAD, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "municipality",
+      "value": "GRIMSTAD (4202)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "kommune: GRIMSTAD, kommunenummer: 4202",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "industry_code",
       "value": "46.720 Engroshandel med deler og utstyr for motorvogner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "naeringskode1: 46.720 Engroshandel med deler og utstyr for motorvogner",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "phone",
       "value": "48 00 13 15",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "telefon: 48 00 13 15",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "mobile",
+      "value": "907 68 802",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "mobil: 907 68 802",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "activity_description",
       "value": "Engroshandel av rekvisita og materiell til industri og bilverksteder.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "aktivitet: Engroshandel av rekvisita og materiell til industri og bilverksteder.",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "purpose",
       "value": "Salg av materiell og rekvisita til industri og bilverksteder, samt kjøp og salg av biler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "vedtektsfestetFormaal: Salg av materiell og rekvisita til industri og bilverksteder, samt kjøp og salg av biler.",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913557824",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "role:DAGL",
@@ -145,11 +209,11 @@
         "name": "Jan Terje Grøsle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "DAGL (Daglig leder): Jan Terje Grøsle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913557824",
       "as_of": "2014-05-05",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "role:DTSO",
@@ -158,11 +222,11 @@
         "name": "Per Arne Grøsle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Per Arne Grøsle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913557824",
       "as_of": "2014-05-05",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "role:DTSO",
@@ -171,11 +235,11 @@
         "name": "Jan Terje Grøsle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913557824/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Jan Terje Grøsle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913557824",
       "as_of": "2014-05-05",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
     },
     {
       "field": "establishment",
@@ -185,15 +249,55 @@
         "address": "Roresanden 109, 4885 GRIMSTAD, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913557824",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:02Z",
       "evidence": "underenhet 913602471 overordnetEnhet: 913557824",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 913557824",
       "as_of": "2014-05-12",
-      "first_seen": "2026-10-11T18:02:28Z"
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913557824",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 913557824",
+      "first_seen": "2026-10-12T09:57:02Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.35114274219793,
+        "lon": 8.537649321340318,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Roresanden+109&postnummer=4885&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:02Z",
+      "evidence": "address 'Roresanden 109', 4885 GRIMSTAD, municipality 4202 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 913557824, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:02Z"
     }
   ],
   "warnings": [],
   "name": "GRØSLE REKVISITA ANS",
-  "previous_run": "2026-10-11T18:02:28Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "GRØSLE REKVISITA ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 2014, based in Grimstad. Main industry: 46.720 Engroshandel med deler og utstyr for motorvogner. Key people: Jan Terje Grøsle (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 913557824.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

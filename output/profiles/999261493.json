@@ -1,143 +1,189 @@
 {
+  "schema_version": 2,
   "organization_number": "999261493",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:34Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "DIN ENGROS AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "navn: DIN ENGROS AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "founded",
       "value": "2012-10-29",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "stiftelsesdato: 2012-10-29",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "registered_date",
       "value": "2012-12-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-12-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-12-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-12-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2013-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2021-02-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "vedtektsdato: 2021-02-26",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "employees",
       "value": 8,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "antallAnsatte: 8",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
       "as_of": "2026-02-12",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "business_address",
       "value": "Heggstadmoen 5, 7080 HEIMDAL, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "forretningsadresse: Heggstadmoen 5, 7080 HEIMDAL, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "municipality",
+      "value": "TRONDHEIM (5001)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "kommune: TRONDHEIM, kommunenummer: 5001",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "industry_code",
       "value": "46.390 Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "naeringskode1: 46.390 Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "website",
       "value": "www.dinengros.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "hjemmeside: www.dinengros.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "email",
       "value": "post@dinengros.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "epostadresse: post@dinengros.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "activity_description",
       "value": "Import av matvarer og emballasje og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "aktivitet: Import av matvarer og emballasje og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "purpose",
       "value": "Engroshandel med dagligvarer nasjonalt, import av dagligvarer, paknings material av dagligvarer, og deltakelse i lignende selskaper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "vedtektsfestetFormaal: Engroshandel med dagligvarer nasjonalt, import av dagligvarer, paknings material av dagligvarer, og deltakelse i lignende selskaper.",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "share_capital",
@@ -146,38 +192,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "kapital.belop: 132000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
       "as_of": "2021-03-12",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "part_of_group",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "erIKonsern: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 999261493",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "role:DAGL",
@@ -186,11 +241,11 @@
         "name": "Bekir Kayhan"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "DAGL (Daglig leder): Bekir Kayhan",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999261493",
       "as_of": "2019-09-26",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "role:LEDE",
@@ -199,11 +254,11 @@
         "name": "Orhan Kayhan"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "LEDE (Styrets leder): Orhan Kayhan",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999261493",
       "as_of": "2019-09-26",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "role:REVI",
@@ -212,11 +267,11 @@
         "name": "ALL REVISJON AS (org 970895167)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "REVI (Revisor): ALL REVISJON AS (org 970895167)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999261493",
       "as_of": "2014-03-26",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "role:REGN",
@@ -225,11 +280,30 @@
         "name": "ØKONOMIPARTNER AS (org 990219281)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999261493/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "REGN (Regnskapsfører): ØKONOMIPARTNER AS (org 990219281)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 999261493",
       "as_of": "2012-12-12",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "journalnr 2026378385, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -238,11 +312,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 68996694.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 66890796.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 66890796.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -251,11 +338,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 2105897.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 1768054.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 1768054.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -264,11 +364,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 1375004.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -277,11 +377,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "eiendeler.sumEiendeler: 17109696.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 15348892.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 15348892.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 1760805.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 1760805.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1250323.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1250323.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -290,11 +429,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 9560125.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -303,11 +442,141 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 7549572.0 NOK (journalnr 2026378385)",
       "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 6624990.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 6624990.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 0.0 NOK (journalnr 2026378385)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 61881644.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 61881644.0 NOK (journalnr 2025344140)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 1483009.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1483009.0 NOK (journalnr 2025344140)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 14675220.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "eiendeler.sumEiendeler: 14675220.0 NOK (journalnr 2025344140)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 8185121.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 8185121.0 NOK (journalnr 2025344140)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 65670219.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 65670219.0 NOK (journalnr 2024391959)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 981644.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 981644.0 NOK (journalnr 2024391959)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 13942170.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "eiendeler.sumEiendeler: 13942170.0 NOK (journalnr 2024391959)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 6702113.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 6702113.0 NOK (journalnr 2024391959)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 999261493 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "establishment",
@@ -318,69 +587,106 @@
         "employees": 8
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999261493",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "underenhet 999272835 overordnetEnhet: 999261493",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 999261493",
       "as_of": "2012-12-15",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999261493",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 999261493",
+      "first_seen": "2026-10-12T09:56:34Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 63.34254614369333,
+        "lon": 10.35288633837474,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Heggstadmoen+5&postnummer=7080&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "address 'Heggstadmoen 5', 7080 HEIMDAL, municipality 5001 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 999261493, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "website_verified",
       "value": true,
       "source_url": "https://www.dinengros.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "page text contains company name 'din engros'",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "retrieved_at": "2026-10-12T09:56:34Z",
+      "evidence": "page text contains company name 'din engros' and the registered postal code 7080",
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "website_description",
       "value": "DinEngros tilbyr profesjonelle engrosløsninger for bedrifter. Stort produktutvalg, konkurransedyktige priser og rask levering.",
       "source_url": "https://www.dinengros.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "meta description: DinEngros tilbyr profesjonelle engrosløsninger for bedrifter. Stort produktutvalg, konkurransedyktige priser og rask levering.",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "website_email",
       "value": "post@dinengros.no",
       "source_url": "https://www.dinengros.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "nger. Adresse : Heggstadmoen 5, 7080 Heimdal Telefon : +47 73 91 65 48 E-post : post@dinengros.no Hurtiglenker Produkter Om oss Kontakt Kundeservice Kontakt Salgbetingelser Pers",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "website_phone",
       "value": "+4773916548",
       "source_url": "https://www.dinengros.no/kontakt",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "tel:+4773916548",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "social:facebook",
       "value": "https://facebook.com/dinengros",
       "source_url": "https://www.dinengros.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "link on page: https://facebook.com/dinengros",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     },
     {
       "field": "social:instagram",
       "value": "https://instagram.com/dinengros",
       "source_url": "https://www.dinengros.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:34Z",
       "evidence": "link on page: https://instagram.com/dinengros",
-      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros'",
-      "first_seen": "2026-10-11T18:02:14Z"
+      "explanation": "Page from https://www.dinengros.no/, the website declared in Enhetsregisteret for organisation number 999261493; page text contains company name 'din engros' and the registered postal code 7080",
+      "first_seen": "2026-10-12T09:56:34Z"
     }
   ],
   "warnings": [],
   "name": "DIN ENGROS AS",
-  "previous_run": "2026-10-11T18:02:14Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no",
+    "www.dinengros.no"
+  ],
+  "summary": "DIN ENGROS AS is an Aksjeselskap (AS) registered in 2012, based in Trondheim. Main industry: 46.390 Engroshandel med bredt utvalg av nærings- og nytelsesmidler. It has 8 registered employees. Latest selskap accounts (period ending 2025-12-31): revenue 69.0 million NOK, net profit 1.4 million NOK. Key people: Bekir Kayhan (daglig leder), Orhan Kayhan (styrets leder). It operates 1 registered establishment(s). Website: www.dinengros.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 999261493.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'din engros' and the registered postal code 7080.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

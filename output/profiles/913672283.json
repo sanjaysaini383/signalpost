@@ -1,151 +1,217 @@
 {
+  "schema_version": 2,
   "organization_number": "913672283",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:47Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "KVINLOG BULLDOZERFIRMA ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "navn: KVINLOG BULLDOZERFIRMA ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "organization_form",
       "value": "Ansvarlig selskap med solidarisk ansvar (ANS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "organisasjonsform: ANS",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "founded",
       "value": "1984-12-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "stiftelsesdato: 1984-12-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "registered_date",
       "value": "1995-03-12",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "registreringsdatoEnhetsregisteret: 1995-03-12",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "1990-02-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "registreringsdatoForetaksregisteret: 1990-02-20",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2025-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2025-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2013-12-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "vedtektsdato: 2013-12-02",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "business_address",
       "value": "Krågelandsvegen 56, 4473 KVINLOG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "forretningsadresse: Krågelandsvegen 56, 4473 KVINLOG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "municipality",
+      "value": "KVINESDAL (4227)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "kommune: KVINESDAL, kommunenummer: 4227",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "industry_code",
       "value": "68.200 Utleie av egen eller leid fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "naeringskode1: 68.200 Utleie av egen eller leid fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "institusjonellSektorkode: 2300 Personlige foretak",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "phone",
       "value": "38355254",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "telefon: 38355254",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "activity_description",
       "value": "Utleie av fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "aktivitet: Utleie av fast eiendom",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "purpose",
       "value": "Entrepenør og transporttjenester samt utleie av fast eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "vedtektsfestetFormaal: Entrepenør og transporttjenester samt utleie av fast eiendom.",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "voluntary_vat_activities",
+      "value": [
+        "Utleier av bygg eller anlegg"
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "frivilligMvaRegistrertBeskrivelser: ['Utleier av bygg eller anlegg']",
+      "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 913672283",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:DAGL",
@@ -154,11 +220,11 @@
         "name": "Johan Seland Helle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "DAGL (Daglig leder): Johan Seland Helle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "1990-02-20",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:DTSO",
@@ -167,11 +233,11 @@
         "name": "Johan Seland Helle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Johan Seland Helle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "2013-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:DTSO",
@@ -180,11 +246,11 @@
         "name": "Leif Bernhard Egeland"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "DTSO (Deltaker med fullt ansvar): Leif Bernhard Egeland",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "2013-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:LEDE",
@@ -193,11 +259,11 @@
         "name": "Johan Seland Helle"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "LEDE (Styrets leder): Johan Seland Helle",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "2013-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:MEDL",
@@ -206,11 +272,11 @@
         "name": "Leif Bernhard Egeland"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "MEDL (Styremedlem): Leif Bernhard Egeland",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "2013-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "role:REGN",
@@ -219,11 +285,30 @@
         "name": "BIRKELAND REGNSKAP AS (org 989136941)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913672283/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "REGN (Regnskapsfører): BIRKELAND REGNSKAP AS (org 989136941)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 913672283",
       "as_of": "2021-04-14",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "journalnr 2026574763, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -232,11 +317,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 114000.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 63111.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 63111.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -245,11 +343,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 50889.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 49289.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 49289.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -258,11 +369,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 49289.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -271,11 +382,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "eiendeler.sumEiendeler: 188150.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 122719.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 122719.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 65430.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 65430.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 107719.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 107719.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -284,11 +434,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 189206.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -297,11 +447,128 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: -1056.0 NOK (journalnr 2026574763)",
       "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": -1056.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: -1056.0 NOK (journalnr 2026574763)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 108000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 108000.0 NOK (journalnr 2025397783)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 20943.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 20943.0 NOK (journalnr 2025397783)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 141264.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "eiendeler.sumEiendeler: 141264.0 NOK (journalnr 2025397783)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 139917.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 139917.0 NOK (journalnr 2025397783)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 108000.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 108000.0 NOK (journalnr 2024419696)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 51784.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 51784.0 NOK (journalnr 2024419696)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 121005.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "eiendeler.sumEiendeler: 121005.0 NOK (journalnr 2024419696)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 118973.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 118973.0 NOK (journalnr 2024419696)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 913672283 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:47Z"
     },
     {
       "field": "establishment",
@@ -311,15 +578,54 @@
         "address": "Krågelandsvegen 56, 4473 KVINLOG, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913672283",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:47Z",
       "evidence": "underenhet 971724439 overordnetEnhet: 913672283",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 913672283",
       "as_of": "1995-03-12",
-      "first_seen": "2026-10-11T18:01:57Z"
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913672283",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 913672283",
+      "first_seen": "2026-10-12T09:55:47Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 58.520421549539044,
+        "lon": 6.9307531525460275,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Kr%C3%A5gelandsvegen+56&postnummer=4473&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:55:47Z",
+      "evidence": "address 'Krågelandsvegen 56', 4473 KVINLOG, municipality 4227 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 913672283, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:55:47Z"
     }
   ],
   "warnings": [],
   "name": "KVINLOG BULLDOZERFIRMA ANS",
-  "previous_run": "2026-10-11T18:01:57Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "KVINLOG BULLDOZERFIRMA ANS is an Ansvarlig selskap med solidarisk ansvar (ANS) registered in 1995, based in Kvinesdal. Main industry: 68.200 Utleie av egen eller leid fast eiendom. Latest selskap accounts (period ending 2025-12-31): revenue 114.0 thousand NOK, net profit 49.3 thousand NOK. Key people: Johan Seland Helle (daglig leder), Johan Seland Helle (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 913672283.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

@@ -1,133 +1,179 @@
 {
+  "schema_version": 2,
   "organization_number": "998131928",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:55:50Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "PETTER MYKLEBUST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "navn: PETTER MYKLEBUST AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "organization_form",
       "value": "Aksjeselskap (AS)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "organisasjonsform: AS",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "founded",
       "value": "2012-02-27",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "stiftelsesdato: 2012-02-27",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-21",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-21",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-03-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-03-21",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "articles_date",
+      "value": "2022-09-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "vedtektsdato: 2022-09-12",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "business_address",
       "value": "Skjelfjord, 8380 RAMBERG, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "forretningsadresse: Skjelfjord, 8380 RAMBERG, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "municipality",
+      "value": "FLAKSTAD (1859)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "kommune: FLAKSTAD, kommunenummer: 1859",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "industry_code",
       "value": "03.110 Fiske og fangst i sjø",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "naeringskode1: 03.110 Fiske og fangst i sjø",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "institusjonellSektorkode: 2100 Private aksjeselskaper mv.",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "mobile",
       "value": "948 28 289",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "telefon: 948 28 289",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "mobil: 948 28 289",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "email",
       "value": "pettermyk@live.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "epostadresse: pettermyk@live.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "activity_description",
       "value": "Fiskerivirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "aktivitet: Fiskerivirksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "purpose",
       "value": "Drift av fiskefartøy med tilhørende virksomhet, herunder å delta i andre selskaper med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "vedtektsfestetFormaal: Drift av fiskefartøy med tilhørende virksomhet, herunder å delta i andre selskaper med lignende virksomhet.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "share_capital",
@@ -136,38 +182,47 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "kapital.belop: 30000.0 NOK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
       "as_of": "2012-03-21",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2025",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "sisteInnsendteAarsregnskap: 2025",
       "explanation": "Enhetsregisteret record keyed by organisation number 998131928",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "role:DAGL",
@@ -176,11 +231,11 @@
         "name": "Petter Borgvatn Myklebust"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "DAGL (Daglig leder): Petter Borgvatn Myklebust",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998131928",
       "as_of": "2012-03-21",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "role:LEDE",
@@ -189,11 +244,11 @@
         "name": "Petter Borgvatn Myklebust"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "LEDE (Styrets leder): Petter Borgvatn Myklebust",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998131928",
       "as_of": "2021-05-15",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "role:REVI",
@@ -202,11 +257,11 @@
         "name": "LOFOTREVISJON AS (org 951725005)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "REVI (Revisor): LOFOTREVISJON AS (org 951725005)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998131928",
       "as_of": "2026-08-10",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "role:REGN",
@@ -215,11 +270,30 @@
         "name": "SPAREBANK 1 REGNSKAPSHUSET NORD-NORGE AS (org 851987142)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998131928/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "REGN (Regnskapsfører): SPAREBANK 1 REGNSKAPSHUSET NORD-NORGE AS (org 851987142)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998131928",
       "as_of": "2024-01-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": true,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "journalnr 2026438875, regnskapsperiode 2025-01-01..2025-12-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -228,11 +302,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 7557851.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 6637125.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 6637125.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -241,11 +328,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 920727.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 146857.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 146857.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -254,11 +354,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 114548.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -267,11 +367,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "eiendeler.sumEiendeler: 16876294.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 1428802.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 1428802.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 15447492.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 15447492.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 1330684.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 1330684.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -280,11 +419,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2233441.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -293,11 +432,141 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 14642853.0 NOK (journalnr 2026438875)",
       "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
       "as_of": "2025-12-31",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 1499737.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 1499737.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 13143116.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 13143116.0 NOK (journalnr 2026438875)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2025-01-01 to 2025-12-31",
+      "as_of": "2025-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2024",
+      "value": {
+        "amount": 5712385.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 5712385.0 NOK (journalnr 2025677737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2024",
+      "value": {
+        "amount": 439621.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 439621.0 NOK (journalnr 2025677737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2024",
+      "value": {
+        "amount": 17066195.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "eiendeler.sumEiendeler: 17066195.0 NOK (journalnr 2025677737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2024",
+      "value": {
+        "amount": 2118893.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 2118893.0 NOK (journalnr 2025677737)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2024-01-01 to 2024-12-31",
+      "as_of": "2024-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2023",
+      "value": {
+        "amount": 6242857.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 6242857.0 NOK (journalnr 2024673036)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2023",
+      "value": {
+        "amount": 1166268.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 1166268.0 NOK (journalnr 2024673036)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2023",
+      "value": {
+        "amount": 16868868.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "eiendeler.sumEiendeler: 16868868.0 NOK (journalnr 2024673036)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2023",
+      "value": {
+        "amount": 1679272.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1679272.0 NOK (journalnr 2024673036)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 998131928 in Regnskapsregisteret, period 2023-01-01 to 2023-12-31",
+      "as_of": "2023-12-31",
+      "first_seen": "2026-10-12T09:55:50Z"
     },
     {
       "field": "establishment",
@@ -307,15 +576,39 @@
         "address": "Skjelfjord, 8380 RAMBERG, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998131928",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:55:50Z",
       "evidence": "underenhet 898157342 overordnetEnhet: 998131928",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998131928",
       "as_of": "2012-03-22",
-      "first_seen": "2026-10-11T18:01:58Z"
+      "first_seen": "2026-10-12T09:55:50Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998131928",
+      "retrieved_at": "2026-10-12T09:55:50Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998131928",
+      "first_seen": "2026-10-12T09:55:50Z"
     }
   ],
   "warnings": [],
   "name": "PETTER MYKLEBUST AS",
-  "previous_run": "2026-10-11T18:01:58Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "PETTER MYKLEBUST AS is an Aksjeselskap (AS) registered in 2012, based in Flakstad. Main industry: 03.110 Fiske og fangst i sjø. Latest selskap accounts (period ending 2025-12-31): revenue 7.6 million NOK, net profit 114.5 thousand NOK. Key people: Petter Borgvatn Myklebust (daglig leder), Petter Borgvatn Myklebust (styrets leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998131928.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

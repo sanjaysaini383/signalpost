@@ -1,133 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "924508035",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:58:02Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "ATELIER BRÜCKNER GMBH",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "navn: ATELIER BRÜCKNER GMBH",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "organization_form",
       "value": "Norskregistrert utenlandsk foretak (NUF)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "organisasjonsform: NUF",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "registered_date",
       "value": "2020-02-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2020-02-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2019-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2019-11-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "business_address",
       "value": "Krefelder Strasse 32, DE-70376 STUTTGART, Tyskland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "forretningsadresse: Krefelder Strasse 32, DE-70376 STUTTGART, Tyskland",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "postal_address",
       "value": "c/o Deutsch Norwegische, Handelskammer Services AS, Postboks 603 Skøyen, 0214 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "postadresse: c/o Deutsch Norwegische, Handelskammer Services AS, Postboks 603 Skøyen, 0214 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "industry_code",
       "value": "74.110 Industri-, produkt- og motedesignvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "naeringskode1: 74.110 Industri-, produkt- og motedesignvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "activity_description",
       "value": "Design og realisering av arkitekturer og scenografi. Rådgivning, planlegging og realisering av utstillinger og arrangementer. Byggeprosjekter av alle slag.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "aktivitet: Design og realisering av arkitekturer og scenografi. Rådgivning, planlegging og realisering av utstillinger og arrangementer. Byggeprosjekter av alle slag.",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "last_annual_accounts_year",
       "value": "2022",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "sisteInnsendteAarsregnskap: 2022",
       "explanation": "Enhetsregisteret record keyed by organisation number 924508035",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "role:DAGL",
@@ -136,11 +155,11 @@
         "name": "Shirin Katharina Frangoul-Brückner"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "DAGL (Daglig leder): Shirin Katharina Frangoul-Brückner",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924508035",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "role:REGN",
@@ -149,11 +168,11 @@
         "name": "DEUTSCH-NORWEGISCHE HANDELSKAMMER SERVICES AS (org 992697946)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "REGN (Regnskapsfører): DEUTSCH-NORWEGISCHE HANDELSKAMMER SERVICES AS (org 992697946)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924508035",
       "as_of": "2022-08-05",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "role:HFOR",
@@ -162,11 +181,30 @@
         "name": "ATELIER BRÜCKNER GMBH (org 924617519)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924508035/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "HFOR (Oppl om foretaket i hjemlandet): ATELIER BRÜCKNER GMBH (org 924617519)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 924508035",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "accounts_info:selskap",
+      "value": {
+        "period_start": "2021-04-01",
+        "period_end": "2022-03-31",
+        "currency": "NOK",
+        "accounting_rules": "regnskapslovenAlminneligRegler",
+        "small_company_rules": true,
+        "unaudited": false,
+        "audit_waived": false,
+        "liquidation_accounts": false
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "journalnr 2023712453, regnskapsperiode 2021-04-01..2022-03-31",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:revenue",
@@ -175,11 +213,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 29046940.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:operating_costs",
+      "value": {
+        "amount": 28954212.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftskostnad.sumDriftskostnad: 28954212.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:operating_profit",
@@ -188,11 +239,24 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "resultatregnskapResultat.driftsresultat.driftsresultat: 92727.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:profit_before_tax",
+      "value": {
+        "amount": 92727.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "resultatregnskapResultat.ordinaertResultatFoerSkattekostnad: 92727.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:net_profit",
@@ -201,11 +265,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "resultatregnskapResultat.aarsresultat: 72327.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:total_assets",
@@ -214,11 +278,50 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "eiendeler.sumEiendeler: 62859104.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:current_assets",
+      "value": {
+        "amount": 62859104.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "eiendeler.omloepsmidler.sumOmloepsmidler: 62859104.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:fixed_assets",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "eiendeler.anleggsmidler.sumAnleggsmidler: 0.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:cash",
+      "value": {
+        "amount": 33028108.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "eiendeler.sumBankinnskuddOgKontanter: 33028108.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:equity",
@@ -227,11 +330,11 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 1031408.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "financials:selskap:total_debt",
@@ -240,11 +343,89 @@
         "currency": "NOK"
       },
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "egenkapitalGjeld.gjeldOversikt.sumGjeld: 61827696.0 NOK (journalnr 2023712453)",
       "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
       "as_of": "2022-03-31",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:current_debt",
+      "value": {
+        "amount": 61827696.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.kortsiktigGjeld.sumKortsiktigGjeld: 61827696.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials:selskap:long_term_debt",
+      "value": {
+        "amount": 0.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "egenkapitalGjeld.gjeldOversikt.langsiktigGjeld.sumLangsiktigGjeld: 0.0 NOK (journalnr 2023712453)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2021-04-01 to 2022-03-31",
+      "as_of": "2022-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials_history:selskap:revenue:2021",
+      "value": {
+        "amount": 18093355.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "resultatregnskapResultat.driftsresultat.driftsinntekter.sumDriftsinntekter: 18093355.0 NOK (journalnr 2023712078)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2020-04-01 to 2021-03-31",
+      "as_of": "2021-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials_history:selskap:net_profit:2021",
+      "value": {
+        "amount": 959081.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "resultatregnskapResultat.aarsresultat: 959081.0 NOK (journalnr 2023712078)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2020-04-01 to 2021-03-31",
+      "as_of": "2021-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials_history:selskap:total_assets:2021",
+      "value": {
+        "amount": 10220771.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "eiendeler.sumEiendeler: 10220771.0 NOK (journalnr 2023712078)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2020-04-01 to 2021-03-31",
+      "as_of": "2021-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "financials_history:selskap:equity:2021",
+      "value": {
+        "amount": 959081.0,
+        "currency": "NOK"
+      },
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "egenkapitalGjeld.egenkapital.sumEgenkapital: 959081.0 NOK (journalnr 2023712078)",
+      "explanation": "Annual accounts (selskap) filed under organisation number 924508035 in Regnskapsregisteret, period 2020-04-01 to 2021-03-31",
+      "as_of": "2021-03-31",
+      "first_seen": "2026-10-12T09:58:02Z"
     },
     {
       "field": "establishment",
@@ -254,15 +435,40 @@
         "address": "Krefelder Strasse 32, DE-70376 STUTTGART, Tyskland"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924508035",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:02Z",
       "evidence": "underenhet 924618108 overordnetEnhet: 924508035",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 924508035",
       "as_of": "2020-02-17",
-      "first_seen": "2026-10-11T18:03:08Z"
+      "first_seen": "2026-10-12T09:58:02Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924508035",
+      "retrieved_at": "2026-10-12T09:58:02Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 924508035",
+      "first_seen": "2026-10-12T09:58:02Z"
     }
   ],
   "warnings": [],
   "name": "ATELIER BRÜCKNER GMBH",
-  "previous_run": "2026-10-11T18:03:08Z",
+  "sources_used": [
+    "data.brreg.no"
+  ],
+  "summary": "ATELIER BRÜCKNER GMBH is a Norskregistrert utenlandsk foretak (NUF) registered in 2020. Main industry: 74.110 Industri-, produkt- og motedesignvirksomhet. Latest selskap accounts (period ending 2022-03-31): revenue 29.0 million NOK, net profit 72.3 thousand NOK. Key people: Shirin Katharina Frangoul-Brückner (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 924508035.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

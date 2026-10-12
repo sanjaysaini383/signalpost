@@ -1,115 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "997765826",
-  "generated_at": "2026-10-11T18:04:05Z",
+  "generated_at": "2026-10-12T09:54:55Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "OLA RONNY MELHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "navn: OLA RONNY MELHEIM",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "registered_date",
       "value": "2012-01-07",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-01-07",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "business_address",
       "value": "Heggjabygda 1096, 6774 NORDFJORDEID, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "forretningsadresse: Heggjabygda 1096, 6774 NORDFJORDEID, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "municipality",
+      "value": "STAD (4649)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "kommune: STAD, kommunenummer: 4649",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "industry_code",
       "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "naeringskode1: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "activity_description",
       "value": "Gardsbruk med storfehold og melkeproduksjon.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "aktivitet: Gardsbruk med storfehold og melkeproduksjon.",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 997765826",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +155,11 @@
         "name": "Ola Ronny Melheim"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "INNH (Innehaver): Ola Ronny Melheim",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997765826",
       "as_of": "2012-01-07",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "role:REGN",
@@ -131,11 +168,11 @@
         "name": "R NORDFJORD AS (org 936372384)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997765826/roller",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "REGN (Regnskapsfører): R NORDFJORD AS (org 936372384)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 997765826",
       "as_of": "2026-04-10",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
     },
     {
       "field": "establishment",
@@ -145,15 +182,55 @@
         "address": "Heggjabygda 1096, 6774 NORDFJORDEID, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997765826",
-      "retrieved_at": "2026-10-11T18:04:05Z",
+      "retrieved_at": "2026-10-12T09:54:55Z",
       "evidence": "underenhet 978472346 overordnetEnhet: 997765826",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 997765826",
       "as_of": "1997-07-08",
-      "first_seen": "2026-10-11T18:01:37Z"
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997765826",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 997765826",
+      "first_seen": "2026-10-12T09:54:55Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 61.93403271485917,
+        "lon": 6.263174400009472,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Heggjabygda+1096&postnummer=6774&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:54:55Z",
+      "evidence": "address 'Heggjabygda 1096', 6774 NORDFJORDEID, municipality 4649 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 997765826, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:54:55Z"
     }
   ],
   "warnings": [],
   "name": "OLA RONNY MELHEIM",
-  "previous_run": "2026-10-11T18:01:37Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "OLA RONNY MELHEIM is an Enkeltpersonforetak (ENK) registered in 2012, based in Stad. Main industry: 01.410 Melkeproduksjon på storfe og oppdrett av melkekyr. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 997765826.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

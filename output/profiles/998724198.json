@@ -1,133 +1,179 @@
 {
+  "schema_version": 2,
   "organization_number": "998724198",
-  "generated_at": "2026-10-11T18:04:12Z",
+  "generated_at": "2026-10-12T09:57:09Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "BENTE MOE SVOLDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "navn: BENTE MOE SVOLDAL",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "registered_in_business_register",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "registrertIForetaksregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "registered_date",
       "value": "2012-08-18",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-08-18",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "business_register_registered_date",
+      "value": "2012-08-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "registreringsdatoForetaksregisteret: 2012-08-18",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2012-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2012-01-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "business_address",
       "value": "Seksevegen 55, 5773 HOVLAND, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "forretningsadresse: Seksevegen 55, 5773 HOVLAND, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "municipality",
+      "value": "ULLENSVANG (4618)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "kommune: ULLENSVANG, kommunenummer: 4618",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "industry_code",
       "value": "01.451 Sauehold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "naeringskode1: 01.451 Sauehold",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
-      "field": "phone",
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "mobile",
       "value": "918 59 388",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
-      "evidence": "telefon: 918 59 388",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "mobil: 918 59 388",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "email",
       "value": "b-svolda@online.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "epostadresse: b-svolda@online.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "activity_description",
       "value": "Gardsdrift. Sauehald.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "aktivitet: Gardsdrift. Sauehald.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "maalform: Nynorsk",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 998724198",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "role:INNH",
@@ -136,11 +182,11 @@
         "name": "Bente Moe Svoldal"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "INNH (Innehaver): Bente Moe Svoldal",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998724198",
       "as_of": "2012-08-18",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "role:REGN",
@@ -149,11 +195,11 @@
         "name": "FONNA ØKONOMI AS (org 922866384)"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998724198/roller",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "REGN (Regnskapsfører): FONNA ØKONOMI AS (org 922866384)",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998724198",
       "as_of": "2019-07-05",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
     },
     {
       "field": "establishment",
@@ -163,15 +209,54 @@
         "address": "Seksevegen 55, 5773 HOVLAND, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998724198",
-      "retrieved_at": "2026-10-11T18:04:12Z",
+      "retrieved_at": "2026-10-12T09:57:09Z",
       "evidence": "underenhet 998730503 overordnetEnhet: 998724198",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998724198",
       "as_of": "2012-08-20",
-      "first_seen": "2026-10-11T18:02:32Z"
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998724198",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998724198",
+      "first_seen": "2026-10-12T09:57:09Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 60.24894908754863,
+        "lon": 6.619901092407892,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Seksevegen+55&postnummer=5773&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:57:09Z",
+      "evidence": "address 'Seksevegen 55', 5773 HOVLAND, municipality 4618 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998724198, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:57:09Z"
     }
   ],
   "warnings": [],
   "name": "BENTE MOE SVOLDAL",
-  "previous_run": "2026-10-11T18:02:32Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "BENTE MOE SVOLDAL is an Enkeltpersonforetak (ENK) registered in 2012, based in Ullensvang. Main industry: 01.451 Sauehold. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998724198.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

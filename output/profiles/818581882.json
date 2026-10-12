@@ -1,115 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "818581882",
-  "generated_at": "2026-10-11T18:04:17Z",
+  "generated_at": "2026-10-12T09:58:05Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "TOFT CONSULTING SERVICES",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "navn: TOFT CONSULTING SERVICES",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "registered_date",
       "value": "2017-02-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2017-02-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "vat_registered_date",
+      "value": "2017-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "registreringsdatoMerverdiavgiftsregisteret: 2017-03-01",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "business_address",
       "value": "Tåsenveien 125B, 0880 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "forretningsadresse: Tåsenveien 125B, 0880 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "industry_code",
       "value": "71.129 Annen teknisk konsulentvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "naeringskode1: 71.129 Annen teknisk konsulentvirksomhet",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "activity_description",
       "value": "Tekninsk og praktisk konsulteringstjeneste for kjemisk og farmasøytisk industri.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "aktivitet: Tekninsk og praktisk konsulteringstjeneste for kjemisk og farmasøytisk industri.",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "vat_registered",
       "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "registrertIMvaregisteret: True",
       "explanation": "Enhetsregisteret record keyed by organisation number 818581882",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "role:INNH",
@@ -118,11 +155,11 @@
         "name": "Kim Gunnar Toft"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "INNH (Innehaver): Kim Gunnar Toft",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818581882",
       "as_of": "2017-02-17",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "role:DAGL",
@@ -131,11 +168,11 @@
         "name": "Kim Gunnar Toft"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818581882/roller",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "DAGL (Daglig leder): Kim Gunnar Toft",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 818581882",
       "as_of": "2017-02-17",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
     },
     {
       "field": "establishment",
@@ -145,15 +182,55 @@
         "address": "Tåsenveien 125B, 0880 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818581882",
-      "retrieved_at": "2026-10-11T18:04:17Z",
+      "retrieved_at": "2026-10-12T09:58:05Z",
       "evidence": "underenhet 918625402 overordnetEnhet: 818581882",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 818581882",
       "as_of": "2017-02-27",
-      "first_seen": "2026-10-11T18:03:11Z"
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=818581882",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 818581882",
+      "first_seen": "2026-10-12T09:58:05Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.95982990490813,
+        "lon": 10.761737352833473,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=T%C3%A5senveien+125B&postnummer=0880&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:58:05Z",
+      "evidence": "address 'Tåsenveien 125B', 0880 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 818581882, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:58:05Z"
     }
   ],
   "warnings": [],
   "name": "TOFT CONSULTING SERVICES",
-  "previous_run": "2026-10-11T18:03:11Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "TOFT CONSULTING SERVICES is an Enkeltpersonforetak (ENK) registered in 2017, based in Oslo. Main industry: 71.129 Annen teknisk konsulentvirksomhet. Key people: Kim Gunnar Toft (daglig leder). It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 818581882.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

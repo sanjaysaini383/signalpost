@@ -1,142 +1,194 @@
 {
+  "schema_version": 2,
   "organization_number": "998935016",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:00Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "SANDNES FLYCASTING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "navn: SANDNES FLYCASTING",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "organization_form",
       "value": "Forening/lag/innretning (FLI)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "organisasjonsform: FLI",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "founded",
       "value": "2012-10-04",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "stiftelsesdato: 2012-10-04",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "registered_date",
       "value": "2012-10-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-10-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "business_address",
       "value": "c/o Nils Harald Leversund, Kolheim 38, 4313 SANDNES, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "forretningsadresse: c/o Nils Harald Leversund, Kolheim 38, 4313 SANDNES, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
+    },
+    {
+      "field": "municipality",
+      "value": "SANDNES (1108)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "kommune: SANDNES, kommunenummer: 1108",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "industry_code",
       "value": "93.120 Aktiviteter i idrettslag og -klubber",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "naeringskode1: 93.120 Aktiviteter i idrettslag og -klubber",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "institusjonellSektorkode: 7000 Ideelle organisasjoner",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "website",
       "value": "www.flycasting.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "hjemmeside: www.flycasting.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "email",
       "value": "post@flycasting.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "epostadresse: post@flycasting.no",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "activity_description",
       "value": "Foreningens formål er å gi et tilbud til sportsfiskere i Sandnes og omegn, som ønsker å trene på Casting. Vi ønsker å styrke denne sporten i vårt område, da det pr i dag ikke finnes et slikt tilbud i vårt distrikt. Det er en målsetning at en eller flere av våre medlemmer vil kunne delta på konkurranser nasjonalt og internasjonalt.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "aktivitet: Foreningens formål er å gi et tilbud til sportsfiskere i Sandnes og omegn, som ønsker å trene på Casting. Vi ønsker å styrke denne sporten i vårt område, da det pr i dag ikke finnes et slikt tilbud i ",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
+    },
+    {
+      "field": "former_names",
+      "value": [
+        {
+          "name": "SANDNES FLY CASTING",
+          "from": "2012-10-17",
+          "to": "2015-10-26"
+        }
+      ],
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "historiskeNavn: 1 earlier name(s), latest 'SANDNES FLY CASTING'",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
+      "first_seen": "2026-10-12T09:56:00Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
+    },
+    {
+      "field": "registered_in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016",
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "registrertIFrivillighetsregisteret: True",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998935016",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:DAGL",
@@ -145,11 +197,11 @@
         "name": "Nils Harald Leversund"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "DAGL (Daglig leder): Nils Harald Leversund",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2025-04-07",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:LEDE",
@@ -158,11 +210,11 @@
         "name": "Nils Harald Leversund"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "LEDE (Styrets leder): Nils Harald Leversund",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2026-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:MEDL",
@@ -171,11 +223,11 @@
         "name": "Håvard Eikeland Andersen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "MEDL (Styremedlem): Håvard Eikeland Andersen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2026-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:MEDL",
@@ -184,11 +236,11 @@
         "name": "Egil Abrahamsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "MEDL (Styremedlem): Egil Abrahamsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2026-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:MEDL",
@@ -197,11 +249,11 @@
         "name": "Einar Lind"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "MEDL (Styremedlem): Einar Lind",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2026-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "role:MEDL",
@@ -210,51 +262,67 @@
         "name": "Kjetil Bertelsen"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998935016/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "MEDL (Styremedlem): Kjetil Bertelsen",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998935016",
       "as_of": "2026-03-15",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "website_verified",
       "value": true,
       "source_url": "https://www.flycasting.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
-      "evidence": "page text contains company name 'sandnes flycasting'",
-      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting'",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "retrieved_at": "2026-10-12T09:56:00Z",
+      "evidence": "page text contains company name 'sandnes flycasting' and the registered postal code 4313",
+      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting' and the registered postal code 4313",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "website_email",
       "value": "post@flycasting.no",
       "source_url": "https://www.flycasting.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "MEDLEMSKAP MEDLEMSADMIN Sandnes Flycasting Post: Kolheim 38, 4313 Sandnes Mail: post@flycasting.no Levert av",
-      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting'",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting' and the registered postal code 4313",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "social:facebook",
       "value": "https://www.facebook.com/groups",
       "source_url": "https://www.flycasting.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "link on page: https://www.facebook.com/groups",
-      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting'",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting' and the registered postal code 4313",
+      "first_seen": "2026-10-12T09:56:00Z"
     },
     {
       "field": "social:instagram",
       "value": "http://www.instagram.com/sandnes_flycasting",
       "source_url": "https://www.flycasting.no/",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:00Z",
       "evidence": "link on page: http://www.instagram.com/sandnes_flycasting",
-      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting'",
-      "first_seen": "2026-10-11T18:02:02Z"
+      "explanation": "Page from https://www.flycasting.no/, the website declared in Enhetsregisteret for organisation number 998935016; page text contains company name 'sandnes flycasting' and the registered postal code 4313",
+      "first_seen": "2026-10-12T09:56:00Z"
     }
   ],
   "warnings": [],
   "name": "SANDNES FLYCASTING",
-  "previous_run": "2026-10-11T18:02:02Z",
+  "sources_used": [
+    "data.brreg.no",
+    "www.flycasting.no"
+  ],
+  "summary": "SANDNES FLYCASTING is a Forening/lag/innretning (FLI) registered in 2012, based in Sandnes. Main industry: 93.120 Aktiviteter i idrettslag og -klubber. Key people: Nils Harald Leversund (daglig leder), Nils Harald Leversund (styrets leder). Website: www.flycasting.no.",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998935016.",
+    "People and roles come from this organisation number's own role record.",
+    "Website content was used because: page text contains company name 'sandnes flycasting' and the registered postal code 4313."
+  ],
+  "coverage_notes": [
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No coordinates: the registered address has no verifiable street address."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }

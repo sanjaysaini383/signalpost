@@ -1,124 +1,152 @@
 {
+  "schema_version": 2,
   "organization_number": "998072816",
-  "generated_at": "2026-10-11T18:04:06Z",
+  "generated_at": "2026-10-12T09:56:01Z",
   "status": "active",
   "facts": [
     {
       "field": "name",
       "value": "STIG NORDBØ BØRSHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "navn: STIG NORDBØ BØRSHEIM",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "organization_form",
       "value": "Enkeltpersonforetak (ENK)",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "organisasjonsform: ENK",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "registered_in_business_register",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "registrertIForetaksregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "registered_date",
       "value": "2012-03-17",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "registreringsdatoEnhetsregisteret: 2012-03-17",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "bankrupt",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "konkurs: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "under_liquidation",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "underAvvikling: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "under_forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "underTvangsavviklingEllerTvangsopplosning: false",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "business_address",
       "value": "Colletts gate 11A, 0169 OSLO, Norge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "forretningsadresse: Colletts gate 11A, 0169 OSLO, Norge",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
+    },
+    {
+      "field": "municipality",
+      "value": "OSLO (0301)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
+      "retrieved_at": "2026-10-12T09:56:01Z",
+      "evidence": "kommune: OSLO, kommunenummer: 0301",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "industry_code",
       "value": "86.950 Fysioterapi- og ergoterapitjenester",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "naeringskode1: 86.950 Fysioterapi- og ergoterapitjenester",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
+    },
+    {
+      "field": "institutional_sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
+      "retrieved_at": "2026-10-12T09:56:01Z",
+      "evidence": "institusjonellSektorkode: 8200 Personlig næringsdrivende",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "phone",
       "value": "22 56 63 81",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "telefon: 22 56 63 81",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "activity_description",
       "value": "Fysioterapeut.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "aktivitet: Fysioterapeut.",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
+      "retrieved_at": "2026-10-12T09:56:01Z",
+      "evidence": "maalform: Bokmål",
+      "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "part_of_group",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "erIKonsern: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "vat_registered",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "registrertIMvaregisteret: False",
       "explanation": "Enhetsregisteret record keyed by organisation number 998072816",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "role:INNH",
@@ -127,11 +155,11 @@
         "name": "Stig Nordbø Børsheim"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998072816/roller",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "INNH (Innehaver): Stig Nordbø Børsheim",
       "explanation": "Role listed on the Enhetsregisteret record of organisation number 998072816",
       "as_of": "2012-03-17",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
     },
     {
       "field": "establishment",
@@ -141,15 +169,55 @@
         "address": "Vika Fysikalske Institutt, Arbins gate 11, 0253 OSLO, Norge"
       },
       "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998072816",
-      "retrieved_at": "2026-10-11T18:04:06Z",
+      "retrieved_at": "2026-10-12T09:56:01Z",
       "evidence": "underenhet 998151791 overordnetEnhet: 998072816",
       "explanation": "Sub-unit registered in Enhetsregisteret with parent organisation number 998072816",
       "as_of": "2012-03-21",
-      "first_seen": "2026-10-11T18:02:03Z"
+      "first_seen": "2026-10-12T09:56:01Z"
+    },
+    {
+      "field": "establishment_count",
+      "value": 1,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=998072816",
+      "retrieved_at": "2026-10-12T09:56:01Z",
+      "evidence": "page.totalElements: 1",
+      "explanation": "Number of sub-units the register lists under organisation number 998072816",
+      "first_seen": "2026-10-12T09:56:01Z"
+    },
+    {
+      "field": "geo_location",
+      "value": {
+        "lat": 59.92502511238375,
+        "lon": 10.736130966152166,
+        "crs": "EPSG:4258"
+      },
+      "source_url": "https://ws.geonorge.no/adresser/v1/sok?sok=Colletts+gate+11A&postnummer=0169&treffPerSide=5&utkoordsys=4258",
+      "retrieved_at": "2026-10-12T09:56:01Z",
+      "evidence": "address 'Colletts gate 11A', 0169 OSLO, municipality 0301 matches the register address",
+      "explanation": "Coordinates of the business address registered for organisation number 998072816, accepted because street, postal code and municipality number equal the register values",
+      "first_seen": "2026-10-12T09:56:01Z"
     }
   ],
   "warnings": [],
   "name": "STIG NORDBØ BØRSHEIM",
-  "previous_run": "2026-10-11T18:02:03Z",
+  "sources_used": [
+    "data.brreg.no",
+    "ws.geonorge.no"
+  ],
+  "summary": "STIG NORDBØ BØRSHEIM is an Enkeltpersonforetak (ENK) registered in 2012, based in Oslo. Main industry: 86.950 Fysioterapi- og ergoterapitjenester. It operates 1 registered establishment(s).",
+  "identity_check": [
+    "Organisation number passed the 9-digit mod-11 check.",
+    "The register returned a record whose organisation number equals the requested 998072816.",
+    "Sub-units are listed only when the register names this organisation number as their parent.",
+    "People and roles come from this organisation number's own role record.",
+    "Coordinates were kept only because the street, postal code and municipality match the register."
+  ],
+  "coverage_notes": [
+    "No website: none is registered, and no name-based domain showed this organisation number.",
+    "No annual accounts found in Regnskapsregisteret for this organisation number.",
+    "Employee count is not registered.",
+    "No e-mail address found in the register or on a verified website."
+  ],
+  "previous_run": null,
   "changes_since_previous_run": []
 }
