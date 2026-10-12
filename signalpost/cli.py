@@ -125,6 +125,13 @@ def cmd_validate(a):
     return 1 if problems else 0
 
 
+def cmd_report(a):
+    from .report import build_report
+    n = build_report(a.out, a.output, a.limit)
+    print(f"wrote {a.output} with {n} profiles ({Path(a.output).stat().st_size // 1024} KB)")
+    return 0
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(prog="signalpost", description="Profile Norwegian companies from public sources")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -149,6 +156,11 @@ def main(argv=None):
     v = sub.add_parser("validate", help="sanity-check saved profiles")
     v.add_argument("--out", default="output")
     v.set_defaults(fn=cmd_validate)
+    g = sub.add_parser("report", help="write a self-contained HTML report of the saved profiles")
+    g.add_argument("--out", default="output")
+    g.add_argument("--output", default="report.html")
+    g.add_argument("--limit", type=int, default=None)
+    g.set_defaults(fn=cmd_report)
     a = p.parse_args(argv)
     return a.fn(a)
 
