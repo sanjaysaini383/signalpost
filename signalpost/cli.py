@@ -173,6 +173,22 @@ def cmd_report(a):
     return 0
 
 
+def cmd_universe_sample(a):
+    """Reproducible local test batch from the public Signalpost universe (same selection as the starter kit)."""
+    import gzip
+    path = Path(a.universe)
+    opener = gzip.open if path.suffix == ".gz" else open
+    with opener(path, "rt", encoding="utf-8") as fh:
+        rows = [json.loads(line) for line in fh if line.strip()]
+    chosen = random.Random(a.seed).sample(rows, a.count)
+    Path(a.output).parent.mkdir(parents=True, exist_ok=True)
+    with open(a.output, "w", encoding="utf-8") as fh:
+        for row in chosen:
+            fh.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+    print(f"wrote {len(chosen)} companies to {a.output} (seed {a.seed}, universe {len(rows)} rows)")
+    return 0
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(prog="signalpost", description="Profile Norwegian companies from public sources")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -205,6 +221,12 @@ def main(argv=None):
     g.add_argument("--output", default="report.html")
     g.add_argument("--limit", type=int, default=None)
     g.set_defaults(fn=cmd_report)
+    u = sub.add_parser("universe-sample", help="seeded local test batch from the public Signalpost universe")
+    u.add_argument("--universe", required=True)
+    u.add_argument("--count", type=int, default=100)
+    u.add_argument("--seed", type=int, default=20260823)
+    u.add_argument("--output", default="smoke/smoke-companies.jsonl")
+    u.set_defaults(fn=cmd_universe_sample)
     a = p.parse_args(argv)
     return a.fn(a)
 

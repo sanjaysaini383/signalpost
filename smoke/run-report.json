@@ -1,0 +1,168 @@
+{
+  "run_id": "smoke-001",
+  "agent": "signalpost 0.3.0",
+  "code_commit": "b183fb8f6b9b1ef888b5d807389daa8c94c637cf",
+  "started_at": "2026-10-13T16:52:25Z",
+  "completed_at": "2026-10-13T16:53:19Z",
+  "input": "smoke/smoke-companies.jsonl",
+  "expected_count": 100,
+  "inputs_read": 100,
+  "duplicates_ignored": [],
+  "emitted_envelopes": 100,
+  "previous_snapshot": null,
+  "states": {
+    "complete": 100
+  },
+  "operations": {
+    "requests": 735,
+    "runtime_s": 53.7,
+    "requests_per_company": 7.35,
+    "p50_company_ms": 2333,
+    "p95_company_ms": 19425,
+    "llm_model": null,
+    "llm_tokens": {
+      "input": 0,
+      "output": 0
+    },
+    "third_party_cost_usd": 0.0,
+    "cost_per_company_usd": 0.0
+  },
+  "coverage": {
+    "legal_identity": {
+      "companies_available": 100,
+      "company_coverage": 1.0,
+      "states": {
+        "available": 100
+      }
+    },
+    "annual_accounts": {
+      "companies_available": 100,
+      "company_coverage": 1.0,
+      "states": {
+        "available": 100
+      }
+    },
+    "leadership": {
+      "companies_available": 100,
+      "company_coverage": 1.0,
+      "states": {
+        "available": 100
+      }
+    },
+    "registered_workplaces": {
+      "companies_available": 73,
+      "company_coverage": 0.73,
+      "states": {
+        "available": 73,
+        "not_available": 27
+      }
+    },
+    "official_website": {
+      "companies_available": 2,
+      "company_coverage": 0.02,
+      "states": {
+        "not_available": 93,
+        "failed": 2,
+        "ambiguous": 2,
+        "available": 2,
+        "blocked": 1
+      }
+    },
+    "company_profiles": {
+      "companies_available": 0,
+      "company_coverage": 0.0,
+      "states": {
+        "not_available": 100
+      }
+    },
+    "hiring": {
+      "companies_available": 0,
+      "company_coverage": 0.0,
+      "states": {
+        "not_available": 100
+      }
+    },
+    "public_activity": {
+      "companies_available": 0,
+      "company_coverage": 0.0,
+      "states": {
+        "not_available": 100
+      }
+    }
+  },
+  "claims": {
+    "available": 4887,
+    "per_company": 48.9,
+    "by_field": {
+      "legal_name": 100,
+      "legal_form": 100,
+      "registered_in_business_register": 100,
+      "founded": 100,
+      "registered_date": 100,
+      "business_register_registered_date": 99,
+      "vat_registered_date": 41,
+      "articles_date": 99,
+      "bankrupt": 100,
+      "under_liquidation": 100,
+      "under_forced_dissolution": 100,
+      "registered_address": 100,
+      "municipality": 100,
+      "industry": 100,
+      "institutional_sector": 98,
+      "phone": 13,
+      "email": 27,
+      "registered_activity": 100,
+      "statutory_purpose": 99,
+      "share_capital": 93,
+      "language_form": 100,
+      "part_of_group": 100,
+      "vat_registered": 100,
+      "last_annual_accounts_year": 100,
+      "role": 386,
+      "accounts_filing": 100,
+      "revenue": 201,
+      "operating_costs": 98,
+      "operating_profit": 98,
+      "profit_before_tax": 95,
+      "net_profit": 277,
+      "total_assets": 277,
+      "current_assets": 97,
+      "fixed_assets": 83,
+      "cash": 95,
+      "equity": 275,
+      "total_debt": 91,
+      "current_debt": 91,
+      "registered_workplace": 76,
+      "registered_workplace_count": 73,
+      "geo_location": 76,
+      "organisation_status": 100,
+      "former_names": 18,
+      "registered_employees": 10,
+      "mobile": 19,
+      "postal_address": 25,
+      "long_term_debt": 36,
+      "registered_website": 7,
+      "voluntary_vat_activities": 9,
+      "registered_in_foundation_register": 2,
+      "official_website": 2,
+      "company_site_description": 1
+    }
+  },
+  "refresh": {
+    "companies_with_changes": 0,
+    "material_changes": 0,
+    "stale_claims": 0
+  },
+  "validation": {
+    "passed": true,
+    "checks": {
+      "exact_expected_count": true,
+      "one_envelope_per_input": true,
+      "unique_organisation_numbers": true,
+      "all_states_terminal": true,
+      "all_sections_have_state": true,
+      "no_claim_without_evidence": true,
+      "no_silent_zero": true
+    }
+  }
+}

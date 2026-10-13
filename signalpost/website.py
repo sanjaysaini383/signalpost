@@ -14,7 +14,7 @@ from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse
 
 from .brreg import fact
-from .budget import BudgetExceeded, UnsafeURL
+from .budget import BudgetExceeded, UnresolvableHost, UnsafeURL
 
 MAX_PAGE_CHARS = 400_000
 SITE_SECONDS = 40  # wall-clock allowance for everything we do on one company's website
@@ -258,14 +258,34 @@ class _Blocked(Exception):
 
 
 def _allowed(fetcher, base, url):
+    """robots.txt per RFC 9309: 2xx is parsed, 4xx means no rules, 5xx or unreachable means disallow."""
     host = urlparse(base)
-    status, text = fetcher.get(f"{host.scheme}://{host.netloc}/robots.txt", accept="text/plain",
-                               retries=1, timeout=SITE_TIMEOUT, safe=True)
-    if status != 200:
+    try:
+        status, text = fetcher.get(f"{host.scheme}://{host.netloc}/robots.txt", accept="text/plain",
+                                   retries=1, timeout=SITE_TIMEOUT, safe=True)
+    except (BudgetExceeded, UnsafeURL):
+        raise
+    except Exception:
+        return False
+    if 400 <= status < 500:
         return True
+    if status != 200:
+        return False
     rp = urllib.robotparser.RobotFileParser()
     rp.parse(text.splitlines())
     return rp.can_fetch(fetcher.client.headers.get("User-Agent", "*"), url)
+
+
+def _variants(site):
+    """The same site over https/http and with/without www, tried in order when one form fails."""
+    u = urlparse(site)
+    host = u.netloc
+    other = host[4:] if host.startswith("www.") else "www." + host
+    path = u.path or "/"
+    out = [f"https://{host}{path}", f"https://{other}{path}", f"http://{host}{path}", f"http://{other}{path}"]
+    if u.scheme == "http":
+        out = out[2:] + out[:2]
+    return list(dict.fromkeys(out))
 
 
 def _snippet(text, needle, width=80):
@@ -280,14 +300,37 @@ def _same_site(url, host):
 
 
 def collect_pages(fetcher, site, max_pages=4, until=None):
-    """Fetch the home page plus up to three contact/about/service pages. Returns [(url, html)]."""
-    if not _allowed(fetcher, site, site):
-        raise _Blocked(f"robots.txt disallows {site}")
-    status, html = _get_page(fetcher, site)
-    if status != 200 or "<" not in html:
+    """Fetch the home page plus up to three contact/about/service pages. Returns [(url, html)].
+    Tries https/http and www/non-www forms of the site until one answers."""
+    home_html, base, blocked, last_err = None, None, False, None
+    for variant in _variants(site):
+        if until and time.monotonic() > until:
+            break
+        try:
+            if not _allowed(fetcher, variant, variant):
+                blocked = True
+                continue
+            status, html = _get_page(fetcher, variant)
+        except UnresolvableHost as e:
+            last_err = e
+            continue
+        except (BudgetExceeded, UnsafeURL):
+            raise
+        except Exception as e:
+            last_err = e
+            continue
+        if status == 200 and "<" in html:
+            home_html, base = html, variant
+            break
+    if home_html is None:
+        if blocked:
+            raise _Blocked(f"robots.txt disallows {site} or cannot be read")
+        if last_err:
+            raise last_err
         return []
-    pages = [(site, html)]
-    home = parse_page(html)
+    site = base
+    pages = [(site, home_html)]
+    home = parse_page(home_html)
     seen = {site.rstrip("/")}
     host = urlparse(site).netloc.lower().removeprefix("www.")
     for href in home.links:
@@ -299,9 +342,14 @@ def collect_pages(fetcher, site, max_pages=4, until=None):
         if full.rstrip("/") in seen or not CONTACT_HINTS.search(urlparse(full).path):
             continue
         seen.add(full.rstrip("/"))
-        if not _allowed(fetcher, site, full):
+        try:
+            if not _allowed(fetcher, site, full):
+                continue
+            st, h = _get_page(fetcher, full)
+        except BudgetExceeded:
+            raise
+        except Exception:
             continue
-        st, h = _get_page(fetcher, full)
         if st == 200 and "<" in h:
             pages.append((full, h))
     return pages
@@ -365,53 +413,124 @@ def _mark(checks, key, state, note=None):
         checks[key] = {"availability": state, **({"note": note} if note else {})}
 
 
-def website_facts(fetcher, org, unit, retrieved_at, warnings, checks=None):
-    site = normalize_url(unit.get("hjemmeside"))
-    declared = bool(site)
-    until = time.monotonic() + SITE_SECONDS
-    for k in ("official_website", "company_profiles", "hiring", "public_activity"):
-        _mark(checks, k, "not_available", "no verified website to research from")
-    try:
-        if not site:
-            site = discover_site(fetcher, org, unit, until)
-        if not site:
-            _mark(checks, "official_website", "not_available",
-                  "none registered; no name-derived domain showed this organisation number")
-            return []
-        pages = collect_pages(fetcher, site, until=until)
-    except BudgetExceeded:
-        raise
-    except _Blocked as e:
-        warnings.append(str(e))
-        _mark(checks, "official_website", "blocked", str(e))
-        return []
-    except UnsafeURL as e:
-        warnings.append(f"website refused by URL policy: {e}")
-        _mark(checks, "official_website", "blocked", "refused by public-URL policy")
-        return []
-    except Exception as e:
-        warnings.append(f"website fetch failed: {e}")
-        _mark(checks, "official_website", "failed", "website could not be fetched")
-        return []
-    if not pages:
-        warnings.append(f"website {site} unreachable or not HTML")
-        _mark(checks, "official_website", "failed", f"{site} unreachable or not HTML")
-        return []
-    parsed = [(u, h, parse_page(h)) for u, h in pages]
-    texts = [p.title + " " + p.text for _, _, p in parsed]
+FREE_MAIL = {
+    "gmail.com", "googlemail.com", "hotmail.com", "hotmail.no", "outlook.com", "outlook.no", "live.no", "live.com",
+    "msn.com", "yahoo.com", "yahoo.no", "yahoo.co.uk", "icloud.com", "me.com", "mac.com", "aol.com", "mail.com",
+    "gmx.com", "gmx.net", "protonmail.com", "proton.me", "online.no", "frisurf.no", "broadpark.no", "getmail.no",
+    "start.no", "c2i.net", "lyse.net", "lyse.no", "altibox.no", "telenor.no", "tele2.no", "ebnett.no", "enivest.net",
+    "haugnett.no", "combitel.no", "loqal.no", "sensewave.com", "vikenfiber.no", "tdcnet.no", "nextgentel.com",
+    "bluezone.no", "powertech.no", "netcom.no", "chello.no", "oneco.no", "kpnmail.no", "eunet.no", "post.com",
+    "yahoo.se", "hotmail.se", "frisurf.com", "tussa.com", "nordnet.no", "online.net", "ice.no", "barnehage.no",
+}
+
+
+def email_domain(unit):
+    """Domain of the e-mail address the company registered, unless it is a mailbox provider."""
+    mail = (unit.get("epostadresse") or "").strip().lower()
+    if "@" not in mail:
+        return None
+    dom = mail.rsplit("@", 1)[1].strip(". ")
+    if dom in FREE_MAIL or "." not in dom or len(dom) < 4:
+        return None
+    return dom
+
+
+_SECTION_KEYS = ("official_website", "company_profiles", "hiring", "public_activity")
+
+
+def _resolve_site(fetcher, org, unit, until, warnings):
+    """Find the company's own website. Returns (site, origin, pages, tie) or (None, state, note, None).
+
+    Candidates, in order: the website registered in Enhetsregisteret; the domain of the registered e-mail
+    address; domains derived from the registered name. A candidate is used only when its pages tie to this
+    exact entity: always by the organisation number for name-derived guesses, and for register-backed
+    candidates by the organisation number or the name together with postal code, phone or a matching domain."""
     addr = unit.get("forretningsadresse") or {}
-    tie = tie_evidence(org, unit.get("navn", ""), texts, postcode=addr.get("postnummer"),
-                       phones=[unit.get("telefon"), unit.get("mobil")], strong_only=not declared,
-                       domain=urlparse(site).netloc if declared else None)
-    if not tie:
-        warnings.append(f"website {site} discarded: page does not tie to organisation number {org}")
-        _mark(checks, "official_website", "ambiguous", f"{site} is registered but its pages do not tie to the entity")
+    registered = normalize_url(unit.get("hjemmeside"))
+    candidates = []
+    if registered:
+        candidates.append((registered, "register_website"))
+    dom = email_domain(unit)
+    if dom and not (registered and urlparse(registered).netloc.lower().removeprefix("www.") == dom):
+        candidates.append((f"https://{dom}/", "register_email_domain"))
+    failure = None
+    for site, origin in candidates:
+        if until and time.monotonic() > until:
+            break
+        try:
+            pages = collect_pages(fetcher, site, until=until)
+        except BudgetExceeded:
+            raise
+        except _Blocked as e:
+            warnings.append(str(e))
+            failure = failure or ("blocked", str(e))
+            continue
+        except UnresolvableHost:
+            warnings.append(f"{origin} {site} does not resolve")
+            failure = failure or ("not_available", f"{'registered website' if origin == 'register_website' else 'e-mail domain'} {site} does not resolve")
+            continue
+        except UnsafeURL as e:
+            warnings.append(f"website refused by URL policy: {e}")
+            failure = failure or ("blocked", "refused by public-URL policy")
+            continue
+        except Exception as e:
+            warnings.append(f"website fetch failed for {site}: {type(e).__name__}: {e}"[:300])
+            failure = failure or ("failed", f"{site} could not be fetched")
+            continue
+        if not pages:
+            failure = failure or ("failed", f"{site} unreachable or not HTML")
+            continue
+        texts = [parse_page(h).title + " " + parse_page(h).text for _, h in pages]
+        # A parent or group site may list a subsidiary's name and address, so for an e-mail domain only the
+        # organisation number or a domain that is the company's own name counts.
+        strict = origin != "register_website"
+        tie = tie_evidence(org, unit.get("navn", ""), texts,
+                           postcode=None if strict else addr.get("postnummer"),
+                           phones=() if strict else [unit.get("telefon"), unit.get("mobil")],
+                           domain=urlparse(pages[0][0]).netloc)
+        if tie:
+            return pages[0][0], origin, pages, tie
+        warnings.append(f"{origin} {pages[0][0]} discarded: pages do not tie to organisation number {org}")
+        failure = failure or ("ambiguous", f"{pages[0][0]} does not tie to this exact entity")
+    found = discover_site(fetcher, org, unit, until) if not registered or failure else None
+    if found:
+        try:
+            pages = collect_pages(fetcher, found, until=until)
+        except BudgetExceeded:
+            raise
+        except Exception:
+            pages = []
+        if pages:
+            texts = [parse_page(h).title + " " + parse_page(h).text for _, h in pages]
+            tie = tie_evidence(org, unit.get("navn", ""), texts, strong_only=True)
+            if tie:
+                return pages[0][0], "name_domain_discovery", pages, tie
+    if failure:
+        return None, failure[0], failure[1], None
+    return None, "not_available", "none registered; no candidate domain showed this organisation number", None
+
+
+_ORIGIN_TEXT = {
+    "register_website": "the website declared in Enhetsregisteret",
+    "register_email_domain": "the domain of the e-mail address registered in Enhetsregisteret",
+    "name_domain_discovery": "a website found by name-based domain lookup (not in the register)",
+}
+
+
+def website_facts(fetcher, org, unit, retrieved_at, warnings, checks=None):
+    until = time.monotonic() + SITE_SECONDS
+    for k in _SECTION_KEYS:
+        _mark(checks, k, "not_available", "no verified website to research from")
+    site, origin, pages, tie = _resolve_site(fetcher, org, unit, until, warnings)
+    if not site:
+        _mark(checks, "official_website", origin, pages)
         return []
+    declared = origin == "register_website"
+    parsed = [(u, h, parse_page(h)) for u, h in pages]
+    addr = unit.get("forretningsadresse") or {}
     tie_text, tie_span = tie
 
-    origin = ("the website declared in Enhetsregisteret" if declared
-              else "a website found by name-based domain lookup (not in the register)")
-    why_base = f"Page from {site}, {origin} for organisation number {org}; {tie_text}"
+    why_base = f"Page from {site}, {_ORIGIN_TEXT[origin]} for organisation number {org}; {tie_text}"
 
     def add(field, value, url, evidence, span=None, method="html", source_class="company_site"):
         f = fact(field, value, url, evidence, why_base, retrieved_at)
@@ -423,7 +542,7 @@ def website_facts(fetcher, org, unit, retrieved_at, warnings, checks=None):
     out = []
     add("website_verified", True, pages[0][0], tie_text, tie_span, "identity_tie")
     if not declared:
-        add("website", site, pages[0][0], tie_text, tie_span, "domain_discovery")
+        add("website", site, pages[0][0], tie_text, tie_span, origin)
     _mark(checks, "official_website", "available")
     home_url, _, home = parsed[0]
     desc = home.meta.get("description") or home.meta.get("og:description")

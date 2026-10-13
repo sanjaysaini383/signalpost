@@ -27,6 +27,10 @@ class UnsafeURL(ValueError):
     pass
 
 
+class UnresolvableHost(UnsafeURL):
+    pass
+
+
 def _now():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -42,7 +46,7 @@ def check_public_url(url):
     try:
         infos = socket.getaddrinfo(u.hostname, u.port or (443 if u.scheme == "https" else 80), proto=socket.IPPROTO_TCP)
     except socket.gaierror as e:
-        raise UnsafeURL(f"host does not resolve: {u.hostname}") from e
+        raise UnresolvableHost(f"host does not resolve: {u.hostname}") from e
     for info in infos:
         ip = ipaddress.ip_address(info[4][0])
         if not ip.is_global or ip.is_multicast:
