@@ -44,6 +44,7 @@ section#detail{overflow:auto;padding:28px 36px 56px}
 .chip{display:inline-flex;align-items:center;gap:6px;padding:2px 10px;border-radius:999px;font-size:12px;font-weight:500;background:var(--soft);color:var(--muted);border:1px solid var(--line)}
 .chip.mono{font-family:var(--mono);font-size:11.5px}.chip.ok{background:var(--ok-soft);color:var(--ok);border-color:transparent}
 .chip.warn{background:var(--warn-soft);color:var(--warn);border-color:transparent}.chip.bad{background:var(--bad-soft);color:var(--bad);border-color:transparent}
+.secs{margin-top:10px}
 .sum{margin:14px 0 0;color:var(--text);line-height:1.6;max-width:72ch}
 .note{margin-top:14px;padding:10px 14px;border-radius:10px;font-size:13px;background:var(--warn-soft);color:var(--warn)}
 .card{margin-top:18px;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
@@ -110,7 +111,10 @@ function show(p){const d=$('detail');d.replaceChildren();const w=el('div','wrap'
  c.append(el('span','chip mono','Org '+p.organization_number),el('span','chip '+(p.status==='active'?'ok':'bad'),p.status));
  const flag=['bankrupt','under_liquidation','under_forced_dissolution'].find(k=>p.facts.some(f=>f.field===k&&f.value===true));if(flag)c.append(el('span','chip bad',label(flag)));
  c.append(el('span','chip',p.facts.length+' facts'),el('span','chip','Generated '+p.generated_at));if(p.previous_run)c.append(el('span','chip','Previous run '+p.previous_run));
- hero.append(c);if(p.summary)hero.append(el('p','sum',p.summary));p.warnings.forEach(x=>hero.append(el('div','note',x)));w.append(hero);
+ hero.append(c);
+ if(p.sections){const st=el('div','chips secs');for(const[k,v]of Object.entries(p.sections)){const cls=v.availability==='available'?'ok':(v.availability==='not_available'||v.availability==='not_applicable')?'':'warn';
+  const ch=el('span','chip '+cls,k.replace(/_/g,' ')+': '+v.availability.replace('_',' '));if(v.note)ch.title=v.note;st.append(ch)}hero.append(st)}
+ if(p.summary)hero.append(el('p','sum',p.summary));p.warnings.forEach(x=>hero.append(el('div','note',x)));w.append(hero);
  const ic=(p.identity_check||[]),cn=(p.coverage_notes||[]);
  if(ic.length||cn.length){const k=el('div','card');k.append(el('h3',null,'Identity and coverage'));
   ic.forEach(x=>{const r=el('div','chg');r.append(el('span','chip ok','verified'),el('span',null,x));k.append(r)});
@@ -126,15 +130,34 @@ $('q').oninput=renderList;$('f').onchange=renderList;kpis();renderList();
 """
 
 
-def build_report(out_dir, dest, limit=None):
-    files = sorted((Path(out_dir) / "profiles").glob("*.json"))
-    if limit:
-        files = files[:limit]
+def _from_envelope(env):
+    p = dict(env.get("profile") or {})
+    p.setdefault("organization_number", env["organisation_number"])
+    p.setdefault("facts", [])
+    p.setdefault("warnings", [])
+    p.setdefault("status", (env.get("legal_identity") or {}).get("status") or env.get("state"))
+    p["name"] = p.get("name") or (env.get("legal_identity") or {}).get("legal_name")
+    p["sections"] = env.get("sections")
+    p["generated_at"] = (env.get("run") or {}).get("completed_at")
+    p["previous_run"] = (env.get("refresh") or {}).get("previous_completed_at")
+    p["changes_since_previous_run"] = [{"field": c["field"], "change": c["change_type"], "old": c.get("previous_value"),
+                                        "new": c.get("current_value")} for c in env.get("changes", [])]
+    return p
+
+
+def build_report(out_dir, dest, limit=None, envelopes=None):
     profiles = []
-    for f in files:
-        p = json.loads(f.read_text("utf-8"))
-        p.setdefault("warnings", [])
-        profiles.append(p)
+    if envelopes:
+        for line in Path(envelopes).read_text("utf-8").splitlines():
+            if line.strip():
+                profiles.append(_from_envelope(json.loads(line)))
+    else:
+        for f in sorted((Path(out_dir) / "profiles").glob("*.json")):
+            p = json.loads(f.read_text("utf-8"))
+            p.setdefault("warnings", [])
+            profiles.append(p)
+    if limit:
+        profiles = profiles[:limit]
     # </ would end the script element; escape it so profile text can never break out of the data block
     data = json.dumps(profiles, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     Path(dest).write_text(TEMPLATE.replace("__DATA__", data), "utf-8")

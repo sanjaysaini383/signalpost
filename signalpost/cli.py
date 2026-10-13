@@ -168,7 +168,7 @@ def cmd_validate(a):
 
 def cmd_report(a):
     from .report import build_report
-    n = build_report(a.out, a.output, a.limit)
+    n = build_report(a.out, a.output, a.limit, envelopes=a.envelopes)
     print(f"wrote {a.output} with {n} profiles ({Path(a.output).stat().st_size // 1024} KB)")
     return 0
 
@@ -220,6 +220,7 @@ def main(argv=None):
     g.add_argument("--out", default="output")
     g.add_argument("--output", default="report.html")
     g.add_argument("--limit", type=int, default=None)
+    g.add_argument("--envelopes", default=None, help="build the dashboard from a batch envelopes JSONL file")
     g.set_defaults(fn=cmd_report)
     u = sub.add_parser("universe-sample", help="seeded local test batch from the public Signalpost universe")
     u.add_argument("--universe", required=True)

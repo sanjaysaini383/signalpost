@@ -134,43 +134,75 @@ def _org_pattern(org):
 _ASCII = str.maketrans({"æ": "ae", "ø": "o", "å": "a", "ä": "a", "ö": "o", "ü": "u", "é": "e"})
 
 
+def _label(domain):
+    return re.sub(r"[^a-z0-9]", "", domain.lower().removeprefix("www.").split(".")[0].translate(_ASCII))
+
+
+def _joined(core):
+    return re.sub(r"[^a-z0-9]", "", core.translate(_ASCII))
+
+
 def _domain_matches_name(domain, core):
-    label = re.sub(r"[^a-z0-9]", "", domain.lower().removeprefix("www.").split(".")[0].translate(_ASCII))
-    joined = re.sub(r"[^a-z0-9]", "", core.translate(_ASCII))
+    """The domain is the company's own name: equal, or containing the full name (e.g. 'thequickstyle' for
+    'Quick Style'). A domain that holds only part of the name ('amestoaccounthouse' for 'Amesto Accounthouse
+    Sor') is a group or brand domain and does not match."""
+    label, joined = _label(domain), _joined(core)
     if len(label) < 6 or len(joined) < 6:
         return False
-    if label == joined:
-        return True
-    short, long_ = sorted((label, joined), key=len)
-    return short in long_ and len(short) / len(long_) >= 0.7
+    return label == joined or (joined in label and len(joined) / len(label) >= 0.7)
+
+
+def _domain_related(domain, core):
+    """At least one distinctive name token appears in the domain (or the domain is inside the name)."""
+    label, joined = _label(domain), _joined(core)
+    tokens = [t for t in re.sub(r"[^a-z0-9 ]", " ", core.translate(_ASCII)).split() if len(t) >= 4]
+    return any(t in label for t in tokens) or (len(label) >= 5 and label in joined)
+
+
+_ORG_LABELLED = re.compile(r"org(?:anisasjons)?[\s.\-]*(?:nr|nummer|no)?[\s.:]*((?:NO\s?)?\d{3}[\s.]?\d{3}[\s.]?\d{3})", re.I)
+
+
+def _listed_org_numbers(blob):
+    from .orgno import is_valid
+    found = set()
+    for m in _ORG_LABELLED.finditer(blob):
+        d = re.sub(r"\D", "", m.group(1))
+        if is_valid(d):
+            found.add(d)
+    return found
 
 
 def tie_evidence(org, name, texts, postcode=None, phones=(), strong_only=False, domain=None):
     """Return (description, literal span from the page) if the pages tie to THIS company, else None.
 
-    Strong: the organisation number appears on the page. Weaker (only for sites the register itself declares):
-    the company name together with the registered postal code, telephone number, or a domain that matches the
-    name. A name alone is never enough."""
+    Strong: the organisation number appears on the page (on a page that lists several organisation numbers,
+    e.g. a group's list of subsidiaries, only together with a domain related to the name). Weaker (only for
+    register-backed candidates): the company name together with the registered postal code or telephone
+    number on a domain related to the name, or a domain that is the company's own name. A name alone is
+    never enough."""
     blob = " ".join(texts)
+    core = _name_core(name)
     m = _org_pattern(org).search(blob)
     if m:
-        return f"page text contains organisation number {org}", m.group(0)
+        others = _listed_org_numbers(blob) - {org}
+        if not others or (domain and _domain_related(domain, core)):
+            return f"page text contains organisation number {org}", m.group(0)
     if strong_only:
         return None
-    core = _name_core(name)
     flat = re.sub(r"\s+", " ", blob.lower())
     if len(core) < 4 or core not in flat:
         return None
     i = flat.find(core)
     name_span = blob[i:i + len(core)] if blob.lower()[i:i + len(core)] == core else core
-    if postcode:
+    if domain and _domain_matches_name(domain, core):
+        return f"the registered website domain '{domain}' matches the company name '{core}' and the page shows the name", name_span
+    related = (not domain) or _domain_related(domain, core)
+    if postcode and related:
         pm = re.search(rf"(?<!\d){postcode}(?!\d)", blob)
         if pm:
             return f"page text contains company name '{core}' and the registered postal code {postcode}", name_span
-    if domain and _domain_matches_name(domain, core):
-        return f"the registered website domain '{domain}' matches the company name '{core}' and the page shows the name", name_span
     digits = re.sub(r"\D", "", blob)
-    for ph in phones:
+    for ph in phones if related else ():
         d = re.sub(r"\D", "", ph or "")[-8:]
         if len(d) == 8 and d in digits:
             return f"page text contains company name '{core}' and the registered telephone number {ph}", name_span
@@ -505,15 +537,90 @@ def _resolve_site(fetcher, org, unit, until, warnings):
             tie = tie_evidence(org, unit.get("navn", ""), texts, strong_only=True)
             if tie:
                 return pages[0][0], "name_domain_discovery", pages, tie
+    if not registered or failure:
+        for cand in search_candidates(fetcher, unit):
+            if until and time.monotonic() > until:
+                break
+            try:
+                pages = collect_pages(fetcher, cand, until=until)
+            except BudgetExceeded:
+                raise
+            except Exception:
+                continue
+            if not pages:
+                continue
+            texts = [parse_page(h).title + " " + parse_page(h).text for _, h in pages]
+            tie = tie_evidence(org, unit.get("navn", ""), texts, strong_only=True)
+            if not tie:
+                # A search hit whose domain is the company's own name may also pass with the registered
+                # postal code or telephone number on the page; the name alone never does.
+                t2 = tie_evidence(org, unit.get("navn", ""), texts, postcode=addr.get("postnummer"),
+                                  phones=[unit.get("telefon"), unit.get("mobil")])
+                if t2 and _domain_matches_name(urlparse(pages[0][0]).netloc, _name_core(unit.get("navn", ""))):
+                    tie = (t2[0] + f"; the domain {urlparse(pages[0][0]).netloc} matches the company name", t2[1])
+            if tie:
+                return pages[0][0], "search_discovery", pages, tie
     if failure:
         return None, failure[0], failure[1], None
     return None, "not_available", "none registered; no candidate domain showed this organisation number", None
+
+
+# ------------------------------------------------------------------ optional search discovery (candidates only)
+
+BRAVE_ENDPOINT = "https://api.search.brave.com/res/v1/web/search"
+BRAVE_KEY_ENV = "BRAVE_SEARCH_API_KEY"
+_NOT_COMPANY_SITES = re.compile(
+    r"(^|\.)(proff|purehelp|gulesider|1881|finn|brreg|regnskapstall|bedriftsdatabasen|firmasok|kompass|allabolag|"
+    r"enirodirectory|facebook|linkedin|instagram|youtube|twitter|x|tiktok|wikipedia|wikidata|google|bing|yelp|"
+    r"tripadvisor|trustpilot|mittanbud|anbudstorget|nav|altinn|ssb|kartverket|norgeskart|hitta|eniro|krak|"
+    r"118|180|firmanett|forhandlerkart|vg|dagbladet|nrk|e24|dn|aftenposten|tu|amazon|apple|"
+    r"bygg|byggmakker|zoominfo|dnb|crunchbase|bloomberg|opencorporates|northdata|companyhouse|infobel|cylex|"
+    r"hotfrog|bedrift|bizzdo|bisnode|dun|dnbbedrift|nettavisen|regjeringen|lovdata)\.[a-z.]+$", re.I)
+_search_lock = __import__("threading").Lock()
+_search_last = [0.0]
+
+
+def search_candidates(fetcher, unit, limit=3):
+    """Candidate company sites from Brave Search. Results are never evidence; each one is re-fetched and must
+    tie to the entity. The API key comes only from the BRAVE_SEARCH_API_KEY environment variable."""
+    key = os.environ.get(BRAVE_KEY_ENV, "").strip()
+    name = (unit.get("navn") or "").strip()
+    if not key or not name:
+        return []
+    place = ((unit.get("forretningsadresse") or {}).get("poststed") or "").title()
+    query = f'"{name}" {place}'.strip()
+    interval = float(os.environ.get("BRAVE_MIN_INTERVAL", "1.05"))
+    with _search_lock:
+        wait = _search_last[0] + interval - time.monotonic()
+        if wait > 0:
+            time.sleep(wait)
+        _search_last[0] = time.monotonic()
+    try:
+        status, data = fetcher.get_json(BRAVE_ENDPOINT, {"q": query, "count": 10, "country": "no", "search_lang": "nb",
+                                                         "safesearch": "moderate", "spellcheck": "0"},
+                                        headers={"X-Subscription-Token": key}, use_cache=False, retries=1,
+                                        timeout=SITE_TIMEOUT, record=False)
+    except BudgetExceeded:
+        raise
+    except Exception:
+        return []
+    out = []
+    for r in ((data or {}).get("web") or {}).get("results", []):
+        url = r.get("url") or ""
+        host = urlparse(url).netloc.lower().removeprefix("www.")
+        if not host or _NOT_COMPANY_SITES.search(host) or any(urlparse(u).netloc.lower().removeprefix("www.") == host for u in out):
+            continue
+        out.append(f"{urlparse(url).scheme or 'https'}://{urlparse(url).netloc}/")
+        if len(out) >= limit:
+            break
+    return out
 
 
 _ORIGIN_TEXT = {
     "register_website": "the website declared in Enhetsregisteret",
     "register_email_domain": "the domain of the e-mail address registered in Enhetsregisteret",
     "name_domain_discovery": "a website found by name-based domain lookup (not in the register)",
+    "search_discovery": "a website found through Brave Search (not in the register; search was used only to find the candidate)",
 }
 
 
@@ -545,6 +652,18 @@ def website_facts(fetcher, org, unit, retrieved_at, warnings, checks=None):
         add("website", site, pages[0][0], tie_text, tie_span, origin)
     _mark(checks, "official_website", "available")
     home_url, _, home = parsed[0]
+
+    # A page on a group, chain or brand domain is the company's page, but the rest of that site (footer social
+    # links, careers, news feed) belongs to the group. Publish only the page itself in that case.
+    own_domain = _domain_matches_name(urlparse(site).netloc, _name_core(unit.get("navn", "")))
+    org_tie = tie_text.startswith("page text contains organisation number")
+    deep = urlparse(site).path not in ("", "/")
+    if not own_domain and (deep or not org_tie):
+        note = "the verified page sits on a shared or group domain; site-wide profiles, jobs and news are not attributed"
+        for k in ("company_profiles", "hiring", "public_activity"):
+            _mark(checks, k, "ambiguous", note)
+        out[0]["shared_domain"] = True
+        return out
     desc = home.meta.get("description") or home.meta.get("og:description")
     if desc and len(desc) > 20:
         add("website_description", desc, home_url, f"meta description: {desc[:200]}", desc, "meta")

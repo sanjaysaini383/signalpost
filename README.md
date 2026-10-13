@@ -1,120 +1,114 @@
-# Signalpost - Norwegian company profile agent
+# Signalpost agent
 
-Give it a Norwegian organisation number. It returns a JSON profile in which **every fact carries a source URL,
-a retrieval date, an evidence snippet and an explanation of why it belongs to that company**, plus a plain-language
-summary, an identity check and a list of what is missing and why.
+Give it a batch of Norwegian organisation numbers. For each one it researches the official registers and the
+company's own website and returns **exactly one terminal envelope**: legal identity, annual accounts, leadership,
+registered workplaces, verified official website, company-owned profiles, hiring and dated public activity. Every
+claim has evidence (source URL, retrieval time, content hash, claim span), every section has an explicit
+availability state, and a re-run reports what changed against the previous snapshot.
 
-## Run it
+## Install (one step)
+
+Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-pip install -e .                                   # Python 3.10+
-py -m signalpost run --input companies.txt         # one command: profile every org number in the file
+uv sync --frozen
 ```
 
-(`python -m signalpost ...` on Linux/macOS.) Results land in `output/`:
+## Run (evaluator command)
+
+```bash
+uv run signalpost batch --organisations batch.jsonl --output out/envelopes.jsonl --report out/run-report.json
+```
+
+- `--organisations` accepts JSONL (`{"organisation_number": "..."}` per line, extra fields ignored), a JSON list or
+  `{"organisation_numbers": [...]}`, or plain text with one number per line.
+- `--previous <envelopes.jsonl>` diffs against an earlier run. If omitted and `--output` already exists, that file
+  is used as the previous snapshot. Every run is also archived to `out/snapshots/<run_id>.envelopes.jsonl`.
+- Optional: `--run-id`, `--expected-count`, `--workers` (12), `--time-limit-min` (50), `--no-website`.
+- Exit code 0 when the run report's validation passes (one envelope per input, all states terminal, every claim
+  has evidence).
+
+Clean-install check, as the evaluator runs it: clone at the pinned commit, `uv sync --frozen`, then the command
+above. This was verified on a fresh clone.
+
+## Environment variables (all optional)
+
+| Variable | Effect |
+|---|---|
+| `BRAVE_SEARCH_API_KEY` | Brave Search is used to find candidate websites for companies without a verified one. Results are candidates only (see `SOURCES_AND_POLICY.md`). |
+| `BRAVE_MIN_INTERVAL` | Seconds between search calls (default 1.05, safe for the free tier). |
+| `ANTHROPIC_API_KEY` | Claude Haiku 5.5 summarises the verified website (business summary, products/services). Quotes must appear verbatim on the page. |
+| `SIGNALPOST_MODEL` | Override the model id (default `claude-haiku-5-5`). |
+
+Without any key the agent runs fully on official registers and company websites, at zero third-party cost.
+Keys are read only from the environment and never written to output, logs or snapshots.
+
+## Smoke test (100 companies)
+
+`smoke/` holds the required 100-company smoke test, drawn from the public Signalpost universe with the starter
+kit's seed (`uv run signalpost universe-sample --universe signalpost-company-universe-2025.jsonl.gz --count 100`):
 
 | File | Content |
 |---|---|
-| `output/profiles/<orgno>.json` | one full profile per company |
-| `output/profiles.jsonl` | the same profiles, one JSON object per line |
-| `output/summary.csv` | one overview row per company |
+| `smoke/smoke-companies.jsonl` | the input batch |
+| `smoke/envelopes.jsonl` | one terminal envelope per input |
+| `smoke/run-report.json` | requests, runtime, p50/p95, cost, per-section coverage, validation |
+| `smoke/rerun-report.json` | the same batch re-run against the first run: idempotency and refresh check |
+| `smoke/dashboard.html` | the profiles in the browsable dashboard |
 
-Running it again refreshes every profile from the live sources and records what changed in
-`changes_since_previous_run`.
+See `smoke/SMOKE_TEST.md` for the measured numbers.
 
-Other commands:
+## Cost and load per run
 
-```bash
-py -m signalpost profile 923609016                 # one company, printed as JSON
-py -m signalpost sample --n 1000 --output companies.txt   # draw random active org numbers
-py -m signalpost validate --out output             # structural + wrong-company sanity checks
-py -m signalpost report --out output               # self-contained HTML dashboard (report.html)
-py -m pytest                                       # unit tests
-```
-
-Options for `run`: `--max-requests` (default 1800), `--time-limit-min` (default 40), `--workers` (default 8),
-`--cache-ttl` (seconds, default 3600), `--no-website`, `--no-cache`.
+Measured with no cache and 12 workers (`smoke/SMOKE_TEST.md`): the 100-company smoke batch took 829 outbound
+requests (8.3 per company) and 71 s, with per-company p50 2.8 s and p95 22.5 s. A 1,000-company batch took 8,553
+requests and 9 min 10 s. Third-party cost is $0 without keys. With
+`BRAVE_SEARCH_API_KEY`, at most one search query per company that has no verified website. With
+`ANTHROPIC_API_KEY`, one Haiku call per company with a verified website (a few thousand tokens, well under
+$0.001 per company at $0.10 / $0.50 per million tokens).
 
 ## What a profile contains
 
-About 40 facts per company on average (more for large companies):
+| Section | Source | Examples |
+|---|---|---|
+| Legal identity | Enhetsregisteret | legal name, form, status, addresses, industry, employees, founded, former names, coordinates (Kartverket) |
+| Annual accounts | Regnskapsregisteret | latest revenue, costs, profit, assets, equity, debt (company and group) plus two earlier years, with reporting period and currency |
+| Leadership | Enhetsregisteret roles | CEO, chair, board, auditor, accountant |
+| Registered workplaces | Enhetsregisteret sub-units | establishments with address and employees |
+| Official website | register, register e-mail domain, name-derived domains, optional search | verified only when the pages tie to the exact entity |
+| Company-owned profiles | links on the verified site, JSON-LD `sameAs` | LinkedIn, Facebook, Instagram, X, YouTube, TikTok |
+| Hiring | verified site | careers page, JSON-LD `JobPosting`, links to recruiting platforms (Webcruiter, Jobbnorge, Teamtailor, ...) |
+| Public activity | verified site | dated items from the company's RSS/Atom feed and JSON-LD articles |
 
-- **Identity and status:** name, legal form, former names, founding/registration dates, bankrupt / in liquidation /
-  forced dissolution flags and dates, deleted date, institutional sector, language form, parent organisation.
-- **Location:** business and postal address, municipality, verified coordinates.
-- **Business:** industry codes, activity description, statutory purpose, employees (with the date it was registered).
-- **Contact:** phone, mobile, e-mail, website (from the register, or discovered and verified), social links.
-- **Financials:** latest annual accounts (revenue, costs, profit, assets, equity, debt) plus two earlier years of the
-  main figures, with the accounting standard and audit status.
-- **People:** CEO, chair, board members, auditor and other registered roles.
-- **Establishments:** registered sub-units with address and employees.
-- **Explanations:** `summary`, `identity_check`, `coverage_notes`, `sources_used`, per-fact `explanation`.
+Each envelope also carries a plain-language `summary` (what the company is, key numbers, who leads it), the
+`identity_check` that was applied, `unknowns` (what is missing and why) and `changes` since the previous run.
 
-## Sources
+## Other commands
 
-| Source | Used for |
-|---|---|
-| Enhetsregisteret API (`data.brreg.no`) | identity, status, address, industry, employees, contacts, capital, former names |
-| Enhetsregisteret roles and sub-units | people and roles, establishments |
-| Regnskapsregisteret API | annual accounts. Values are copied verbatim with their currency, never generated |
-| Kartverket address API (`ws.geonorge.no`) | coordinates of the registered business address |
-| The company's own website | contact details, social links, description, schema.org data (optional model summary) |
+```bash
+uv run signalpost profile 923609016                      # one company, internal profile as JSON
+uv run signalpost report --envelopes out/envelopes.jsonl  # self-contained HTML dashboard
+uv run signalpost universe-sample --universe <universe.jsonl.gz> --count 100 --output batch.jsonl
+uv run pytest -q                                          # tests
+```
 
-## How it avoids the wrong company
+## Documentation
 
-- Everything is keyed on the organisation number, validated with the mod-11 check digit before any request.
-- The register record must carry exactly the requested number, otherwise nothing is published (`status: mismatch`).
-- A deleted company (the register still answers for it, with a `slettedato`) is reported as `deleted`, never as active.
-- A sub-unit is only attached if the register names this company as its parent. A sub-unit's own number is
-  recognised and profiled as `sub_unit`.
-- **Website:** used only if the page ties to the company. Strong tie: the organisation number appears on the page.
-  For a site the register itself declares, weaker ties are accepted only in combination: company name + registered
-  postal code, company name + registered phone number, or a domain that matches the company name + the name on the
-  page. A name alone is never enough.
-- **Discovered websites:** when the register lists none, a few name-derived domains are tried. One is accepted
-  **only** if its home page shows this organisation number.
-- Coordinates are kept only when street, postal code and municipality number equal the register values.
-- Website e-mail addresses are kept only if their domain matches the site. `robots.txt` is respected.
-- Model-extracted values (optional) are dropped unless their quote appears verbatim in a fetched page, and any
-  figure the model states must be inside its own quote.
-
-## How updates work
-
-- Every run refetches from the live sources. The disk cache only lives for one hour (`--cache-ttl`), so a run
-  tomorrow can never be served yesterday's answers.
-- The previous profile is loaded and diffed: `changes_since_previous_run` lists added, changed and removed facts,
-  and `status` changes (for example active -> bankrupt, or active -> deleted). Each fact keeps a `first_seen` time.
-- If one source is down during a run, its earlier facts are kept and flagged `"stale": true` with their original
-  retrieval time, instead of being reported as removed.
-
-## Optional LLM step
-
-If `ANTHROPIC_API_KEY` is set (see `.env.example`), the agent also asks Claude Haiku 5.5 to summarise what the
-company's own website says (business summary, products/services, locations). Without a key the agent runs fully
-and produces everything above. The model is never used for numbers or financial values.
-
-## Limits and expected cost
-
-| Limit | How it is enforced |
-|---|---|
-| 2,000 outbound requests per run | hard stop at 1,800 (`--max-requests`), shared across threads, LLM calls included |
-| 45 minutes | stops starting new work after `--time-limit-min` (default 40) |
-| $10 external API cost | the register and address APIs are free; only the optional LLM step costs money |
-
-Measured on 100 random companies with an empty cache: **about 710 requests and under one minute.** The LLM step adds
-one request per company with a website. Claude Haiku 5.5 costs $0.10 / $0.50 per million tokens, so it is well under
-$0.10 per 100 companies.
+- `DATA_SCHEMA.md` - envelope, claims, evidence, changes, run report
+- `SOURCES_AND_POLICY.md` - sources and their terms, identity rules, robots, URL safety, secrets
+- `LIMITATIONS.md` - known gaps
 
 ## Layout
 
 ```
-signalpost/orgno.py     organisation number validation
-signalpost/budget.py    HTTP client: request/time budget, retries, one-hour cache
-signalpost/brreg.py     register, roles, accounts, sub-unit facts
-signalpost/geo.py       verified address coordinates
-signalpost/website.py   website tie-in, discovery, structured data, optional LLM extraction
-signalpost/summary.py   summary, identity check, coverage notes
-signalpost/profile.py   profile assembly, history and diff
-signalpost/report.py    HTML dashboard
+signalpost/batch.py     evaluator command, run report
+signalpost/envelope.py  envelope, claims, evidence, availability states, changes
+signalpost/profile.py   profile assembly and history
+signalpost/brreg.py     Enhetsregisteret, Regnskapsregisteret, roles, sub-units
+signalpost/geo.py       verified address coordinates (Kartverket)
+signalpost/website.py   site resolution and identity tie, profiles, hiring, activity, optional search and LLM
+signalpost/budget.py    HTTP: budgets, retries, cache, snapshots, public-URL policy
+signalpost/summary.py   summary, identity check, unknowns
+signalpost/report.py    dashboard
 signalpost/cli.py       command line
 ```

@@ -124,14 +124,14 @@ class Fetcher:
             snaps.setdefault(url, snap)
 
     # ------------------------------------------------------------- fetching
-    def _fetch(self, url, params, accept, timeout, safe):
+    def _fetch(self, url, params, accept, timeout, safe, headers=None):
         """One GET (following redirects by hand) with caps on body size and total time."""
         started = time.monotonic()
         current = url
         for _ in range(MAX_REDIRECTS + 1):
             if safe:
                 check_public_url(current)
-            with self.client.stream("GET", current, params=params, headers={"Accept": accept},
+            with self.client.stream("GET", current, params=params, headers={"Accept": accept, **(headers or {})},
                                     **({"timeout": timeout} if timeout else {})) as r:
                 if r.status_code in (301, 302, 303, 307, 308) and r.headers.get("location"):
                     current = urljoin(str(r.url), r.headers["location"])
@@ -147,7 +147,8 @@ class Fetcher:
                 return r.status_code, raw.decode(r.encoding or "utf-8", errors="replace"), str(r.url), raw
         raise httpx.TooManyRedirects(f"more than {MAX_REDIRECTS} redirects: {url}")
 
-    def get(self, url, params=None, accept="application/json", use_cache=True, retries=3, timeout=None, safe=False):
+    def get(self, url, params=None, accept="application/json", use_cache=True, retries=3, timeout=None, safe=False,
+            headers=None, record=True):
         """Return (status_code, text). 404 is returned, not raised. Every real request is counted.
         `safe=True` applies the public-URL policy to the URL and every redirect hop."""
         path = self._cache_path(url, params) if self.cache_dir and use_cache else None
@@ -164,7 +165,7 @@ class Fetcher:
         for attempt in range(retries):
             self.count_external()
             try:
-                status_code, body, final_url, raw = self._fetch(url, params, accept, timeout, safe)
+                status_code, body, final_url, raw = self._fetch(url, params, accept, timeout, safe, headers)
             except UnsafeURL:
                 raise
             except httpx.HTTPError as e:
@@ -179,7 +180,8 @@ class Fetcher:
                 continue
             snap = {"final_url": final_url, "status": status_code, "retrieved_at": _now(),
                     "content_sha256": hashlib.sha256(raw).hexdigest()}
-            self._record(url, params, snap)
+            if record:
+                self._record(url, params, snap)
             if path and status_code in (200, 404, 410):
                 try:
                     path.write_text(json.dumps({"status": status_code, "text": body, "final_url": final_url,

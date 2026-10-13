@@ -1,56 +1,68 @@
 # What I need from you
 
-Things I cannot do from my side (accounts, keys, emails, decisions). Ordered by importance.
-**Hard deadline: 17 Oct 2026, 11:59 PM IST.** Code revisions are allowed until 18 Oct.
+Updated after Builderr's reply (Soham) and the official starter kit and evaluation contract.
+**Unstop registration deadline: 17 Oct 2026, 11:59 PM IST. Last code revision: 18 Oct 2026.**
+Up to five versions (first submission plus four revised commit hashes).
 
-## 1. Before you submit (blocking)
+## 1. Blocking for the submission
 
-- [ ] **Register on Unstop** for "Signalpost: Build An Agent That Finds Company Information" and share the project
-  link: https://github.com/sanjaysaini383/signalpost
-- [ ] **Read the Builderr/Unstop rules page** and tell me if it specifies:
-  - the exact format of the "company profiles" (JSON per company? one JSONL? a specific schema?),
-  - how "one command to run" will be invoked (working directory, Python version, input format for the 100 daily org numbers),
-  - what "declared external API costs" must look like.
-  My output is `output/profiles/<orgno>.json`, `output/profiles.jsonl` and `output/summary.csv`. That is a guess until you confirm.
-- [ ] **Hand-check about 50 profiles** against https://virksomhet.brreg.no/ (replace the org number in the URL, or open
-  the dashboard with `py -m signalpost report` and use each fact's source link). A wrong-company publication or a
-  fabricated financial value disqualifies the entry, so this is worth the time. I can only check structure
-  automatically (`py -m signalpost validate`), not truth against the real world.
-- [ ] **Final submission email** to `submit@builderr.ai` containing:
-  1. repository link: https://github.com/sanjaysaini383/signalpost
-  2. the exact commit hash (`git rev-parse HEAD`, after the last commit and push)
-  3. the run command: `py -m signalpost run --input companies.txt`
-  4. model/API details and expected cost (copy from README.md "Limits and expected cost")
-  5. the 1,000+ profiles (already in `output/` in the repo)
+- [ ] **Push the latest commit** and note its hash (`git rev-parse HEAD`). Builderr runs that exact commit.
+- [ ] **Register on Unstop** and share the project link: https://github.com/sanjaysaini383/signalpost
+- [ ] **Email submit@builderr.ai** with the items Builderr lists (draft below).
+- [ ] **Hand-check the 3 verified websites and a sample of other profiles** in `smoke/dashboard.html` against
+  https://virksomhet.brreg.no/. A wrong-company publication stops a run from becoming official, so a human look
+  at the published external claims is worth the time.
 
-## 2. Needed for the best score
+## 2. Ask Builderr for scoring keys (they offered; do not use personal accounts)
 
-- [ ] **Anthropic API key** (https://console.anthropic.com). Put it in a local `.env` or the `ANTHROPIC_API_KEY`
-  environment variable. Without it the optional website-summary step is skipped and everything else still works.
-  That step is unit-tested with a fake client (quote must appear verbatim on the page, numbers must be inside the quote),
-  but **has never run against the live API**. After you add a key, run
-  `py -m signalpost profile 923609016` and check that `business_summary` / `product_or_service` facts appear and
-  that their quotes really are on the company's site.
-- [ ] **Tell me what JBOX is.** The prize page mentions a separate $500 bonus for "agents built with JBOX" and says
-  nothing else. If you find docs or a link, send them and I will check whether adopting it is cheap.
-- [ ] **Decide on profile size in the repo.** `output/` is about 40 MB (each profile as its own file, plus the same
-  data in `profiles.jsonl`). If that is too heavy for the submission, tell me which one to keep.
+Soham wrote that Builderr can provide an API key for scoring, and that a credential tied to your personal account
+should not be relied on. Ask for:
 
-## 3. Optional, your call
+- [ ] **A Brave Search API key** (`BRAVE_SEARCH_API_KEY`). This is the biggest lever on the 50 recall points:
+  without search, only 3 of 100 smoke-test companies got a verified website, and with it the agent has candidates
+  for many more. The starter kit uses the same provider and the same variable name. Ask which request rate
+  their key allows, so `BRAVE_MIN_INTERVAL` can be set to match.
+- [ ] **An Anthropic API key** (`ANTHROPIC_API_KEY`), optional, for the website summary (synthesis points).
 
-- [ ] **Push approval.** I commit locally and do not push unless you say so. Tell me when to push.
-- [ ] **Doffin / Kunngjoringer data.** The announcements site has no structured open API that I could find. If you
-  know a working endpoint, or want procurement data added, tell me.
-- [ ] **Refresh just before sending.** Run `py -m signalpost run --input companies.txt` again on the day you email,
-  so the profiles are current. It takes about 8 minutes and records any real changes.
+If they can provide only one, ask for the search key.
 
-## 4. Things to watch
+## 3. Decisions for you
 
-- Do not paste your API key into chat, commits or the repo. `.env` is git-ignored.
-- Daily test limits are 45 min / 2,000 requests / $10. A 100-company run takes about 700 requests and about one minute
-  (measured), so there is a lot of headroom.
-- LLM prices in the README were checked on 11 Oct 2026 (Haiku 5.5: $0.10 in / $0.50 out per million tokens).
-  Re-check before you send the cost estimate.
-- I cannot measure the coverage score (35 points) because the checked reference collection is private. The agent
-  collects as many verifiable facts as it can, but whether that clears the 21/35 coverage bar is unknown until
-  Builderr scores it.
+- [ ] **The old `output/` folder** (1,000 profiles in the earlier format, about 40 MB). The official brief says
+  precomputed profiles are neither submitted nor scored, so I recommend deleting it from the repo. I have not
+  deleted it. Say the word and I will.
+- [ ] **JBOX bonus:** Builderr says the criteria are not published yet. Ignore it until they clarify.
+
+## 4. Email draft (fill in the brackets)
+
+> **To:** submit@builderr.ai
+> **Subject:** Signalpost entry – [agent name] – version 1
+>
+> Hello Builderr team,
+>
+> Here is my Signalpost entry.
+>
+> - **Repository:** https://github.com/sanjaysaini383/signalpost
+> - **Exact commit:** [paste `git rev-parse HEAD`]
+> - **Install step:** `uv sync --frozen` (Python 3.12+, dependencies pinned in `uv.lock`)
+> - **Run command:** `uv run signalpost batch --organisations <batch.jsonl> --output out/envelopes.jsonl --report out/run-report.json`
+>   (accepts the JSONL batch; writes exactly one terminal envelope per input; `--previous <envelopes.jsonl>` for refresh)
+> - **Smoke-test result:** `smoke/` in the repository (`SMOKE_TEST.md`, `envelopes.jsonl`, `run-report.json`,
+>   `rerun-report.json`). 100/100 envelopes, 829 requests, 71 s, $0. The re-run found 0 changes (idempotent).
+> - **Models/APIs/licences:** Brønnøysund Enhetsregisteret and Regnskapsregisteret APIs (NLOD), Kartverket
+>   address API (CC BY 4.0), the companies' own websites (robots.txt respected). Optional: Brave Search API
+>   (`BRAVE_SEARCH_API_KEY`, candidate discovery only) and Anthropic Claude Haiku 5.5 (`ANTHROPIC_API_KEY`,
+>   website summary). Details in `SOURCES_AND_POLICY.md`.
+> - **Expected cost per official batch (1,000 companies):** $0 without keys. 8,553 requests and 9 min 10 s (measured). With the optional keys: at most one search query per company without a verified website, and one
+>   Haiku call per verified website.
+> - **Source rights, secrets and URL policy:** `SOURCES_AND_POLICY.md`
+> - **Agent name:** [name]
+> - **Contact for results:** [name, email]
+>
+> Could you provide a Brave Search API key (and optionally an Anthropic key) for scoring, as offered? The agent
+> reads them from `BRAVE_SEARCH_API_KEY` and `ANTHROPIC_API_KEY` and runs fully without them.
+>
+> Best regards,
+> [name]
+
+Check the numbers against `smoke/SMOKE_TEST.md` and the 1,000-company scale test before sending.
