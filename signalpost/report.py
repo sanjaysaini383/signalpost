@@ -1,4 +1,4 @@
-"""Generate a single self-contained HTML report from saved profiles (no server, no dependencies)."""
+"""Generate a single self-contained HTML dashboard from batch envelopes (no server, no dependencies)."""
 import json
 from pathlib import Path
 
@@ -146,16 +146,7 @@ def _from_envelope(env):
 
 
 def build_report(out_dir, dest, limit=None, envelopes=None):
-    profiles = []
-    if envelopes:
-        for line in Path(envelopes).read_text("utf-8").splitlines():
-            if line.strip():
-                profiles.append(_from_envelope(json.loads(line)))
-    else:
-        for f in sorted((Path(out_dir) / "profiles").glob("*.json")):
-            p = json.loads(f.read_text("utf-8"))
-            p.setdefault("warnings", [])
-            profiles.append(p)
+    profiles = [_from_envelope(json.loads(line)) for line in Path(envelopes).read_text("utf-8").splitlines() if line.strip()]
     if limit:
         profiles = profiles[:limit]
     # </ would end the script element; escape it so profile text can never break out of the data block

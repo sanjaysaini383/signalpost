@@ -1,6 +1,5 @@
 """Build a company profile from permitted public sources and diff it against the previous run."""
 import json
-from pathlib import Path
 
 from . import brreg, orgno
 from .budget import BudgetExceeded
@@ -127,20 +126,3 @@ def apply_history(profile, previous):
     profile["previous_run"] = previous.get("generated_at") if previous else None
     profile["changes_since_previous_run"] = diff_profiles(previous, profile) if previous else []
     return profile
-
-
-def load_previous(out_dir, org):
-    p = Path(out_dir) / "profiles" / f"{org}.json"
-    if p.exists():
-        try:
-            return json.loads(p.read_text("utf-8"))
-        except ValueError:
-            return None
-    return None
-
-
-def save_profile(out_dir, profile):
-    d = Path(out_dir) / "profiles"
-    d.mkdir(parents=True, exist_ok=True)
-    (d / f"{profile['organization_number']}.json").write_text(
-        json.dumps(profile, ensure_ascii=False, indent=2), "utf-8")
