@@ -73,10 +73,12 @@ own entry, published as a register fact either way.
 {"id": "ev-...", "source_url": "...", "final_url": "...", "source_class": "company_site",
  "retrieved_at": "...", "content_sha256": "<sha256 of the response body>", "http_status": 200,
  "claim_span": "literal text from the source", "selector": "/antallAnsatte",
- "extraction_method": "registry_json | html | json_ld | meta | feed | outbound_link | identity_tie | llm:<model>"}
+ "extraction_method": "registry_json | html | json_ld | meta | feed | outbound_link | identity_tie | wikidata_sparql | llm:<model>"}
 ```
 
-For register JSON the `selector` is a JSON pointer into the API document. For web pages `claim_span` is text
+`source_class` is one of `official_registry`, `official_annual_accounts`, `official_roles`, `official_subunits`,
+`official_address_register`, `company_site`, `company_social` (a link on the verified site) or
+`public_knowledge_base` (Wikidata). For register JSON the `selector` is a JSON pointer into the API document. For web pages `claim_span` is text
 that occurs in the fetched page.
 
 ## Change

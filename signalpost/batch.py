@@ -12,6 +12,7 @@ from .budget import BudgetExceeded, Fetcher
 from .envelope import SECTIONS, build_envelope
 from .profile import apply_history, build_profile
 from .website import website_facts
+from .wikidata import prefetch as wikidata_prefetch
 
 # Claude Haiku 5.5 list price per token (USD), prompts up to 100K tokens. Only used when ANTHROPIC_API_KEY is set.
 HAIKU_IN = 0.10 / 1_000_000
@@ -115,6 +116,9 @@ def run_batch(a):
                       cache_dir=None if a.no_cache else output.parent / ".cache")
     site_fn = None if a.no_website else website_facts
     results, timings = {}, {}
+    source_errors = []
+    valid = [o for o in orgs if orgno.is_valid(o)]
+    wd = {} if a.no_wikidata else wikidata_prefetch(fetcher, valid, source_errors)
 
     def minimal(org, status, message):
         return {"organization_number": org, "status": status, "facts": [], "warnings": [message], "checks": {}}
@@ -127,7 +131,7 @@ def run_batch(a):
         try:
             if time.monotonic() > deadline:
                 raise BudgetExceeded("time budget exhausted before this company started")
-            profile = build_profile(fetcher, org, include_website=site_fn)
+            profile = build_profile(fetcher, org, include_website=site_fn, wikidata=wd.get(org))
             profile = apply_history(profile, (prev_env or {}).get("profile"))
             if profile["status"] in ("invalid_org_number", "not_found", "mismatch"):
                 state = "not_found"
@@ -159,6 +163,7 @@ def run_batch(a):
     _write_jsonl(output.parent / "snapshots" / f"{run_id}.envelopes.jsonl", envelopes)  # prior snapshots are kept
     report = build_report(envelopes, orgs, duplicates, a, run_id, started_at, completed_at,
                           time.monotonic() - t_start, fetcher, previous_path, timings)
+    report["batch_sources"] = {"wikidata_items": len(wd), "errors": source_errors}
     Path(a.report).parent.mkdir(parents=True, exist_ok=True)
     Path(a.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", "utf-8")
     print(json.dumps({k: report[k] for k in ("run_id", "expected_count", "emitted_envelopes", "validation")},
@@ -238,6 +243,7 @@ def add_parser(sub):
     b.add_argument("--cache-ttl", type=int, default=3600)
     b.add_argument("--no-cache", action="store_true")
     b.add_argument("--no-website", action="store_true")
+    b.add_argument("--no-wikidata", action="store_true")
     b.add_argument("--bulk", default=None, help="accepted for compatibility; identity comes from the live register API")
     b.add_argument("--quiet", action="store_true")
     b.set_defaults(fn=run_batch)

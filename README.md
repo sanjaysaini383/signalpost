@@ -60,8 +60,8 @@ See `smoke/SMOKE_TEST.md` for the measured numbers.
 
 ## Cost and load per run
 
-Measured with no cache and 12 workers (`smoke/SMOKE_TEST.md`): the 100-company smoke batch took 829 outbound
-requests (8.3 per company) and 71 s, with per-company p50 2.8 s and p95 22.5 s. A 1,000-company batch took 8,553
+Measured with no cache and 12 workers (`smoke/SMOKE_TEST.md`): the 100-company smoke batch took 833 outbound
+requests (8.3 per company) and 91 s, with per-company p50 3.7 s and p95 24.9 s. A 1,000-company batch took 8,553
 requests and 9 min 10 s. Third-party cost is $0 without keys. With
 `BRAVE_SEARCH_API_KEY`, at most one search query per company that has no verified website. With
 `ANTHROPIC_API_KEY`, one Haiku call per company with a verified website (a few thousand tokens, well under
@@ -75,8 +75,8 @@ $0.001 per company at $0.10 / $0.50 per million tokens).
 | Annual accounts | Regnskapsregisteret | latest revenue, costs, profit, assets, equity, debt (company and group) plus two earlier years, with reporting period and currency |
 | Leadership | Enhetsregisteret roles | CEO, chair, board, auditor, accountant |
 | Registered workplaces | Enhetsregisteret sub-units | establishments with address and employees |
-| Official website | register, register e-mail domain, name-derived domains, optional search | verified only when the pages tie to the exact entity |
-| Company-owned profiles | links on the verified site, JSON-LD `sameAs` | LinkedIn, Facebook, Instagram, X, YouTube, TikTok |
+| Official website | register, register e-mail domain, Wikidata, name-derived domains, optional search | verified only when the pages tie to the exact entity |
+| Company-owned profiles | links on the verified site, JSON-LD `sameAs`, Wikidata items carrying the organisation number | LinkedIn, Facebook, Instagram, X, YouTube, TikTok, Wikidata |
 | Hiring | verified site | careers page, JSON-LD `JobPosting`, links to recruiting platforms (Webcruiter, Jobbnorge, Teamtailor, ...) |
 | Public activity | verified site | dated items from the company's RSS/Atom feed and JSON-LD articles |
 

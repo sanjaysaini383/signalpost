@@ -40,6 +40,12 @@ def build_summary(profile):
         parts.append("The register marks it as " + " and ".join(flags) + ".")
     if val("industry_code"):
         parts.append(f"Main industry: {val('industry_code')}.")
+    what = val("website_description") or val("activity_description")
+    if what:
+        what = " ".join(str(what).split())
+        src = "its website" if val("website_description") else "the register"
+        cut = what[:220].rstrip(" .,;")
+        parts.append(f"What it does ({src}): {cut}{'...' if len(what) > 220 else '.'}")
     if val("employees") is not None:
         parts.append(f"It has {val('employees'):,} registered employees.")
     for kind in ("selskap", "konsern"):
@@ -47,7 +53,7 @@ def build_summary(profile):
         if rev or np_:
             end = (info or {}).get("period_end") or ""
             bits = [f"revenue {_money(rev)}" if rev else None, f"net profit {_money(np_)}" if np_ else None]
-            parts.append(f"Latest {kind} accounts (period ending {end}): " + ", ".join(b for b in bits if b) + ".")
+            parts.append(f"Latest {'group' if kind == 'konsern' else 'company'} accounts (period ending {end}): " + ", ".join(b for b in bits if b) + ".")
             break
     ceo = val("role:DAGL")
     chair = val("role:LEDE")

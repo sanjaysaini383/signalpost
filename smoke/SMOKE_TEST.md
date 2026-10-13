@@ -9,15 +9,15 @@ uv run signalpost batch --organisations smoke/smoke-companies.jsonl --output smo
 uv run signalpost batch --organisations smoke/smoke-companies.jsonl --output smoke/rerun-envelopes.jsonl --previous smoke/envelopes.jsonl --report smoke/rerun-report.json --run-id smoke-002 --expected-count 100 --no-cache
 ```
 
-Run on 13 October 2026, no API keys set (registers and company websites only), empty cache, 12 workers.
+Run on 13 October 2026, no API keys set (registers, Wikidata and company websites), empty cache, 12 workers.
 
 | | First run (`run-report.json`) | Re-run against the first (`rerun-report.json`) |
 |---|---|---|
 | Envelopes | 100 / 100, all `complete` | 100 / 100, all `complete` |
 | Validation | passed | passed |
-| Outbound requests | 829 (8.3 per company) | 829 |
-| Wall-clock runtime | 71.4 s | 65.8 s |
-| Per-company p50 / p95 | 2.8 s / 22.5 s | 2.9 s / 22.9 s |
+| Outbound requests | 833 (8.3 per company) | 833 |
+| Wall-clock runtime | 91.4 s | 67.9 s |
+| Per-company p50 / p95 | 3.7 s / 24.9 s | 2.9 s / 25.0 s |
 | Third-party cost | $0 | $0 |
 | Changes reported | n/a (first run) | **0** (idempotent, no false changes) |
 
@@ -30,11 +30,11 @@ Section coverage (companies with at least one supported claim, first run):
 | Leadership | 100 |
 | Registered workplaces | 73 (27 have no registered sub-unit) |
 | Official website (verified) | 3 |
-| Company-owned profiles | 0 |
+| Company-owned profiles | 1 (Wikidata) |
 | Hiring | 0 |
 | Public activity | 0 |
 
-Average 48.8 supported claims per company. Of the 100 companies, 7 register a website and 18 register an e-mail
+Average 48.9 supported claims per company. Of the 100 companies, 7 register a website and 18 register an e-mail
 address on their own domain. Most of those candidates were rejected as not tying to the exact entity: empty
 JavaScript shells, Cloudflare challenges, parked or expired domains, a franchise chain, a parent utility and a
 housing co-operative's umbrella site. They are reported as `ambiguous` or `failed`, not published. External

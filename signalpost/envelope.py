@@ -149,7 +149,7 @@ def build_envelope(profile, *, run_id, started_at, completed_at, snapshots, requ
         eid = "ev-" + _h(org, f.get("source_url", ""), str(span), n=12)
         item = {"id": eid, "source_url": f.get("source_url"), "final_url": snap.get("final_url", f.get("source_url")),
                 "source_class": cls, "retrieved_at": snap.get("retrieved_at", f.get("retrieved_at")),
-                "content_sha256": snap.get("content_sha256"), "http_status": snap.get("status"),
+                "content_sha256": snap.get("content_sha256") or f.get("content_sha256"), "http_status": snap.get("status"),
                 "claim_span": span, "extraction_method": f.get("method") or ("registry_json" if cls.startswith("official") else "html")}
         sel = _selector(f) if cls.startswith("official") and not f.get("span") else None
         if sel:
@@ -239,6 +239,19 @@ def build_envelope(profile, *, run_id, started_at, completed_at, snapshots, requ
                 "official_website": pick("official_website")}
 
     changes = build_changes(org, claims, evidence, previous, completed_at) if previous else []
+    unknowns = list(profile.get("coverage_notes", []))
+    text = profile.get("summary") or ""
+    if previous:
+        material = [c for c in changes if c["materiality"] == "material"]
+        when = ((previous.get("run") or {}).get("completed_at") or "")[:10]
+        if material:
+            what = ", ".join(sorted({f"{c['field'].replace('_', ' ')} {c['change_type']}" for c in material})[:6])
+            text += f" Since the previous run ({when}): {what}."
+        else:
+            text += f" No material change since the previous run ({when})."
+    missing = [s.replace("_", " ") for s, v in sections.items() if v["availability"] != "available"]
+    if missing and text:
+        text += " Not found or not verifiable: " + ", ".join(missing) + "."
     snaps = sorted(({"url": k, **v} for k, v in snapshots.items() if "?" in k or not any(
         kk.split("?")[0] == k and kk != k for kk in snapshots)), key=lambda s: s["url"])
     return {
@@ -249,7 +262,7 @@ def build_envelope(profile, *, run_id, started_at, completed_at, snapshots, requ
                 "terminal_status": "completed" if state in ("complete", "not_found") else "failed"},
         "legal_identity": identity,
         "sections": sections,
-        "summary": {"text": profile.get("summary"), "unknowns": profile.get("coverage_notes", []),
+        "summary": {"text": text or None, "unknowns": unknowns,
                     "identity_check": profile.get("identity_check", [])},
         "claims": claims,
         "evidence": evidence,

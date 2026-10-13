@@ -7,6 +7,7 @@
 | Enhetsregisteret API, `data.brreg.no/enhetsregisteret` | open API, no key | identity, status, addresses, industry, employees, contacts, roles, sub-units | Brønnøysundregistrene open data, Norwegian licence for open government data (NLOD) |
 | Regnskapsregisteret API, `data.brreg.no/regnskapsregisteret` | open API, no key | filed annual accounts | Brønnøysundregistrene open data (NLOD) |
 | Kartverket address API, `ws.geonorge.no/adresser/v1` | open API, no key | coordinates of the registered address | Kartverket open data (CC BY 4.0) |
+| Wikidata SPARQL endpoint, `query.wikidata.org` | open endpoint, no key; one query per 200 companies | items whose "Norwegian organisation number" (P2333) equals the input; their website (candidate) and social handles | Wikidata content is CC0 |
 | The company's own website | public pages, robots.txt respected | official website, contacts, company-owned profiles, careers, jobs, news feed | the company's own published content |
 | Brave Search API (optional) | API key in `BRAVE_SEARCH_API_KEY` | candidate websites only | Brave Search API terms |
 | Anthropic API (optional) | API key in `ANTHROPIC_API_KEY` | summary of the verified website | Anthropic API terms |
@@ -29,9 +30,11 @@ company publishes on its own verified site. Their pages are not fetched.
    - search results: the organisation number on the page, or a domain equal to the company name plus the
      registered postal code or phone on the page.
    Parent, franchise, portfolio and service-provider sites therefore end as `ambiguous`, never as published.
-6. Everything else from the website (profiles, jobs, news, contacts) is published only from a verified site.
-7. Coordinates are kept only when street, postal code and municipality number equal the register values.
-8. Financial values are copied verbatim from Regnskapsregisteret with their currency and period. The optional
+6. A Wikidata item is used only when its P2333 statement equals the organisation number, and only when exactly one
+   item claims that number. Its website is a candidate under the same tie rules as a registered website.
+7. Everything else from the website (profiles, jobs, news, contacts) is published only from a verified site.
+8. Coordinates are kept only when street, postal code and municipality number equal the register values.
+9. Financial values are copied verbatim from Regnskapsregisteret with their currency and period. The optional
    model is never used for numbers, and any figure in a model-extracted value must be inside its verbatim quote.
 
 ## Crawling rules

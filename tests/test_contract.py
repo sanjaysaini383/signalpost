@@ -187,3 +187,13 @@ def test_unrelated_group_domain_is_not_verified_at_all():
     checks = {}
     assert website_facts(_GroupSite(), "923609016", unit, "t", [], checks=checks) == []
     assert checks["official_website"]["availability"] == "ambiguous"
+
+
+def test_wikidata_profiles_are_exact_and_ambiguity_publishes_nothing():
+    from signalpost.wikidata import wikidata_facts
+    rec = {"item": "https://www.wikidata.org/wiki/Q511031", "sites": ["https://hydro.com"],
+           "handles": {"linkedin": "https://www.linkedin.com/company/norsk-hydro"}, "sha256": "b" * 64}
+    facts = wikidata_facts("914778271", rec, "t")
+    assert {f["field"] for f in facts} == {"social:wikidata", "social:linkedin"}
+    assert all(f["content_sha256"] == "b" * 64 and "P2333" in f["explanation"] for f in facts)
+    assert wikidata_facts("914778271", {**rec, "ambiguous": True}, "t") == []

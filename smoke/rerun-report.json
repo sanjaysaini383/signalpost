@@ -1,9 +1,9 @@
 {
   "run_id": "smoke-002",
   "agent": "signalpost 0.3.0",
-  "code_commit": "aa982c619ffe85b693a8532819f28472a7adbe34",
-  "started_at": "2026-10-13T17:31:24Z",
-  "completed_at": "2026-10-13T17:32:29Z",
+  "code_commit": "8458c43cee05594691b356617a3ef465b32363b8",
+  "started_at": "2026-10-13T18:01:51Z",
+  "completed_at": "2026-10-13T18:02:59Z",
   "input": "smoke/smoke-companies.jsonl",
   "expected_count": 100,
   "inputs_read": 100,
@@ -14,11 +14,11 @@
     "complete": 100
   },
   "operations": {
-    "requests": 829,
-    "runtime_s": 65.8,
-    "requests_per_company": 8.29,
-    "p50_company_ms": 2938,
-    "p95_company_ms": 22921,
+    "requests": 833,
+    "runtime_s": 67.9,
+    "requests_per_company": 8.33,
+    "p50_company_ms": 2879,
+    "p95_company_ms": 25013,
     "llm_model": null,
     "llm_tokens": {
       "input": 0,
@@ -64,15 +64,17 @@
         "ambiguous": 13,
         "not_available": 82,
         "available": 3,
-        "blocked": 2
+        "failed": 1,
+        "blocked": 1
       }
     },
     "company_profiles": {
-      "companies_available": 0,
-      "company_coverage": 0.0,
+      "companies_available": 1,
+      "company_coverage": 0.01,
       "states": {
-        "not_available": 97,
-        "ambiguous": 3
+        "not_available": 96,
+        "ambiguous": 3,
+        "available": 1
       }
     },
     "hiring": {
@@ -93,8 +95,8 @@
     }
   },
   "claims": {
-    "available": 4884,
-    "per_company": 48.8,
+    "available": 4885,
+    "per_company": 48.9,
     "by_field": {
       "legal_name": 100,
       "legal_form": 100,
@@ -146,6 +148,7 @@
       "registered_website": 7,
       "official_website": 3,
       "voluntary_vat_activities": 9,
+      "company_profile": 1,
       "registered_in_foundation_register": 2
     }
   },
@@ -165,5 +168,9 @@
       "no_claim_without_evidence": true,
       "no_silent_zero": true
     }
+  },
+  "batch_sources": {
+    "wikidata_items": 1,
+    "errors": []
   }
 }

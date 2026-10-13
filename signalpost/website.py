@@ -485,6 +485,11 @@ def _resolve_site(fetcher, org, unit, until, warnings):
     dom = email_domain(unit)
     if dom and not (registered and urlparse(registered).netloc.lower().removeprefix("www.") == dom):
         candidates.append((f"https://{dom}/", "register_email_domain"))
+    for wd_site in unit.get("_wikidata_sites") or []:
+        u = normalize_url(wd_site)
+        if u and not any(urlparse(u).netloc.lower().removeprefix("www.") == urlparse(c).netloc.lower().removeprefix("www.")
+                         for c, _ in candidates):
+            candidates.append((u, "wikidata_website"))
     failure = None
     for site, origin in candidates:
         if until and time.monotonic() > until:
@@ -515,7 +520,7 @@ def _resolve_site(fetcher, org, unit, until, warnings):
         texts = [parse_page(h).title + " " + parse_page(h).text for _, h in pages]
         # A parent or group site may list a subsidiary's name and address, so for an e-mail domain only the
         # organisation number or a domain that is the company's own name counts.
-        strict = origin != "register_website"
+        strict = origin not in ("register_website", "wikidata_website")
         tie = tie_evidence(org, unit.get("navn", ""), texts,
                            postcode=None if strict else addr.get("postnummer"),
                            phones=() if strict else [unit.get("telefon"), unit.get("mobil")],
@@ -619,6 +624,7 @@ def search_candidates(fetcher, unit, limit=3):
 _ORIGIN_TEXT = {
     "register_website": "the website declared in Enhetsregisteret",
     "register_email_domain": "the domain of the e-mail address registered in Enhetsregisteret",
+    "wikidata_website": "the official website on the Wikidata item that carries this organisation number",
     "name_domain_discovery": "a website found by name-based domain lookup (not in the register)",
     "search_discovery": "a website found through Brave Search (not in the register; search was used only to find the candidate)",
 }

@@ -5,12 +5,13 @@ from . import brreg, orgno
 from .budget import BudgetExceeded
 from .geo import geo_facts
 from .summary import build_summary, coverage_notes, identity_check
+from .wikidata import wikidata_facts
 
 SCHEMA_VERSION = 2
 _STATUS = {"found": "active", "deleted": "deleted", "sub_unit": "sub_unit"}
 
 
-def build_profile(fetcher, org, include_website=None):
+def build_profile(fetcher, org, include_website=None, wikidata=None):
     org = orgno.normalize(org)
     retrieved_at = brreg.now_iso()
     profile = {"schema_version": SCHEMA_VERSION, "organization_number": org, "generated_at": retrieved_at,
@@ -48,6 +49,9 @@ def build_profile(fetcher, org, include_website=None):
         facts += optional("sub-units", lambda: brreg.subunit_facts(org, brreg.fetch_subunits(fetcher, org), retrieved_at))
     if state in ("found", "sub_unit"):
         facts += optional("geocoding", lambda: geo_facts(fetcher, org, unit, retrieved_at))
+    if state == "found" and wikidata and not wikidata.get("ambiguous"):
+        facts += wikidata_facts(org, wikidata, retrieved_at)
+        unit = dict(unit, _wikidata_sites=wikidata.get("sites", []))
     if state == "found" and include_website:
         facts += optional("website", lambda: include_website(fetcher, org, unit, retrieved_at, profile["warnings"],
                                                                      checks=profile["checks"]))
