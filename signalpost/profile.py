@@ -15,7 +15,7 @@ def build_profile(fetcher, org, include_website=None):
     org = orgno.normalize(org)
     retrieved_at = brreg.now_iso()
     profile = {"schema_version": SCHEMA_VERSION, "organization_number": org, "generated_at": retrieved_at,
-               "status": None, "facts": [], "warnings": []}
+               "status": None, "facts": [], "warnings": [], "checks": {}}
     if not orgno.is_valid(org):
         profile["status"] = "invalid_org_number"
         return profile
@@ -50,7 +50,8 @@ def build_profile(fetcher, org, include_website=None):
     if state in ("found", "sub_unit"):
         facts += optional("geocoding", lambda: geo_facts(fetcher, org, unit, retrieved_at))
     if state == "found" and include_website:
-        facts += optional("website", lambda: include_website(fetcher, org, unit, retrieved_at, profile["warnings"]))
+        facts += optional("website", lambda: include_website(fetcher, org, unit, retrieved_at, profile["warnings"],
+                                                                     checks=profile["checks"]))
     profile["name"] = unit.get("navn")
     profile["facts"] = facts
     profile["sources_used"] = sorted({f["source_url"].split("/")[2] for f in facts if "://" in f["source_url"]})

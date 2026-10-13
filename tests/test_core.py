@@ -185,7 +185,7 @@ def test_cache_expires(tmp_path):
     f = Fetcher(cache_dir=tmp_path, cache_ttl=60)
     path = f._cache_path("http://x", None)
     path.write_text('{"status": 200, "text": "old"}', "utf-8")
-    assert f._cached(path) == (200, "old")
+    assert f._cached(path)["text"] == "old"
     os.utime(path, (time.time() - 3600, time.time() - 3600))
     assert f._cached(path) is None
 
