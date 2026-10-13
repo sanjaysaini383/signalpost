@@ -176,6 +176,8 @@ def cmd_report(a):
 def main(argv=None):
     p = argparse.ArgumentParser(prog="signalpost", description="Profile Norwegian companies from public sources")
     sub = p.add_subparsers(dest="cmd", required=True)
+    from .batch import add_parser as add_batch
+    add_batch(sub)
     r = sub.add_parser("run", help="build/update profiles for every org number in a file")
     r.add_argument("--input", default="companies.txt", help="text file with one organisation number per line")
     r.add_argument("--out", default="output")

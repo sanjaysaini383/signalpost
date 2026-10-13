@@ -70,6 +70,10 @@ class Fetcher:
     def begin_company(self):
         self._local.requests = 0
         self._local.snapshots = {}
+        self._local.llm = [0, 0]
+
+    def company_llm_tokens(self):
+        return tuple(getattr(self._local, "llm", (0, 0)))
 
     def company_requests(self):
         return getattr(self._local, "requests", 0)
@@ -89,6 +93,10 @@ class Fetcher:
         with self._lock:
             self.llm_input_tokens += usage.get("input_tokens", 0)
             self.llm_output_tokens += usage.get("output_tokens", 0)
+        llm = getattr(self._local, "llm", None)
+        if llm is not None:
+            llm[0] += usage.get("input_tokens", 0)
+            llm[1] += usage.get("output_tokens", 0)
 
     # ------------------------------------------------------------- cache
     def _cache_path(self, url, params):
